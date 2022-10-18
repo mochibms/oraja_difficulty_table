@@ -851,6 +851,22 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "0a3c046f60b71eb86731cb75173a0d5b",
+    "org_level": 0,
+    "title": "lightsphere -ほしをみるひと-",
+    "artist": "Hendrex \/ obj: Lennon",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "http:\/\/uploader.bms.ms\/data\/bof2009\/fixesaraven\/hendrex-lightsphere.zip",
+    "url_diff": "https:\/\/bmscharteditorsgroup.wixsite.com\/initialatoz",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "satellite入門にgood",
+    "adddate": "2022\/10\/18"
+  },
+  {
     "md5": "06fcbe2eb9804c8fa25465207b67ba52",
     "org_level": 11,
     "title": "lost fate",
@@ -1014,6 +1030,22 @@
     ],
     "org_md5": "568f9d2abf27a7c913a36ccc1082e14c",
     "comment": "",
+    "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "78328ee0d7a39e3d51ae1a5adc909d4d",
+    "org_level": 0,
+    "title": "Pompadour",
+    "artist": "るり \/ A",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=25&event=109",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl0入門",
     "adddate": "2022\/10\/18"
   },
   {
@@ -1967,6 +1999,22 @@
     "url": "http:\/\/tm2.toymusical.net\/download.html",
     "url_diff": "http:\/\/drowsy.hannnari.com\/toy.html",
     "name_diff": "http:\/\/drowsy.hannnari.com\/toy.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "0083f9de62f737c85c99e962074fb07a",
+    "org_level": 7,
+    "title": "IDOLL [DOLLISH]",
+    "artist": "七草くりむ mov.都森れん obj.Mary_Sue",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=126&event=133",
+    "url_diff": "https:\/\/darksabun.github.io\/Mary_Sue\/",
+    "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "",
@@ -3147,6 +3195,22 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
+    "org_level": 12,
+    "title": "AIWS[chiral]",
+    "artist": "くるぶっこちゃん\/obj:matsu BGA : geniway",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "https:\/\/www.dropbox.com\/s\/o2i0op050jxjkeu\/AIWS.zip?dl=0",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04447",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "from Stella",
+    "adddate": "2022\/10\/18"
+  },
+  {
     "md5": "8b46a4d7e2ac59b9aa56eae5287b318d",
     "org_level": 19,
     "title": "Avantgarde [Black Another]",
@@ -3166,6 +3230,38 @@
     ],
     "org_md5": "81935075099890fc3867b52027d42829",
     "comment": "",
+    "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "71c1d1a5c09eb16dfe722414ed70f658",
+    "org_level": 12,
+    "title": "c.s.q.n. -Modus ponens-",
+    "artist": "Aoi mov:出前 \/ obj:BK + Lapis",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=223&event=127",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/beatkim\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "c.s.q.n.",
+    "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "0f02775a367c932432b0e31bb38acc3b",
+    "org_level": 12,
+    "title": "DEATH SENTENCE [Eliminator]",
+    "artist": "kohaxy obj.Mallow♪ vs zowni",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/52",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05482",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "11~12?",
     "adddate": "2022\/10\/18"
   },
   {
@@ -3385,27 +3481,6 @@
       "ca2e907b4a2df668296e1a3566ab51dd"
     ],
     "org_md5": "d2bfc4d98cb059d6045304b9393e7c75",
-    "comment": "",
-    "adddate": "2022\/10\/18"
-  },
-  {
-    "md5": "4c68bff0ce0484d42db8b54875ff3464",
-    "org_level": 10,
-    "title": "Memorable Summer Voyage [7KEYS HYPER]",
-    "artist": "L216",
-    "folder": "LEVEL13+",
-    "level": "13+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8d83f1ff52af04cf63bd21f35725978a",
-      "313aae4f526bc9cb50597a6b2b1d41dc",
-      "4c68bff0ce0484d42db8b54875ff3464",
-      "a727375dff330b0c3758cfcb21f0d0a2"
-    ],
-    "org_md5": "8d83f1ff52af04cf63bd21f35725978a",
     "comment": "",
     "adddate": "2022\/10\/18"
   },
