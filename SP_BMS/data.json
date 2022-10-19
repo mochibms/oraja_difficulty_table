@@ -169,6 +169,33 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "5ad93a439dc8ae1f009ad5724bfbe07c",
+    "org_level": 10,
+    "title": "BRAIN HACKER[HYPER]",
+    "artist": "SOMON",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0361c7c588903e04defe9920401f6e5a",
+      "887603fefb8744522a877cca0e9507e5",
+      "e4e3ad4a5749dde34b330eb9661fd06b",
+      "9e6ab94dc412c4129b84e554e802e529",
+      "2fa87a131f4df3d43578672195fc8886",
+      "5ad93a439dc8ae1f009ad5724bfbe07c",
+      "4c77d9e7bfaca4faee4a035cd8ffe872",
+      "5a3f37c7a2ca6e8445d74a30420e3297",
+      "186679a86043c140396228a430f69d6e",
+      "77f6793f8896f14262d7377d59b60177"
+    ],
+    "org_md5": "0361c7c588903e04defe9920401f6e5a",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
     "md5": "b507a563afcdb61a257ee4e73c5eeb45",
     "org_level": 10,
     "title": "Ego Eater [Hyper]",
@@ -347,6 +374,47 @@
     "org_md5": "2f40c551e8ef2c06d4276d4f4c48bc43",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "4c0f8a6a51d5dc7cb99e669d1eb2f25b",
+    "org_level": 10,
+    "title": "Realize [7key Another]",
+    "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "99cbb8f15bae66bb36f942d7c6389de6",
+      "0d7468487fd3362b5b1c595517c03bd5",
+      "14246093abe4822505ac70489b96964c",
+      "4c0f8a6a51d5dc7cb99e669d1eb2f25b"
+    ],
+    "org_md5": "99cbb8f15bae66bb36f942d7c6389de6",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "5cb08ee8f6a44e56f274897765ea89a1",
+    "org_level": 10,
+    "title": "reikon girl@Genso-kyo (HYPER7)",
+    "artist": "ZUN(Arr.sun3)",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "70562f8a42b5b76b8c75e826139b4b77",
+      "5cb08ee8f6a44e56f274897765ea89a1",
+      "8f2a6f7e81b926e6f95167005d916403"
+    ],
+    "org_md5": "70562f8a42b5b76b8c75e826139b4b77",
+    "comment": "",
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "848933c50bb6ab6be1df4ad29aedf929",
@@ -825,6 +893,29 @@
     "org_md5": "81935075099890fc3867b52027d42829",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "73161833a21ec8a320c6d742461aac23",
+    "org_level": 11,
+    "title": "BRAIN BREAKER[HYPER]",
+    "artist": "SOMON",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ee81997919cb87d398915b36f7ac23ac",
+      "092512fc826da66f52b9144b9632a4a3",
+      "3725345112c8a252ade33173e9d8441e",
+      "81966ef856a43819361ccf1fc3fe1b2c",
+      "73161833a21ec8a320c6d742461aac23",
+      "12e2b1ff9939af3a208bf65bbe847592"
+    ],
+    "org_md5": "ee81997919cb87d398915b36f7ac23ac",
+    "comment": "",
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
@@ -2106,6 +2197,56 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "ee81997919cb87d398915b36f7ac23ac",
+    "org_level": 12,
+    "title": "BRAIN BREAKER[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ee81997919cb87d398915b36f7ac23ac",
+      "092512fc826da66f52b9144b9632a4a3",
+      "3725345112c8a252ade33173e9d8441e",
+      "81966ef856a43819361ccf1fc3fe1b2c",
+      "73161833a21ec8a320c6d742461aac23",
+      "12e2b1ff9939af3a208bf65bbe847592"
+    ],
+    "org_md5": "ee81997919cb87d398915b36f7ac23ac",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "9e6ab94dc412c4129b84e554e802e529",
+    "org_level": 12,
+    "title": "BRAIN HACKER[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0361c7c588903e04defe9920401f6e5a",
+      "887603fefb8744522a877cca0e9507e5",
+      "e4e3ad4a5749dde34b330eb9661fd06b",
+      "9e6ab94dc412c4129b84e554e802e529",
+      "2fa87a131f4df3d43578672195fc8886",
+      "5ad93a439dc8ae1f009ad5724bfbe07c",
+      "4c77d9e7bfaca4faee4a035cd8ffe872",
+      "5a3f37c7a2ca6e8445d74a30420e3297",
+      "186679a86043c140396228a430f69d6e",
+      "77f6793f8896f14262d7377d59b60177"
+    ],
+    "org_md5": "0361c7c588903e04defe9920401f6e5a",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
     "md5": "eb8d45df93a41bd64cb9b363e5670d19",
     "org_level": 12,
     "title": "Cat's rule [Another]",
@@ -2786,6 +2927,32 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "a659536b52568fcb442764f1e7b9c25e",
+    "org_level": 12,
+    "title": "Regain [ANOTHER]",
+    "artist": "ProjectG obj: Scely",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c7bfe0504b2e103f156a1d6e4c113efb",
+      "80aa05db73ca35739b93df3f46afc440",
+      "e93de79c9400cc41d4645e25f77b3c1e",
+      "0cbc7b980f664e7e0eb2214c965c2180",
+      "b6f2b470359018e67385a695c19eda35",
+      "f23634960a53d08596525d57c68ae6cd",
+      "a659536b52568fcb442764f1e7b9c25e",
+      "37bba28060b9b6d7ba56c6c5e6c0fb4e",
+      "419580b963e408ab3eb4bf225ea78af5"
+    ],
+    "org_md5": "c7bfe0504b2e103f156a1d6e4c113efb",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
     "md5": "0cbc7b980f664e7e0eb2214c965c2180",
     "org_level": 1,
     "title": "Regain [EGO DEATH]",
@@ -2799,6 +2966,26 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "bofxvii\/微縦連\/sl1中位程度？",
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "70562f8a42b5b76b8c75e826139b4b77",
+    "org_level": 12,
+    "title": "reikon girl@Genso-kyo (ANOTHER7)",
+    "artist": "ZUN(Arr.sun3)",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "70562f8a42b5b76b8c75e826139b4b77",
+      "5cb08ee8f6a44e56f274897765ea89a1",
+      "8f2a6f7e81b926e6f95167005d916403"
+    ],
+    "org_md5": "70562f8a42b5b76b8c75e826139b4b77",
+    "comment": "",
     "adddate": "2022\/10\/19"
   },
   {
@@ -3439,6 +3626,33 @@
       "d91df9283a09dba6a7bfb1d45ef15f77"
     ],
     "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "4c77d9e7bfaca4faee4a035cd8ffe872",
+    "org_level": 12,
+    "title": "BRAIN HACKER[BLACK ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0361c7c588903e04defe9920401f6e5a",
+      "887603fefb8744522a877cca0e9507e5",
+      "e4e3ad4a5749dde34b330eb9661fd06b",
+      "9e6ab94dc412c4129b84e554e802e529",
+      "2fa87a131f4df3d43578672195fc8886",
+      "5ad93a439dc8ae1f009ad5724bfbe07c",
+      "4c77d9e7bfaca4faee4a035cd8ffe872",
+      "5a3f37c7a2ca6e8445d74a30420e3297",
+      "186679a86043c140396228a430f69d6e",
+      "77f6793f8896f14262d7377d59b60177"
+    ],
+    "org_md5": "0361c7c588903e04defe9920401f6e5a",
     "comment": "",
     "adddate": "2022\/10\/19"
   },
@@ -4134,6 +4348,32 @@
     "org_md5": "1c92f941b47220c228b10caa5f54a7c6",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "c7bfe0504b2e103f156a1d6e4c113efb",
+    "org_level": 24,
+    "title": "Regain [\/\/\/]",
+    "artist": "ProjectG obj tyrcs",
+    "folder": "LEVEL13+",
+    "level": "13+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c7bfe0504b2e103f156a1d6e4c113efb",
+      "80aa05db73ca35739b93df3f46afc440",
+      "e93de79c9400cc41d4645e25f77b3c1e",
+      "0cbc7b980f664e7e0eb2214c965c2180",
+      "b6f2b470359018e67385a695c19eda35",
+      "f23634960a53d08596525d57c68ae6cd",
+      "a659536b52568fcb442764f1e7b9c25e",
+      "37bba28060b9b6d7ba56c6c5e6c0fb4e",
+      "419580b963e408ab3eb4bf225ea78af5"
+    ],
+    "org_md5": "c7bfe0504b2e103f156a1d6e4c113efb",
+    "comment": "",
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "4fa32b9ef9b0eea82a9816bc9323250a",
