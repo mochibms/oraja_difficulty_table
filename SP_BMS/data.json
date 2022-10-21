@@ -267,26 +267,6 @@
     "adddate": "2022\/10\/18"
   },
   {
-    "md5": "bf8c8af01847ceb4e1baa966b8842b5a",
-    "org_level": 10,
-    "title": "FLUORITE Beach [SP ANOTHER]",
-    "artist": "イツワラ obj.InnorK",
-    "folder": "LEVEL10",
-    "level": "10",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "bf8c8af01847ceb4e1baa966b8842b5a",
-      "55ea17a0b141995b6e8c925cf1c5aa70",
-      "42b05c3e0b45f52d0cbdbbc0bc10c900"
-    ],
-    "org_md5": "bf8c8af01847ceb4e1baa966b8842b5a",
-    "comment": "",
-    "adddate": "2022\/10\/18"
-  },
-  {
     "md5": "b47d7cca40d7c380b94df0c37056a505",
     "org_level": 10,
     "title": "GHOST IN THE DEEP ABYSS",
@@ -309,6 +289,33 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "fb5cf993d022f5c7f7bd666f84da0935",
+    "org_level": 10,
+    "title": "Head BONK ache [SP HYPER]",
+    "artist": "saaa ft. MC iwata Bros. \/ BGA : 空読無 白眼",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "669cacb448ffc9868ee94c4ecedfab19",
+      "914fc28e6e06a59baf25d6004e5d4500",
+      "3090c23e6025c3964dcca1d73441ce84",
+      "a8936a93acf449722fb8650c8b7c37e7",
+      "4ce3d407b67d1edf3106d40731beac8a",
+      "5f71cd5c0a236f6536933f6695592403",
+      "fb5cf993d022f5c7f7bd666f84da0935",
+      "9d969d1d1ce3e1f62508a6eb7b132f78",
+      "1582787258f430961e6a3245454def5b",
+      "2c361fb957465dbb5916bb0ca75e33e9"
+    ],
+    "org_md5": "669cacb448ffc9868ee94c4ecedfab19",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "1ba99f2536f59918ac59cc6287f094f1",
     "org_level": 10,
     "title": "KVEYKVA",
@@ -328,6 +335,60 @@
     "org_md5": "75887de6f200220b19f497ba8c4ed9e4",
     "comment": "",
     "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "ffe87bc7492b4d558cc1f581a788028e",
+    "org_level": 10,
+    "title": "Luminaria [HYPER7]",
+    "artist": "Lime",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c660ba7698940e75a9ff45af488cc2e0",
+      "50550689f73618eb3ad234ea849bf76c",
+      "38af943dbb4a71869df93037bd319dbe",
+      "ffe87bc7492b4d558cc1f581a788028e",
+      "f1e3b81187d776311556a0b713596ba5",
+      "6f6a92c104f94eaf39b6134c92f0d2d1",
+      "b7e4335df57045be750a9b7bcc68007f"
+    ],
+    "org_md5": "c660ba7698940e75a9ff45af488cc2e0",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "b503afa163aa896948f04d8a59ea2122",
+    "org_level": 10,
+    "title": "NIRVANA [SP Another]",
+    "artist": "Music : Zekk \/ BGA : vol-t",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+      "851899c0b4a21583744f753da7f776ab",
+      "78e6c6f48b0b0cc144799901318a71b9",
+      "f1c7298e6380a318f4b078703bd56857",
+      "44b1d0a5c73078dc505b830bac36ee0c",
+      "b503afa163aa896948f04d8a59ea2122",
+      "60074e553af8456b20598694f411ef24",
+      "d905c89e4a96919b4182ffa3c1cfbb05",
+      "b5034b349215ac5f0e1610ab9fd7dcd4",
+      "43cfdde1c4e72a39c154e281670c8da4",
+      "a9add3b9cf31437f34d678500f8b0e3f",
+      "9e94f1e86b6903acf9042e1410bc1dac",
+      "963ce1de80b336d32acf560501e0ae37"
+    ],
+    "org_md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "37803b9b124648cee3836c7a9d29dea3",
@@ -607,6 +668,37 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "0610b14f2c930aaf7e91e38fa26e8c1f",
+    "org_level": 10,
+    "title": "ハッピーフェイクショー[SP Hyper]",
+    "artist": "Ponchi♪ feat.はぁち obj:mathath",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b2a686e09393dbcce8992e8813fdf437",
+      "3a9338257e96637378c6f7f4dac076f7",
+      "f5cc8d3a03d6e4b1fb0fe9d2f399da3d",
+      "80b98874a7b6e67c9a471f487ad8a517",
+      "6bb3c7347b3abf1fec9f09206944955e",
+      "196b23d514f7831e2c40f094a23e476e",
+      "8c9f968797e05e308bdd5d9e0dac9c1a",
+      "106f60cc801a4b57d900cbef5f840026",
+      "b05196e19567cd6bbed47a10057b203c",
+      "46150a466a037cc641348a49f05bb961",
+      "0610b14f2c930aaf7e91e38fa26e8c1f",
+      "64c5d825e6b4eb6d288270719aedb793",
+      "34a615e440942a36834f12046930d6b1",
+      "f1040af1f00fa49ea68ed6e9ab3aa2e9"
+    ],
+    "org_md5": "b2a686e09393dbcce8992e8813fdf437",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "482f6c7d92fa835c4056f03a037288ec",
     "org_level": 10,
     "title": "ヒュブリスの頂に聳えるのは [SP HYPER]",
@@ -805,33 +897,6 @@
     "org_md5": "33a2039d4701c06a1296d3ba727edfbb",
     "comment": "",
     "adddate": "2022\/10\/18"
-  },
-  {
-    "md5": "8a9d72554eada1de2172091e35c135fb",
-    "org_level": 11,
-    "title": "Agilion[ANOTHER]",
-    "artist": "LeaF",
-    "folder": "LEVEL11",
-    "level": "11",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8a9d72554eada1de2172091e35c135fb",
-      "1d5ddc3a8e8e0b7ecb801622ba22bc98",
-      "f3a331ea3926e022de729f105e5f6473",
-      "45a39755153cb486ba1566a2a03b3b79",
-      "f38a8f29e140173e2bbdba0d9af932da",
-      "01d9ea966de753dee21609a2b69a68e0",
-      "d7465340412fe8387a649812f6ca4cee",
-      "d6852b3d5d4f6189b6b3a6361cf6616a",
-      "4b56c1cc6ba31ff723c1ceea0b972ef0",
-      "59ecdb16af311552cbd8b13bede5bbed"
-    ],
-    "org_md5": "8a9d72554eada1de2172091e35c135fb",
-    "comment": "",
-    "adddate": "2022\/10\/19"
   },
   {
     "md5": "14926a4295310c359439c5bcd0ba61fd",
@@ -1094,6 +1159,31 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "47b4c3cce8f3e4f2f91e79510b3b6ee3",
+    "org_level": 11,
+    "title": "GYNOID [SP ANOTHER]",
+    "artist": "Kamisys feat.VE mov. yusi.",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5cf7f446efbc2b28265f616c14319a16",
+      "9fd3ec6e036d0572ee950ca3792a44f8",
+      "47b4c3cce8f3e4f2f91e79510b3b6ee3",
+      "a7acabe67ba063511ecc35e71c0ffda7",
+      "6b8ac39c2f79cc15e1d8d19c2bba8017",
+      "050fe95f8a20767545dd4be31cdb5b12",
+      "eba6573e9158dfd35e5206a74187d9d4",
+      "0ee576ef3fc2e8cbd763b7fc4d024599"
+    ],
+    "org_md5": "5cf7f446efbc2b28265f616c14319a16",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "9fb1330fc17564434712de3e32c84cf5",
     "org_level": 11,
     "title": "JKillMe[SP ANOTHER]",
@@ -1228,6 +1318,39 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "f0571f9ffd44be2dd7acf420fc025a53",
+    "org_level": 11,
+    "title": "NightTheater [SP ANOTHER]",
+    "artist": "わかどり BGA : もがみ",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4c8d82ccf93dd4ea622201c89d2fb6d9",
+      "306783d4f0475ec06dd145c9a81b5f67",
+      "6ffcab6105399ee56be9501f89db7d54",
+      "bcbeaf6e04639452f89f05d3bc06cee5",
+      "ed9f8b45adf6a073a8a9fd2915608f19",
+      "72f04eb868fdccaa903a401c5c88173f",
+      "75aeaa13394c3a1ebf0f37f2b2e0976c",
+      "8eb509167a824c548e6b266256ee0abe",
+      "545425bb9eb49c68d33691ae0c0e0c7c",
+      "3b8f8e1772061fca4a93a93aa4d99f16",
+      "8ca79c8952c1761fb0461506eacdcae2",
+      "f0571f9ffd44be2dd7acf420fc025a53",
+      "c9ffe8fa9d5000b3f5a734216487270c",
+      "5242ee7c5c724c0c7ef00ef72c84f35f",
+      "e53bfd8a0e8db57b9fe509337cdb687f",
+      "0cecd610a3ec8dd993edfc9907de5120"
+    ],
+    "org_md5": "4c8d82ccf93dd4ea622201c89d2fb6d9",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "3700d706c6544cf26bafa04d8b555a95",
     "org_level": 11,
     "title": "OBLIVIOUS AQUA",
@@ -1265,11 +1388,14 @@
     "org_md5s": [
       "ddbe3dd262aa67e7ab425f90080c5a2a",
       "f4093f1585923a105fab7e26d6b60bed",
-      "8d250ced1e5f370730d57bb4bb24c905"
+      "8d250ced1e5f370730d57bb4bb24c905",
+      "83e7d40849af85d41d86c5aef000f4bc",
+      "ef14479825bcf94c56f979e8e150fd25",
+      "d96d6deff019e83f581d84e7783efbe5"
     ],
     "org_md5": "ddbe3dd262aa67e7ab425f90080c5a2a",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "9387c56fd76839ef630900c61780a433",
@@ -1972,6 +2098,22 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "0f35d6c3308c459726286c23b48d4660",
+    "org_level": 3,
+    "title": "Absolute Future [ANOTHER]",
+    "artist": "otoshi.b Movie:Arishima_Caprico",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=18&event=123",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "adec1bcc37806f155cdae08d873c9f77",
     "org_level": 21,
     "title": "Absurd Gaff [Another]",
@@ -2035,6 +2177,33 @@
     "org_md5": "deab2d7c66503690608c04e5c5211f6d",
     "comment": "",
     "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "8a9d72554eada1de2172091e35c135fb",
+    "org_level": 11,
+    "title": "Agilion[ANOTHER]",
+    "artist": "LeaF",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8a9d72554eada1de2172091e35c135fb",
+      "1d5ddc3a8e8e0b7ecb801622ba22bc98",
+      "f3a331ea3926e022de729f105e5f6473",
+      "45a39755153cb486ba1566a2a03b3b79",
+      "f38a8f29e140173e2bbdba0d9af932da",
+      "01d9ea966de753dee21609a2b69a68e0",
+      "d7465340412fe8387a649812f6ca4cee",
+      "d6852b3d5d4f6189b6b3a6361cf6616a",
+      "4b56c1cc6ba31ff723c1ceea0b972ef0",
+      "59ecdb16af311552cbd8b13bede5bbed"
+    ],
+    "org_md5": "8a9d72554eada1de2172091e35c135fb",
+    "comment": "",
+    "adddate": "2022\/10\/20"
   },
   {
     "md5": "5a53e6174458bf4f59fa40a46a0812dc",
@@ -2220,6 +2389,70 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "d0728a13bccc91b0fc42ba3fe2179081",
+    "org_level": 5,
+    "title": "Chronomia",
+    "artist": "Lime \/ inukoro \/ 制限",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=550&event=110",
+    "url_diff": "https:\/\/www.limiteknj.net\/BMS",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "efae90d527a71d753ea7ad2847ec2006",
+    "org_level": 5,
+    "title": "CO5M1C R4ILR0AD [ON3 M0RE 3XTR4]",
+    "artist": "kanone \/ obj.swa",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=220&event=110",
+    "url_diff": "http:\/\/swamelo.web.fc2.com\/_CR_extra.bms",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "a556f9145914158ab05356b482937799",
+    "org_level": 1,
+    "title": "Cong＊Chu＊Jelly [SP ANOTHER]",
+    "artist": "otoshi.b × みゅい × はしたかさん",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/54",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "dac15a1f208dcd9f9c67cfadec2c7d61",
+    "org_level": 1,
+    "title": "Crush Alcohol [SP ANOTHER]",
+    "artist": "shadow_bling obj:Scely",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=109&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "0~1",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "7a6531411766cf3ae8ff4a9ca12c0eed",
     "org_level": 12,
     "title": "Crush Keyboard [SP ANOTHER]",
@@ -2238,6 +2471,22 @@
     "org_md5": "7a6531411766cf3ae8ff4a9ca12c0eed",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "3a6a22225539656ef3274ab09c5d9bf8",
+    "org_level": 3,
+    "title": "DataErr0r [11001001010]",
+    "artist": "Music : Lunatic Sounds \/ BGA : Photonskyto Obj.Triforce",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=39&event=104",
+    "url_diff": "http:\/\/www.dropbox.com\/s\/zpis7gvoig7gn46\/dataerr0r_triforce.bme?dl=1",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "エラー発生。差分の場合序盤重複MRキー音を除去",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "ecb6c38d3925e3817b13fc5032744634",
@@ -2479,6 +2728,88 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "a7acabe67ba063511ecc35e71c0ffda7",
+    "org_level": 12,
+    "title": "GYNOID [SP LEGGENDARIA]",
+    "artist": "Kamisys feat.VE mov. yusi.",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5cf7f446efbc2b28265f616c14319a16",
+      "9fd3ec6e036d0572ee950ca3792a44f8",
+      "47b4c3cce8f3e4f2f91e79510b3b6ee3",
+      "a7acabe67ba063511ecc35e71c0ffda7",
+      "6b8ac39c2f79cc15e1d8d19c2bba8017",
+      "050fe95f8a20767545dd4be31cdb5b12",
+      "eba6573e9158dfd35e5206a74187d9d4",
+      "0ee576ef3fc2e8cbd763b7fc4d024599"
+    ],
+    "org_md5": "5cf7f446efbc2b28265f616c14319a16",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "d558a4602d484ad00b857c1d62fd79f8",
+    "org_level": 6,
+    "title": "HE is an Energizer(7keys sarather)",
+    "artist": "Mr.ABC",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "66455dbc9484c185c946814ac272e366",
+      "c4b6f2dc4a18fd66c41d440a7957cc0b",
+      "8fc576cc7b24723545164802ba77bcf6",
+      "5365384cca5484d27257bd1d80058fe5",
+      "2f71ccf2731f14b52fd99a0cf11faf75",
+      "1ab2dbd0c2a7fdafed1b7b9f8befec6f",
+      "25027cd11682712ba0f1bb85e2171390",
+      "0a74c8919fc8c1b3c961889f5e3b804b",
+      "d558a4602d484ad00b857c1d62fd79f8",
+      "53cd43d74f6f416c1e3d1d7fb3eeaae5",
+      "8f16052723365da688d186a7966554e0",
+      "abda1065328e66acca08674784c96940",
+      "cd73f19f07a9b8196493257eecd32670"
+    ],
+    "org_md5": "66455dbc9484c185c946814ac272e366",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "4ce3d407b67d1edf3106d40731beac8a",
+    "org_level": 12,
+    "title": "Head BONK ache [SP ANOTHER]",
+    "artist": "saaa ft. MC iwata Bros. \/ BGA : 空読無 白眼",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "669cacb448ffc9868ee94c4ecedfab19",
+      "914fc28e6e06a59baf25d6004e5d4500",
+      "3090c23e6025c3964dcca1d73441ce84",
+      "a8936a93acf449722fb8650c8b7c37e7",
+      "4ce3d407b67d1edf3106d40731beac8a",
+      "5f71cd5c0a236f6536933f6695592403",
+      "fb5cf993d022f5c7f7bd666f84da0935",
+      "9d969d1d1ce3e1f62508a6eb7b132f78",
+      "1582787258f430961e6a3245454def5b",
+      "2c361fb957465dbb5916bb0ca75e33e9"
+    ],
+    "org_md5": "669cacb448ffc9868ee94c4ecedfab19",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "70f45b780cecfe58b725437eda743d47",
     "org_level": 4,
     "title": "Here we go！(TM edit)",
@@ -2493,6 +2824,32 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "82b181df4c1e7f9e9bbf5b014d59a608",
+    "org_level": 12,
+    "title": "HEXPERUS [SP ANOTHER]",
+    "artist": "qfeileadh&のあ mov:Kengo Nakao",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "82b181df4c1e7f9e9bbf5b014d59a608",
+      "98cefc9270c7327256b0b2a2428f7e0b",
+      "1846c9f8536ece051e4471ce365aa5fb",
+      "4c00ef7f383efb3a5f6a85ff2c3afb76",
+      "245760ef1ce97f08f6aef42aa2bb8e8f",
+      "081f3e162b1d88f0f0e59a44593af6e4",
+      "4faca0a94e980138859735080e3d2b4b",
+      "72b1ce4b2051bd2a396dfa11a2d785ee",
+      "46a2c6c0f73f1520feac4228982eb17d"
+    ],
+    "org_md5": "82b181df4c1e7f9e9bbf5b014d59a608",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "0083f9de62f737c85c99e962074fb07a",
@@ -2596,6 +2953,30 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "c660ba7698940e75a9ff45af488cc2e0",
+    "org_level": 12,
+    "title": "Luminaria [ANOTHER7]",
+    "artist": "Lime",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c660ba7698940e75a9ff45af488cc2e0",
+      "50550689f73618eb3ad234ea849bf76c",
+      "38af943dbb4a71869df93037bd319dbe",
+      "ffe87bc7492b4d558cc1f581a788028e",
+      "f1e3b81187d776311556a0b713596ba5",
+      "6f6a92c104f94eaf39b6134c92f0d2d1",
+      "b7e4335df57045be750a9b7bcc68007f"
+    ],
+    "org_md5": "c660ba7698940e75a9ff45af488cc2e0",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "43918743cb514cb23a0019133d5b9b00",
     "org_level": 12,
     "title": "MESMERA [SP NORMAL]",
@@ -2618,6 +2999,28 @@
     "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "8432cf788207d90c4bab13cccf1d6a0e",
+    "org_level": 8,
+    "title": "New Windy Paradise [Refreshing]",
+    "artist": "BELUGA Movie : highluin obj:BAECON",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3bcb6b133711a13d615a369631d34f1e",
+      "93086ca5d235d4b32016cf44520f50b9",
+      "8f133ace3d7a1c670a279030681b2ef2",
+      "0400ddd5d3782029b04354e78ef01983",
+      "8432cf788207d90c4bab13cccf1d6a0e"
+    ],
+    "org_md5": "3bcb6b133711a13d615a369631d34f1e",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "82edafc8f0cb779bf4872a5c2d835cde",
@@ -2651,6 +3054,69 @@
     "org_md5": "3189f24b19e375d38d076850aaa3de9a",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "4c8d82ccf93dd4ea622201c89d2fb6d9",
+    "org_level": 5,
+    "title": "NightTheater [Thriller]",
+    "artist": "わかどり BGA : もがみ \/ Obj.Triforce",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4c8d82ccf93dd4ea622201c89d2fb6d9",
+      "306783d4f0475ec06dd145c9a81b5f67",
+      "6ffcab6105399ee56be9501f89db7d54",
+      "bcbeaf6e04639452f89f05d3bc06cee5",
+      "ed9f8b45adf6a073a8a9fd2915608f19",
+      "72f04eb868fdccaa903a401c5c88173f",
+      "75aeaa13394c3a1ebf0f37f2b2e0976c",
+      "8eb509167a824c548e6b266256ee0abe",
+      "545425bb9eb49c68d33691ae0c0e0c7c",
+      "3b8f8e1772061fca4a93a93aa4d99f16",
+      "8ca79c8952c1761fb0461506eacdcae2",
+      "f0571f9ffd44be2dd7acf420fc025a53",
+      "c9ffe8fa9d5000b3f5a734216487270c",
+      "5242ee7c5c724c0c7ef00ef72c84f35f",
+      "e53bfd8a0e8db57b9fe509337cdb687f",
+      "0cecd610a3ec8dd993edfc9907de5120"
+    ],
+    "org_md5": "4c8d82ccf93dd4ea622201c89d2fb6d9",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+    "org_level": 12,
+    "title": "NIRVANA [SP INSANE]",
+    "artist": "Music : Zekk \/ Movie : vol-t",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+      "851899c0b4a21583744f753da7f776ab",
+      "78e6c6f48b0b0cc144799901318a71b9",
+      "f1c7298e6380a318f4b078703bd56857",
+      "44b1d0a5c73078dc505b830bac36ee0c",
+      "b503afa163aa896948f04d8a59ea2122",
+      "60074e553af8456b20598694f411ef24",
+      "d905c89e4a96919b4182ffa3c1cfbb05",
+      "b5034b349215ac5f0e1610ab9fd7dcd4",
+      "43cfdde1c4e72a39c154e281670c8da4",
+      "a9add3b9cf31437f34d678500f8b0e3f",
+      "9e94f1e86b6903acf9042e1410bc1dac",
+      "963ce1de80b336d32acf560501e0ae37"
+    ],
+    "org_md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "e37669ffa7cf9c6746df47375b0e5b87",
@@ -2809,6 +3275,29 @@
     "org_md5": "2f40c551e8ef2c06d4276d4f4c48bc43",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "d361afb95b321792bf485431c6387c7c",
+    "org_level": 12,
+    "title": "Random [SP ANOTHER]",
+    "artist": "Sobrem × Silentroom Movie: Harkiadel",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6f4663b4a10be5938e29163078d06141",
+      "cc9a2beceab88f135bad825bc50f2d6a",
+      "226e26f0f1223b6d96df0a04bef136e9",
+      "aa94852f8fb947af1b454b18c61ac4e7",
+      "89ba36df96007c7f24173936a64f2093",
+      "d361afb95b321792bf485431c6387c7c"
+    ],
+    "org_md5": "6f4663b4a10be5938e29163078d06141",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "fe103a2c23a341a67154268007984727",
@@ -3352,6 +3841,37 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "b05196e19567cd6bbed47a10057b203c",
+    "org_level": 12,
+    "title": "ハッピーフェイクショー[SP Another]",
+    "artist": "Ponchi♪ feat.はぁち obj:mathath",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b2a686e09393dbcce8992e8813fdf437",
+      "3a9338257e96637378c6f7f4dac076f7",
+      "f5cc8d3a03d6e4b1fb0fe9d2f399da3d",
+      "80b98874a7b6e67c9a471f487ad8a517",
+      "6bb3c7347b3abf1fec9f09206944955e",
+      "196b23d514f7831e2c40f094a23e476e",
+      "8c9f968797e05e308bdd5d9e0dac9c1a",
+      "106f60cc801a4b57d900cbef5f840026",
+      "b05196e19567cd6bbed47a10057b203c",
+      "46150a466a037cc641348a49f05bb961",
+      "0610b14f2c930aaf7e91e38fa26e8c1f",
+      "64c5d825e6b4eb6d288270719aedb793",
+      "34a615e440942a36834f12046930d6b1",
+      "f1040af1f00fa49ea68ed6e9ab3aa2e9"
+    ],
+    "org_md5": "b2a686e09393dbcce8992e8813fdf437",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "cb0f2750594c6376daa704ce2a397e9c",
     "org_level": 12,
     "title": "ヒュブリスの頂に聳えるのは [SP ANOTHER]",
@@ -3427,6 +3947,22 @@
     "org_md5": "967d99c6b7bd2fc8fbce315074fffbc5",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "49cb4664ae8b5ca5ab355ed892875ed1",
+    "org_level": 7,
+    "title": "ロスト：ユートピアと真理と純粋の極彩世界 [SP ANOTHER]",
+    "artist": "Sound piercer & Sobrem",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "https:\/\/k-bms.com\/party_pabat\/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2022\/10\/20"
   },
   {
     "md5": "0b8f5a6ba273540245f9433cf54caf63",
@@ -3534,29 +4070,6 @@
     "adddate": "2022\/10\/19"
   },
   {
-    "md5": "d2d008d377cbe373f5822b1f5f218f57",
-    "org_level": 12,
-    "title": "\"Fishpot\"",
-    "artist": "Lemi.",
-    "folder": "LEVEL12+",
-    "level": "12+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "d2d008d377cbe373f5822b1f5f218f57",
-      "c2fe3e22df60215074acb391c2d523e8",
-      "dbb531fcb7d6e1c0604784b3b51b017f",
-      "d54adbb688c55cef07571c29de98c6ce",
-      "1d10eb46783433825ad5e14334f836e0",
-      "c78b936c6a8e636bef73c0c9caab5f5d"
-    ],
-    "org_md5": "d2d008d377cbe373f5822b1f5f218f57",
-    "comment": "",
-    "adddate": "2022\/10\/19"
-  },
-  {
     "md5": "6cc4d54b02d50301bfffe605f1babeba",
     "org_level": 12,
     "title": "* this game does not exist * [SP  INSANE]",
@@ -3603,31 +4116,20 @@
     "adddate": "2022\/10\/19"
   },
   {
-    "md5": "45a39755153cb486ba1566a2a03b3b79",
-    "org_level": 12,
-    "title": "Agilion[INSANE]",
-    "artist": "LeaF",
+    "md5": "b3d6a32e0b0a817c6b77bdde37fb60eb",
+    "org_level": 10,
+    "title": "Absolute Future [INSANE]",
+    "artist": "otoshi.b Movie:Arishima_Caprico \/ obj.mute",
     "folder": "LEVEL12+",
     "level": "12+",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=18&event=123",
     "url_diff": "",
     "name_diff": null,
-    "org_md5s": [
-      "8a9d72554eada1de2172091e35c135fb",
-      "1d5ddc3a8e8e0b7ecb801622ba22bc98",
-      "f3a331ea3926e022de729f105e5f6473",
-      "45a39755153cb486ba1566a2a03b3b79",
-      "f38a8f29e140173e2bbdba0d9af932da",
-      "01d9ea966de753dee21609a2b69a68e0",
-      "d7465340412fe8387a649812f6ca4cee",
-      "d6852b3d5d4f6189b6b3a6361cf6616a",
-      "4b56c1cc6ba31ff723c1ceea0b972ef0",
-      "59ecdb16af311552cbd8b13bede5bbed"
-    ],
-    "org_md5": "8a9d72554eada1de2172091e35c135fb",
-    "comment": "",
-    "adddate": "2022\/10\/19"
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "とても楽しい",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "4c77d9e7bfaca4faee4a035cd8ffe872",
@@ -3655,6 +4157,54 @@
     "org_md5": "0361c7c588903e04defe9920401f6e5a",
     "comment": "",
     "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "b8d9488923de28377d9fea70e9d0e15c",
+    "org_level": 7,
+    "title": "Calamity Fortune [MASTER]",
+    "artist": "ZUN remixed by LeaF Movie:Optie \/ obj:monaka",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "http:\/\/leafbms.web.fc2.com\/song.html",
+    "url_diff": "https:\/\/ux.getuploader.com\/monaka_sabun_2\/download\/181",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "7～8?",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "658844178430ee6b1ce80431c23c2bf9",
+    "org_level": 9,
+    "title": "Chasing Stars [LIMITLESS]",
+    "artist": "lixound mov:Xquid",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=21&num=39&order=reg&odtype=a",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "多分sl9か10くらい とてもたのしい",
+    "adddate": "2022\/10\/20"
+  },
+  {
+    "md5": "b4b061a9c39188bf738d381a2e6aab34",
+    "org_level": 9,
+    "title": "Cong＊Chu＊Jelly [strawberry flavor]",
+    "artist": "otoshi.b × みゅい × はしたかさん × BAECON",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/54",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "第三回BMS衆議院選",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "03910179a5facdf570d15823fdaac281",
@@ -3704,6 +4254,147 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "a349367da4bf5f5c7c03095acf61e762",
+    "org_level": 18,
+    "title": "GOODTEK [SA]",
+    "artist": "EBIMAYO OBJ : ランダマイザ",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": "221211",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=83&event=104",
+    "url_diff": "http:\/\/absolute.pv.land.to\/bof\/src\/up0984.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bof\/upload.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BOF,G2R up0984.zipup0928.rarの修正版 元譜面→http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsid=220179(ズレ抜け修正による違和感を無くすため意図的に1ノート追加しています)",
+    "adddate": "2022\/10\/20"
+  },
+  {
+    "md5": "9d969d1d1ce3e1f62508a6eb7b132f78",
+    "org_level": 12,
+    "title": "Head BONK ache [MIGRAINE]",
+    "artist": "saaa ft. MC iwata Bros. \/ BGA : 空読無 白眼",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "669cacb448ffc9868ee94c4ecedfab19",
+      "914fc28e6e06a59baf25d6004e5d4500",
+      "3090c23e6025c3964dcca1d73441ce84",
+      "a8936a93acf449722fb8650c8b7c37e7",
+      "4ce3d407b67d1edf3106d40731beac8a",
+      "5f71cd5c0a236f6536933f6695592403",
+      "fb5cf993d022f5c7f7bd666f84da0935",
+      "9d969d1d1ce3e1f62508a6eb7b132f78",
+      "1582787258f430961e6a3245454def5b",
+      "2c361fb957465dbb5916bb0ca75e33e9"
+    ],
+    "org_md5": "669cacb448ffc9868ee94c4ecedfab19",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "081f3e162b1d88f0f0e59a44593af6e4",
+    "org_level": 11,
+    "title": "HEXPERUS [SP INSANE]",
+    "artist": "qfeileadh&のあ mov:Kengo Nakao",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "82b181df4c1e7f9e9bbf5b014d59a608",
+      "98cefc9270c7327256b0b2a2428f7e0b",
+      "1846c9f8536ece051e4471ce365aa5fb",
+      "4c00ef7f383efb3a5f6a85ff2c3afb76",
+      "245760ef1ce97f08f6aef42aa2bb8e8f",
+      "081f3e162b1d88f0f0e59a44593af6e4",
+      "4faca0a94e980138859735080e3d2b4b",
+      "72b1ce4b2051bd2a396dfa11a2d785ee",
+      "46a2c6c0f73f1520feac4228982eb17d"
+    ],
+    "org_md5": "82b181df4c1e7f9e9bbf5b014d59a608",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "f96cf3af3d9356407bff483d27f4aecc",
+    "org_level": 16,
+    "title": "IKAROS [ODYSSEA]",
+    "artist": "ETIA. feat. Jenga Movie: HDLV \/ obj: swa",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": "238363",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=2&event=110",
+    "url_diff": "http:\/\/swamelo.web.fc2.com\/_ikaros_slslsl.bme",
+    "name_diff": "http:\/\/swamelo.web.fc2.com\/_ikaros_slslsl.bme",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "差分右クリック保存",
+    "adddate": "2022\/10\/20"
+  },
+  {
+    "md5": "a4b59ca055a856b9a200ccfd1bf5c7bc",
+    "org_level": 17,
+    "title": "Inherited World [INSANE]",
+    "artist": "sak Movie:猫太郎 \/ obj:BAECON",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": "217459",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=46&event=104",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同梱譜面",
+    "adddate": "2022\/10\/20"
+  },
+  {
+    "md5": "eefef4918e837ceaacba873c5214b807",
+    "org_level": 18,
+    "title": "Kreuz [Jesus†Christus]",
+    "artist": "sky_delta \/ obj.swa",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": "202035",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=89&event=96",
+    "url_diff": "http:\/\/swamelo.web.fc2.com\/_kreuz_spsls.bms",
+    "name_diff": "http:\/\/swamelo.web.fc2.com\/_kreuz_spsls.bms",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "差分右クリック保存",
+    "adddate": "2022\/10\/20"
+  },
+  {
+    "md5": "f1e3b81187d776311556a0b713596ba5",
+    "org_level": 19,
+    "title": "Luminaria [INSANE7]",
+    "artist": "Lime",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c660ba7698940e75a9ff45af488cc2e0",
+      "50550689f73618eb3ad234ea849bf76c",
+      "38af943dbb4a71869df93037bd319dbe",
+      "ffe87bc7492b4d558cc1f581a788028e",
+      "f1e3b81187d776311556a0b713596ba5",
+      "6f6a92c104f94eaf39b6134c92f0d2d1",
+      "b7e4335df57045be750a9b7bcc68007f"
+    ],
+    "org_md5": "c660ba7698940e75a9ff45af488cc2e0",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "bae8c1d74a0e9ee020ebeb4c80d62ef0",
     "org_level": 12,
     "title": "MESMERA [SP HYPER]",
@@ -3726,6 +4417,56 @@
     "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "d5a0ef30bdeb132021ec9cc8ac65fd4e",
+    "org_level": 12,
+    "title": "Mind Disorder [SP AMETHER-A]",
+    "artist": "Alkome \/ obj:AMERIA BGA: zukutya",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d5a0ef30bdeb132021ec9cc8ac65fd4e",
+      "b9c406e78c758dc3e69e8298bbe2eef4",
+      "fdec50f67770705ab69ada377ef52c66",
+      "09046053df041f1536ff5fbfffbb1529",
+      "a47eeaccfc8c3d2ae5de02091f0fb123",
+      "914baf7b81b32199600e71ab09613475",
+      "1e0e287cb85ccfaf70dcbdf02589b52e"
+    ],
+    "org_md5": "d5a0ef30bdeb132021ec9cc8ac65fd4e",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
+    "md5": "c4a4d2ba035fe1f60fc125d47fd2d0e3",
+    "org_level": 12,
+    "title": "Needy Samples Overdose [ANOTHER]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+      "d9302d9780532d17628f69a6394ef1ec",
+      "d4bbdbbcbb7ed8d1f693580dedc4ad7c",
+      "c4a4d2ba035fe1f60fc125d47fd2d0e3",
+      "9ec76ed7fecdaad50ffd7f539584cb0e",
+      "32511bb6febd5019950ddf8526c536aa",
+      "f27f4cc58a880baae7acbc1b96de0717",
+      "560a27c1b53ffdbd51150de413b21310",
+      "afcb96517ba1250bfd094de28ff2e735"
+    ],
+    "org_md5": "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "c6a12d652b985b56dddf9dd9ec90a2da",
@@ -3840,6 +4581,38 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "a0f48e96286e0ce275a33fd8cb851ff0",
+    "org_level": 17,
+    "title": "We are the xxxx",
+    "artist": "ikaruga_nex feat. Salita \/ obj:秘密",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": "146529",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=174&event=83",
+    "url_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
+    "name_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "本体：http:\/\/www1.axfc.net\/u\/3265330\u000aδ難易度表による本体保管：http:\/\/dpbmsdelta.web.fc2.com\/score\/hokan.html\u000a作曲者による再up：https:\/\/www.dropbox.com\/s\/tj2h5u6xam3wio8\/we%20are%20the%20ogg%20file.rar?dl=0\u000a\u000a■ GENOSIDE2018段位認定 発狂七段 2曲目（18\/04\/15～）",
+    "adddate": "2022\/10\/20"
+  },
+  {
+    "md5": "bcf7607db2955c8979b54a0981b5eeb6",
+    "org_level": 16,
+    "title": "Yakumo >>JOINT STRUGGLE-隙間-",
+    "artist": "くっちーvsあっきー \/ obj:SUKIMA",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": "64434",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=55&event=60",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up0956.rar",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "汎用up0956GENOSIDE段位認定 発狂六段 1曲目",
+    "adddate": "2022\/10\/20"
+  },
+  {
     "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
     "org_level": 9,
     "title": "イナリッチ [MONEY]",
@@ -3881,6 +4654,22 @@
     "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "64c5d825e6b4eb6d288270719aedb793",
+    "org_level": 10,
+    "title": "ハッピーフェイクショー[SP INSANE]",
+    "artist": "Ponchi♪ feat.はぁち obj:mathath",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=189&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "from Stella",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "b22f2eb89fa8924dededeb6d6a4d8c7d",
@@ -3968,6 +4757,22 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "40673cc8ea628a9452f6ae9ac74d5817",
+    "org_level": 15,
+    "title": "先天性エゴサ依存症候群 [Hide]",
+    "artist": "ねこみりん feat.みゆ \/ obj:秘密 Illust:わんびぃ",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": "170454",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=335&event=88",
+    "url_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
+    "name_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "■ GENOSIDE2018段位認定 発狂六段 4曲目（18\/04\/15～）\u000a■ 作者HP : http:\/\/www.nekomirin.com\/",
+    "adddate": "2022\/10\/20"
+  },
+  {
     "md5": "0e1b2bf8450cf06a1726470a42e18b22",
     "org_level": 12,
     "title": "千樹万命を抱く翼よ [SP ANOTHER]",
@@ -3985,6 +4790,77 @@
       "0e1b2bf8450cf06a1726470a42e18b22"
     ],
     "org_md5": "7195e449abf1f2e1e037c2afe31be4f9",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "4a5c06c56de19b8450a955ee6b746b9b",
+    "org_level": 21,
+    "title": "!nterroban(?, [ !)ualit'? ]",
+    "artist": "Aoi \/ mov:出前 obj.Mallow♪",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "58c7cc7fabd94b15b0569843063dd3a7",
+      "72c1fe89ed189673c8d1e2f6e54c1d21",
+      "3b5e96b9e2164ef8f23e8103d5b8c8be",
+      "4a5c06c56de19b8450a955ee6b746b9b"
+    ],
+    "org_md5": "58c7cc7fabd94b15b0569843063dd3a7",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "d2d008d377cbe373f5822b1f5f218f57",
+    "org_level": 12,
+    "title": "\"Fishpot\"",
+    "artist": "Lemi.",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d2d008d377cbe373f5822b1f5f218f57",
+      "c2fe3e22df60215074acb391c2d523e8",
+      "dbb531fcb7d6e1c0604784b3b51b017f",
+      "d54adbb688c55cef07571c29de98c6ce",
+      "1d10eb46783433825ad5e14334f836e0",
+      "c78b936c6a8e636bef73c0c9caab5f5d"
+    ],
+    "org_md5": "d2d008d377cbe373f5822b1f5f218f57",
+    "comment": "",
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "45a39755153cb486ba1566a2a03b3b79",
+    "org_level": 12,
+    "title": "Agilion[INSANE]",
+    "artist": "LeaF",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8a9d72554eada1de2172091e35c135fb",
+      "1d5ddc3a8e8e0b7ecb801622ba22bc98",
+      "f3a331ea3926e022de729f105e5f6473",
+      "45a39755153cb486ba1566a2a03b3b79",
+      "f38a8f29e140173e2bbdba0d9af932da",
+      "01d9ea966de753dee21609a2b69a68e0",
+      "d7465340412fe8387a649812f6ca4cee",
+      "d6852b3d5d4f6189b6b3a6361cf6616a",
+      "4b56c1cc6ba31ff723c1ceea0b972ef0",
+      "59ecdb16af311552cbd8b13bede5bbed"
+    ],
+    "org_md5": "8a9d72554eada1de2172091e35c135fb",
     "comment": "",
     "adddate": "2022\/10\/19"
   },
@@ -4049,6 +4925,22 @@
     "org_md5": "81935075099890fc3867b52027d42829",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "e4caeb4936707106b95983ebbd028f81",
+    "org_level": 12,
+    "title": "Bad Elixir -Eclipse-",
+    "artist": "xi \/ selene. 鑓田(alpha complex)",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=316&event=123",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02497",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "ラストが難しい",
+    "adddate": "2022\/10\/20"
   },
   {
     "md5": "71c1d1a5c09eb16dfe722414ed70f658",
@@ -4124,7 +5016,7 @@
     ],
     "org_md5": "a00acc4d1b4e1957783596edc6c88093",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "2afcf8f878df9bae0c83bbb2aacb6657",
@@ -4160,6 +5052,32 @@
     "adddate": "2022\/10\/18"
   },
   {
+    "md5": "419580b963e408ab3eb4bf225ea78af5",
+    "org_level": 18,
+    "title": "Regain [True End Stories]",
+    "artist": "ProjectG obj.ProjectH",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c7bfe0504b2e103f156a1d6e4c113efb",
+      "80aa05db73ca35739b93df3f46afc440",
+      "e93de79c9400cc41d4645e25f77b3c1e",
+      "0cbc7b980f664e7e0eb2214c965c2180",
+      "b6f2b470359018e67385a695c19eda35",
+      "f23634960a53d08596525d57c68ae6cd",
+      "a659536b52568fcb442764f1e7b9c25e",
+      "37bba28060b9b6d7ba56c6c5e6c0fb4e",
+      "419580b963e408ab3eb4bf225ea78af5"
+    ],
+    "org_md5": "c7bfe0504b2e103f156a1d6e4c113efb",
+    "comment": "",
+    "adddate": "2022\/10\/21"
+  },
+  {
     "md5": "26fdb50f6232cdfae99504c892e87f55",
     "org_level": 20,
     "title": "Stars Keep on Illuminating [SP Insane]",
@@ -4182,6 +5100,22 @@
     "org_md5": "3b64d8cbb775f5c29313a38e523a468a",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
+    "org_level": 12,
+    "title": "アジサイ -Xe-",
+    "artist": "litmus* feat. 薛南 obj : LindBlum",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=167&event=137",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05838",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM212 乱打 同時 微連打",
+    "adddate": "2022\/10\/20"
   },
   {
     "md5": "d2e73bab4a9e3f474f0336c3ee0c7d2a",
@@ -4235,25 +5169,20 @@
     "adddate": "2022\/10\/18"
   },
   {
-    "md5": "4a5c06c56de19b8450a955ee6b746b9b",
-    "org_level": 21,
-    "title": "!nterroban(?, [ !)ualit'? ]",
-    "artist": "Aoi \/ mov:出前 obj.Mallow♪",
-    "folder": "LEVEL13+",
-    "level": "13+",
+    "md5": "196b23d514f7831e2c40f094a23e476e",
+    "org_level": 2,
+    "title": "ハッピーフェイクショー [Haven't you heard?]",
+    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
+    "folder": "LEVEL13",
+    "level": "13",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=189&event=137",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofxvii\/",
     "name_diff": null,
-    "org_md5s": [
-      "58c7cc7fabd94b15b0569843063dd3a7",
-      "72c1fe89ed189673c8d1e2f6e54c1d21",
-      "3b5e96b9e2164ef8f23e8103d5b8c8be",
-      "4a5c06c56de19b8450a955ee6b746b9b"
-    ],
-    "org_md5": "58c7cc7fabd94b15b0569843063dd3a7",
-    "comment": "",
-    "adddate": "2022\/10\/19"
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "ディレイ",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "6018179f1db56e77957153db16ff5d60",
@@ -4276,7 +5205,7 @@
     ],
     "org_md5": "851a20f9a55dc0741349a2b5111b76a1",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "15332499605e96be0a80c530d0740efb",
@@ -4298,7 +5227,30 @@
     ],
     "org_md5": "d2bfc4d98cb059d6045304b9393e7c75",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "2d1de5a9ae740b3e00abceb41d737d69",
+    "org_level": 22,
+    "title": "GREMLIN [EX]",
+    "artist": "kanoryo \/ obj:marquee BGA:Nectoroune",
+    "folder": "LEVEL13+",
+    "level": "13+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "99934fafefbeb66619d0d2086031612f",
+      "495b022094080ee81288b9898ae3625c",
+      "e53983407bb4453a4a62d96152368121",
+      "3b769c3155050fc20ecbea43fab70b63",
+      "9115cbbd85ade1c296ae8c85cd5b414d",
+      "2d1de5a9ae740b3e00abceb41d737d69"
+    ],
+    "org_md5": "99934fafefbeb66619d0d2086031612f",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "96a5b7861d91d03cb82495abef5b8c8b",
@@ -4322,7 +5274,33 @@
     ],
     "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "f27f4cc58a880baae7acbc1b96de0717",
+    "org_level": 24,
+    "title": "Needy Samples Overdose [INSANE]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL13+",
+    "level": "13+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+      "d9302d9780532d17628f69a6394ef1ec",
+      "d4bbdbbcbb7ed8d1f693580dedc4ad7c",
+      "c4a4d2ba035fe1f60fc125d47fd2d0e3",
+      "9ec76ed7fecdaad50ffd7f539584cb0e",
+      "32511bb6febd5019950ddf8526c536aa",
+      "f27f4cc58a880baae7acbc1b96de0717",
+      "560a27c1b53ffdbd51150de413b21310",
+      "afcb96517ba1250bfd094de28ff2e735"
+    ],
+    "org_md5": "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+    "comment": "",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "a04edbabe5a670e5b7ef98c693371fd2",
@@ -4347,7 +5325,7 @@
     ],
     "org_md5": "1c92f941b47220c228b10caa5f54a7c6",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "c7bfe0504b2e103f156a1d6e4c113efb",
@@ -4399,7 +5377,23 @@
     ],
     "org_md5": "fc75db28223333c1983704b6c71dc407",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "8c9f968797e05e308bdd5d9e0dac9c1a",
+    "org_level": 5,
+    "title": "ハッピーフェイクショー [I'm the crazy bitch around here]",
+    "artist": "Ponchi♪ feat.はぁち obj.nozomi",
+    "folder": "LEVEL13+",
+    "level": "13+",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=189&event=137",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofxvii\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "delay",
+    "adddate": "2022\/10\/21"
   },
   {
     "md5": "aeb0d6f426e59e54efdcfce3cd22b5f6",
@@ -4436,7 +5430,7 @@
     ],
     "org_md5": "0e5d52816476d94be4232fa3db2c389a",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "24e43e414ae88f0b5ccbea4f7d334a9a",
@@ -4457,7 +5451,7 @@
     ],
     "org_md5": "f0163b80be91aa695dce8d8231df2cb4",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2022\/10\/19"
   },
   {
     "md5": "316a780d736499c228e7ca3466977d49",
