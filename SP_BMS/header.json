@@ -8,8 +8,9 @@
     "12+",
     "13",
     "13+",
+    "14",
     "???",
-    "候補"
+    "保留"
   ],
   "folder_order": [
     "LEVEL10",
@@ -18,15 +19,17 @@
     "LEVEL12+",
     "LEVEL13",
     "LEVEL13+",
-    "LEVEL???"
+    "LEVEL14",
+    "LEVEL???",
+    "保留"
   ],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2022\/10\/25",
+  "last_update": "2022\/10\/27",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2022\/10\/25"
+  "output_date": "2022\/10\/27"
 }
