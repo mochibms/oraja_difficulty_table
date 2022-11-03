@@ -1,7 +1,7 @@
 [
   {
-    "md5": "d02fbe898d7f5aa570d907591e57bad6",
-    "org_level": 5,
+    "md5": "c8f31793315499481ec6559d87ce7fb6",
+    "org_level": 8,
     "title": "Terminus.",
     "artist": "uytrere BGA: HAL",
     "folder": "LEVEL8",
@@ -17,7 +17,7 @@
     ],
     "org_md5": "c8f31793315499481ec6559d87ce7fb6",
     "comment": "",
-    "adddate": "2022\/10\/28"
+    "adddate": "2022\/11\/03"
   },
   {
     "md5": "3b5e96b9e2164ef8f23e8103d5b8c8be",
@@ -1591,9 +1591,9 @@
     "adddate": "2022\/10\/18"
   },
   {
-    "md5": "6567ed8e17aba360a096d8a0857138f8",
-    "org_level": 3,
-    "title": "灰色カナリア 7KEY BEGINNER",
+    "md5": "137316d495683da78e01a6e13213461a",
+    "org_level": 10,
+    "title": "灰色カナリア 7KEY HYPER",
     "artist": "虹色鴉（ume＆a-m）\/BGA：焼き鳥",
     "folder": "LEVEL10",
     "level": "10",
@@ -1613,7 +1613,7 @@
     ],
     "org_md5": "06011a1cf92d5817277bf045902269b9",
     "comment": "",
-    "adddate": "2022\/10\/29"
+    "adddate": "2022\/11\/03"
   },
   {
     "md5": "3910541d5d168f10e6b3ddd5eafcd5d0",
@@ -3526,9 +3526,9 @@
     "adddate": "2022\/10\/18"
   },
   {
-    "md5": "27f2a934adf85b0e154b43d081d51ed1",
-    "org_level": 3,
-    "title": "アドバンス・ユア・ワンウェイ 【Beginner】",
+    "md5": "32db42378da6ede1ced8c196628565cd",
+    "org_level": 11,
+    "title": "アドバンス・ユア・ワンウェイ 【ANOTHER】",
     "artist": "kooridori feat. a-m BGA:Roaring Flame",
     "folder": "LEVEL11",
     "level": "11",
@@ -3545,7 +3545,7 @@
     ],
     "org_md5": "32db42378da6ede1ced8c196628565cd",
     "comment": "",
-    "adddate": "2022\/10\/31"
+    "adddate": "2022\/11\/03"
   },
   {
     "md5": "feb04513f7a0d67776ccb9a441805241",
@@ -3595,9 +3595,9 @@
     "adddate": "2022\/10\/18"
   },
   {
-    "md5": "d409fe84fa184ac6a2f9bb216462ed23",
-    "org_level": 1,
-    "title": "シレノ [SP BEGINNER]",
+    "md5": "4c368c94b5833241200cd08ba2c45577",
+    "org_level": 11,
+    "title": "シレノ [SP ANOTHER]",
     "artist": "qfeileadh mov:むらたむうた",
     "folder": "LEVEL11",
     "level": "11",
@@ -3619,7 +3619,7 @@
     ],
     "org_md5": "546de1c318919282afce8ba15e938f08",
     "comment": "",
-    "adddate": "2022\/10\/31"
+    "adddate": "2022\/11\/03"
   },
   {
     "md5": "8601f8aea06c43814879a74237938fba",
@@ -7004,6 +7004,28 @@
     "adddate": "2022\/10\/25"
   },
   {
+    "md5": "2b1ffcb56ef7ee00d13fd47557127b54",
+    "org_level": 7,
+    "title": "アドバンス・ユア・ワンウェイ 【INSANE】",
+    "artist": "kooridori feat. a-m BGA:Roaring Flame \/ obj.rat",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "32db42378da6ede1ced8c196628565cd",
+      "27f2a934adf85b0e154b43d081d51ed1",
+      "e9626b1f395123dcc0d707ce5707f03a",
+      "2b1ffcb56ef7ee00d13fd47557127b54",
+      "9e54ffc7986b09812b9a783bb2751ff1"
+    ],
+    "org_md5": "32db42378da6ede1ced8c196628565cd",
+    "comment": "",
+    "adddate": "2022\/11\/03"
+  },
+  {
     "md5": "00794c6e62d366d81a1d3034f261883b",
     "org_level": 12,
     "title": "アルスノヴァに喝采を [SP ANOTHER]",
@@ -8369,28 +8391,6 @@
     "adddate": "2022\/10\/24"
   },
   {
-    "md5": "599ee45b7da27fb21c3df9b21f10f8bd",
-    "org_level": 17,
-    "title": "slic.hertz [SP Turntablism]",
-    "artist": "Sobrem (bga. Harkiadel)",
-    "folder": "LEVEL12+",
-    "level": "12+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "3e953b5030fb29632c0a410fce224dd5",
-      "f26ec22ce6c21423bbd98caca0497e39",
-      "e9f57b2a803a21a016a2a54ce0a58e4a",
-      "1548fe70c32b58e709cb195fed577a03",
-      "599ee45b7da27fb21c3df9b21f10f8bd"
-    ],
-    "org_md5": "3e953b5030fb29632c0a410fce224dd5",
-    "comment": "",
-    "adddate": "2022\/10\/18"
-  },
-  {
     "md5": "857e8c40f16cfab843e0b48576d28454",
     "org_level": 14,
     "title": "stardust explorer [INSANE]",
@@ -8558,28 +8558,6 @@
     "adddate": "2022\/10\/24"
   },
   {
-    "md5": "2b1ffcb56ef7ee00d13fd47557127b54",
-    "org_level": 7,
-    "title": "アドバンス・ユア・ワンウェイ 【INSANE】",
-    "artist": "kooridori feat. a-m BGA:Roaring Flame \/ obj.rat",
-    "folder": "LEVEL12+",
-    "level": "12+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "32db42378da6ede1ced8c196628565cd",
-      "27f2a934adf85b0e154b43d081d51ed1",
-      "e9626b1f395123dcc0d707ce5707f03a",
-      "2b1ffcb56ef7ee00d13fd47557127b54",
-      "9e54ffc7986b09812b9a783bb2751ff1"
-    ],
-    "org_md5": "32db42378da6ede1ced8c196628565cd",
-    "comment": "",
-    "adddate": "2022\/10\/31"
-  },
-  {
     "md5": "8b01d413c3f73f51e43536e2c04e1df8",
     "org_level": 18,
     "title": "アフェクション・ラヴ [魅酔]",
@@ -8667,29 +8645,6 @@
     "org_md5": "70c0840620009182a8f1cfe89dfa01ae",
     "comment": "",
     "adddate": "2022\/10\/27"
-  },
-  {
-    "md5": "3f94e631f4665f04794412599d34ed25",
-    "org_level": 12,
-    "title": "インドア系ならトラックメイカー［TRACKMAKER fixed］ 199024club mix",
-    "artist": "Yunomi & nicamoq remixed by 王 宙航",
-    "folder": "LEVEL12+",
-    "level": "12+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "70c0840620009182a8f1cfe89dfa01ae",
-      "c70a5f6f955e4a33f44994eea0cc019e",
-      "36c8e659d9fdb777e65867c30415869f",
-      "e5023dcbf68bda6980c058cac955f9d0",
-      "9029f2722279ea927e8821bbc56d2dac",
-      "3f94e631f4665f04794412599d34ed25"
-    ],
-    "org_md5": "70c0840620009182a8f1cfe89dfa01ae",
-    "comment": "",
-    "adddate": "2022\/10\/28"
   },
   {
     "md5": "5a7d10be7fe321b9f3c793de37b2b6c3",
@@ -8931,20 +8886,49 @@
     "adddate": "2022\/10\/21"
   },
   {
-    "md5": "00000000000000000000000000000000",
-    "org_level": null,
-    "title": "",
-    "artist": "",
+    "md5": "599ee45b7da27fb21c3df9b21f10f8bd",
+    "org_level": 17,
+    "title": "slic.hertz [SP Turntablism]",
+    "artist": "Sobrem (bga. Harkiadel)",
     "folder": "LEVEL13",
     "level": "13",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
+    "org_md5s": [
+      "3e953b5030fb29632c0a410fce224dd5",
+      "f26ec22ce6c21423bbd98caca0497e39",
+      "e9f57b2a803a21a016a2a54ce0a58e4a",
+      "1548fe70c32b58e709cb195fed577a03",
+      "599ee45b7da27fb21c3df9b21f10f8bd"
+    ],
+    "org_md5": "3e953b5030fb29632c0a410fce224dd5",
     "comment": "",
-    "adddate": "2022\/10\/29"
+    "adddate": "2022\/11\/03"
+  },
+  {
+    "md5": "3f94e631f4665f04794412599d34ed25",
+    "org_level": 12,
+    "title": "インドア系ならトラックメイカー［TRACKMAKER fixed］ 199024club mix",
+    "artist": "Yunomi & nicamoq remixed by 王 宙航",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "70c0840620009182a8f1cfe89dfa01ae",
+      "c70a5f6f955e4a33f44994eea0cc019e",
+      "36c8e659d9fdb777e65867c30415869f",
+      "e5023dcbf68bda6980c058cac955f9d0",
+      "9029f2722279ea927e8821bbc56d2dac",
+      "3f94e631f4665f04794412599d34ed25"
+    ],
+    "org_md5": "70c0840620009182a8f1cfe89dfa01ae",
+    "comment": "",
+    "adddate": "2022\/11\/03"
   },
   {
     "md5": "abc26841c864e70351d08e0ade9507ff",
@@ -9440,6 +9424,27 @@
     "adddate": "2022\/10\/29"
   },
   {
+    "md5": "adee09690fd41706427c4d0a7d9016d1",
+    "org_level": 19,
+    "title": "BADSECRET [BADEXPOSURE]",
+    "artist": "BLACKTIGER obj: Haze*",
+    "folder": "LEVEL14",
+    "level": "14",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5e46ce39dcdde4011d197d359605089f",
+      "5499e336802c3b76b205277eb0f7e598",
+      "3d1e89ac4aff4f6bffe0df77086ac843",
+      "adee09690fd41706427c4d0a7d9016d1"
+    ],
+    "org_md5": "5e46ce39dcdde4011d197d359605089f",
+    "comment": "",
+    "adddate": "2022\/11\/03"
+  },
+  {
     "md5": "2a3af61bc6c47284f45a007e88308707",
     "org_level": 1,
     "title": "ELIMINATOR [Despair]",
@@ -9618,27 +9623,6 @@
     "adddate": "2022\/10\/29"
   },
   {
-    "md5": "adee09690fd41706427c4d0a7d9016d1",
-    "org_level": 19,
-    "title": "BADSECRET [BADEXPOSURE]",
-    "artist": "BLACKTIGER obj: Haze*",
-    "folder": "LEVEL14+",
-    "level": "14+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "5e46ce39dcdde4011d197d359605089f",
-      "5499e336802c3b76b205277eb0f7e598",
-      "3d1e89ac4aff4f6bffe0df77086ac843",
-      "adee09690fd41706427c4d0a7d9016d1"
-    ],
-    "org_md5": "5e46ce39dcdde4011d197d359605089f",
-    "comment": "",
-    "adddate": "2022\/10\/31"
-  },
-  {
     "md5": "b018386539e0b9cf155a1fd99e4dee24",
     "org_level": 24,
     "title": "Caesar [SP CATACLYSM]",
@@ -9659,53 +9643,6 @@
       "b018386539e0b9cf155a1fd99e4dee24"
     ],
     "org_md5": "fc681fbc8805fe9c3f539c198d36a2c5",
-    "comment": "",
-    "adddate": "2022\/10\/29"
-  },
-  {
-    "md5": "68f709ad576392f57fcbee4b0df88fe3",
-    "org_level": 0,
-    "title": "FAKE LIFE [Nihilism]",
-    "artist": "ProjectG obj. T",
-    "folder": "LEVEL14+",
-    "level": "14+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "68f709ad576392f57fcbee4b0df88fe3",
-      "c0f3911088dcb6f705bbd850b7fd8de4",
-      "82f5cf65826c99dfc3484d2fa70edfeb",
-      "5be2f2b71443afe72042eeb7437daaa7",
-      "bf5ee9aa0f844b88e4dc6470ccd20357",
-      "db73e0de15bb1c96d4dd4791ff2950d0",
-      "d6068d25ac2c638c329a7c9bf9107394"
-    ],
-    "org_md5": "68f709ad576392f57fcbee4b0df88fe3",
-    "comment": "",
-    "adddate": "2022\/10\/31"
-  },
-  {
-    "md5": "6018179f1db56e77957153db16ff5d60",
-    "org_level": 25,
-    "title": "Fall Apart [fragments]",
-    "artist": "ohon BGA:TRAF obj:BAECON",
-    "folder": "LEVEL14+",
-    "level": "14+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "851a20f9a55dc0741349a2b5111b76a1",
-      "0728dff46c253bb300fc0966a3a56a3e",
-      "43002b4cc24fdea0a4cbfcb52b876a00",
-      "6f00896a24953aee0a0962eb712be9ac",
-      "6018179f1db56e77957153db16ff5d60",
-      "78a00d037657da8819404ea8f7bce702"
-    ],
-    "org_md5": "851a20f9a55dc0741349a2b5111b76a1",
     "comment": "",
     "adddate": "2022\/10\/29"
   },
@@ -9889,27 +9826,6 @@
     "adddate": "2022\/10\/29"
   },
   {
-    "md5": "24e43e414ae88f0b5ccbea4f7d334a9a",
-    "org_level": 25,
-    "title": "決死のレイブ ～ RAVE W!TH ME (BMS ED!T) [SP RAVE EACH OTHER]",
-    "artist": "DJ NORMAL1ZER BG by R. A. L. \/ obj tyrcs",
-    "folder": "LEVEL14+",
-    "level": "14+",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "f0163b80be91aa695dce8d8231df2cb4",
-      "24e43e414ae88f0b5ccbea4f7d334a9a",
-      "09d7dee50ae57bc9637f506476a7bb92",
-      "ccfeaae461e1a41efbee1dac7e8e892c"
-    ],
-    "org_md5": "f0163b80be91aa695dce8d8231df2cb4",
-    "comment": "",
-    "adddate": "2022\/10\/29"
-  },
-  {
     "md5": "01d9ea966de753dee21609a2b69a68e0",
     "org_level": 6,
     "title": "Agilion[OVERJOY]",
@@ -9924,6 +9840,53 @@
     "org_md5": "",
     "comment": "BPM200 乱打と少し縦連",
     "adddate": "2022\/10\/29"
+  },
+  {
+    "md5": "68f709ad576392f57fcbee4b0df88fe3",
+    "org_level": 0,
+    "title": "FAKE LIFE [Nihilism]",
+    "artist": "ProjectG obj. T",
+    "folder": "LEVEL15",
+    "level": "15",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "68f709ad576392f57fcbee4b0df88fe3",
+      "c0f3911088dcb6f705bbd850b7fd8de4",
+      "82f5cf65826c99dfc3484d2fa70edfeb",
+      "5be2f2b71443afe72042eeb7437daaa7",
+      "bf5ee9aa0f844b88e4dc6470ccd20357",
+      "db73e0de15bb1c96d4dd4791ff2950d0",
+      "d6068d25ac2c638c329a7c9bf9107394"
+    ],
+    "org_md5": "68f709ad576392f57fcbee4b0df88fe3",
+    "comment": "",
+    "adddate": "2022\/11\/03"
+  },
+  {
+    "md5": "6018179f1db56e77957153db16ff5d60",
+    "org_level": 25,
+    "title": "Fall Apart [fragments]",
+    "artist": "ohon BGA:TRAF obj:BAECON",
+    "folder": "LEVEL15",
+    "level": "15",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "851a20f9a55dc0741349a2b5111b76a1",
+      "0728dff46c253bb300fc0966a3a56a3e",
+      "43002b4cc24fdea0a4cbfcb52b876a00",
+      "6f00896a24953aee0a0962eb712be9ac",
+      "6018179f1db56e77957153db16ff5d60",
+      "78a00d037657da8819404ea8f7bce702"
+    ],
+    "org_md5": "851a20f9a55dc0741349a2b5111b76a1",
+    "comment": "",
+    "adddate": "2022\/11\/03"
   },
   {
     "md5": "4fa32b9ef9b0eea82a9816bc9323250a",
@@ -10002,6 +9965,27 @@
     "org_md5": "546de1c318919282afce8ba15e938f08",
     "comment": "",
     "adddate": "2022\/10\/31"
+  },
+  {
+    "md5": "24e43e414ae88f0b5ccbea4f7d334a9a",
+    "org_level": 25,
+    "title": "決死のレイブ ～ RAVE W!TH ME (BMS ED!T) [SP RAVE EACH OTHER]",
+    "artist": "DJ NORMAL1ZER BG by R. A. L. \/ obj tyrcs",
+    "folder": "LEVEL15",
+    "level": "15",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f0163b80be91aa695dce8d8231df2cb4",
+      "24e43e414ae88f0b5ccbea4f7d334a9a",
+      "09d7dee50ae57bc9637f506476a7bb92",
+      "ccfeaae461e1a41efbee1dac7e8e892c"
+    ],
+    "org_md5": "f0163b80be91aa695dce8d8231df2cb4",
+    "comment": "",
+    "adddate": "2022\/11\/03"
   },
   {
     "md5": "42cd63ec2a0c0b56f24250963b73795d",
