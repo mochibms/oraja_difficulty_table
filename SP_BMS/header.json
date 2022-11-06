@@ -5,6 +5,7 @@
     "8",
     "10",
     "11",
+    "12-",
     "12",
     "12+",
     "13",
@@ -19,6 +20,7 @@
     "LEVEL8",
     "LEVEL10",
     "LEVEL11",
+    "LEVEL12-",
     "LEVEL12",
     "LEVEL12+",
     "LEVEL13",
@@ -34,8 +36,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2022\/11\/03",
+  "last_update": "2022\/11\/06",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2022\/11\/03"
+  "output_date": "2022\/11\/06"
 }
