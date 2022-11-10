@@ -6100,6 +6100,30 @@
     "adddate": "2022\/11\/06"
   },
   {
+    "md5": "b24dc33a35d782d2ebbc60cb2b0296b6",
+    "org_level": 12,
+    "title": "プラネット [A]",
+    "artist": "あまつち探検隊 Arkplot + 杠葉えりか",
+    "folder": "LEVEL12-",
+    "level": "12-",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "9c3a75abd7ad812f41e2f3bf421792bb",
+      "ff6b2239b976a472e41f1c96b8d9a022",
+      "3f831e4c34a37cfb3a19777f0aef9b37",
+      "b24dc33a35d782d2ebbc60cb2b0296b6",
+      "b7c00d3df5e13ff1c1e213be75c67df6",
+      "5db7bef388eef5816d2caf4231a37ec2",
+      "48de25166fcf1b28a0b826dba3884bf2"
+    ],
+    "org_md5": "9c3a75abd7ad812f41e2f3bf421792bb",
+    "comment": "",
+    "adddate": "2022\/11\/09"
+  },
+  {
     "md5": "5b2aebb05235958a3b1caceea6d812f8",
     "org_level": 2,
     "title": "花たちに希望を [あの花]",
@@ -6183,6 +6207,37 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "Fix ver.",
+    "adddate": "2022\/11\/09"
+  },
+  {
+    "md5": "24fc3b57e6a48f3ed0914f03e4c00cd2",
+    "org_level": 12,
+    "title": "摩訶幻想マジトリク [SP ANOTHER]",
+    "artist": "戒 + テオン obj : BAECON",
+    "folder": "LEVEL12-",
+    "level": "12-",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "60d396dd7a3c3d203854cb088eb95294",
+      "57ebbbe1a2f79ad5e00e964d1c4729ab",
+      "18ed4778d3c99ea47bc1d8e19e1a760a",
+      "aa389df1f9b142c58e1fd9204df74278",
+      "3b62757f19ed79a1f1eaa801dcb2ceab",
+      "8917d02c8f483f6b5ee0110da8005d45",
+      "11d50f614a469e31675a1e875d6d1749",
+      "3efdcd0c94aa785264acc2019675ed8a",
+      "24fc3b57e6a48f3ed0914f03e4c00cd2",
+      "402563ea573472d1a647c8e9054e59b2",
+      "6868c440375c0497ed2cd423db6994d0",
+      "701c262f1f29dfc197c2f578321a8c39",
+      "cc711d3cb0c68216693debfe73e102ac",
+      "98393443a9616de8c5c6ae521dcbb411"
+    ],
+    "org_md5": "60d396dd7a3c3d203854cb088eb95294",
+    "comment": "",
     "adddate": "2022\/11\/09"
   },
   {
@@ -8190,6 +8245,31 @@
     "org_md5": "7a8138d062168c58e3a02467956d4ff3",
     "comment": "",
     "adddate": "2022\/10\/23"
+  },
+  {
+    "md5": "a1e0b36dd5c4533e59f0c8e297240315",
+    "org_level": 12,
+    "title": "Neutrφn Reaper [Reaper]",
+    "artist": "kanone BGA:Shuto",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f790f2b7a166bcb684cdb2c8e523f63c",
+      "2b0ff1146dbc1e0fe7ae9a76875ad4a4",
+      "fd5fb59b88f3576235c29f8c2c0fdf8d",
+      "a1e0b36dd5c4533e59f0c8e297240315",
+      "06eec3ff9dd8e5e4b4da47722ff0d528",
+      "d5d9a0c95b38a2c162689ee2005b5a6d",
+      "4c83348de96cb971f65497032c09708d",
+      "266a6d4495f4361875f1201635bc19a8"
+    ],
+    "org_md5": "f790f2b7a166bcb684cdb2c8e523f63c",
+    "comment": "",
+    "adddate": "2022\/11\/09"
   },
   {
     "md5": "8432cf788207d90c4bab13cccf1d6a0e",
@@ -11094,6 +11174,29 @@
     "adddate": "2022\/10\/25"
   },
   {
+    "md5": "bd0e1340b98217cfd3d419a2930951ce",
+    "org_level": 12,
+    "title": "Seiren",
+    "artist": "kanoryo BGI.:MOAI WORKS",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "53580b76d7a5e9908c271886007642f3",
+      "b07699f94323b578e7f10e687e6dcec7",
+      "bd0e1340b98217cfd3d419a2930951ce",
+      "edc1066093650caa2cf7f035d72110f2",
+      "ffb3731fb348e4e193b3e8f7bf4fe2ce",
+      "9507a703aa2aee86c21c69abef0c9bc3"
+    ],
+    "org_md5": "53580b76d7a5e9908c271886007642f3",
+    "comment": "",
+    "adddate": "2022\/11\/09"
+  },
+  {
     "md5": "cc5953fa442c82c976e4b53b344ad090",
     "org_level": 18,
     "title": "Shake U",
@@ -11392,6 +11495,32 @@
     "org_md5": "",
     "comment": "BPM149 ディレイ",
     "adddate": "2022\/10\/22"
+  },
+  {
+    "md5": "f57248a593490dab39c75f2191e599d7",
+    "org_level": 16,
+    "title": "ゼイタクするまで抱きしめて [LOVERS]",
+    "artist": "kei_iwata 監督：KeiuO",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "95cdaf33a00b42682360cb5a3e118511",
+      "d4a2b3660b56acaeb5b89485e16c64d0",
+      "336b61e0e43f1fd75501d7484b4c7721",
+      "f57248a593490dab39c75f2191e599d7",
+      "cda9c63d0bb72c7870e8dc2a21a0b13d",
+      "1e8ce9281a1e1b3cd46a97c18ce72288",
+      "6c857d6b6c87782e698f0b6610d3d2b6",
+      "dd93b8ee483f04d739a4d444d83d4cee",
+      "b57f9ba8902fab00d6b4b1ffd48869eb"
+    ],
+    "org_md5": "95cdaf33a00b42682360cb5a3e118511",
+    "comment": "",
+    "adddate": "2022\/11\/09"
   },
   {
     "md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
@@ -14701,28 +14830,6 @@
     "adddate": "2022\/11\/07"
   },
   {
-    "md5": "ab86f8b4d83d1864e79dbcc5d87d27ce",
-    "org_level": 11,
-    "title": "Lilith ambivalence lovers",
-    "artist": "ikaruga_nex",
-    "folder": "保留",
-    "level": "保留",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "ab86f8b4d83d1864e79dbcc5d87d27ce",
-      "a88de8dbd759695dd434fa2ab794a5f6",
-      "3ae3155f0977b6452799713624859973",
-      "f3b5d6531dbeeb57329dde6beb620d1c",
-      "6eb4cb01f71141e47321ec21209eca01"
-    ],
-    "org_md5": "ab86f8b4d83d1864e79dbcc5d87d27ce",
-    "comment": "",
-    "adddate": "2022\/11\/07"
-  },
-  {
     "md5": "6eb4cb01f71141e47321ec21209eca01",
     "org_level": 11,
     "title": "Lilith ambivalence lovers [Erotic]",
@@ -14844,31 +14951,6 @@
     "org_md5": "325836401cc255f8b521e2b24516a2f1",
     "comment": "",
     "adddate": "2022\/10\/28"
-  },
-  {
-    "md5": "a1e0b36dd5c4533e59f0c8e297240315",
-    "org_level": 12,
-    "title": "Neutrφn Reaper [Reaper]",
-    "artist": "kanone BGA:Shuto",
-    "folder": "保留",
-    "level": "保留",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "f790f2b7a166bcb684cdb2c8e523f63c",
-      "2b0ff1146dbc1e0fe7ae9a76875ad4a4",
-      "fd5fb59b88f3576235c29f8c2c0fdf8d",
-      "a1e0b36dd5c4533e59f0c8e297240315",
-      "06eec3ff9dd8e5e4b4da47722ff0d528",
-      "d5d9a0c95b38a2c162689ee2005b5a6d",
-      "4c83348de96cb971f65497032c09708d",
-      "266a6d4495f4361875f1201635bc19a8"
-    ],
-    "org_md5": "f790f2b7a166bcb684cdb2c8e523f63c",
-    "comment": "",
-    "adddate": "2022\/11\/08"
   },
   {
     "md5": "4c83348de96cb971f65497032c09708d",
@@ -15070,29 +15152,6 @@
     "org_md5": "90acc1363f3c2dbf12f3a695e6638146",
     "comment": "",
     "adddate": "2022\/10\/31"
-  },
-  {
-    "md5": "bd0e1340b98217cfd3d419a2930951ce",
-    "org_level": 12,
-    "title": "Seiren",
-    "artist": "kanoryo BGI.:MOAI WORKS",
-    "folder": "保留",
-    "level": "保留",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "53580b76d7a5e9908c271886007642f3",
-      "b07699f94323b578e7f10e687e6dcec7",
-      "bd0e1340b98217cfd3d419a2930951ce",
-      "edc1066093650caa2cf7f035d72110f2",
-      "ffb3731fb348e4e193b3e8f7bf4fe2ce",
-      "9507a703aa2aee86c21c69abef0c9bc3"
-    ],
-    "org_md5": "53580b76d7a5e9908c271886007642f3",
-    "comment": "",
-    "adddate": "2022\/11\/07"
   },
   {
     "md5": "9554a7ae683f4543a401e428954b903a",
@@ -15416,32 +15475,6 @@
     "adddate": "2022\/11\/08"
   },
   {
-    "md5": "f57248a593490dab39c75f2191e599d7",
-    "org_level": 16,
-    "title": "ゼイタクするまで抱きしめて [LOVERS]",
-    "artist": "kei_iwata 監督：KeiuO",
-    "folder": "保留",
-    "level": "保留",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "95cdaf33a00b42682360cb5a3e118511",
-      "d4a2b3660b56acaeb5b89485e16c64d0",
-      "336b61e0e43f1fd75501d7484b4c7721",
-      "f57248a593490dab39c75f2191e599d7",
-      "cda9c63d0bb72c7870e8dc2a21a0b13d",
-      "1e8ce9281a1e1b3cd46a97c18ce72288",
-      "6c857d6b6c87782e698f0b6610d3d2b6",
-      "dd93b8ee483f04d739a4d444d83d4cee",
-      "b57f9ba8902fab00d6b4b1ffd48869eb"
-    ],
-    "org_md5": "95cdaf33a00b42682360cb5a3e118511",
-    "comment": "",
-    "adddate": "2022\/11\/08"
-  },
-  {
     "md5": "1e8ce9281a1e1b3cd46a97c18ce72288",
     "org_level": 23,
     "title": "ゼイタクするまで抱きしめて [NASTY]",
@@ -15494,30 +15527,6 @@
     "adddate": "2022\/11\/08"
   },
   {
-    "md5": "f7f5d81212deb1d753846c8c44855634",
-    "org_level": 11,
-    "title": "ネコノテ・カリタガール [ANOTHER]",
-    "artist": "Ino(chronoize)",
-    "folder": "保留",
-    "level": "保留",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "94b5c06d1cca39642f41b9af689ab927",
-      "c1a4f60f5e1300841dee83888523ca3c",
-      "00f6dafdf9729cd278e46ee319ca54c2",
-      "f7f5d81212deb1d753846c8c44855634",
-      "b41a7bbe0b6e15540739fb9573e24fb3",
-      "0f7554ed857bd71a99ab9f5ba4e46518",
-      "7ab3f913d9c729ce5c214c6970272376"
-    ],
-    "org_md5": "94b5c06d1cca39642f41b9af689ab927",
-    "comment": "",
-    "adddate": "2022\/10\/28"
-  },
-  {
     "md5": "c0d76829574527e8524cf638926dcde6",
     "org_level": 24,
     "title": "ふたりの-><-シグナル [BLOOMING DAYS]",
@@ -15540,30 +15549,6 @@
     "org_md5": "520d1e2a0f5ec8f865d1aceab16e0e31",
     "comment": "",
     "adddate": "2022\/10\/29"
-  },
-  {
-    "md5": "b24dc33a35d782d2ebbc60cb2b0296b6",
-    "org_level": 12,
-    "title": "プラネット [A]",
-    "artist": "あまつち探検隊 Arkplot + 杠葉えりか",
-    "folder": "保留",
-    "level": "保留",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "9c3a75abd7ad812f41e2f3bf421792bb",
-      "ff6b2239b976a472e41f1c96b8d9a022",
-      "3f831e4c34a37cfb3a19777f0aef9b37",
-      "b24dc33a35d782d2ebbc60cb2b0296b6",
-      "b7c00d3df5e13ff1c1e213be75c67df6",
-      "5db7bef388eef5816d2caf4231a37ec2",
-      "48de25166fcf1b28a0b826dba3884bf2"
-    ],
-    "org_md5": "9c3a75abd7ad812f41e2f3bf421792bb",
-    "comment": "",
-    "adddate": "2022\/11\/08"
   },
   {
     "md5": "48de25166fcf1b28a0b826dba3884bf2",
@@ -15667,37 +15652,6 @@
     "org_level": 12,
     "title": "摩訶幻想マジトリク [K-T]",
     "artist": "戒 + テオン \/ obj.ぶんぺ～",
-    "folder": "保留",
-    "level": "保留",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "60d396dd7a3c3d203854cb088eb95294",
-      "57ebbbe1a2f79ad5e00e964d1c4729ab",
-      "18ed4778d3c99ea47bc1d8e19e1a760a",
-      "aa389df1f9b142c58e1fd9204df74278",
-      "3b62757f19ed79a1f1eaa801dcb2ceab",
-      "8917d02c8f483f6b5ee0110da8005d45",
-      "11d50f614a469e31675a1e875d6d1749",
-      "3efdcd0c94aa785264acc2019675ed8a",
-      "24fc3b57e6a48f3ed0914f03e4c00cd2",
-      "402563ea573472d1a647c8e9054e59b2",
-      "6868c440375c0497ed2cd423db6994d0",
-      "701c262f1f29dfc197c2f578321a8c39",
-      "cc711d3cb0c68216693debfe73e102ac",
-      "98393443a9616de8c5c6ae521dcbb411"
-    ],
-    "org_md5": "60d396dd7a3c3d203854cb088eb95294",
-    "comment": "",
-    "adddate": "2022\/11\/08"
-  },
-  {
-    "md5": "24fc3b57e6a48f3ed0914f03e4c00cd2",
-    "org_level": 12,
-    "title": "摩訶幻想マジトリク [SP ANOTHER]",
-    "artist": "戒 + テオン obj : BAECON",
     "folder": "保留",
     "level": "保留",
     "lr2_bmsid": null,
