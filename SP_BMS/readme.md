@@ -10,4 +10,4 @@
 
 基本的に全て管理人の独断で決定しています。新規収録・難易度変更・削除に関する意見は大歓迎です。現状特に☆12、☆12+のボーダーラインが曖昧なのでご意見お待ちしております。
 
-各種ご意見は[Gundera_is_dead](https://twitter.com/Gundera_is_dead){:target="_blank"}まで。
+各種ご意見は[Gundera_is_dead](https://twitter.com/Gundera_is_dead)まで。
