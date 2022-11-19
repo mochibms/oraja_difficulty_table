@@ -728,6 +728,37 @@
     "adddate": "2022\/11\/16"
   },
   {
+    "md5": "32d3bc62cfbf1e5a1d416d8b2d20e8d8",
+    "org_level": 10,
+    "title": "GIFT [7key Hyper]",
+    "artist": "Notorious(Nota & TRIAL) BGA:inukoro",
+    "folder": "保留",
+    "level": "保留",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "04a0afae2e165a4676c777d9bb9b55db",
+      "5f33c72caf995cfc581a8b91d9a6f38e",
+      "3dc30bdeeac4e8ba2cade613c9474541",
+      "34a477f329b12fde1334d99d03dae9bd",
+      "17a6ceb271b925c80eceee9523ed1bc6",
+      "eaf90c7074a9c81f174d39f605412116",
+      "32d3bc62cfbf1e5a1d416d8b2d20e8d8",
+      "b8925c3f1f69dc40e9b55dd47ed92eb3",
+      "ff68a850337277e64ed31dce271d8e7a",
+      "48857de13c679962134bede85d8f1999",
+      "f66a3d06e4511f7b711d55d522ad3ba9",
+      "24732a9cbb7878ea273d49126e0ab4a4",
+      "58fcb0abcf9947957d6af59a4480a52f",
+      "edf6479ae69a49554836be5f1906895d"
+    ],
+    "org_md5": "04a0afae2e165a4676c777d9bb9b55db",
+    "comment": "",
+    "adddate": "2022\/11\/18"
+  },
+  {
     "md5": "b8925c3f1f69dc40e9b55dd47ed92eb3",
     "org_level": 0,
     "title": "GIFT [For \"U\"...]",
