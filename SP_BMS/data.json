@@ -5621,6 +5621,32 @@
     "adddate": "2022\/11\/12"
   },
   {
+    "md5": "06afd898deb16cc21f54c27c2e25a527",
+    "org_level": 11,
+    "title": "夏色海風 [むずかしい]",
+    "artist": "NASA",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmskanji2\/31",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ddccc42f2220596faf9f2a6137df27cc",
+      "97bf2055d90c4a39ba13c13619c8480d",
+      "06afd898deb16cc21f54c27c2e25a527",
+      "6e06fc8b0ea26987eb66b119b73fc5c3",
+      "8c352e58c7062dd3dcd4e8cf880a252e",
+      "7f07cd53b839499ac54126ac763aa25d",
+      "d3eaf1134669ba369f67a2c8c2e3b2ee",
+      "eefd509b03b043f14e4fe9dc72a04d8b",
+      "9618142d3fc6ec3715b7f6dba7e61fc8"
+    ],
+    "org_md5": "ddccc42f2220596faf9f2a6137df27cc",
+    "comment": "",
+    "adddate": "2023\/01\/08"
+  },
+  {
     "md5": "07ad0a611366cec99d62ab56ab5e2f8d",
     "org_level": 11,
     "title": "家物語 [SP ANOTHER]",
@@ -5829,6 +5855,30 @@
     "org_md5": "3a194fbb823f069ce605b6ddd3ad991a",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "e49a8ab513aa1c0c952ea8ec4718f59f",
+    "org_level": 11,
+    "title": "風時夏 [SP ANOTHER]",
+    "artist": "otoshi.b BGI:鈴木なるひ",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmskanji2\/23",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8a4355653ba3f0b5c437bf0e67761c13",
+      "e49a8ab513aa1c0c952ea8ec4718f59f",
+      "a8e038084a9b509c400b8129ac2a9f1b",
+      "77f6d0521caf22ddc807d28ce09e0997",
+      "a9e2359cb6c3898c981a8fb5b7f25882",
+      "77b284df71745b66f94e71db50961b3b",
+      "d67b57b99d7a38561f2683a6ee1787c7"
+    ],
+    "org_md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "comment": "",
+    "adddate": "2023\/01\/08"
   },
   {
     "md5": "f279c28ec3ddb86c66229c0bcd783adc",
@@ -6566,6 +6616,22 @@
     "adddate": "2022\/11\/06"
   },
   {
+    "md5": "44f645e487a1ace51d7afa068641ea33",
+    "org_level": 2,
+    "title": "Peridot [SP CHRYSOLITE]",
+    "artist": "stuv + *wakadori BGA:mogami \/ obj:saaa",
+    "folder": "LEVEL12-",
+    "level": "12-",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=5&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/01\/08"
+  },
+  {
     "md5": "889f9a6b4361412b29b5604a7922a78a",
     "org_level": 2,
     "title": "Philadelphia Xperiment [Experiments]",
@@ -7158,6 +7224,27 @@
     "org_md5": "",
     "comment": "sl4",
     "adddate": "2022\/11\/18"
+  },
+  {
+    "md5": "54f1e5bc0899dd541e0dd767b5d60c2a",
+    "org_level": 12,
+    "title": "ほしのねがい [SP INSANE]",
+    "artist": "P4koo feat.つゆり花鈴 Movie Ratif\/Illust PlatiSU",
+    "folder": "LEVEL12-",
+    "level": "12-",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "649c3253065d5688c9f8f7a291b255bf",
+      "8fdc35376fdbe764f0f807bc87b56adc",
+      "54f1e5bc0899dd541e0dd767b5d60c2a",
+      "ad5034c5ba0c1a1c1569315a40054b94"
+    ],
+    "org_md5": "649c3253065d5688c9f8f7a291b255bf",
+    "comment": "",
+    "adddate": "2023\/01\/08"
   },
   {
     "md5": "5b2aebb05235958a3b1caceea6d812f8",
@@ -9744,6 +9831,28 @@
     "adddate": "2022\/11\/22"
   },
   {
+    "md5": "09d699a1045f67ee79307a547e07b876",
+    "org_level": 12,
+    "title": "Pillars of Ash [ANOTHER]",
+    "artist": "Lidelle feat. AKA Movie: rN + Mint.zip + Trouman + Keizou + Shalink",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "09d699a1045f67ee79307a547e07b876",
+      "5ba0cd0b19d22f09d6fe67d258da5343",
+      "81cf291bcf24031903f5fabb8f047221",
+      "9f046029349759781a84b0ea47fa0c39",
+      "c144ab6e7bf0b0c7652ec00b47530bd4"
+    ],
+    "org_md5": "09d699a1045f67ee79307a547e07b876",
+    "comment": "",
+    "adddate": "2023\/01\/08"
+  },
+  {
     "md5": "e4163bccf296af419ffd6182523be899",
     "org_level": 12,
     "title": "Pixel Princess [ANOTHER7]",
@@ -10553,7 +10662,7 @@
     "folder": "LEVEL12",
     "level": "12",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/pupuly.nekokan.dyndns.info\/bms\/v\/212",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -13035,7 +13144,7 @@
     "folder": "LEVEL12+",
     "level": "12+",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/pupuly.nekokan.dyndns.info\/bms\/v\/212",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -13182,6 +13291,30 @@
     "org_md5": "",
     "comment": "sl11 乱打、ディレイ、縦連、wholeheatedly[A].bms基準ズレ抜け無し。",
     "adddate": "2022\/10\/22"
+  },
+  {
+    "md5": "09d981ba65cf5f3d2f7491f7482a62f9",
+    "org_level": 17,
+    "title": "XtR;Blue [Azure]",
+    "artist": "白羽 BGI : Exa \/ obj : BAECON",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=131&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d43b5cae7651fb8154bf3f66b5bc5140",
+      "a1a08f9f303fb4cb58fc4c5e693d5578",
+      "a623217c0fd19fb67765a140d1498ec2",
+      "8957dcf32fd54a781c89a9509ff0223b",
+      "7ef62c1cdc7c12a3eb246ecc667c117f",
+      "09d981ba65cf5f3d2f7491f7482a62f9",
+      "ea14472f1f4fd8d55d1c9b9580f5900b"
+    ],
+    "org_md5": "d43b5cae7651fb8154bf3f66b5bc5140",
+    "comment": "",
+    "adddate": "2023\/01\/08"
   },
   {
     "md5": "bcf7607db2955c8979b54a0981b5eeb6",
@@ -13634,6 +13767,22 @@
     "org_md5": "",
     "comment": " sl10 BPMを固定させて、ズレがあることがあります (readme.txt) ご参照しました。",
     "adddate": "2022\/11\/18"
+  },
+  {
+    "md5": "8a4355653ba3f0b5c437bf0e67761c13",
+    "org_level": 10,
+    "title": "風時夏 [晴海歌]",
+    "artist": "otoshi.b BGI:鈴木なるひ obj:BAECON",
+    "folder": "LEVEL12+",
+    "level": "12+",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmskanji2\/23",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM140の乱打譜面",
+    "adddate": "2023\/01\/08"
   },
   {
     "md5": "b57e7f1bdca974cd00379e3d1cf84504",
@@ -15596,6 +15745,22 @@
     "adddate": "2023\/01\/07"
   },
   {
+    "md5": "c0d76829574527e8524cf638926dcde6",
+    "org_level": 4,
+    "title": "ふたりの-><-シグナル [BLOOMING DAYS]",
+    "artist": "otoshi.b×qfeileadh×みゅい×柳瀬マサキ×レゾナンスもえこ×駒木れい×BAECON",
+    "folder": "LEVEL14",
+    "level": "14",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=459&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "地力",
+    "adddate": "2023\/01\/08"
+  },
+  {
     "md5": "5978fad340afbc123cdd28945bf1e57d",
     "org_level": 12,
     "title": "ホーリーサンバランド -LAST BOSS-",
@@ -15740,6 +15905,22 @@
     "org_md5": "",
     "comment": "st3 ",
     "adddate": "2022\/11\/09"
+  },
+  {
+    "md5": "77b284df71745b66f94e71db50961b3b",
+    "org_level": 4,
+    "title": "風時夏 [夏海記]",
+    "artist": "otoshi.b BGI:鈴木なるひ obj:BAECON",
+    "folder": "LEVEL14",
+    "level": "14",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmskanji2\/23",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM140 ガチ押し",
+    "adddate": "2023\/01\/08"
   },
   {
     "md5": "142cfcfca6917f6d5a9efba5ff1ea524",
@@ -16043,7 +16224,7 @@
     "folder": "LEVEL15",
     "level": "15",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/pupuly.nekokan.dyndns.info\/bms\/v\/212",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -16163,6 +16344,22 @@
     "org_md5": "",
     "comment": "st6 DELAAAAY",
     "adddate": "2022\/11\/21"
+  },
+  {
+    "md5": "fbfdc2671b94dee5da97cfaf127b0a40",
+    "org_level": 6,
+    "title": "遠声 (VOICE)",
+    "artist": "道済　儚　及び　秋山　としのり Obj:И",
+    "folder": "LEVEL15",
+    "level": "15",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmskanji2\/32",
+    "url_diff": "https:\/\/bms.parksulab.xyz\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/01\/08"
   },
   {
     "md5": "24e43e414ae88f0b5ccbea4f7d334a9a",
