@@ -6243,6 +6243,27 @@
     "adddate": "2022\/11\/16"
   },
   {
+    "md5": "5d34516e26d3496b9da0ea0e262bcd49",
+    "org_level": 3,
+    "title": "Ego Eater [K vs S]",
+    "artist": "iTIC (Obj: ReiOW vs ReiOW)",
+    "folder": "LEVEL12-",
+    "level": "12-",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=65&event=140",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofet\/",
+    "name_diff": null,
+    "org_md5s": [
+      "5d34516e26d3496b9da0ea0e262bcd49",
+      "07fa9a272a8f3009d2e060d8bb8dded5",
+      "b507a563afcdb61a257ee4e73c5eeb45",
+      "8986b086c349d6a13210efff9490a037"
+    ],
+    "org_md5": "5d34516e26d3496b9da0ea0e262bcd49",
+    "comment": "",
+    "adddate": "2023\/01\/10"
+  },
+  {
     "md5": "5a7f422b05a7867ccdd47f10ebe31907",
     "org_level": 3,
     "title": "ENERGY SYNERGY MATRIX",
@@ -6298,7 +6319,7 @@
     "folder": "LEVEL12-",
     "level": "12-",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=151&event=140",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -6522,8 +6543,8 @@
     "folder": "LEVEL12-",
     "level": "12-",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=86&event=140",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofet\/",
     "name_diff": null,
     "org_md5s": [
       "9ffa65077ed8ae5ce2a6abab92ca54a9",
@@ -6574,6 +6595,35 @@
     "org_md5": "",
     "comment": "sl2 皿,跳ねリズム",
     "adddate": "2022\/11\/16"
+  },
+  {
+    "md5": "210eb5b7c0650451fbc288a42662c7c8",
+    "org_level": 1,
+    "title": "minefield outlaw [Following Rules]",
+    "artist": "trapman (Obj: ReiOW) BGA:OTSUAO DESIGN",
+    "folder": "LEVEL12-",
+    "level": "12-",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=147&event=140",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofet\/",
+    "name_diff": null,
+    "org_md5s": [
+      "feb1429a18f2694baff23564471d996b",
+      "fdfdce409eba557743685c77fe79383d",
+      "ae4dafd5775c7518f5ac38c663138510",
+      "09c23e6d8c9c0fe9b75223a449047379",
+      "210eb5b7c0650451fbc288a42662c7c8",
+      "f48c7ca97e07e807238b0de8599a44c8",
+      "55fba8c399f87734ffbd8f4fa8dc2587",
+      "9981184dd435b61bebca551ba0d41734",
+      "4be5bf8a409a25ecff954b7b79be435e",
+      "e71901ed85c2491c0a704a86b0e4b3d3",
+      "8707efd2a44bf9be413d7dd110875b7e",
+      "d1effee72f5b2f18dfb687fd6a84594d"
+    ],
+    "org_md5": "feb1429a18f2694baff23564471d996b",
+    "comment": "",
+    "adddate": "2023\/01\/10"
   },
   {
     "md5": "6017b202f8f02da9aa675418d534853a",
@@ -7233,7 +7283,7 @@
     "folder": "LEVEL12-",
     "level": "12-",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/bms-mirror.com\/pkg\/2020\/bofxvi\/hoshino_negai.zip",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -9838,7 +9888,7 @@
     "folder": "LEVEL12",
     "level": "12",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=383&event=140",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -12591,8 +12641,8 @@
     "folder": "LEVEL12+",
     "level": "12+",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=86&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2026",
     "name_diff": null,
     "org_md5s": [
       "9ffa65077ed8ae5ce2a6abab92ca54a9",
@@ -12853,8 +12903,8 @@
     "folder": "LEVEL12+",
     "level": "12+",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=158&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2231",
     "name_diff": null,
     "org_md5s": [
       "848933c50bb6ab6be1df4ad29aedf929",
@@ -14090,8 +14140,8 @@
     "folder": "LEVEL13",
     "level": "13",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=448&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2197",
     "name_diff": null,
     "org_md5s": [
       "de475e7a59abefb5fd5fde991257dfea",
@@ -14267,8 +14317,8 @@
     "folder": "LEVEL13",
     "level": "13",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=561&event=110",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00239",
     "name_diff": null,
     "org_md5s": [
       "50e2f39b3d1904bbb16d308549901a19",
@@ -14400,8 +14450,8 @@
     "folder": "LEVEL13",
     "level": "13",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=86&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2194",
     "name_diff": null,
     "org_md5s": [
       "9ffa65077ed8ae5ce2a6abab92ca54a9",
@@ -14636,8 +14686,8 @@
     "folder": "LEVEL13",
     "level": "13",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=211&event=140",
+    "url_diff": "https:\/\/egosa0424.github.io\/sabun\/deneb_nanami.zip",
     "name_diff": null,
     "org_md5s": [
       "1388f3f994d93c25b1d550c8cf05dbbd",
@@ -14717,8 +14767,8 @@
     "folder": "LEVEL13",
     "level": "13",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=13&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2087",
     "name_diff": null,
     "org_md5s": [
       "0e5d52816476d94be4232fa3db2c389a",
@@ -16089,8 +16139,8 @@
     "folder": "LEVEL15",
     "level": "15",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=151&event=140",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofet\/",
     "name_diff": null,
     "org_md5s": [
       "50384c7e59f59484aee81079a3269961",
