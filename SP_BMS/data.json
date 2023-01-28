@@ -121,6 +121,34 @@
     "adddate": "2023\/01\/28"
   },
   {
+    "md5": "6e4dbc6058afa9566311e6c76199a215",
+    "org_level": 8,
+    "title": "Fine Logic [7key NORMAL]",
+    "artist": "Sephid feat. aria obj : sigma",
+    "folder": "LEVEL8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=197&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "72341b3417b72cdf78488a9e0f22797a",
+      "8c6c10be16195cbc97b92818007f1f02",
+      "4e632bd26d03de13a7f3a1a198281167",
+      "1a6b6567fe1fa051f532e161a491ac88",
+      "cb13b283afeed06ed4ef0e768de8aa31",
+      "46c0d9c4adc4fe2c603dc231c899bad9",
+      "6e4dbc6058afa9566311e6c76199a215",
+      "ce6fdece595c1474f1561f863053761a",
+      "68452505fcb265439b12323db0944baf",
+      "7951a635f5475c346b4197df72bc25a3",
+      "d6c37bce4543f2a6dae326607249fc64"
+    ],
+    "org_md5": "72341b3417b72cdf78488a9e0f22797a",
+    "comment": "",
+    "adddate": "2023\/01\/28"
+  },
+  {
     "md5": "86419da0afdc35f17d86be23f232027e",
     "org_level": 8,
     "title": "Fractal [7HYPER]",
@@ -215,6 +243,32 @@
       "2c361fb957465dbb5916bb0ca75e33e9"
     ],
     "org_md5": "669cacb448ffc9868ee94c4ecedfab19",
+    "comment": "",
+    "adddate": "2023\/01\/28"
+  },
+  {
+    "md5": "99d9025bb3bc12622db211c76db03ca1",
+    "org_level": 7,
+    "title": "Lacrimosa [SP Normal]",
+    "artist": "Abel & RiraN Movie:Minho Obj:litmus*",
+    "folder": "LEVEL8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=255&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ff497fc31e47a968b91937db480bdf02",
+      "4fa1d4129701656205dd8cd51f4358b1",
+      "f70b61bbd663fe6056856bb83a84fd27",
+      "dbbba9a0166c7a33857a5b23aacd6ec4",
+      "a00acc4d1b4e1957783596edc6c88093",
+      "1fa97ef1958cc5b6ee78d7ac3969c4ed",
+      "701d0a04822ecfce1ec4fa89351e4a07",
+      "b5ac8582091269f60ed0d5f711c603bd",
+      "99d9025bb3bc12622db211c76db03ca1"
+    ],
+    "org_md5": "ff497fc31e47a968b91937db480bdf02",
     "comment": "",
     "adddate": "2023\/01\/28"
   },
@@ -1373,6 +1427,34 @@
     "adddate": "2022\/11\/17"
   },
   {
+    "md5": "46c0d9c4adc4fe2c603dc231c899bad9",
+    "org_level": 10,
+    "title": "Fine Logic [7key HYPER]",
+    "artist": "Sephid feat. aria obj : sigma",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=197&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "72341b3417b72cdf78488a9e0f22797a",
+      "8c6c10be16195cbc97b92818007f1f02",
+      "4e632bd26d03de13a7f3a1a198281167",
+      "1a6b6567fe1fa051f532e161a491ac88",
+      "cb13b283afeed06ed4ef0e768de8aa31",
+      "46c0d9c4adc4fe2c603dc231c899bad9",
+      "6e4dbc6058afa9566311e6c76199a215",
+      "ce6fdece595c1474f1561f863053761a",
+      "68452505fcb265439b12323db0944baf",
+      "7951a635f5475c346b4197df72bc25a3",
+      "d6c37bce4543f2a6dae326607249fc64"
+    ],
+    "org_md5": "72341b3417b72cdf78488a9e0f22797a",
+    "comment": "",
+    "adddate": "2023\/01\/28"
+  },
+  {
     "md5": "e0e416e53d76f241def82754772b04ed",
     "org_level": 10,
     "title": "Firmament Star [HYPER]",
@@ -1656,7 +1738,7 @@
     "adddate": "2022\/10\/21"
   },
   {
-    "md5": "5e54ded32e0afc3ef3ad8d458a0a6fa8",
+    "md5": "a35224dee3a8fc48fbe35e991c806968",
     "org_level": 10,
     "title": "Heartstrings",
     "artist": "庭師 BGA:noixy",
@@ -1667,16 +1749,16 @@
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "ead60150e363f0685eafb9d9bc827ad1",
-      "5219cdc9007255e85434c0440b919617",
-      "f9366a5909234c696ebe0ecd118de83f",
-      "5e54ded32e0afc3ef3ad8d458a0a6fa8",
-      "bd79da89c4d03b0285a72a73f02665b3",
-      "70188f8d13820f2e8f1332332c38aa70"
+      "5dc11f098fee2d246970106436c790db",
+      "2e20d9726feb8fba2563a3af6b4ce17c",
+      "2eebb32ddc21cc0031c4a774bdadb4f4",
+      "a35224dee3a8fc48fbe35e991c806968",
+      "74d5861ed0bb94a840d5eb1fa1a9603f",
+      "796effdc7208232551a12301954f3d8e"
     ],
-    "org_md5": "ead60150e363f0685eafb9d9bc827ad1",
+    "org_md5": "5dc11f098fee2d246970106436c790db",
     "comment": "",
-    "adddate": "2022\/10\/23"
+    "adddate": "2023\/01\/28"
   },
   {
     "md5": "53e66b1a90351ac743cf597748541055",
@@ -5072,6 +5154,32 @@
     "adddate": "2022\/11\/22"
   },
   {
+    "md5": "701d0a04822ecfce1ec4fa89351e4a07",
+    "org_level": 11,
+    "title": "Lacrimosa [SP Hyper]",
+    "artist": "Abel & RiraN Movie:Minho Obj:litmus*",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=255&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ff497fc31e47a968b91937db480bdf02",
+      "4fa1d4129701656205dd8cd51f4358b1",
+      "f70b61bbd663fe6056856bb83a84fd27",
+      "dbbba9a0166c7a33857a5b23aacd6ec4",
+      "a00acc4d1b4e1957783596edc6c88093",
+      "1fa97ef1958cc5b6ee78d7ac3969c4ed",
+      "701d0a04822ecfce1ec4fa89351e4a07",
+      "b5ac8582091269f60ed0d5f711c603bd",
+      "99d9025bb3bc12622db211c76db03ca1"
+    ],
+    "org_md5": "ff497fc31e47a968b91937db480bdf02",
+    "comment": "",
+    "adddate": "2023\/01\/28"
+  },
+  {
     "md5": "a6c9c9f73a0426bda87972e284601d83",
     "org_level": 11,
     "title": "Let's get wild![ANOTHER]",
@@ -7287,6 +7395,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2022\/11\/06"
+  },
+  {
+    "md5": "72341b3417b72cdf78488a9e0f22797a",
+    "org_level": 1,
+    "title": "Fine Logic [7key ANOTHER]",
+    "artist": "Sephid feat. aria obj : Khibine n Sephid",
+    "folder": "LEVEL12-",
+    "level": "12-",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=197&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl 0～1？ 同梱譜面",
+    "adddate": "2023\/01\/28"
   },
   {
     "md5": "3e9b31de44a3285da50d61f29b768524",
@@ -10271,7 +10395,7 @@
     "adddate": "2022\/10\/21"
   },
   {
-    "md5": "ead60150e363f0685eafb9d9bc827ad1",
+    "md5": "5dc11f098fee2d246970106436c790db",
     "org_level": 12,
     "title": "Heartstrings",
     "artist": "庭師 BGA:noixy",
@@ -10282,16 +10406,16 @@
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "ead60150e363f0685eafb9d9bc827ad1",
-      "5219cdc9007255e85434c0440b919617",
-      "f9366a5909234c696ebe0ecd118de83f",
-      "5e54ded32e0afc3ef3ad8d458a0a6fa8",
-      "bd79da89c4d03b0285a72a73f02665b3",
-      "70188f8d13820f2e8f1332332c38aa70"
+      "5dc11f098fee2d246970106436c790db",
+      "2e20d9726feb8fba2563a3af6b4ce17c",
+      "2eebb32ddc21cc0031c4a774bdadb4f4",
+      "a35224dee3a8fc48fbe35e991c806968",
+      "74d5861ed0bb94a840d5eb1fa1a9603f",
+      "796effdc7208232551a12301954f3d8e"
     ],
-    "org_md5": "ead60150e363f0685eafb9d9bc827ad1",
+    "org_md5": "5dc11f098fee2d246970106436c790db",
     "comment": "",
-    "adddate": "2022\/10\/23"
+    "adddate": "2023\/01\/28"
   },
   {
     "md5": "70f45b780cecfe58b725437eda743d47",
@@ -10516,6 +10640,32 @@
     "org_md5": "75887de6f200220b19f497ba8c4ed9e4",
     "comment": "",
     "adddate": "2022\/10\/19"
+  },
+  {
+    "md5": "1fa97ef1958cc5b6ee78d7ac3969c4ed",
+    "org_level": 12,
+    "title": "Lacrimosa [SP Another]",
+    "artist": "Abel & RiraN Movie:Minho Obj:Triforce",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=255&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ff497fc31e47a968b91937db480bdf02",
+      "4fa1d4129701656205dd8cd51f4358b1",
+      "f70b61bbd663fe6056856bb83a84fd27",
+      "dbbba9a0166c7a33857a5b23aacd6ec4",
+      "a00acc4d1b4e1957783596edc6c88093",
+      "1fa97ef1958cc5b6ee78d7ac3969c4ed",
+      "701d0a04822ecfce1ec4fa89351e4a07",
+      "b5ac8582091269f60ed0d5f711c603bd",
+      "99d9025bb3bc12622db211c76db03ca1"
+    ],
+    "org_md5": "ff497fc31e47a968b91937db480bdf02",
+    "comment": "",
+    "adddate": "2023\/01\/28"
   },
   {
     "md5": "a82257dbc2fc815d7addf41591b38aba",
@@ -15645,7 +15795,7 @@
     "adddate": "2023\/01\/07"
   },
   {
-    "md5": "bd79da89c4d03b0285a72a73f02665b3",
+    "md5": "74d5861ed0bb94a840d5eb1fa1a9603f",
     "org_level": 21,
     "title": "Heartstrings [Lyra and Bon Bon]",
     "artist": "庭師 \/ obj. AXION BGA:noixy",
@@ -15656,16 +15806,16 @@
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "ead60150e363f0685eafb9d9bc827ad1",
-      "5219cdc9007255e85434c0440b919617",
-      "f9366a5909234c696ebe0ecd118de83f",
-      "5e54ded32e0afc3ef3ad8d458a0a6fa8",
-      "bd79da89c4d03b0285a72a73f02665b3",
-      "70188f8d13820f2e8f1332332c38aa70"
+      "5dc11f098fee2d246970106436c790db",
+      "2e20d9726feb8fba2563a3af6b4ce17c",
+      "2eebb32ddc21cc0031c4a774bdadb4f4",
+      "a35224dee3a8fc48fbe35e991c806968",
+      "74d5861ed0bb94a840d5eb1fa1a9603f",
+      "796effdc7208232551a12301954f3d8e"
     ],
-    "org_md5": "ead60150e363f0685eafb9d9bc827ad1",
+    "org_md5": "5dc11f098fee2d246970106436c790db",
     "comment": "",
-    "adddate": "2022\/11\/11"
+    "adddate": "2023\/01\/28"
   },
   {
     "md5": "72b1ce4b2051bd2a396dfa11a2d785ee",
@@ -15714,6 +15864,22 @@
     "org_md5": "",
     "comment": "BPM160 同時多めの乱打",
     "adddate": "2022\/11\/18"
+  },
+  {
+    "md5": "b5ac8582091269f60ed0d5f711c603bd",
+    "org_level": 1,
+    "title": "Lacrimosa [SP Insane]",
+    "artist": "Abel & RiraN Movie:Minho Obj:Triforce",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=255&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BOF:ET  BPM222の高速乱打",
+    "adddate": "2023\/01\/28"
   },
   {
     "md5": "cdc252edc57cdb4018dbeb46fda6a3c3",
