@@ -1195,6 +1195,32 @@
     "adddate": "2023\/02\/13"
   },
   {
+    "md5": "1f66040faab67c54ca18ccd7291b210a",
+    "org_level": 17,
+    "title": "FIRST COMES SCRATCHING -Luna-",
+    "artist": "ETIA. \/ selene.",
+    "folder": "LEVEL17",
+    "level": "17",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a7ded1639096b1c1c24cf12f134d7e2e",
+      "d0e66c980a529e1243048006e17b0921",
+      "d9cec93d34264371d0e0a6a4b306b562",
+      "b9fa1ca1d317be7887c7401218933012",
+      "0a8b76ca18155d81d39e2da89194d91c",
+      "d92dcec0eb9941e9e4a58e24d486250d",
+      "1f66040faab67c54ca18ccd7291b210a",
+      "32eccec560be69f9c354d59651a970b2",
+      "a6a36d34dc6b77e81dfaf7ddd0d9098a"
+    ],
+    "org_md5": "a7ded1639096b1c1c24cf12f134d7e2e",
+    "comment": "",
+    "adddate": "2023\/02\/13"
+  },
+  {
     "md5": "772f38b3f286731a670353b36a3e2e16",
     "org_level": 0,
     "title": "Fractal [7Maniac]",
@@ -2249,6 +2275,33 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "TOTAL:350 Gauge:0.170%\/Notes(Low)",
+    "adddate": "2023\/02\/13"
+  },
+  {
+    "md5": "4c77d9e7bfaca4faee4a035cd8ffe872",
+    "org_level": 12,
+    "title": "BRAIN HACKER[BLACK ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL19",
+    "level": "19",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=85&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0361c7c588903e04defe9920401f6e5a",
+      "887603fefb8744522a877cca0e9507e5",
+      "e4e3ad4a5749dde34b330eb9661fd06b",
+      "9e6ab94dc412c4129b84e554e802e529",
+      "2fa87a131f4df3d43578672195fc8886",
+      "5ad93a439dc8ae1f009ad5724bfbe07c",
+      "4c77d9e7bfaca4faee4a035cd8ffe872",
+      "5a3f37c7a2ca6e8445d74a30420e3297",
+      "186679a86043c140396228a430f69d6e",
+      "77f6793f8896f14262d7377d59b60177"
+    ],
+    "org_md5": "0361c7c588903e04defe9920401f6e5a",
+    "comment": "",
     "adddate": "2023\/02\/13"
   },
   {
@@ -8066,6 +8119,32 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "ディレイ",
+    "adddate": "2023\/02\/13"
+  },
+  {
+    "md5": "d92dcec0eb9941e9e4a58e24d486250d",
+    "org_level": 23,
+    "title": "FIRST COMES SCRATCHING -Heaven-",
+    "artist": "ETIA. \/ selene.",
+    "folder": "LEVEL23",
+    "level": "23",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a7ded1639096b1c1c24cf12f134d7e2e",
+      "d0e66c980a529e1243048006e17b0921",
+      "d9cec93d34264371d0e0a6a4b306b562",
+      "b9fa1ca1d317be7887c7401218933012",
+      "0a8b76ca18155d81d39e2da89194d91c",
+      "d92dcec0eb9941e9e4a58e24d486250d",
+      "1f66040faab67c54ca18ccd7291b210a",
+      "32eccec560be69f9c354d59651a970b2",
+      "a6a36d34dc6b77e81dfaf7ddd0d9098a"
+    ],
+    "org_md5": "a7ded1639096b1c1c24cf12f134d7e2e",
+    "comment": "",
     "adddate": "2023\/02\/13"
   },
   {
