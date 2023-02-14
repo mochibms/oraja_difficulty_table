@@ -208,20 +208,26 @@
     "adddate": "2023\/02\/13"
   },
   {
-    "md5": "00000000000000000000000000000000",
-    "org_level": null,
-    "title": "",
-    "artist": "",
+    "md5": "d751367f3ae153b1d665fea61acc97b4",
+    "org_level": 12,
+    "title": "GO BACK 2 YOUR RAVE [ANOTHER]",
+    "artist": "nora2r 出前",
     "folder": "LEVEL2",
     "level": "2",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/drive.google.com\/file\/d\/1J91Awr30lOHtevDBlCt6yRFDN_ktDKJ_\/view?usp=share_link",
     "url_diff": "",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
+    "org_md5s": [
+      "d751367f3ae153b1d665fea61acc97b4",
+      "55da43dac14edfb274838edc7493a2e0",
+      "f2ef13a310d8d500b918c5126e13ccb1",
+      "716cf3c49a8c5c7e4b5b78d422b445bb",
+      "0567bff7f7e3a4cbab275e5ae2ac3fab"
+    ],
+    "org_md5": "d751367f3ae153b1d665fea61acc97b4",
     "comment": "",
-    "adddate": "2023\/02\/13"
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "e03b6b7e78bafcc7e0defccabe5ee780",
@@ -269,20 +275,29 @@
     "adddate": "2023\/02\/14"
   },
   {
-    "md5": "00000000000000000000000000000000",
-    "org_level": null,
-    "title": "",
-    "artist": "",
+    "md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "org_level": 12,
+    "title": "\"Fulcrum-D\"",
+    "artist": "Lemi.",
     "folder": "LEVEL5",
     "level": "5",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
     "url_diff": "",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
     "comment": "",
-    "adddate": "2023\/02\/13"
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "00000000000000000000000000000000",
@@ -405,8 +420,8 @@
     "folder": "LEVEL9",
     "level": "9",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=239&event=123",
+    "url_diff": "https:\/\/www.dropbox.com\/s\/db3ux1yzttn8rhu\/_GOODWORLD_nanami01.bms?dl=0",
     "name_diff": null,
     "org_md5s": [
       "76b1a277369cb77868d1ec35d452a31f",
@@ -1463,6 +1478,31 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "発狂BMS段位認定 五段2曲目",
+    "adddate": "2023\/02\/14"
+  },
+  {
+    "md5": "b7daf97b94a5e415dbf9c6922b3368b6",
+    "org_level": 12,
+    "title": "\"Fulcrum-D\" [Supersonic]",
+    "artist": "Lemi. obj:unknown \"ν\" a.k.a. hyuki",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
+    "url_diff": "https:\/\/bms.hexlataia.xyz\/mirror\/gnqg-upload\/05801.zip",
+    "name_diff": null,
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "comment": "",
     "adddate": "2023\/02\/14"
   },
   {
@@ -3734,8 +3774,8 @@
     "folder": "LEVEL17",
     "level": "17",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/drive.google.com\/file\/d\/1J91Awr30lOHtevDBlCt6yRFDN_ktDKJ_\/view?usp=share_link",
+    "url_diff": "http:\/\/siokazebms.web.fc2.com\/",
     "name_diff": null,
     "org_md5s": [
       "d751367f3ae153b1d665fea61acc97b4",
@@ -5189,6 +5229,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023\/02\/13"
+  },
+  {
+    "md5": "8f1bfa14a5bb435b315d364ee2c785c8",
+    "org_level": 12,
+    "title": "hemorrhoids",
+    "artist": "sinku* \/ BGI:作者文",
+    "folder": "LEVEL19",
+    "level": "19",
+    "lr2_bmsid": null,
+    "url": "http:\/\/cerebralmuddystream.nekokan.dyndns.info\/betoo\/?mode=datail&no=185",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "物量",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "61fa18d36c0dd7d6814afe919583d32e",
@@ -10599,6 +10655,22 @@
     "adddate": "2023\/02\/13"
   },
   {
+    "md5": "9cd5a316117bce74196a4fc94d56e39c",
+    "org_level": 3,
+    "title": "DEYANEN [Hexagon]",
+    "artist": "アスパラ音楽隊 obj.hex",
+    "folder": "LEVEL23",
+    "level": "23",
+    "lr2_bmsid": null,
+    "url": "https:\/\/web.archive.org\/web\/20160321130346\/http:\/\/big.freett.com\/woody_\/deyanen.zip",
+    "url_diff": "https:\/\/bms.hexlataia.xyz\/tables\/hexajoy.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM120 ガチ押し",
+    "adddate": "2023\/02\/14"
+  },
+  {
     "md5": "702a6fe1bfae57058b4d6aaa5dabae19",
     "org_level": 3,
     "title": "Disorder [Hexagon]",
@@ -11084,22 +11156,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "BPM160 連打系",
-    "adddate": "2023\/02\/13"
-  },
-  {
-    "md5": "81501dbf778d1e7ca3db42d995b07da8",
-    "org_level": 3,
-    "title": "Say A Vengeance [No_more]",
-    "artist": "ETIA. feat.Jenga deadblue238 \/ 篠乃ちよ \/ U",
-    "folder": "LEVEL23",
-    "level": "23",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=83",
-    "url_diff": "https:\/\/obju.web.fc2.com\/index.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "横に広い物量+微縦連",
     "adddate": "2023\/02\/13"
   },
   {
@@ -12915,6 +12971,31 @@
     "org_md5": "d2d008d377cbe373f5822b1f5f218f57",
     "comment": "",
     "adddate": "2023\/02\/13"
+  },
+  {
+    "md5": "b6b02c390d528055bcd02025dd2eb3ae",
+    "org_level": 25,
+    "title": "\"Fulcrum-D\" [FINAL DIVE]",
+    "artist": "Lemi. \/ obj:NoName",
+    "folder": "LEVEL25",
+    "level": "25",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2471",
+    "name_diff": null,
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "7f2cbe01342d3935dd6e72a7ef2b4aa3",
