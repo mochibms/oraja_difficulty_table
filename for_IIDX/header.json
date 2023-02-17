@@ -1,1 +1,30 @@
-
+{
+  "name": "for IIDX難易度表",
+  "symbol": "IIDX",
+  "level_order": [
+    "10",
+    "11",
+    "11+",
+    "12.0(D)",
+    "12.1(C)",
+    "12.2(B)",
+    "12.3(B+)",
+    "12.4(A)",
+    "12.5(A+)",
+    "12.6(S下位)",
+    "12.7(S中位)",
+    "12.8(S上位~S+)",
+    "12.9",
+    "13"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "data.json",
+  "compat_prefix": "LEVEL",
+  "last_update": "2023\/02\/17",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "0.3.5.6",
+  "output_date": "2023\/02\/17"
+}
