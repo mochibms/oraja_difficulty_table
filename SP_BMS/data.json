@@ -621,6 +621,31 @@
     "adddate": "2023\/02\/02"
   },
   {
+    "md5": "cfe9b3ce956fb12d6fe2aad598343a33",
+    "org_level": 7,
+    "title": "\"Fulcrum-D\"",
+    "artist": "Lemi.",
+    "folder": "LEVEL7",
+    "level": "7",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "comment": "",
+    "adddate": "2023\/02\/14"
+  },
+  {
     "md5": "f5077e06ff1ed491be7d6aed0f6e3cf5",
     "org_level": 7,
     "title": "7th Avenue [Hyper]",
@@ -1519,6 +1544,31 @@
     "adddate": "2023\/02\/02"
   },
   {
+    "md5": "6d43dd99edaf61df2620175da7f79eec",
+    "org_level": 9,
+    "title": "\"Fulcrum-D\"",
+    "artist": "Lemi.",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "comment": "",
+    "adddate": "2023\/02\/14"
+  },
+  {
     "md5": "3a16881ef5ebbb61612524c5ce8bc115",
     "org_level": 9,
     "title": "<header> [SP HYPER]",
@@ -1726,6 +1776,28 @@
     "org_md5": "3cdee053bfe7a67282f14c7ff9b67264",
     "comment": "",
     "adddate": "2023\/02\/10"
+  },
+  {
+    "md5": "f2ef13a310d8d500b918c5126e13ccb1",
+    "org_level": 9,
+    "title": "GO BACK 2 YOUR RAVE [HYPER]",
+    "artist": "nora2r 出前",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1J91Awr30lOHtevDBlCt6yRFDN_ktDKJ_\/view?usp=share_link",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d751367f3ae153b1d665fea61acc97b4",
+      "55da43dac14edfb274838edc7493a2e0",
+      "f2ef13a310d8d500b918c5126e13ccb1",
+      "716cf3c49a8c5c7e4b5b78d422b445bb",
+      "0567bff7f7e3a4cbab275e5ae2ac3fab"
+    ],
+    "org_md5": "d751367f3ae153b1d665fea61acc97b4",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "321a3c09d9244cd09c9fd993bc67e8f0",
@@ -9461,6 +9533,28 @@
     "adddate": "2022\/11\/09"
   },
   {
+    "md5": "d751367f3ae153b1d665fea61acc97b4",
+    "org_level": 12,
+    "title": "GO BACK 2 YOUR RAVE [ANOTHER]",
+    "artist": "nora2r 出前",
+    "folder": "LEVEL12-(sl1~sl2)",
+    "level": "12-(sl1~sl2)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1J91Awr30lOHtevDBlCt6yRFDN_ktDKJ_\/view?usp=share_link",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d751367f3ae153b1d665fea61acc97b4",
+      "55da43dac14edfb274838edc7493a2e0",
+      "f2ef13a310d8d500b918c5126e13ccb1",
+      "716cf3c49a8c5c7e4b5b78d422b445bb",
+      "0567bff7f7e3a4cbab275e5ae2ac3fab"
+    ],
+    "org_md5": "d751367f3ae153b1d665fea61acc97b4",
+    "comment": "",
+    "adddate": "2023\/02\/14"
+  },
+  {
     "md5": "f4574b4d3ae63133c9fa5827fd88f8cc",
     "org_level": 12,
     "title": "Goodbye to Your memory [SP INSANE]",
@@ -9766,22 +9860,6 @@
     "org_md5": "56dcfb48fcef417f3ea34007944c0e0a",
     "comment": "",
     "adddate": "2023\/02\/01"
-  },
-  {
-    "md5": "db74f2fa8e093ff854f4d7c40226b4c8",
-    "org_level": 3,
-    "title": "LOSTAIR -SA-",
-    "artist": "Nardis OBJ : ランダマイザ",
-    "folder": "LEVEL12-(sl1~sl2)",
-    "level": "12-(sl1~sl2)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/drive.google.com\/file\/d\/1P8ZY2m2Oit68oS0A04SWGnGzsFqeUEO4\/view?usp=share_link",
-    "url_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "同時押し主体",
-    "adddate": "2023\/01\/27"
   },
   {
     "md5": "c660ba7698940e75a9ff45af488cc2e0",
@@ -10161,6 +10239,33 @@
     "org_md5": "",
     "comment": "sl2 同梱譜面、アウトロややゲージ回復多め。",
     "adddate": "2022\/11\/16"
+  },
+  {
+    "md5": "2500c8c660e49d08b6e554211b1498ea",
+    "org_level": 4,
+    "title": "Song [SP INSANE]",
+    "artist": "大前 司 \/ movie: Mido Sennzai×レゾナンスもえこ×大前司×kei_iwata and more 100 voices \/ obj:BAECON",
+    "folder": "LEVEL12-(sl1~sl2)",
+    "level": "12-(sl1~sl2)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=14&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c91d22c0e6e779f2be00a15d06f17637",
+      "68dda3963b59cac78e16621cc52a4718",
+      "1582198a7b5a580164d40ef8710a8131",
+      "e230ebb94562589ca5e4aa9d16d9d814",
+      "757222652598e67532cbe15b460af9f6",
+      "24b2e22d9785f544aafb63939b12e803",
+      "da072234a38b8f5d4bebbbccf79bbc40",
+      "5aeecbea1805a9804ff50fbe874086fb",
+      "2500c8c660e49d08b6e554211b1498ea",
+      "da45c89ea8d8784fb4c9eba9506a4d5b"
+    ],
+    "org_md5": "c91d22c0e6e779f2be00a15d06f17637",
+    "comment": "",
+    "adddate": "2023\/02\/16"
   },
   {
     "md5": "806cae54c5d067d1167e6601d268a36c",
@@ -10667,6 +10772,30 @@
     "adddate": "2023\/01\/30"
   },
   {
+    "md5": "e03b6b7e78bafcc7e0defccabe5ee780",
+    "org_level": 5,
+    "title": "ふたりの-><-シグナル [SP INSANE]",
+    "artist": "otoshi.b×qfeileadh×みゅい×柳瀬マサキ×レゾナンスもえこ×駒木れい",
+    "folder": "LEVEL12-(sl1~sl2)",
+    "level": "12-(sl1~sl2)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=459&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "520d1e2a0f5ec8f865d1aceab16e0e31",
+      "351b79e7d1c9750c046c0f55ffa94cad",
+      "3792d052aa9c3a1ba9be929b02e8d168",
+      "0edd8fc3148a34dea9c442e8a8a0737c",
+      "e03b6b7e78bafcc7e0defccabe5ee780",
+      "e05e18d4ed72a4202353667e4bf4c1ce",
+      "c0d76829574527e8524cf638926dcde6"
+    ],
+    "org_md5": "520d1e2a0f5ec8f865d1aceab16e0e31",
+    "comment": "",
+    "adddate": "2023\/02\/14"
+  },
+  {
     "md5": "b24dc33a35d782d2ebbc60cb2b0296b6",
     "org_level": 12,
     "title": "プラネット [A]",
@@ -10782,6 +10911,22 @@
     "org_md5": "1273495bab9aa0561cdc7fa5f0fc9a50",
     "comment": "",
     "adddate": "2022\/11\/07"
+  },
+  {
+    "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
+    "org_level": 3,
+    "title": "田中 [ANOTHER]",
+    "artist": "立秋 feat.ちょこ",
+    "folder": "LEVEL12-(sl1~sl2)",
+    "level": "12-(sl1~sl2)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=361&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl3 同梱譜面",
+    "adddate": "2023\/02\/15"
   },
   {
     "md5": "546ab34c67ab1039725455d8ed9e7786",
@@ -10942,6 +11087,31 @@
     "org_md5": "58c7cc7fabd94b15b0569843063dd3a7",
     "comment": "",
     "adddate": "2023\/01\/29"
+  },
+  {
+    "md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "org_level": 12,
+    "title": "\"Fulcrum-D\"",
+    "artist": "Lemi.",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "ddc47af3c5f5684d963348938acc8cce",
@@ -12121,6 +12291,51 @@
     "adddate": "2023\/01\/29"
   },
   {
+    "md5": "2780aaff5551505f6949e202c83d9f6e",
+    "org_level": 9,
+    "title": "GOODWORLD -Hope-",
+    "artist": "EBIMAYO \/ obj:七海千秋",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=239&event=123",
+    "url_diff": "https:\/\/www.dropbox.com\/s\/db3ux1yzttn8rhu\/_GOODWORLD_nanami01.bms?dl=0",
+    "name_diff": null,
+    "org_md5s": [
+      "76b1a277369cb77868d1ec35d452a31f",
+      "621494dbcd0c62904afaf8543887a900",
+      "503522fb02a2f279923030c1be1fcbc7",
+      "2780aaff5551505f6949e202c83d9f6e",
+      "b089d53d764554f3d42dab28f016c329"
+    ],
+    "org_md5": "76b1a277369cb77868d1ec35d452a31f",
+    "comment": "",
+    "adddate": "2023\/02\/14"
+  },
+  {
+    "md5": "99934fafefbeb66619d0d2086031612f",
+    "org_level": 12,
+    "title": "GREMLIN(ANOTHER)",
+    "artist": "kanoryo BGA:Nectoroune",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=382&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "99934fafefbeb66619d0d2086031612f",
+      "495b022094080ee81288b9898ae3625c",
+      "e53983407bb4453a4a62d96152368121",
+      "3b769c3155050fc20ecbea43fab70b63",
+      "9115cbbd85ade1c296ae8c85cd5b414d",
+      "2d1de5a9ae740b3e00abceb41d737d69"
+    ],
+    "org_md5": "99934fafefbeb66619d0d2086031612f",
+    "comment": "",
+    "adddate": "2023\/02\/13"
+  },
+  {
     "md5": "a7acabe67ba063511ecc35e71c0ffda7",
     "org_level": 12,
     "title": "GYNOID [SP LEGGENDARIA]",
@@ -12455,6 +12670,22 @@
     "adddate": "2023\/01\/29"
   },
   {
+    "md5": "db74f2fa8e093ff854f4d7c40226b4c8",
+    "org_level": 3,
+    "title": "LOSTAIR -SA-",
+    "artist": "Nardis OBJ : ランダマイザ",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1P8ZY2m2Oit68oS0A04SWGnGzsFqeUEO4\/view?usp=share_link",
+    "url_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同時押し主体",
+    "adddate": "2023\/02\/15"
+  },
+  {
     "md5": "ec3c7d3cb4c727d709cbc1a229178442",
     "org_level": 12,
     "title": "Lucent [SP INSANE]",
@@ -12682,6 +12913,39 @@
     "adddate": "2023\/01\/30"
   },
   {
+    "md5": "82edafc8f0cb779bf4872a5c2d835cde",
+    "org_level": 8,
+    "title": "New York Back Raise [FULL HOUSE]",
+    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3189f24b19e375d38d076850aaa3de9a",
+      "72a8bb9573bc5296bfa3c3250c01b0eb",
+      "39e6f8a4a9a8cca9d77c2e15641e1785",
+      "10bd23a0db41a9fd2764bcd77825cf6a",
+      "82edafc8f0cb779bf4872a5c2d835cde",
+      "bc366d45f50ca45bcefe7ad18b4eaeaf",
+      "fb5dad11be831f4b7286794ca7f1c278",
+      "a4695197ae2c9eecc245629ac84f9586",
+      "2fb078ea595f6ae168e189cd1f6f22cc",
+      "2afcf8f878df9bae0c83bbb2aacb6657",
+      "5d628afc615a1f66b28267890265246b",
+      "4523dbc1a50913f659c35a74bc3db0f8",
+      "d1a5b9b43147a550a65f46507b3444a5",
+      "5a3b85ba3430f83e43e9b25a40b85d18",
+      "49e50e5c6e1fe859c3642bace0e03632",
+      "9fce47af38ace7ab5cea246e2fbb44c5"
+    ],
+    "org_md5": "3189f24b19e375d38d076850aaa3de9a",
+    "comment": "",
+    "adddate": "2023\/02\/14"
+  },
+  {
     "md5": "55a1b882ab4632e534fcfb2e9f59f00f",
     "org_level": 12,
     "title": "Nextreme Generation [ANOTHER]",
@@ -12739,6 +13003,27 @@
     "org_md5": "",
     "comment": "sl5 同梱譜面　物量　微縦",
     "adddate": "2023\/01\/29"
+  },
+  {
+    "md5": "4f775eba5ef84e100785f3e4f3e4fc28",
+    "org_level": 12,
+    "title": "Nyan-Nyan Naughty Night [ANOTHER]",
+    "artist": "かたぎり BGI: morph",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=127&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4f775eba5ef84e100785f3e4f3e4fc28",
+      "3c5063ddcf8f76728c5d6dd290bdc269",
+      "9daa287bbf89977039777beff34d9a81",
+      "e01344b7d64159e7aa28b29d32ea6351"
+    ],
+    "org_md5": "4f775eba5ef84e100785f3e4f3e4fc28",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "e37669ffa7cf9c6746df47375b0e5b87",
@@ -13002,6 +13287,30 @@
     "adddate": "2023\/01\/30"
   },
   {
+    "md5": "d58545307e1bf7c666c0d032cdb72298",
+    "org_level": 10,
+    "title": "Shiny☆Strike!!! [SP INSANE]",
+    "artist": "otoshi.b × みゅい × はしたかさん × BAECON",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=6&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "45681e84e18abc0b7056db209a694309",
+      "0e1dc0b3aa4eb8e47bab44bbb221e4f9",
+      "7a7e23eb2a6f734152f520053422e939",
+      "228dac48516aad5b3d4ac8d8fe701ec0",
+      "87e55bebaa78bf92902a97fc724f5c9d",
+      "d58545307e1bf7c666c0d032cdb72298",
+      "f331f052132503bac19cedb667ee0876"
+    ],
+    "org_md5": "45681e84e18abc0b7056db209a694309",
+    "comment": "sl5",
+    "adddate": "2023\/02\/13"
+  },
+  {
     "md5": "b6f2c8d798b81f67a14ce05c50cb3b07",
     "org_level": 5,
     "title": "Signager -HONGKONG EXPRESS_FIX-",
@@ -13018,31 +13327,25 @@
     "adddate": "2023\/01\/30"
   },
   {
-    "md5": "2500c8c660e49d08b6e554211b1498ea",
-    "org_level": 4,
-    "title": "Song [SP INSANE]",
-    "artist": "大前 司 \/ movie: Mido Sennzai×レゾナンスもえこ×大前司×kei_iwata and more 100 voices \/ obj:BAECON",
+    "md5": "341dc9b997cf5e1211062443719bf640",
+    "org_level": 12,
+    "title": "silly-willy-nilly [IGNORANCE]",
+    "artist": "かたぎり BGA: 水無月☆★",
     "folder": "LEVEL12(sl3~sl5)",
     "level": "12(sl3~sl5)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=14&event=140",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=45&event=137",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "c91d22c0e6e779f2be00a15d06f17637",
-      "68dda3963b59cac78e16621cc52a4718",
-      "1582198a7b5a580164d40ef8710a8131",
-      "e230ebb94562589ca5e4aa9d16d9d814",
-      "757222652598e67532cbe15b460af9f6",
-      "24b2e22d9785f544aafb63939b12e803",
-      "da072234a38b8f5d4bebbbccf79bbc40",
-      "5aeecbea1805a9804ff50fbe874086fb",
-      "2500c8c660e49d08b6e554211b1498ea",
-      "da45c89ea8d8784fb4c9eba9506a4d5b"
+      "d2d5792aa418494573c6885c6b8f85f7",
+      "bdecbd6cbd99581b537a273196eac3b3",
+      "341dc9b997cf5e1211062443719bf640",
+      "cc9d334bb9568d31fa6cc2360f028322"
     ],
-    "org_md5": "c91d22c0e6e779f2be00a15d06f17637",
+    "org_md5": "d2d5792aa418494573c6885c6b8f85f7",
     "comment": "",
-    "adddate": "2023\/01\/30"
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "a51630978e19a5e706da6d0445c33c43",
@@ -13184,6 +13487,28 @@
     "org_md5": "eecea096f2fc7bdcc21b3fce42019863",
     "comment": "",
     "adddate": "2023\/02\/09"
+  },
+  {
+    "md5": "afadaff138a89eaccefe71b4c94a6dc2",
+    "org_level": 7,
+    "title": "Turndup[Refrain]",
+    "artist": "Iriss-Frantzz \/ obj:みっと",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=448&event=104",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up5998.zip",
+    "name_diff": null,
+    "org_md5s": [
+      "e0156d8bc5168b41605ded12957022ec",
+      "5443ad1dace97111fc9eaf8b0a4768f6",
+      "4fa0377aba6e7574e7aac2b73ef890eb",
+      "fbb308247dbd733ac3dec99ebe261957",
+      "afadaff138a89eaccefe71b4c94a6dc2"
+    ],
+    "org_md5": "e0156d8bc5168b41605ded12957022ec",
+    "comment": "sl7",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "fb0b8fc4c83fabce0866aca301b8b537",
@@ -13519,6 +13844,30 @@
     "adddate": "2023\/01\/30"
   },
   {
+    "md5": "d2e73bab4a9e3f474f0336c3ee0c7d2a",
+    "org_level": 20,
+    "title": "お兄火[鬼火]",
+    "artist": "Ponchi♪ feat.はぁち obj:mathath",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=208&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8a82c70b9bf5aaff7f4ac4bd825a8014",
+      "d4045c2b856bbfff77bb3aab2c9da5b5",
+      "b8e7a38adb9a48e64ec1a7fb0fccfdfd",
+      "f973aaaad058cebc81169814c4506c98",
+      "906a0d7420ad128bc1287d33df906c59",
+      "d2e73bab4a9e3f474f0336c3ee0c7d2a",
+      "5c30d6426e7bd3328d64656876fbac2e"
+    ],
+    "org_md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
+    "comment": "",
+    "adddate": "2023\/02\/15"
+  },
+  {
     "md5": "c9a4b05532d3ca8c765f6489b6cc25eb",
     "org_level": 3,
     "title": "キユビック",
@@ -13627,6 +13976,27 @@
     "org_md5": "4957a14714984a1c9052a071dff78017",
     "comment": "",
     "adddate": "2023\/01\/30"
+  },
+  {
+    "md5": "d5cfb302218ae7adb28df2d192a79d60",
+    "org_level": 4,
+    "title": "デネブ・コネクション [SP INSANE]",
+    "artist": "Abel & Kamisys mov. D_unknown & KimAutomne, obj. Triforce",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=211&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "9bca3d2918ee95f1d22e7ca977572e6e",
+      "0d405f1c0ae29646ecc57c466bf81f94",
+      "d5cfb302218ae7adb28df2d192a79d60",
+      "58dfae15713a16782d462f796a0893ad"
+    ],
+    "org_md5": "9bca3d2918ee95f1d22e7ca977572e6e",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "aef2be0aba563a99031335447a939e0c",
@@ -13909,22 +14279,6 @@
     "adddate": "2023\/01\/30"
   },
   {
-    "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
-    "org_level": 3,
-    "title": "田中 [ANOTHER]",
-    "artist": "立秋 feat.ちょこ",
-    "folder": "LEVEL12(sl3~sl5)",
-    "level": "12(sl3~sl5)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=361&event=137",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "sl3 同梱譜面",
-    "adddate": "2023\/01\/29"
-  },
-  {
     "md5": "3b7efcbaac9bd5d46c590baeff9b665d",
     "org_level": 12,
     "title": "燃ゆる白狐、匍う大蛇 [ANOTHER]",
@@ -13992,26 +14346,6 @@
     "org_md5": "7e15fa3c885687fa5c0ffa205fba1c15",
     "comment": "",
     "adddate": "2023\/01\/30"
-  },
-  {
-    "md5": "8c69b3ffbdee95be853caad5f0d345e6",
-    "org_level": 12,
-    "title": "妹 [Another Sister]",
-    "artist": "TRIAL BGA：出前",
-    "folder": "LEVEL12(sl3~sl5)",
-    "level": "12(sl3~sl5)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/venue.bmssearch.net\/bmskanji2\/8",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8c69b3ffbdee95be853caad5f0d345e6",
-      "d7f2df556132fff32ca574319041afca",
-      "496bf37464f5d2bdec2bc2256fcbf0b3"
-    ],
-    "org_md5": "8c69b3ffbdee95be853caad5f0d345e6",
-    "comment": "",
-    "adddate": "2023\/01\/31"
   },
   {
     "md5": "354377ae29357e0151283946c831cdb5",
@@ -14117,6 +14451,31 @@
     "org_md5": "d2d008d377cbe373f5822b1f5f218f57",
     "comment": "",
     "adddate": "2023\/01\/30"
+  },
+  {
+    "md5": "b7daf97b94a5e415dbf9c6922b3368b6",
+    "org_level": 12,
+    "title": "\"Fulcrum-D\" [Supersonic]",
+    "artist": "Lemi. obj:unknown \"ν\" a.k.a. hyuki",
+    "folder": "LEVEL12+(sl6~sl9)",
+    "level": "12+(sl6~sl9)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
+    "url_diff": "https:\/\/bms.hexlataia.xyz\/mirror\/gnqg-upload\/05801.zip",
+    "name_diff": null,
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "8003ae6304d047b08b3740bf09ad64e0",
@@ -14229,28 +14588,6 @@
     "org_md5": "a1ef8a82a36b41426c246756796a52ad",
     "comment": "",
     "adddate": "2023\/02\/10"
-  },
-  {
-    "md5": "863f2e1743f1192b7eec53f5c8a3cb63",
-    "org_level": 15,
-    "title": "∀ [IIDX]",
-    "artist": "ああああ obj:BAECON",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=8&event=137",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "a6e8837441b7c7a2fe8834390457b49e",
-      "5417170ffdb54d990d591c70ade70c39",
-      "863f2e1743f1192b7eec53f5c8a3cb63",
-      "ec52632347b42eb47cb74f82e9b77b56",
-      "d91df9283a09dba6a7bfb1d45ef15f77"
-    ],
-    "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
-    "comment": "",
-    "adddate": "2023\/01\/30"
   },
   {
     "md5": "97eecfdd9355f374350b4cbce168ae11",
@@ -14814,6 +15151,28 @@
     "adddate": "2022\/11\/22"
   },
   {
+    "md5": "55da43dac14edfb274838edc7493a2e0",
+    "org_level": 12,
+    "title": "GO BACK 2 YOUR RAVE [EX]",
+    "artist": "nora2r 出前 obj:krg",
+    "folder": "LEVEL12+(sl6~sl9)",
+    "level": "12+(sl6~sl9)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1J91Awr30lOHtevDBlCt6yRFDN_ktDKJ_\/view?usp=share_link",
+    "url_diff": "http:\/\/iroirokiba.web.fc2.com\/bms.html",
+    "name_diff": null,
+    "org_md5s": [
+      "d751367f3ae153b1d665fea61acc97b4",
+      "55da43dac14edfb274838edc7493a2e0",
+      "f2ef13a310d8d500b918c5126e13ccb1",
+      "716cf3c49a8c5c7e4b5b78d422b445bb",
+      "0567bff7f7e3a4cbab275e5ae2ac3fab"
+    ],
+    "org_md5": "d751367f3ae153b1d665fea61acc97b4",
+    "comment": "",
+    "adddate": "2023\/02\/14"
+  },
+  {
     "md5": "84787abf5657061b312d002d1bdc72e7",
     "org_level": 12,
     "title": "GOODDRILL [削]",
@@ -14835,29 +15194,6 @@
     "org_md5": "d700d48be863fcbe8f153b7d6f02d977",
     "comment": "",
     "adddate": "2023\/01\/30"
-  },
-  {
-    "md5": "99934fafefbeb66619d0d2086031612f",
-    "org_level": 12,
-    "title": "GREMLIN(ANOTHER)",
-    "artist": "kanoryo BGA:Nectoroune",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=382&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "99934fafefbeb66619d0d2086031612f",
-      "495b022094080ee81288b9898ae3625c",
-      "e53983407bb4453a4a62d96152368121",
-      "3b769c3155050fc20ecbea43fab70b63",
-      "9115cbbd85ade1c296ae8c85cd5b414d",
-      "2d1de5a9ae740b3e00abceb41d737d69"
-    ],
-    "org_md5": "99934fafefbeb66619d0d2086031612f",
-    "comment": "",
-    "adddate": "2022\/11\/08"
   },
   {
     "md5": "41e78d57a7f7fe8a975c438243c3c9ed",
@@ -15372,39 +15708,6 @@
     "adddate": "2022\/11\/09"
   },
   {
-    "md5": "82edafc8f0cb779bf4872a5c2d835cde",
-    "org_level": 8,
-    "title": "New York Back Raise [FULL HOUSE]",
-    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "3189f24b19e375d38d076850aaa3de9a",
-      "72a8bb9573bc5296bfa3c3250c01b0eb",
-      "39e6f8a4a9a8cca9d77c2e15641e1785",
-      "10bd23a0db41a9fd2764bcd77825cf6a",
-      "82edafc8f0cb779bf4872a5c2d835cde",
-      "bc366d45f50ca45bcefe7ad18b4eaeaf",
-      "fb5dad11be831f4b7286794ca7f1c278",
-      "a4695197ae2c9eecc245629ac84f9586",
-      "2fb078ea595f6ae168e189cd1f6f22cc",
-      "2afcf8f878df9bae0c83bbb2aacb6657",
-      "5d628afc615a1f66b28267890265246b",
-      "4523dbc1a50913f659c35a74bc3db0f8",
-      "d1a5b9b43147a550a65f46507b3444a5",
-      "5a3b85ba3430f83e43e9b25a40b85d18",
-      "49e50e5c6e1fe859c3642bace0e03632",
-      "9fce47af38ace7ab5cea246e2fbb44c5"
-    ],
-    "org_md5": "3189f24b19e375d38d076850aaa3de9a",
-    "comment": "",
-    "adddate": "2022\/10\/18"
-  },
-  {
     "md5": "a3c5073457cd55e441a0f246116ec4ef",
     "org_level": 9,
     "title": "Nextreme Generation [EXTRA]",
@@ -15492,27 +15795,6 @@
     "org_md5": "",
     "comment": "sl8 Nice chart",
     "adddate": "2023\/01\/30"
-  },
-  {
-    "md5": "4f775eba5ef84e100785f3e4f3e4fc28",
-    "org_level": 12,
-    "title": "Nyan-Nyan Naughty Night [ANOTHER]",
-    "artist": "かたぎり BGI: morph",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=127&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "4f775eba5ef84e100785f3e4f3e4fc28",
-      "3c5063ddcf8f76728c5d6dd290bdc269",
-      "9daa287bbf89977039777beff34d9a81",
-      "e01344b7d64159e7aa28b29d32ea6351"
-    ],
-    "org_md5": "4f775eba5ef84e100785f3e4f3e4fc28",
-    "comment": "",
-    "adddate": "2022\/11\/09"
   },
   {
     "md5": "0a196131cfc5d81fb3b143835b80b697",
@@ -16166,27 +16448,6 @@
     "adddate": "2022\/10\/24"
   },
   {
-    "md5": "341dc9b997cf5e1211062443719bf640",
-    "org_level": 12,
-    "title": "silly-willy-nilly [IGNORANCE]",
-    "artist": "かたぎり BGA: 水無月☆★",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=45&event=137",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "d2d5792aa418494573c6885c6b8f85f7",
-      "bdecbd6cbd99581b537a273196eac3b3",
-      "341dc9b997cf5e1211062443719bf640",
-      "cc9d334bb9568d31fa6cc2360f028322"
-    ],
-    "org_md5": "d2d5792aa418494573c6885c6b8f85f7",
-    "comment": "",
-    "adddate": "2022\/10\/25"
-  },
-  {
     "md5": "857e8c40f16cfab843e0b48576d28454",
     "org_level": 14,
     "title": "stardust explorer [INSANE]",
@@ -16360,28 +16621,6 @@
     "org_md5": "c213fe9adbad615bea7ff413f381a2cb",
     "comment": "",
     "adddate": "2022\/11\/09"
-  },
-  {
-    "md5": "afadaff138a89eaccefe71b4c94a6dc2",
-    "org_level": 7,
-    "title": "Turndup[Refrain]",
-    "artist": "Iriss-Frantzz \/ obj:みっと",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=448&event=104",
-    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up5998.zip",
-    "name_diff": null,
-    "org_md5s": [
-      "e0156d8bc5168b41605ded12957022ec",
-      "5443ad1dace97111fc9eaf8b0a4768f6",
-      "4fa0377aba6e7574e7aac2b73ef890eb",
-      "fbb308247dbd733ac3dec99ebe261957",
-      "afadaff138a89eaccefe71b4c94a6dc2"
-    ],
-    "org_md5": "e0156d8bc5168b41605ded12957022ec",
-    "comment": "sl7",
-    "adddate": "2022\/11\/16"
   },
   {
     "md5": "695fb1cbc6d11fd35d019c9112355349",
@@ -16637,27 +16876,6 @@
     "adddate": "2023\/01\/30"
   },
   {
-    "md5": "d5cfb302218ae7adb28df2d192a79d60",
-    "org_level": 4,
-    "title": "デネブ・コネクション [SP INSANE]",
-    "artist": "Abel & Kamisys mov. D_unknown & KimAutomne, obj. Triforce",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=211&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "9bca3d2918ee95f1d22e7ca977572e6e",
-      "0d405f1c0ae29646ecc57c466bf81f94",
-      "d5cfb302218ae7adb28df2d192a79d60",
-      "58dfae15713a16782d462f796a0893ad"
-    ],
-    "org_md5": "9bca3d2918ee95f1d22e7ca977572e6e",
-    "comment": "",
-    "adddate": "2022\/10\/18"
-  },
-  {
     "md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
     "org_level": 9,
     "title": "ニニ - ニサシゴ -",
@@ -16672,6 +16890,33 @@
     "org_md5": "",
     "comment": "sl9",
     "adddate": "2023\/01\/30"
+  },
+  {
+    "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
+    "org_level": 14,
+    "title": "ネイクド・ワイルド・パラノイド [夜王牙]",
+    "artist": "kei_iwata + saaa BGA:内村徹 \/ obj:saaa",
+    "folder": "LEVEL12+(sl6~sl9)",
+    "level": "12+(sl6~sl9)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8e876aba33aaa2d3caf422cad0ecfd30",
+      "75c0dad7cecaed6b446606eb7aaf067a",
+      "a351c951170f483781afe1f45861dbb4",
+      "70316c387e7efed31ddfc70ef506eea8",
+      "fc63360d02056d19635e0b66c0f3d462",
+      "504356dfc48e8abf9b54a88b509b9999",
+      "5da3018d94c69912d02d5326943af296",
+      "2faabba39629502c39567df611d0a318",
+      "fb7def20e0a22572f87f2c6690555e18",
+      "0e0e1c6f0e2548216689ae6dbe67b7e7"
+    ],
+    "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
+    "comment": "",
+    "adddate": "2023\/02\/13"
   },
   {
     "md5": "1457723aaffd98702dc52377ad7fc713",
@@ -16692,30 +16937,6 @@
     "org_md5": "48a82900b83b99ad359a1792b9e6ba53",
     "comment": "",
     "adddate": "2023\/01\/30"
-  },
-  {
-    "md5": "e03b6b7e78bafcc7e0defccabe5ee780",
-    "org_level": 5,
-    "title": "ふたりの-><-シグナル [SP INSANE]",
-    "artist": "otoshi.b×qfeileadh×みゅい×柳瀬マサキ×レゾナンスもえこ×駒木れい",
-    "folder": "LEVEL12+(sl6~sl9)",
-    "level": "12+(sl6~sl9)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=459&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "520d1e2a0f5ec8f865d1aceab16e0e31",
-      "351b79e7d1c9750c046c0f55ffa94cad",
-      "3792d052aa9c3a1ba9be929b02e8d168",
-      "0edd8fc3148a34dea9c442e8a8a0737c",
-      "e03b6b7e78bafcc7e0defccabe5ee780",
-      "e05e18d4ed72a4202353667e4bf4c1ce",
-      "c0d76829574527e8524cf638926dcde6"
-    ],
-    "org_md5": "520d1e2a0f5ec8f865d1aceab16e0e31",
-    "comment": "",
-    "adddate": "2022\/10\/24"
   },
   {
     "md5": "920be2b001bf1791794afe9e6032d324",
@@ -16904,6 +17125,28 @@
     "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
     "comment": "",
     "adddate": "2022\/10\/18"
+  },
+  {
+    "md5": "863f2e1743f1192b7eec53f5c8a3cb63",
+    "org_level": 15,
+    "title": "∀ [IIDX]",
+    "artist": "ああああ obj:BAECON",
+    "folder": "LEVEL13-(sl10~sl12)",
+    "level": "13-(sl10~sl12)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=8&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a6e8837441b7c7a2fe8834390457b49e",
+      "5417170ffdb54d990d591c70ade70c39",
+      "863f2e1743f1192b7eec53f5c8a3cb63",
+      "ec52632347b42eb47cb74f82e9b77b56",
+      "d91df9283a09dba6a7bfb1d45ef15f77"
+    ],
+    "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
+    "comment": "",
+    "adddate": "2023\/02\/13"
   },
   {
     "md5": "442d55185f1b14532c81ebb21793c5cc",
@@ -17336,6 +17579,28 @@
     "org_md5": "81e59fa3a2f294c5ed0bb8750f3729bb",
     "comment": "",
     "adddate": "2023\/01\/31"
+  },
+  {
+    "md5": "0567bff7f7e3a4cbab275e5ae2ac3fab",
+    "org_level": 18,
+    "title": "GO BACK 2 YOUR RAVE [RAVE 4 YOU]",
+    "artist": "nora2r 出前 \/ obj.siokaze",
+    "folder": "LEVEL13-(sl10~sl12)",
+    "level": "13-(sl10~sl12)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1J91Awr30lOHtevDBlCt6yRFDN_ktDKJ_\/view?usp=share_link",
+    "url_diff": "http:\/\/siokazebms.web.fc2.com\/",
+    "name_diff": null,
+    "org_md5s": [
+      "d751367f3ae153b1d665fea61acc97b4",
+      "55da43dac14edfb274838edc7493a2e0",
+      "f2ef13a310d8d500b918c5126e13ccb1",
+      "716cf3c49a8c5c7e4b5b78d422b445bb",
+      "0567bff7f7e3a4cbab275e5ae2ac3fab"
+    ],
+    "org_md5": "d751367f3ae153b1d665fea61acc97b4",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "40f931bdce724586b1545ea80eb7fde4",
@@ -17902,30 +18167,6 @@
     "adddate": "2022\/10\/24"
   },
   {
-    "md5": "d58545307e1bf7c666c0d032cdb72298",
-    "org_level": 10,
-    "title": "Shiny☆Strike!!! [SP INSANE]",
-    "artist": "otoshi.b × みゅい × はしたかさん × BAECON",
-    "folder": "LEVEL13-(sl10~sl12)",
-    "level": "13-(sl10~sl12)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=6&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "45681e84e18abc0b7056db209a694309",
-      "0e1dc0b3aa4eb8e47bab44bbb221e4f9",
-      "7a7e23eb2a6f734152f520053422e939",
-      "228dac48516aad5b3d4ac8d8fe701ec0",
-      "87e55bebaa78bf92902a97fc724f5c9d",
-      "d58545307e1bf7c666c0d032cdb72298",
-      "f331f052132503bac19cedb667ee0876"
-    ],
-    "org_md5": "45681e84e18abc0b7056db209a694309",
-    "comment": "sl10",
-    "adddate": "2022\/11\/22"
-  },
-  {
     "md5": "599ee45b7da27fb21c3df9b21f10f8bd",
     "org_level": 17,
     "title": "slic.hertz [SP Turntablism]",
@@ -18379,33 +18620,6 @@
     "adddate": "2023\/01\/30"
   },
   {
-    "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
-    "org_level": 14,
-    "title": "ネイクド・ワイルド・パラノイド [夜王牙]",
-    "artist": "kei_iwata + saaa BGA:内村徹 \/ obj:saaa",
-    "folder": "LEVEL13-(sl10~sl12)",
-    "level": "13-(sl10~sl12)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8e876aba33aaa2d3caf422cad0ecfd30",
-      "75c0dad7cecaed6b446606eb7aaf067a",
-      "a351c951170f483781afe1f45861dbb4",
-      "70316c387e7efed31ddfc70ef506eea8",
-      "fc63360d02056d19635e0b66c0f3d462",
-      "504356dfc48e8abf9b54a88b509b9999",
-      "5da3018d94c69912d02d5326943af296",
-      "2faabba39629502c39567df611d0a318",
-      "fb7def20e0a22572f87f2c6690555e18",
-      "0e0e1c6f0e2548216689ae6dbe67b7e7"
-    ],
-    "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
-    "comment": "",
-    "adddate": "2022\/10\/18"
-  },
-  {
     "md5": "216063bc06f7c34b03e8932d54b67dce",
     "org_level": 10,
     "title": "ハードルネッサンバ [ANOTHER BOSS]",
@@ -18797,28 +19011,6 @@
     "org_md5": "b3ec50bc5d0c8bf9938aeb39a215139f",
     "comment": "st0 ",
     "adddate": "2022\/10\/29"
-  },
-  {
-    "md5": "02fd0a7beaded078d6c68ae4480c5908",
-    "org_level": 21,
-    "title": "Angel's Salad [REALISM]",
-    "artist": "かたぎり BGA: 2nd_identity (mst×かたぎり) OBJ: LuvTek",
-    "folder": "LEVEL13",
-    "level": "13",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=273&event=133",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/462",
-    "name_diff": null,
-    "org_md5s": [
-      "eb40839b81944c4c0c028894a94e49f8",
-      "194a4551b70d165049ef30ecb7884cbb",
-      "97eecfdd9355f374350b4cbce168ae11",
-      "02fd0a7beaded078d6c68ae4480c5908",
-      "dc146492430a3831f63473b869caf703"
-    ],
-    "org_md5": "eb40839b81944c4c0c028894a94e49f8",
-    "comment": "st3",
-    "adddate": "2022\/11\/11"
   },
   {
     "md5": "27bcf7dfba20d0afceb257bfd46d6007",
@@ -19598,30 +19790,6 @@
     "adddate": "2023\/01\/28"
   },
   {
-    "md5": "d2e73bab4a9e3f474f0336c3ee0c7d2a",
-    "org_level": 20,
-    "title": "お兄火[鬼火]",
-    "artist": "Ponchi♪ feat.はぁち obj:mathath",
-    "folder": "LEVEL13",
-    "level": "13",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=208&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8a82c70b9bf5aaff7f4ac4bd825a8014",
-      "d4045c2b856bbfff77bb3aab2c9da5b5",
-      "b8e7a38adb9a48e64ec1a7fb0fccfdfd",
-      "f973aaaad058cebc81169814c4506c98",
-      "906a0d7420ad128bc1287d33df906c59",
-      "d2e73bab4a9e3f474f0336c3ee0c7d2a",
-      "5c30d6426e7bd3328d64656876fbac2e"
-    ],
-    "org_md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
-    "comment": "",
-    "adddate": "2022\/11\/06"
-  },
-  {
     "md5": "b999d0c6c03f26642f14833d0ad31ad2",
     "org_level": 2,
     "title": "コモリヌ -Despair & Hope-",
@@ -20012,6 +20180,28 @@
     "org_md5": "",
     "comment": "st5",
     "adddate": "2022\/11\/08"
+  },
+  {
+    "md5": "02fd0a7beaded078d6c68ae4480c5908",
+    "org_level": 21,
+    "title": "Angel's Salad [REALISM]",
+    "artist": "かたぎり BGA: 2nd_identity (mst×かたぎり) OBJ: LuvTek",
+    "folder": "LEVEL14",
+    "level": "14",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=273&event=133",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/462",
+    "name_diff": null,
+    "org_md5s": [
+      "eb40839b81944c4c0c028894a94e49f8",
+      "194a4551b70d165049ef30ecb7884cbb",
+      "97eecfdd9355f374350b4cbce168ae11",
+      "02fd0a7beaded078d6c68ae4480c5908",
+      "dc146492430a3831f63473b869caf703"
+    ],
+    "org_md5": "eb40839b81944c4c0c028894a94e49f8",
+    "comment": "st3",
+    "adddate": "2023\/02\/13"
   },
   {
     "md5": "096087f9fec3c8f065912682314e3496",
@@ -21215,6 +21405,31 @@
     "org_md5": "d2d008d377cbe373f5822b1f5f218f57",
     "comment": "",
     "adddate": "2023\/02\/10"
+  },
+  {
+    "md5": "b6b02c390d528055bcd02025dd2eb3ae",
+    "org_level": 25,
+    "title": "\"Fulcrum-D\" [FINAL DIVE]",
+    "artist": "Lemi. \/ obj:NoName",
+    "folder": "LEVEL15",
+    "level": "15",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2471",
+    "name_diff": null,
+    "org_md5s": [
+      "ad12cfa7dbbe9b558907cda06877f722",
+      "e7f1f1bd6f9ea4355d41f00b1575282e",
+      "6d43dd99edaf61df2620175da7f79eec",
+      "673f1160b45ab4128bcdf37550d41345",
+      "cfe9b3ce956fb12d6fe2aad598343a33",
+      "149631195a0b8a321b49747ce08cd983",
+      "b6b02c390d528055bcd02025dd2eb3ae",
+      "b7daf97b94a5e415dbf9c6922b3368b6"
+    ],
+    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
+    "comment": "",
+    "adddate": "2023\/02\/14"
   },
   {
     "md5": "7f2cbe01342d3935dd6e72a7ef2b4aa3",
