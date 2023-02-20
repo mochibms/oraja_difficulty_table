@@ -11,10 +11,10 @@
     "12.3(B+)",
     "12.4(A)",
     "12.5(A+)",
-    "12.6(S下位)",
-    "12.7(S中位)",
-    "12.8(S上位~S+)",
-    "12.9",
+    "12.6(S下~中)",
+    "12.7(S上~S+下)",
+    "12.8(S+中~上)",
+    "12.9(本家最難関)",
     "13"
   ],
   "folder_order": [ ],
@@ -23,8 +23,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2023\/02\/17",
+  "last_update": "2023\/02\/20",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2023\/02\/17"
+  "output_date": "2023\/02\/20"
 }
