@@ -1137,6 +1137,28 @@
     "adddate": "2023\/02\/09"
   },
   {
+    "md5": "a89c4538e2314bd252bef0c475ef4965",
+    "org_level": 8,
+    "title": "Avantgarde [Normal]",
+    "artist": "Raimukun movie:あるし \/ obj:スノート",
+    "folder": "LEVEL8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "619b191dfe5a9baa81d1d5c18289bd22",
+      "108e19da9af56cabcb71e78a630ab1eb",
+      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+      "77a8c02f706786f4bd9776e7811ed584",
+      "a89c4538e2314bd252bef0c475ef4965"
+    ],
+    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
+    "comment": "",
+    "adddate": "2023\/02\/20"
+  },
+  {
     "md5": "e9f90880da22f225d702dea8754bbadd",
     "org_level": 8,
     "title": "Dreadnought [ADVANCE]",
@@ -5659,26 +5681,26 @@
     "adddate": "2022\/10\/23"
   },
   {
-    "md5": "34cbb2fce4af4e553f1d8b678ac93e2f",
+    "md5": "77a8c02f706786f4bd9776e7811ed584",
     "org_level": 11,
     "title": "Avantgarde [Hyper]",
     "artist": "Raimukun movie:あるし \/ obj:スノート",
     "folder": "LEVEL11",
     "level": "11",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=306&event=140",
+    "url": "",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "81935075099890fc3867b52027d42829",
-      "cb019a264c4cd21149b1e7b519956343",
-      "8b46a4d7e2ac59b9aa56eae5287b318d",
-      "34cbb2fce4af4e553f1d8b678ac93e2f",
-      "130461e4e60e187070d9065d453d3643"
+      "619b191dfe5a9baa81d1d5c18289bd22",
+      "108e19da9af56cabcb71e78a630ab1eb",
+      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+      "77a8c02f706786f4bd9776e7811ed584",
+      "a89c4538e2314bd252bef0c475ef4965"
     ],
-    "org_md5": "81935075099890fc3867b52027d42829",
+    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2023\/02\/20"
   },
   {
     "md5": "e333b8e546cd5694c6e8dcbcbd1ef541",
@@ -14633,26 +14655,26 @@
     "adddate": "2022\/11\/12"
   },
   {
-    "md5": "81935075099890fc3867b52027d42829",
+    "md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "org_level": 12,
     "title": "Avantgarde [Another]",
     "artist": "Raimukun movie:あるし \/ obj:スノート",
     "folder": "LEVEL12+(sl6~sl9)",
     "level": "12+(sl6~sl9)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=306&event=140",
+    "url": "",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "81935075099890fc3867b52027d42829",
-      "cb019a264c4cd21149b1e7b519956343",
-      "8b46a4d7e2ac59b9aa56eae5287b318d",
-      "34cbb2fce4af4e553f1d8b678ac93e2f",
-      "130461e4e60e187070d9065d453d3643"
+      "619b191dfe5a9baa81d1d5c18289bd22",
+      "108e19da9af56cabcb71e78a630ab1eb",
+      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+      "77a8c02f706786f4bd9776e7811ed584",
+      "a89c4538e2314bd252bef0c475ef4965"
     ],
-    "org_md5": "81935075099890fc3867b52027d42829",
+    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "comment": "",
-    "adddate": "2022\/10\/18"
+    "adddate": "2023\/02\/20"
   },
   {
     "md5": "e11ea3e5107888481425f76d7da26222",
@@ -17203,26 +17225,26 @@
     "adddate": "2022\/11\/16"
   },
   {
-    "md5": "8b46a4d7e2ac59b9aa56eae5287b318d",
+    "md5": "a43f1684cb8f38b9f8ca961ba8ce7ec0",
     "org_level": 19,
     "title": "Avantgarde [Black Another]",
     "artist": "Raimukun movie:あるし \/ obj:スノート",
     "folder": "LEVEL13-(sl10~sl12)",
     "level": "13-(sl10~sl12)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=306&event=140",
+    "url": "",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "81935075099890fc3867b52027d42829",
-      "cb019a264c4cd21149b1e7b519956343",
-      "8b46a4d7e2ac59b9aa56eae5287b318d",
-      "34cbb2fce4af4e553f1d8b678ac93e2f",
-      "130461e4e60e187070d9065d453d3643"
+      "619b191dfe5a9baa81d1d5c18289bd22",
+      "108e19da9af56cabcb71e78a630ab1eb",
+      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+      "77a8c02f706786f4bd9776e7811ed584",
+      "a89c4538e2314bd252bef0c475ef4965"
     ],
-    "org_md5": "81935075099890fc3867b52027d42829",
+    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "comment": "",
-    "adddate": "2022\/11\/11"
+    "adddate": "2023\/02\/20"
   },
   {
     "md5": "e4caeb4936707106b95983ebbd028f81",
