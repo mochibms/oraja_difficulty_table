@@ -780,6 +780,37 @@
     "adddate": "2023\/02\/15"
   },
   {
+    "md5": "fb0b8fc4c83fabce0866aca301b8b537",
+    "org_level": 12,
+    "title": "Twin☆kle Snowglobe [SP ANOTHER]",
+    "artist": "翡乃イスカ × otoshi.b Illust:TOYCAT obj:BAECON",
+    "folder": "LEVEL2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8bdec8b414553eb6d7975dfd7f4ffd63",
+      "7e4e23b8d9698049482183464756b06c",
+      "587ed48a57bddb260ba3965f58857915",
+      "fb0b8fc4c83fabce0866aca301b8b537",
+      "daf577f25dbc5e27d52e8f134ae3ed4d",
+      "a90ed988ac9b343b1011f826305e8ebe",
+      "67703ddeceee3b837a46ebb7945c71d7",
+      "2e8140e89b2d3600bc40d0cf1c0e6b3a",
+      "61da587633ea1f0f907af71463bb5fd0",
+      "727a209424f3b4b8bce768ddbdef3044",
+      "ad511caaa06f708ee7e7642d33716ed0",
+      "01774ca3ad0662ffd1581df6a297cef5",
+      "2edcfc70da2d7950206a3b0b93279d78",
+      "4bd5b6e034c1766a699f851862725aaa"
+    ],
+    "org_md5": "8bdec8b414553eb6d7975dfd7f4ffd63",
+    "comment": "",
+    "adddate": "2023\/02\/18"
+  },
+  {
     "md5": "6382797789a4791da0e5750fb34d1fb2",
     "org_level": 2,
     "title": "Wonderful Tomorrow [WONDER]",
@@ -2880,6 +2911,31 @@
     "adddate": "2023\/02\/15"
   },
   {
+    "md5": "03910179a5facdf570d15823fdaac281",
+    "org_level": 12,
+    "title": "FortunA[INSANE]",
+    "artist": "くるやのぶ BGA : 珊瑚",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "356a6af909c400ebd7ad9bf75925ce59",
+      "3c5f1e376cc1f1e2cfea5bc3ac1df0a7",
+      "9cd28dce209ed81aab90261608196a28",
+      "255f2a67628304d2ee7d2bc008dce002",
+      "d10d2bce89524fd1fc7821058ae35b9b",
+      "e9ece2e30e87d34a38b7d364698d7e35",
+      "03910179a5facdf570d15823fdaac281",
+      "2e9ee2fdfcaa955b8c60f6d7eca364d4"
+    ],
+    "org_md5": "356a6af909c400ebd7ad9bf75925ce59",
+    "comment": "",
+    "adddate": "2023\/02\/18"
+  },
+  {
     "md5": "dfc6c3ddb37c46ccaccc4696b985fd10",
     "org_level": 12,
     "title": "FUN PARTY OF THE BEACH!!!",
@@ -3306,26 +3362,26 @@
     "adddate": "2023\/02\/15"
   },
   {
-    "md5": "81935075099890fc3867b52027d42829",
+    "md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "org_level": 12,
     "title": "Avantgarde [Another]",
     "artist": "Raimukun movie:あるし \/ obj:スノート",
     "folder": "LEVEL11",
     "level": "11",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=306&event=140",
+    "url": "",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "81935075099890fc3867b52027d42829",
-      "cb019a264c4cd21149b1e7b519956343",
-      "8b46a4d7e2ac59b9aa56eae5287b318d",
-      "34cbb2fce4af4e553f1d8b678ac93e2f",
-      "130461e4e60e187070d9065d453d3643"
+      "619b191dfe5a9baa81d1d5c18289bd22",
+      "108e19da9af56cabcb71e78a630ab1eb",
+      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+      "77a8c02f706786f4bd9776e7811ed584",
+      "a89c4538e2314bd252bef0c475ef4965"
     ],
-    "org_md5": "81935075099890fc3867b52027d42829",
+    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "comment": "",
-    "adddate": "2023\/02\/13"
+    "adddate": "2023\/02\/20"
   },
   {
     "md5": "d33ebbad2b49d1bd7646bda3c1ce0c5c",
@@ -7536,26 +7592,26 @@
     "adddate": "2023\/02\/13"
   },
   {
-    "md5": "8b46a4d7e2ac59b9aa56eae5287b318d",
+    "md5": "a43f1684cb8f38b9f8ca961ba8ce7ec0",
     "org_level": 19,
     "title": "Avantgarde [Black Another]",
     "artist": "Raimukun movie:あるし \/ obj:スノート",
     "folder": "LEVEL19",
     "level": "19",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=306&event=140",
+    "url": "",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "81935075099890fc3867b52027d42829",
-      "cb019a264c4cd21149b1e7b519956343",
-      "8b46a4d7e2ac59b9aa56eae5287b318d",
-      "34cbb2fce4af4e553f1d8b678ac93e2f",
-      "130461e4e60e187070d9065d453d3643"
+      "619b191dfe5a9baa81d1d5c18289bd22",
+      "108e19da9af56cabcb71e78a630ab1eb",
+      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+      "77a8c02f706786f4bd9776e7811ed584",
+      "a89c4538e2314bd252bef0c475ef4965"
     ],
-    "org_md5": "81935075099890fc3867b52027d42829",
+    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "comment": "",
-    "adddate": "2023\/02\/13"
+    "adddate": "2023\/02\/20"
   },
   {
     "md5": "e4caeb4936707106b95983ebbd028f81",
