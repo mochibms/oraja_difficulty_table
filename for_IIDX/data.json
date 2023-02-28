@@ -4141,6 +4141,33 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "a383dfc55f1b5122cd38a055d1c2ae91",
+    "org_level": 12,
+    "title": "葡萄茶の寫眞機 -Photography-",
+    "artist": "魔界都市ニイガタ obj.Lapis_BK（dawn-system\/黄泉路テヂーモ\/かゆき\/自動車 原付）",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7e15fa3c885687fa5c0ffa205fba1c15",
+      "18f27af79f891437b7daf893582b62ac",
+      "a066ee11c2ceb1f1ac54735aef74ca0f",
+      "418ca393df9b23102519a06581f282a0",
+      "7ffb6e6168f38e79ff4414a11ce1c1a5",
+      "16a5e6b5b3de5efd9930fb1051b4968c",
+      "759bda365ff26ac1e9f8c88af445e7ba",
+      "e5d0abf74f3fa42abcf29e60afd1c401",
+      "15be18c857675b5ba6cfef46d9f427fb",
+      "a383dfc55f1b5122cd38a055d1c2ae91"
+    ],
+    "org_md5": "7e15fa3c885687fa5c0ffa205fba1c15",
+    "comment": "",
+    "adddate": "2023\/02\/27"
+  },
+  {
     "md5": "8003ae6304d047b08b3740bf09ad64e0",
     "org_level": 12,
     "title": "#DoomeyTunes [SP ANOTHER]",
@@ -4352,6 +4379,22 @@
     "org_md5": "9c9d15c8694037654b62d97111a16f56",
     "comment": "",
     "adddate": "2023\/02\/21"
+  },
+  {
+    "md5": "ee21ce9f5b84794c69e64e6d6d27caed",
+    "org_level": 10,
+    "title": "Parousia[ANOTHER]",
+    "artist": "xi",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": "112000",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=281&event=74",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同梱譜面GENOSIDE段位認定 発狂四段 4曲目",
+    "adddate": "2023\/02\/27"
   },
   {
     "md5": "b4a3b81892e9ccdf199a6643a61add76",
@@ -4629,6 +4672,22 @@
     "adddate": "2023\/02\/24"
   },
   {
+    "md5": "18a3d4f7f8b1d35277e759e5643a4757",
+    "org_level": 12,
+    "title": "cold planet -Blue Marble-",
+    "artist": "knot \/ obj:あーさん",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": "70916",
+    "url": "http:\/\/web.archive.org\/web\/20071210121539\/http:\/\/www.geocities.jp\/panda_bms\/sengoku.html",
+    "url_diff": "http:\/\/drowsy.hannnari.com\/",
+    "name_diff": "http:\/\/drowsy.hannnari.com\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "GENOSIDE段位認定 発狂五段 4曲目",
+    "adddate": "2023\/02\/27"
+  },
+  {
     "md5": "03910179a5facdf570d15823fdaac281",
     "org_level": 12,
     "title": "FortunA[INSANE]",
@@ -4674,6 +4733,22 @@
     "org_md5": "d751367f3ae153b1d665fea61acc97b4",
     "comment": "",
     "adddate": "2023\/02\/21"
+  },
+  {
+    "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
+    "org_level": 12,
+    "title": "HAELEQUIN",
+    "artist": "orangentle \/ deadblue238",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": "140320",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=389&event=83",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "> 公式パッケージのものは古くなっています。現在の会場のものを使用してください。",
+    "adddate": "2023\/02\/27"
   },
   {
     "md5": "9bf6d97af8230afe99d48d73f0a595bc",
@@ -4746,6 +4821,38 @@
     "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
     "comment": "",
     "adddate": "2023\/02\/16"
+  },
+  {
+    "md5": "832a7a12d7c830e0eea307250450a78f",
+    "org_level": 12,
+    "title": "Metatron [YHWH]",
+    "artist": "SHIKI \/ obj.swa",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": "217742",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=146&event=104",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up5826.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up5826.zip",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/02\/27"
+  },
+  {
+    "md5": "db91d03800a7a171fe8d33300fefbe2e",
+    "org_level": 12,
+    "title": "Pure Ruby [Another+]",
+    "artist": "SHIKI \/ air",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": "646",
+    "url": "http:\/\/shiki2.sakura.ne.jp\/",
+    "url_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "name_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/02\/27"
   },
   {
     "md5": "7c619937f0448c48e4b7de0c5da8940c",
@@ -4917,6 +5024,22 @@
     "org_md5": "8e692cbbd4b18f16bca5b7a0ddbbecd0",
     "comment": "",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "acc60924b0410990fc7d47cea561a441",
+    "org_level": 13,
+    "title": "ELECTRiCiTY [7_voltage]",
+    "artist": "NIKITA \/ misokabocha obj.screw",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": "197959",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=57&event=96",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up4764.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/uploader\/upload.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "up4764.zip",
+    "adddate": "2023\/02\/27"
   },
   {
     "md5": "5670df6611ea668b266b07a4f8c6f445",
@@ -5141,6 +5264,22 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "7fd4d1b5a767fd97343129157782a95f",
+    "org_level": 13,
+    "title": "Toki (Sound piercer's Timesucker Remix) [Personality]",
+    "artist": "puru twk. sound piercer (feat.Hee Bun.D) \/obj:BAECON vs みっと",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": "187604",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=115&event=93",
+    "url_diff": "http:\/\/joka193.blog.fc2.com\/blog-entry-99.html",
+    "name_diff": "http:\/\/joka193.blog.fc2.com\/blog-entry-99.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BAECON差分難易度表 http:\/\/akred.web.fc2.com\/baecon.htmlhttp:\/\/akred.web.fc2.com\/baecon\/puru_twk_sp_toki_remix_spP_BAECON_mitto.bme差分 右クリックで保存",
+    "adddate": "2023\/02\/27"
+  },
+  {
     "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
     "org_level": 14,
     "title": "ネイクド・ワイルド・パラノイド [夜王牙]",
@@ -5166,6 +5305,22 @@
     "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
     "comment": "",
     "adddate": "2023\/02\/22"
+  },
+  {
+    "md5": "8b71de41395ff4f802b4e6fa7d92f9c0",
+    "org_level": 13,
+    "title": "白と臙脂のオモチャバコ[DELAY]",
+    "artist": "BACO feat. るぜ \/差分 赤い人",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": "144894",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=207&event=83",
+    "url_diff": "http:\/\/akred.web.fc2.com\/bmsfile\/whitelolita-DELAY.bme",
+    "name_diff": "http:\/\/akred.web.fc2.com\/bmsfile\/whitelolita-DELAY.bme",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "差分 右クリックで保存赤い人難易度表 http:\/\/akred.web.fc2.com\/ak-red.html",
+    "adddate": "2023\/02\/27"
   },
   {
     "md5": "d2d008d377cbe373f5822b1f5f218f57",
