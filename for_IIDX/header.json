@@ -15,8 +15,9 @@
     "12.7(HARD適正CPI1800~1850)",
     "12.8(HARD適正CPI1850~1900)",
     "12.9(HARD適正CPI1900~1950)",
-    "13.0(HARD適正CPI2000~2050)",
-    "13.1(HARD適正CPI2050~?)"
+    "13.0(HARD適正CPI1950~2000)",
+    "13.1(HARD適正CPI2000~2050)",
+    "13.2(HARD適正CPI2050~?)"
   ],
   "folder_order": [ ],
   "folder_sort_key": "",
@@ -24,8 +25,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2023\/03\/06",
+  "last_update": "2023\/04\/04",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2023\/03\/06"
+  "output_date": "2023\/04\/04"
 }
