@@ -20639,6 +20639,54 @@
     "adddate": "2023\/04\/10"
   },
   {
+    "md5": "add6209f52df4d9c18d31a5a33e0b606",
+    "org_level": 12,
+    "title": "悠奏線上のアスタルテ [DP ANOTHER]",
+    "artist": "FIG \/ obj.LetsOTL",
+    "folder": "難易度査定待ち",
+    "level": "難易度査定待ち",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e597252fc1436813d10a56d7a89571a8",
+      "2a277aa43a85b11b50e70bca9ae53209",
+      "add6209f52df4d9c18d31a5a33e0b606",
+      "41ea7e8559cb7843699a57a647451b47",
+      "d333792b51ad1742a1ddcb8bfd4505c1",
+      "5486522bdff9cbe1e3f1515cd4eed553",
+      "fcf6c8fffd2af1cbfe71b9e594dd841f"
+    ],
+    "org_md5": "e597252fc1436813d10a56d7a89571a8",
+    "comment": "",
+    "adddate": "2023\/04\/15"
+  },
+  {
+    "md5": "d19ebfa62eac8780ed709d0292b2edb6",
+    "org_level": 12,
+    "title": "Snow White [DP CHALLENGER]",
+    "artist": "Puru obj:kuro",
+    "folder": "難易度査定待ち",
+    "level": "難易度査定待ち",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fd8425255fbde9dd84e6db44ffb12329",
+      "f2031ebb98737ec4e0b9103002f6b2a4",
+      "6f221aaf6c9d339be59690ec349aa588",
+      "397c432fe411fd697f1274382132150f",
+      "0f461248675b40f3347e1352f3921e9a",
+      "d19ebfa62eac8780ed709d0292b2edb6",
+      "cefe6b663617f546a792d8e6532aa870"
+    ],
+    "org_md5": "fd8425255fbde9dd84e6db44ffb12329",
+    "comment": "",
+    "adddate": "2023\/04\/15"
+  },
+  {
     "md5": "2d2761a1ada35b94dead1bc99dd74224",
     "org_level": 13,
     "title": "The Island of Albatross [14Keys]",
