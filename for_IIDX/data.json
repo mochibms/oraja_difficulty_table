@@ -5682,6 +5682,22 @@
     "adddate": "2023\/04\/12"
   },
   {
+    "md5": "e385b553488a23c440c776ba18649803",
+    "org_level": 9,
+    "title": "Sunset Toybox [yumether]",
+    "artist": "テヅカ x Aoi feat.桃雛なの \/ obj:夢瑠",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=498&event=133",
+    "url_diff": "https:\/\/dl.dropboxusercontent.com\/s\/wi896g8u0kgx4nn\/_Sunset_Toybox_yume.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同時押し、乱打",
+    "adddate": "2023\/04\/15"
+  },
+  {
     "md5": "34d94660c2d8232b8339703543a9343c",
     "org_level": 14,
     "title": "$trange Attraktor [MASTER]",
@@ -5800,22 +5816,6 @@
     "adddate": "2023\/04\/12"
   },
   {
-    "md5": "e385b553488a23c440c776ba18649803",
-    "org_level": 9,
-    "title": "Sunset Toybox [yumether]",
-    "artist": "テヅカ x Aoi feat.桃雛なの \/ obj:夢瑠",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=498&event=133",
-    "url_diff": "https:\/\/dl.dropboxusercontent.com\/s\/wi896g8u0kgx4nn\/_Sunset_Toybox_yume.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "同時押し、乱打",
-    "adddate": "2023\/04\/12"
-  },
-  {
     "md5": "bcf7607db2955c8979b54a0981b5eeb6",
     "org_level": 16,
     "title": "Yakumo >>JOINT STRUGGLE-隙間-",
@@ -5919,6 +5919,22 @@
     ],
     "org_md5": "d53f6973fe20b8372ec346975e207439",
     "comment": "",
+    "adddate": "2023\/04\/12"
+  },
+  {
+    "md5": "67a76e7d26f3c3ea99fdc6f912f83021",
+    "org_level": 18,
+    "title": "Dreadnought [Fragarach]",
+    "artist": "Mastermind(xi+nora2r) iimo \/ Obj. LAPIS vs Triforce",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
+    "lr2_bmsid": "220863",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=410&event=104",
+    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BOF,G2R系 up0962HS-FIX MAXBPM対応Triforce : https:\/\/sites.google.com\/site\/lr2triforce\/sabun",
     "adddate": "2023\/04\/12"
   },
   {
