@@ -3671,6 +3671,30 @@
     "adddate": "2023\/03\/16"
   },
   {
+    "md5": "ac78db41c60dd143a42790b977b05e13",
+    "org_level": 12,
+    "title": "Black Wings [DP 202THER]",
+    "artist": "Abel & litmus* feat. nayuta obj:plum",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "de475e7a59abefb5fd5fde991257dfea",
+      "810cd949dce256602f29117d6a0a3591",
+      "00dbff7d9264bf41c503edb3d5899e2b",
+      "d10c53876eee3e4c57f267a1d77a31c5",
+      "a48798b01daf2f86a0f89f3c52ccaf80",
+      "653ad09b64378ea862ff3368b52634db",
+      "ac78db41c60dd143a42790b977b05e13"
+    ],
+    "org_md5": "de475e7a59abefb5fd5fde991257dfea",
+    "comment": "",
+    "adddate": "2023\/04\/20"
+  },
+  {
     "md5": "ed6c53f4a405cde88ddd5c48333ba310",
     "org_level": 1,
     "title": "Cube of mind",
