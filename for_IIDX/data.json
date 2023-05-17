@@ -1881,6 +1881,27 @@
     "adddate": "2023\/02\/17"
   },
   {
+    "md5": "5e7f3e98d6ea402ac03c145fdc5e4322",
+    "org_level": 11,
+    "title": "クエンさん＊ガバメント",
+    "artist": "黄泉路テヂーモ \/ 出前",
+    "folder": "LEVEL12.0(HARD適正CPI1400~1500)",
+    "level": "12.0(HARD適正CPI1400~1500)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/82",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4cf90838e9a838a4becd786b51c979a9",
+      "8f929a22cb0962a77fb9c20f05d17219",
+      "5e7f3e98d6ea402ac03c145fdc5e4322",
+      "ab464b2ff3811b4cefe23b3a9866510d"
+    ],
+    "org_md5": "4cf90838e9a838a4becd786b51c979a9",
+    "comment": "",
+    "adddate": "2023\/04\/19"
+  },
+  {
     "md5": "b05196e19567cd6bbed47a10057b203c",
     "org_level": 1,
     "title": "ハッピーフェイクショー[SP Another]",
@@ -5758,6 +5779,22 @@
     "adddate": "2023\/04\/12"
   },
   {
+    "md5": "a349367da4bf5f5c7c03095acf61e762",
+    "org_level": 18,
+    "title": "GOODTEK [SA]",
+    "artist": "EBIMAYO OBJ : ランダマイザ",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": "221211",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=83&event=104",
+    "url_diff": "http:\/\/absolute.pv.land.to\/bof\/src\/up0984.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bof\/upload.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BOF,G2R up0984.zipup0928.rarの修正版 元譜面→http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsid=220179(ズレ抜け修正による違和感を無くすため意図的に1ノート追加しています)",
+    "adddate": "2023\/05\/17"
+  },
+  {
     "md5": "f96cf3af3d9356407bff483d27f4aecc",
     "org_level": 16,
     "title": "IKAROS [ODYSSEA]",
@@ -5987,6 +6024,22 @@
     "org_md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
     "comment": "",
     "adddate": "2023\/04\/12"
+  },
+  {
+    "md5": "f0feb9654ae044c0e95ebf68e2497c2e",
+    "org_level": 19,
+    "title": "Lemuria [Tyrfing]",
+    "artist": "Festa 鑓田(alpha complex) \/ Obj.Lapis vs Triforce",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
+    "lr2_bmsid": "238093",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=536&event=110",
+    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "http:\/\/gnqg.rosx.net\/upload\/up00185",
+    "adddate": "2023\/05\/17"
   },
   {
     "md5": "d7d5652bf8d7efad1fc26975a4615f1a",
