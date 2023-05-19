@@ -5035,36 +5035,6 @@
     "adddate": "2023\/02\/22"
   },
   {
-    "md5": "bae8c1d74a0e9ee020ebeb4c80d62ef0",
-    "org_level": 12,
-    "title": "MESMERA [SP HYPER]",
-    "artist": "qfeileadh + 空読無 白眼 obj:saaa",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "5f13faac41fa168a4747aab495a6f6cf",
-      "212e9819506aaa900def865c3dc605cb",
-      "808c0a8c8db0a82ecc421f1ee791224c",
-      "43918743cb514cb23a0019133d5b9b00",
-      "bae8c1d74a0e9ee020ebeb4c80d62ef0",
-      "96a5b7861d91d03cb82495abef5b8c8b",
-      "bb843baa1332cdacd049f1e142c79045",
-      "c8b2ac0275e79c7f1d84ddf0898d8775",
-      "30c34a8781916905ef16530b3678b317",
-      "d3b9520546d44db54c1685c02d7a45f8",
-      "6e813cbe9b7977033cbb23bcb40db1f1",
-      "63fe5d77296433f850a19065a598ea96",
-      "7d9fe6210ab4e989f37f2e24a54c1bc5"
-    ],
-    "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
-    "comment": "",
-    "adddate": "2023\/02\/16"
-  },
-  {
     "md5": "832a7a12d7c830e0eea307250450a78f",
     "org_level": 12,
     "title": "Metatron [YHWH]",
@@ -5309,6 +5279,36 @@
     "org_md5": "",
     "comment": "sl8 BPM225 高速階段",
     "adddate": "2023\/02\/22"
+  },
+  {
+    "md5": "bae8c1d74a0e9ee020ebeb4c80d62ef0",
+    "org_level": 12,
+    "title": "MESMERA [SP HYPER]",
+    "artist": "qfeileadh + 空読無 白眼 obj:saaa",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5f13faac41fa168a4747aab495a6f6cf",
+      "212e9819506aaa900def865c3dc605cb",
+      "808c0a8c8db0a82ecc421f1ee791224c",
+      "43918743cb514cb23a0019133d5b9b00",
+      "bae8c1d74a0e9ee020ebeb4c80d62ef0",
+      "96a5b7861d91d03cb82495abef5b8c8b",
+      "bb843baa1332cdacd049f1e142c79045",
+      "c8b2ac0275e79c7f1d84ddf0898d8775",
+      "30c34a8781916905ef16530b3678b317",
+      "d3b9520546d44db54c1685c02d7a45f8",
+      "6e813cbe9b7977033cbb23bcb40db1f1",
+      "63fe5d77296433f850a19065a598ea96",
+      "7d9fe6210ab4e989f37f2e24a54c1bc5"
+    ],
+    "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
+    "comment": "",
+    "adddate": "2023\/05\/18"
   },
   {
     "md5": "b87f1a693ab02b82ba065ad60609055a",
@@ -5601,6 +5601,22 @@
     "adddate": "2023\/02\/23"
   },
   {
+    "md5": "658844178430ee6b1ce80431c23c2bf9",
+    "org_level": 9,
+    "title": "Chasing Stars [LIMITLESS]",
+    "artist": "lixound mov:Xquid",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=21&num=39&order=reg&odtype=a",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl9",
+    "adddate": "2023\/05\/19"
+  },
+  {
     "md5": "5670df6611ea668b266b07a4f8c6f445",
     "org_level": 12,
     "title": "Everlasting Darkness [Another]",
@@ -5617,6 +5633,22 @@
     "org_md5": "5670df6611ea668b266b07a4f8c6f445",
     "comment": "",
     "adddate": "2023\/04\/12"
+  },
+  {
+    "md5": "f96cf3af3d9356407bff483d27f4aecc",
+    "org_level": 16,
+    "title": "IKAROS [ODYSSEA]",
+    "artist": "ETIA. feat. Jenga Movie: HDLV \/ obj: swa",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": "238363",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=2&event=110",
+    "url_diff": "http:\/\/swamelo.web.fc2.com\/_ikaros_slslsl.bme",
+    "name_diff": "http:\/\/swamelo.web.fc2.com\/_ikaros_slslsl.bme",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "★16 差分右クリック保存",
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "7fe0c3fb20855e866151b5465d2c662a",
@@ -5676,6 +5708,22 @@
     "adddate": "2023\/04\/12"
   },
   {
+    "md5": "0d74abe1b55e4c7de690a956543f097b",
+    "org_level": 9,
+    "title": "SHI☆A☆WA☆SE [幸]",
+    "artist": "eye burn Reading: 冬乃桜, obj. w",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=226&event=116",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/177",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "高速\/階段",
+    "adddate": "2023\/05\/19"
+  },
+  {
     "md5": "f92b3721409a0973b1b5e0268b1fc5c3",
     "org_level": 16,
     "title": "Stellaria [INSANE7]",
@@ -5719,6 +5767,22 @@
     "adddate": "2023\/04\/15"
   },
   {
+    "md5": "bcf7607db2955c8979b54a0981b5eeb6",
+    "org_level": 16,
+    "title": "Yakumo >>JOINT STRUGGLE-隙間-",
+    "artist": "くっちーvsあっきー \/ obj:SUKIMA",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": "64434",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=55&event=60",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up0956.rar",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "汎用up0956GENOSIDE段位認定 発狂六段 1曲目",
+    "adddate": "2023\/05\/19"
+  },
+  {
     "md5": "34d94660c2d8232b8339703543a9343c",
     "org_level": 14,
     "title": "$trange Attraktor [MASTER]",
@@ -5747,6 +5811,28 @@
     "adddate": "2023\/04\/12"
   },
   {
+    "md5": "863f2e1743f1192b7eec53f5c8a3cb63",
+    "org_level": 15,
+    "title": "∀ [IIDX]",
+    "artist": "ああああ obj:BAECON",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=8&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a6e8837441b7c7a2fe8834390457b49e",
+      "5417170ffdb54d990d591c70ade70c39",
+      "863f2e1743f1192b7eec53f5c8a3cb63",
+      "ec52632347b42eb47cb74f82e9b77b56",
+      "d91df9283a09dba6a7bfb1d45ef15f77"
+    ],
+    "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
+    "comment": "",
+    "adddate": "2023\/05\/19"
+  },
+  {
     "md5": "e11ea3e5107888481425f76d7da26222",
     "org_level": 9,
     "title": "AzTella -aztellite-",
@@ -5763,20 +5849,26 @@
     "adddate": "2023\/04\/12"
   },
   {
-    "md5": "658844178430ee6b1ce80431c23c2bf9",
-    "org_level": 9,
-    "title": "Chasing Stars [LIMITLESS]",
-    "artist": "lixound mov:Xquid",
+    "md5": "f0037658680a91c1d5f54a8773b236bf",
+    "org_level": 17,
+    "title": "GOODRUSH [LUNATIC]",
+    "artist": "EBIMAYO obj.nozomi",
     "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
     "level": "13.0(HARD適正CPI1950~2000)",
     "lr2_bmsid": null,
-    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=21&num=39&order=reg&odtype=a",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=313&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2125",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "sl9",
-    "adddate": "2023\/04\/12"
+    "org_md5s": [
+      "c2e527ea018293b8bc6e0453b83d998b",
+      "9d8ed000465a1d3f3188184d3447530d",
+      "f3e519e5fb9d1109727a9a0393609f29",
+      "4bc9d6b4fca9d2621a4129f3f3148f82",
+      "f0037658680a91c1d5f54a8773b236bf"
+    ],
+    "org_md5": "c2e527ea018293b8bc6e0453b83d998b",
+    "comment": "",
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "a349367da4bf5f5c7c03095acf61e762",
@@ -5793,22 +5885,6 @@
     "org_md5": "",
     "comment": "BOF,G2R up0984.zipup0928.rarの修正版 元譜面→http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsid=220179(ズレ抜け修正による違和感を無くすため意図的に1ノート追加しています)",
     "adddate": "2023\/05\/17"
-  },
-  {
-    "md5": "f96cf3af3d9356407bff483d27f4aecc",
-    "org_level": 16,
-    "title": "IKAROS [ODYSSEA]",
-    "artist": "ETIA. feat. Jenga Movie: HDLV \/ obj: swa",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": "238363",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=2&event=110",
-    "url_diff": "http:\/\/swamelo.web.fc2.com\/_ikaros_slslsl.bme",
-    "name_diff": "http:\/\/swamelo.web.fc2.com\/_ikaros_slslsl.bme",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "★16 差分右クリック保存",
-    "adddate": "2023\/04\/12"
   },
   {
     "md5": "c4a4d2ba035fe1f60fc125d47fd2d0e3",
@@ -5837,88 +5913,12 @@
     "adddate": "2023\/04\/12"
   },
   {
-    "md5": "0d74abe1b55e4c7de690a956543f097b",
-    "org_level": 9,
-    "title": "SHI☆A☆WA☆SE [幸]",
-    "artist": "eye burn Reading: 冬乃桜, obj. w",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=226&event=116",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/177",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "高速\/階段",
-    "adddate": "2023\/04\/12"
-  },
-  {
-    "md5": "bcf7607db2955c8979b54a0981b5eeb6",
-    "org_level": 16,
-    "title": "Yakumo >>JOINT STRUGGLE-隙間-",
-    "artist": "くっちーvsあっきー \/ obj:SUKIMA",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": "64434",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=55&event=60",
-    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up0956.rar",
-    "name_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "汎用up0956GENOSIDE段位認定 発狂六段 1曲目",
-    "adddate": "2023\/04\/12"
-  },
-  {
-    "md5": "863f2e1743f1192b7eec53f5c8a3cb63",
-    "org_level": 15,
-    "title": "∀ [IIDX]",
-    "artist": "ああああ obj:BAECON",
-    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
-    "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=8&event=137",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "a6e8837441b7c7a2fe8834390457b49e",
-      "5417170ffdb54d990d591c70ade70c39",
-      "863f2e1743f1192b7eec53f5c8a3cb63",
-      "ec52632347b42eb47cb74f82e9b77b56",
-      "d91df9283a09dba6a7bfb1d45ef15f77"
-    ],
-    "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
-    "comment": "",
-    "adddate": "2023\/04\/12"
-  },
-  {
-    "md5": "f0037658680a91c1d5f54a8773b236bf",
-    "org_level": 17,
-    "title": "GOODRUSH [LUNATIC]",
-    "artist": "EBIMAYO obj.nozomi",
-    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
-    "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=313&event=140",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/2125",
-    "name_diff": null,
-    "org_md5s": [
-      "c2e527ea018293b8bc6e0453b83d998b",
-      "9d8ed000465a1d3f3188184d3447530d",
-      "f3e519e5fb9d1109727a9a0393609f29",
-      "4bc9d6b4fca9d2621a4129f3f3148f82",
-      "f0037658680a91c1d5f54a8773b236bf"
-    ],
-    "org_md5": "c2e527ea018293b8bc6e0453b83d998b",
-    "comment": "",
-    "adddate": "2023\/04\/12"
-  },
-  {
     "md5": "71c1d1a5c09eb16dfe722414ed70f658",
     "org_level": 12,
     "title": "c.s.q.n. -Modus ponens-",
     "artist": "Aoi mov:出前 \/ obj:BK + Lapis",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=223&event=127",
     "url_diff": "https:\/\/darksabun.github.io\/mirror\/beatkim\/",
@@ -5926,15 +5926,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl12 c.s.q.n.",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "8c2cfbf2076a32644e5c3556c30a358e",
     "org_level": 12,
     "title": "Conclusio Catastropha -BMS edit- [SP Lost]",
     "artist": "Ice (BGA: Yan-K)",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=450&event=140",
     "url_diff": "",
@@ -5956,15 +5956,15 @@
     ],
     "org_md5": "d53f6973fe20b8372ec346975e207439",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "67a76e7d26f3c3ea99fdc6f912f83021",
     "org_level": 18,
     "title": "Dreadnought [Fragarach]",
     "artist": "Mastermind(xi+nora2r) iimo \/ Obj. LAPIS vs Triforce",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": "220863",
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=410&event=104",
     "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
@@ -5972,15 +5972,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "BOF,G2R系 up0962HS-FIX MAXBPM対応Triforce : https:\/\/sites.google.com\/site\/lr2triforce\/sabun",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "daabea71e949e92d5718ae7ba27ca0a5",
     "org_level": 12,
     "title": "Hi-Fi-Story [SP EXTRA]",
     "artist": "打打だいず mov:;3ZUTAMA obj:Yosk!",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=279&event=133",
     "url_diff": "",
@@ -5988,15 +5988,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl12 高速乱打",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "2a89b25427e5842bb986630bd71bd853",
     "org_level": 16,
     "title": "Illusion of Mind [Jesus†Christus]",
     "artist": "P4koo pattern : swa",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "http:\/\/k-bms.com\/party_pabat\/party2014.jsp?board_num=11&num=24&order=reg&odtype=a",
     "url_diff": "http:\/\/swamelo.web.fc2.com\/_iom_slsl.bme",
@@ -6023,15 +6023,15 @@
     ],
     "org_md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "f0feb9654ae044c0e95ebf68e2497c2e",
     "org_level": 19,
     "title": "Lemuria [Tyrfing]",
     "artist": "Festa 鑓田(alpha complex) \/ Obj.Lapis vs Triforce",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": "238093",
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=536&event=110",
     "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
@@ -6039,15 +6039,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "http:\/\/gnqg.rosx.net\/upload\/up00185",
-    "adddate": "2023\/05\/17"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "d7d5652bf8d7efad1fc26975a4615f1a",
     "org_level": 11,
     "title": "ouroVoros [Judgment]",
     "artist": "Negentropy Movie:Vogeln obj:sak",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=383&event=116",
     "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=01098",
@@ -6055,15 +6055,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl11 物量",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "6de6909c19156221d729b5e965c5cc2a",
     "org_level": 17,
     "title": "Poppin' Shower -sugarless-",
     "artist": "P*Light あ",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": "120625",
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=239&event=74",
     "url_diff": "http:\/\/drowsy.hannnari.com\/index.html",
@@ -6071,15 +6071,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "GENOSIDE段位認定 発狂七段 1曲目",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "2391b1c72074436cf655fd465e9176ca",
     "org_level": 17,
     "title": "Rush-Hour [SP LEGGENDARIA]",
     "artist": "litmus* obj:BAECON",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
@@ -6096,15 +6096,15 @@
     ],
     "org_md5": "e0040bacdee4a1cd0f78ee7e3cbe7906",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "599ee45b7da27fb21c3df9b21f10f8bd",
     "org_level": 17,
     "title": "slic.hertz [SP Turntablism]",
     "artist": "Sobrem (bga. Harkiadel)",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
@@ -6118,15 +6118,15 @@
     ],
     "org_md5": "3e953b5030fb29632c0a410fce224dd5",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "b22f2eb89fa8924dededeb6d6a4d8c7d",
     "org_level": 16,
     "title": "ヒュブリスの頂に聳えるのは [SP INSANE]",
     "artist": "qfeileadh feat.のあ Movie:Maeus \/ Illust:linglvz",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
@@ -6156,15 +6156,15 @@
     ],
     "org_md5": "0e5d52816476d94be4232fa3db2c389a",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "9057046fd86187a6221de43069de8a23",
     "org_level": 15,
     "title": "九龍霓虹街 [SP INSANE]",
     "artist": "utzbo BGA:paraneumann\/obj:メスガキに分からせられたい",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
@@ -6184,15 +6184,15 @@
     ],
     "org_md5": "cf22eaa54526b4eca104000f00463a24",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "0e1b2bf8450cf06a1726470a42e18b22",
     "org_level": 12,
     "title": "千樹万命を抱く翼よ [SP ANOTHER]",
     "artist": "らふむ BGI: らふむ obj: 蛇路",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
     "lr2_bmsid": null,
     "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=120&event=137",
     "url_diff": "",
@@ -6205,7 +6205,23 @@
     ],
     "org_md5": "7195e449abf1f2e1e037c2afe31be4f9",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/19"
+  },
+  {
+    "md5": "00000000000000000000000000000000",
+    "org_level": null,
+    "title": "",
+    "artist": "",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/05\/19"
   },
   {
     "md5": "a43f1684cb8f38b9f8ca961ba8ce7ec0",
