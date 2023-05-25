@@ -4977,22 +4977,6 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
-    "org_level": 12,
-    "title": "HAELEQUIN",
-    "artist": "orangentle \/ deadblue238",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": "140320",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=389&event=83",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "> 公式パッケージのものは古くなっています。現在の会場のものを使用してください。",
-    "adddate": "2023\/02\/27"
-  },
-  {
     "md5": "9bf6d97af8230afe99d48d73f0a595bc",
     "org_level": 12,
     "title": "Hypernova [ESO184-G82]",
@@ -5509,6 +5493,40 @@
     "adddate": "2023\/02\/22"
   },
   {
+    "md5": "5670df6611ea668b266b07a4f8c6f445",
+    "org_level": 12,
+    "title": "Everlasting Darkness [Another]",
+    "artist": "Kanon (mov:常世ノ闇) obj:NASA",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=435&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5670df6611ea668b266b07a4f8c6f445"
+    ],
+    "org_md5": "5670df6611ea668b266b07a4f8c6f445",
+    "comment": "",
+    "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
+    "org_level": 12,
+    "title": "HAELEQUIN",
+    "artist": "orangentle \/ deadblue238",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": "140320",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=389&event=83",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "> 公式パッケージのものは古くなっています。現在の会場のものを使用してください。",
+    "adddate": "2023\/05\/25"
+  },
+  {
     "md5": "ce447245541dc4b936aead4d1b304842",
     "org_level": 9,
     "title": "High-Priestess[HARDEST]",
@@ -5548,6 +5566,22 @@
     "adddate": "2023\/04\/10"
   },
   {
+    "md5": "e385b553488a23c440c776ba18649803",
+    "org_level": 9,
+    "title": "Sunset Toybox [yumether]",
+    "artist": "テヅカ x Aoi feat.桃雛なの \/ obj:夢瑠",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=498&event=133",
+    "url_diff": "https:\/\/dl.dropboxusercontent.com\/s\/wi896g8u0kgx4nn\/_Sunset_Toybox_yume.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同時押し、乱打",
+    "adddate": "2023\/05\/25"
+  },
+  {
     "md5": "cd8b42bea86dbe0804d8a07cd1e50dbf",
     "org_level": 13,
     "title": "βehexeη‐δ",
@@ -5585,20 +5619,20 @@
     "adddate": "2023\/02\/22"
   },
   {
-    "md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
+    "md5": "e11ea3e5107888481425f76d7da26222",
     "org_level": 9,
-    "title": "ニニ - ニサシゴ -",
-    "artist": "テヅカ × Qayo BGI: MUSH.T × PHage \/ OBJ: swa",
-    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
-    "level": "12.8(HARD適正CPI1850~1900)",
+    "title": "AzTella -aztellite-",
+    "artist": "Nuekawa obj: qtp13",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
     "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&event=123&num=253",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02435",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=454&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2170",
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "",
-    "adddate": "2023\/02\/23"
+    "comment": "BPM208 乱打",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "658844178430ee6b1ce80431c23c2bf9",
@@ -5615,24 +5649,6 @@
     "org_md5": "",
     "comment": "sl9",
     "adddate": "2023\/05\/19"
-  },
-  {
-    "md5": "5670df6611ea668b266b07a4f8c6f445",
-    "org_level": 12,
-    "title": "Everlasting Darkness [Another]",
-    "artist": "Kanon (mov:常世ノ闇) obj:NASA",
-    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
-    "level": "12.9(HARD適正CPI1900~1950)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=435&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "5670df6611ea668b266b07a4f8c6f445"
-    ],
-    "org_md5": "5670df6611ea668b266b07a4f8c6f445",
-    "comment": "",
-    "adddate": "2023\/04\/12"
   },
   {
     "md5": "f96cf3af3d9356407bff483d27f4aecc",
@@ -5678,6 +5694,32 @@
     "org_md5": "9d961ac9f0a2ee2a2d4e326282223682",
     "comment": "",
     "adddate": "2023\/04\/12"
+  },
+  {
+    "md5": "c4a4d2ba035fe1f60fc125d47fd2d0e3",
+    "org_level": 12,
+    "title": "Needy Samples Overdose [ANOTHER]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=31&event=139",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+      "d9302d9780532d17628f69a6394ef1ec",
+      "d4bbdbbcbb7ed8d1f693580dedc4ad7c",
+      "c4a4d2ba035fe1f60fc125d47fd2d0e3",
+      "9ec76ed7fecdaad50ffd7f539584cb0e",
+      "32511bb6febd5019950ddf8526c536aa",
+      "f27f4cc58a880baae7acbc1b96de0717",
+      "560a27c1b53ffdbd51150de413b21310",
+      "afcb96517ba1250bfd094de28ff2e735"
+    ],
+    "org_md5": "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+    "comment": "",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "cc5953fa442c82c976e4b53b344ad090",
@@ -5751,22 +5793,6 @@
     "adddate": "2023\/04\/12"
   },
   {
-    "md5": "e385b553488a23c440c776ba18649803",
-    "org_level": 9,
-    "title": "Sunset Toybox [yumether]",
-    "artist": "テヅカ x Aoi feat.桃雛なの \/ obj:夢瑠",
-    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
-    "level": "12.9(HARD適正CPI1900~1950)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=498&event=133",
-    "url_diff": "https:\/\/dl.dropboxusercontent.com\/s\/wi896g8u0kgx4nn\/_Sunset_Toybox_yume.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "同時押し、乱打",
-    "adddate": "2023\/04\/15"
-  },
-  {
     "md5": "bcf7607db2955c8979b54a0981b5eeb6",
     "org_level": 16,
     "title": "Yakumo >>JOINT STRUGGLE-隙間-",
@@ -5781,6 +5807,22 @@
     "org_md5": "",
     "comment": "汎用up0956GENOSIDE段位認定 発狂六段 1曲目",
     "adddate": "2023\/05\/19"
+  },
+  {
+    "md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
+    "org_level": 9,
+    "title": "ニニ - ニサシゴ -",
+    "artist": "テヅカ × Qayo BGI: MUSH.T × PHage \/ OBJ: swa",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&event=123&num=253",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02435",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "34d94660c2d8232b8339703543a9343c",
@@ -5808,7 +5850,7 @@
     ],
     "org_md5": "014dd26ed58126665debe373c6959612",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "863f2e1743f1192b7eec53f5c8a3cb63",
@@ -5833,20 +5875,20 @@
     "adddate": "2023\/05\/19"
   },
   {
-    "md5": "e11ea3e5107888481425f76d7da26222",
-    "org_level": 9,
-    "title": "AzTella -aztellite-",
-    "artist": "Nuekawa obj: qtp13",
+    "md5": "67a76e7d26f3c3ea99fdc6f912f83021",
+    "org_level": 18,
+    "title": "Dreadnought [Fragarach]",
+    "artist": "Mastermind(xi+nora2r) iimo \/ Obj. LAPIS vs Triforce",
     "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
     "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=454&event=140",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/2170",
-    "name_diff": null,
+    "lr2_bmsid": "220863",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=410&event=104",
+    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BPM208 乱打",
-    "adddate": "2023\/04\/12"
+    "comment": "BOF,G2R系 up0962HS-FIX MAXBPM対応Triforce : https:\/\/sites.google.com\/site\/lr2triforce\/sabun",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "f0037658680a91c1d5f54a8773b236bf",
@@ -5871,46 +5913,47 @@
     "adddate": "2023\/05\/19"
   },
   {
-    "md5": "a349367da4bf5f5c7c03095acf61e762",
-    "org_level": 18,
-    "title": "GOODTEK [SA]",
-    "artist": "EBIMAYO OBJ : ランダマイザ",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": "221211",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=83&event=104",
-    "url_diff": "http:\/\/absolute.pv.land.to\/bof\/src\/up0984.zip",
-    "name_diff": "http:\/\/absolute.pv.land.to\/bof\/upload.html",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "BOF,G2R up0984.zipup0928.rarの修正版 元譜面→http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsid=220179(ズレ抜け修正による違和感を無くすため意図的に1ノート追加しています)",
-    "adddate": "2023\/05\/17"
-  },
-  {
-    "md5": "c4a4d2ba035fe1f60fc125d47fd2d0e3",
-    "org_level": 12,
-    "title": "Needy Samples Overdose [ANOTHER]",
-    "artist": "CYLTIE.",
+    "md5": "97f65f3a8bd34961ddc95983e4494661",
+    "org_level": 11,
+    "title": "コモリヌ [リンネ]",
+    "artist": "Qayo feat.杠葉えりか movie:inukoro \/ illust:兎乃介 \/ obj:ノゾミ",
     "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
     "level": "13.0(HARD適正CPI1950~2000)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=31&event=139",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=398&event=137",
+    "url_diff": "https:\/\/1drv.ms\/u\/s!ApwaJAUHJdpymj0uih3eFZ5lMKSJ?e=H0oj03",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM変更以外のズレはなし",
+    "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "4c77d9e7bfaca4faee4a035cd8ffe872",
+    "org_level": 12,
+    "title": "BRAIN HACKER[BLACK ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=85&event=137",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "c2d37fb6ec7ad0c0f292595f6aeb8f10",
-      "d9302d9780532d17628f69a6394ef1ec",
-      "d4bbdbbcbb7ed8d1f693580dedc4ad7c",
-      "c4a4d2ba035fe1f60fc125d47fd2d0e3",
-      "9ec76ed7fecdaad50ffd7f539584cb0e",
-      "32511bb6febd5019950ddf8526c536aa",
-      "f27f4cc58a880baae7acbc1b96de0717",
-      "560a27c1b53ffdbd51150de413b21310",
-      "afcb96517ba1250bfd094de28ff2e735"
+      "0361c7c588903e04defe9920401f6e5a",
+      "887603fefb8744522a877cca0e9507e5",
+      "e4e3ad4a5749dde34b330eb9661fd06b",
+      "9e6ab94dc412c4129b84e554e802e529",
+      "2fa87a131f4df3d43578672195fc8886",
+      "5ad93a439dc8ae1f009ad5724bfbe07c",
+      "4c77d9e7bfaca4faee4a035cd8ffe872",
+      "5a3f37c7a2ca6e8445d74a30420e3297",
+      "186679a86043c140396228a430f69d6e",
+      "77f6793f8896f14262d7377d59b60177"
     ],
-    "org_md5": "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+    "org_md5": "0361c7c588903e04defe9920401f6e5a",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "71c1d1a5c09eb16dfe722414ed70f658",
@@ -5926,53 +5969,23 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl12 c.s.q.n.",
-    "adddate": "2023\/05\/19"
+    "adddate": "2023\/05\/25"
   },
   {
-    "md5": "8c2cfbf2076a32644e5c3556c30a358e",
-    "org_level": 12,
-    "title": "Conclusio Catastropha -BMS edit- [SP Lost]",
-    "artist": "Ice (BGA: Yan-K)",
-    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
-    "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=450&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "d53f6973fe20b8372ec346975e207439",
-      "1d10b2d56ee3b0177bdf978e8ef013cb",
-      "a1b94ca36a0c07d29033317b3186779b",
-      "7b0fd37892a5f8a142858477e9b3e25e",
-      "098686e6006fa41ec80f2a9aa78d798b",
-      "e55e856ba0888fa72c71f5b1a82695db",
-      "d60793eb63b29341ee3cd9fa71167031",
-      "778778d387f3d69a8b2ba97b1294c07a",
-      "fd1d46fd754ac85b73772d808268df65",
-      "25d501392d1cc7a3fed75d7826cd5959",
-      "39588b7e90d6e25c6c31fba7ef4fcc21",
-      "8c2cfbf2076a32644e5c3556c30a358e",
-      "d5577812ddab3c200e0723edbd691ffe"
-    ],
-    "org_md5": "d53f6973fe20b8372ec346975e207439",
-    "comment": "",
-    "adddate": "2023\/05\/19"
-  },
-  {
-    "md5": "67a76e7d26f3c3ea99fdc6f912f83021",
+    "md5": "a349367da4bf5f5c7c03095acf61e762",
     "org_level": 18,
-    "title": "Dreadnought [Fragarach]",
-    "artist": "Mastermind(xi+nora2r) iimo \/ Obj. LAPIS vs Triforce",
+    "title": "GOODTEK [SA]",
+    "artist": "EBIMAYO OBJ : ランダマイザ",
     "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
     "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": "220863",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=410&event=104",
-    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
-    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "lr2_bmsid": "221211",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=83&event=104",
+    "url_diff": "http:\/\/absolute.pv.land.to\/bof\/src\/up0984.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bof\/upload.html",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BOF,G2R系 up0962HS-FIX MAXBPM対応Triforce : https:\/\/sites.google.com\/site\/lr2triforce\/sabun",
-    "adddate": "2023\/05\/19"
+    "comment": "BOF,G2R up0984.zipup0928.rarの修正版 元譜面→http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsid=220179(ズレ抜け修正による違和感を無くすため意図的に1ノート追加しています)",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "daabea71e949e92d5718ae7ba27ca0a5",
@@ -5988,7 +6001,7 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl12 高速乱打",
-    "adddate": "2023\/05\/19"
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "2a89b25427e5842bb986630bd71bd853",
@@ -6023,22 +6036,6 @@
     ],
     "org_md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
     "comment": "",
-    "adddate": "2023\/05\/19"
-  },
-  {
-    "md5": "f0feb9654ae044c0e95ebf68e2497c2e",
-    "org_level": 19,
-    "title": "Lemuria [Tyrfing]",
-    "artist": "Festa 鑓田(alpha complex) \/ Obj.Lapis vs Triforce",
-    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
-    "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": "238093",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=536&event=110",
-    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
-    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "http:\/\/gnqg.rosx.net\/upload\/up00185",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6208,28 +6205,12 @@
     "adddate": "2023\/05\/19"
   },
   {
-    "md5": "00000000000000000000000000000000",
-    "org_level": null,
-    "title": "",
-    "artist": "",
-    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
-    "level": "13.2(HARD適正CPI2050~2100?)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2023\/05\/19"
-  },
-  {
     "md5": "a43f1684cb8f38b9f8ca961ba8ce7ec0",
     "org_level": 19,
     "title": "Avantgarde [Black Another]",
     "artist": "Raimukun movie:あるし \/ obj:スノート",
-    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
-    "level": "13.3(HARD適正CPI2100~2150?)",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
@@ -6243,42 +6224,45 @@
     ],
     "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
   },
   {
-    "md5": "4c77d9e7bfaca4faee4a035cd8ffe872",
+    "md5": "8c2cfbf2076a32644e5c3556c30a358e",
     "org_level": 12,
-    "title": "BRAIN HACKER[BLACK ANOTHER]",
-    "artist": "SOMON",
-    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
-    "level": "13.3(HARD適正CPI2100~2150?)",
+    "title": "Conclusio Catastropha -BMS edit- [SP Lost]",
+    "artist": "Ice (BGA: Yan-K)",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=85&event=137",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=450&event=140",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "0361c7c588903e04defe9920401f6e5a",
-      "887603fefb8744522a877cca0e9507e5",
-      "e4e3ad4a5749dde34b330eb9661fd06b",
-      "9e6ab94dc412c4129b84e554e802e529",
-      "2fa87a131f4df3d43578672195fc8886",
-      "5ad93a439dc8ae1f009ad5724bfbe07c",
-      "4c77d9e7bfaca4faee4a035cd8ffe872",
-      "5a3f37c7a2ca6e8445d74a30420e3297",
-      "186679a86043c140396228a430f69d6e",
-      "77f6793f8896f14262d7377d59b60177"
+      "d53f6973fe20b8372ec346975e207439",
+      "1d10b2d56ee3b0177bdf978e8ef013cb",
+      "a1b94ca36a0c07d29033317b3186779b",
+      "7b0fd37892a5f8a142858477e9b3e25e",
+      "098686e6006fa41ec80f2a9aa78d798b",
+      "e55e856ba0888fa72c71f5b1a82695db",
+      "d60793eb63b29341ee3cd9fa71167031",
+      "778778d387f3d69a8b2ba97b1294c07a",
+      "fd1d46fd754ac85b73772d808268df65",
+      "25d501392d1cc7a3fed75d7826cd5959",
+      "39588b7e90d6e25c6c31fba7ef4fcc21",
+      "8c2cfbf2076a32644e5c3556c30a358e",
+      "d5577812ddab3c200e0723edbd691ffe"
     ],
-    "org_md5": "0361c7c588903e04defe9920401f6e5a",
+    "org_md5": "d53f6973fe20b8372ec346975e207439",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "0f02775a367c932432b0e31bb38acc3b",
     "org_level": 12,
     "title": "DEATH SENTENCE [Eliminator]",
     "artist": "kohaxy obj.Mallow♪ vs zowni",
-    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
-    "level": "13.3(HARD適正CPI2100~2150?)",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
     "lr2_bmsid": null,
     "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/52",
     "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05482",
@@ -6286,15 +6270,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl12",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "eefef4918e837ceaacba873c5214b807",
     "org_level": 18,
     "title": "Kreuz [Jesus†Christus]",
     "artist": "sky_delta \/ obj.swa",
-    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
-    "level": "13.3(HARD適正CPI2100~2150?)",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
     "lr2_bmsid": "202035",
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=89&event=96",
     "url_diff": "http:\/\/swamelo.web.fc2.com\/_kreuz_spsls.bms",
@@ -6302,15 +6286,31 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "差分右クリック保存",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "f0feb9654ae044c0e95ebf68e2497c2e",
+    "org_level": 19,
+    "title": "Lemuria [Tyrfing]",
+    "artist": "Festa 鑓田(alpha complex) \/ Obj.Lapis vs Triforce",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
+    "lr2_bmsid": "238093",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=536&event=110",
+    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "http:\/\/gnqg.rosx.net\/upload\/up00185",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "2afcf8f878df9bae0c83bbb2aacb6657",
     "org_level": 19,
     "title": "New York Back Raise [ROYAL STRAIGHT FLUSH]",
     "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
-    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
-    "level": "13.3(HARD適正CPI2100~2150?)",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
@@ -6334,15 +6334,31 @@
     ],
     "org_md5": "3189f24b19e375d38d076850aaa3de9a",
     "comment": "",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
+    "org_level": 12,
+    "title": "アジサイ -Xe-",
+    "artist": "litmus* feat. 薛南 obj : LindBlum",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=167&event=137",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05838",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM212 乱打 同時 微連打",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "4a5c06c56de19b8450a955ee6b746b9b",
     "org_level": 1,
     "title": "!nterroban(?, [ !)ualit'? ]",
     "artist": "Aoi \/ mov:出前 obj.Mallow♪",
-    "folder": "LEVEL13.4(HARD適正CPI2150~?)",
-    "level": "13.4(HARD適正CPI2150~?)",
+    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
+    "level": "13.3(HARD適正CPI2100~2150?)",
     "lr2_bmsid": null,
     "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=407&event=137",
     "url_diff": "https:\/\/stellabms.xyz\/upload\/1872",
@@ -6350,7 +6366,23 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "同梱の_interrobang_差分制作用.bmsと比較してズレ抜け無し",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "2e2ec86581e880d8570d2f3b10c03fda",
+    "org_level": 0,
+    "title": "Aleph-0 [Ω]",
+    "artist": "LeaF Movie:Optie \/ obj:1008",
+    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
+    "level": "13.3(HARD適正CPI2100~2150?)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=498&event=110",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04611",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "change chart (request from charter) You must read chart zip's text file.. (Japanese)",
+    "adddate": "2023\/05\/25"
   },
   {
     "md5": "abc26841c864e70351d08e0ade9507ff",
