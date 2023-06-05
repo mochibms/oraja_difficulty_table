@@ -5478,6 +5478,22 @@
     "adddate": "2023\/02\/24"
   },
   {
+    "md5": "1922023d01ef953493c15342a4c418ca",
+    "org_level": 8,
+    "title": "Stokesia [NEXT]",
+    "artist": "lazward \/ BGI:ミロ飲め夫 \/ obj:Sar",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/Stokesia%20(by%20lazward).rar",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/bof\/src\/up1008.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/06\/05"
+  },
+  {
     "md5": "6a4f405ecba42d19d535464ef6d8b8f8",
     "org_level": 13,
     "title": "VECTOR",
@@ -5605,32 +5621,6 @@
     "adddate": "2023\/02\/22"
   },
   {
-    "md5": "b87f1a693ab02b82ba065ad60609055a",
-    "org_level": 12,
-    "title": "Peridot [SP INSANE]",
-    "artist": "stuv + *wakadori BGA:mogami",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=5&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "568f9d2abf27a7c913a36ccc1082e14c",
-      "e9a591e0c3a6a82255a600f060869ad3",
-      "d75039b63f30384053f5b82a8f549c1b",
-      "f336c1725bee9082d5ed81cb1fc5d4bd",
-      "3d29a68c301a7a64537376409868c134",
-      "37dfd3361e74e31420210135178c7395",
-      "b87f1a693ab02b82ba065ad60609055a",
-      "36f5f15073a008c56d7b064b41e12796",
-      "44f645e487a1ace51d7afa068641ea33"
-    ],
-    "org_md5": "568f9d2abf27a7c913a36ccc1082e14c",
-    "comment": "",
-    "adddate": "2023\/02\/16"
-  },
-  {
     "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
     "org_level": 8,
     "title": "PhonDrome![GALAPAGOS']",
@@ -5703,22 +5693,6 @@
     "org_md5": "fc75db28223333c1983704b6c71dc407",
     "comment": "video<https:\/\/youtu.be\/F2_jshcWHRU>",
     "adddate": "2023\/02\/22"
-  },
-  {
-    "md5": "1922023d01ef953493c15342a4c418ca",
-    "org_level": 8,
-    "title": "Stokesia [NEXT]",
-    "artist": "lazward \/ BGI:ミロ飲め夫 \/ obj:Sar",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/Stokesia%20(by%20lazward).rar",
-    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/bof\/src\/up1008.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2023\/02\/21"
   },
   {
     "md5": "7fd4d1b5a767fd97343129157782a95f",
@@ -6011,7 +5985,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BPM208 乱打",
+    "comment": "video<https:\/\/youtu.be\/j7ixhiNLyLs>sl9",
     "adddate": "2023\/05\/25"
   },
   {
@@ -6027,7 +6001,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sl9",
+    "comment": "video<https:\/\/youtu.be\/kx_2Mt8TDsE>sl9",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6043,7 +6017,7 @@
     "name_diff": "http:\/\/swamelo.web.fc2.com\/_ikaros_slslsl.bme",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "★16 差分右クリック保存",
+    "comment": "video<https:\/\/youtu.be\/_na-b83VdGw>★16",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6100,6 +6074,32 @@
     "org_md5": "c2d37fb6ec7ad0c0f292595f6aeb8f10",
     "comment": "",
     "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "b87f1a693ab02b82ba065ad60609055a",
+    "org_level": 12,
+    "title": "Peridot [SP INSANE]",
+    "artist": "stuv + *wakadori BGA:mogami",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=5&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "568f9d2abf27a7c913a36ccc1082e14c",
+      "e9a591e0c3a6a82255a600f060869ad3",
+      "d75039b63f30384053f5b82a8f549c1b",
+      "f336c1725bee9082d5ed81cb1fc5d4bd",
+      "3d29a68c301a7a64537376409868c134",
+      "37dfd3361e74e31420210135178c7395",
+      "b87f1a693ab02b82ba065ad60609055a",
+      "36f5f15073a008c56d7b064b41e12796",
+      "44f645e487a1ace51d7afa068641ea33"
+    ],
+    "org_md5": "568f9d2abf27a7c913a36ccc1082e14c",
+    "comment": "",
+    "adddate": "2023\/06\/05"
   },
   {
     "md5": "cc5953fa442c82c976e4b53b344ad090",
@@ -6279,7 +6279,7 @@
       "b0fd7111b74fd8d0812393fc11a04fe1"
     ],
     "org_md5": "014dd26ed58126665debe373c6959612",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/1-MsMfG-uwA>",
     "adddate": "2023\/05\/25"
   },
   {
@@ -6301,7 +6301,7 @@
       "d91df9283a09dba6a7bfb1d45ef15f77"
     ],
     "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/eax5V-n5Kag>",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6317,7 +6317,7 @@
     "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BOF,G2R系 up0962HS-FIX MAXBPM対応Triforce : https:\/\/sites.google.com\/site\/lr2triforce\/sabun",
+    "comment": "video<https:\/\/youtu.be\/hBjam-h1uvE>★18",
     "adddate": "2023\/05\/25"
   },
   {
@@ -6339,7 +6339,7 @@
       "f0037658680a91c1d5f54a8773b236bf"
     ],
     "org_md5": "c2e527ea018293b8bc6e0453b83d998b",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/AoNmPuT34Kg>",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6363,7 +6363,7 @@
       "c931cf544a17b3ad59d7971dcafe6a29"
     ],
     "org_md5": "3c08ee1bc286c6a1db6995efb075baa3",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/-D4LvWJPRG4>",
     "adddate": "2023\/06\/02"
   },
   {
@@ -6385,7 +6385,7 @@
       "599ee45b7da27fb21c3df9b21f10f8bd"
     ],
     "org_md5": "3e953b5030fb29632c0a410fce224dd5",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/rVPjvpcvqAw>",
     "adddate": "2023\/06\/01"
   },
   {
@@ -6401,7 +6401,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BPM変更以外のズレはなし",
+    "comment": "video<https:\/\/youtu.be\/PxonuWhpT7g>sl11",
     "adddate": "2023\/05\/25"
   },
   {
@@ -6511,7 +6511,7 @@
       "959a674c65216758d10eae4c49b3536f"
     ],
     "org_md5": "4a4fbf7e7c9a95a0b1dd34685331b9a3",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/_QX6UO_2sls>",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6527,7 +6527,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sl11 物量",
+    "comment": "video<https:\/\/youtu.be\/wlst0m8iKTk>sl11",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6543,7 +6543,7 @@
     "name_diff": "http:\/\/drowsy.hannnari.com\/index.html",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "GENOSIDE段位認定 発狂七段 1曲目",
+    "comment": "video<https:\/\/youtu.be\/yfhnaWNV5zI>★17",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6606,7 +6606,7 @@
       "231e5292f372e77a369e45b1cde1a21c"
     ],
     "org_md5": "0e5d52816476d94be4232fa3db2c389a",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/Y7dTMrKWiiw>",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6634,7 +6634,7 @@
       "33c8fcfc89633f79fdcd05a1899d1441"
     ],
     "org_md5": "cf22eaa54526b4eca104000f00463a24",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/xVxFgmBCASs>",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6655,7 +6655,7 @@
       "0e1b2bf8450cf06a1726470a42e18b22"
     ],
     "org_md5": "7195e449abf1f2e1e037c2afe31be4f9",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/EPgzrXoNTwE>",
     "adddate": "2023\/05\/19"
   },
   {
