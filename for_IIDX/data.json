@@ -4877,7 +4877,7 @@
       "0a196131cfc5d81fb3b143835b80b697"
     ],
     "org_md5": "9c9d15c8694037654b62d97111a16f56",
-    "comment": "https:\/\/youtu.be\/91F4f5tNBPo",
+    "comment": "video<https:\/\/youtu.be\/91F4f5tNBPo>",
     "adddate": "2023\/02\/21"
   },
   {
@@ -5180,56 +5180,6 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "ee81997919cb87d398915b36f7ac23ac",
-    "org_level": 12,
-    "title": "BRAIN BREAKER[ANOTHER]",
-    "artist": "SOMON",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=407&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "ee81997919cb87d398915b36f7ac23ac",
-      "092512fc826da66f52b9144b9632a4a3",
-      "3725345112c8a252ade33173e9d8441e",
-      "81966ef856a43819361ccf1fc3fe1b2c",
-      "73161833a21ec8a320c6d742461aac23",
-      "12e2b1ff9939af3a208bf65bbe847592"
-    ],
-    "org_md5": "ee81997919cb87d398915b36f7ac23ac",
-    "comment": "",
-    "adddate": "2023\/03\/06"
-  },
-  {
-    "md5": "9e6ab94dc412c4129b84e554e802e529",
-    "org_level": 12,
-    "title": "BRAIN HACKER[ANOTHER]",
-    "artist": "SOMON",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=85&event=137",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "0361c7c588903e04defe9920401f6e5a",
-      "887603fefb8744522a877cca0e9507e5",
-      "e4e3ad4a5749dde34b330eb9661fd06b",
-      "9e6ab94dc412c4129b84e554e802e529",
-      "2fa87a131f4df3d43578672195fc8886",
-      "5ad93a439dc8ae1f009ad5724bfbe07c",
-      "4c77d9e7bfaca4faee4a035cd8ffe872",
-      "5a3f37c7a2ca6e8445d74a30420e3297",
-      "186679a86043c140396228a430f69d6e",
-      "77f6793f8896f14262d7377d59b60177"
-    ],
-    "org_md5": "0361c7c588903e04defe9920401f6e5a",
-    "comment": "",
-    "adddate": "2023\/03\/06"
-  },
-  {
     "md5": "d33ebbad2b49d1bd7646bda3c1ce0c5c",
     "org_level": 12,
     "title": "Caesar [SP ANOTHER]",
@@ -5252,22 +5202,6 @@
     "org_md5": "fc681fbc8805fe9c3f539c198d36a2c5",
     "comment": "video<https:\/\/youtu.be\/74CUaXtWSgI>",
     "adddate": "2023\/02\/21"
-  },
-  {
-    "md5": "b8d9488923de28377d9fea70e9d0e15c",
-    "org_level": 7,
-    "title": "Calamity Fortune [MASTER]",
-    "artist": "ZUN remixed by LeaF Movie:Optie \/ obj:monaka",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/leafbms.web.fc2.com\/song.html",
-    "url_diff": "https:\/\/ux.getuploader.com\/monaka_sabun_2\/download\/181",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "sl7",
-    "adddate": "2023\/02\/24"
   },
   {
     "md5": "18a3d4f7f8b1d35277e759e5643a4757",
@@ -5307,7 +5241,7 @@
       "2e9ee2fdfcaa955b8c60f6d7eca364d4"
     ],
     "org_md5": "356a6af909c400ebd7ad9bf75925ce59",
-    "comment": "https:\/\/youtu.be\/qYjg8RLjR-Y",
+    "comment": "video<https:\/\/youtu.be\/qYjg8RLjR-Y>",
     "adddate": "2023\/02\/18"
   },
   {
@@ -5478,20 +5412,30 @@
     "adddate": "2023\/02\/24"
   },
   {
-    "md5": "1922023d01ef953493c15342a4c418ca",
-    "org_level": 8,
-    "title": "Stokesia [NEXT]",
-    "artist": "lazward \/ BGI:ミロ飲め夫 \/ obj:Sar",
+    "md5": "857e8c40f16cfab843e0b48576d28454",
+    "org_level": 14,
+    "title": "stardust explorer [INSANE]",
+    "artist": "kooridori BGA:Arishima_ \/ obj.rat",
     "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
     "level": "12.6(HARD適正CPI1750~1800)",
     "lr2_bmsid": null,
-    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/Stokesia%20(by%20lazward).rar",
-    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/bof\/src\/up1008.zip",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=146&event=140",
+    "url_diff": "",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2023\/06\/05"
+    "org_md5s": [
+      "fc75db28223333c1983704b6c71dc407",
+      "aec027ffed1bde0a8fdb981a01feeec9",
+      "299901fc3912720cbdbb8eff5f1c1852",
+      "937b3cb1e7189c6834c3e764783cf627",
+      "e3b0a5ca58a3ce507c436564b6cdb599",
+      "a51630978e19a5e706da6d0445c33c43",
+      "857e8c40f16cfab843e0b48576d28454",
+      "4fa32b9ef9b0eea82a9816bc9323250a",
+      "6a563ddcebe86e6e753098f2f6982e7f"
+    ],
+    "org_md5": "fc75db28223333c1983704b6c71dc407",
+    "comment": "video<https:\/\/youtu.be\/F2_jshcWHRU>",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "6a4f405ecba42d19d535464ef6d8b8f8",
@@ -5517,72 +5461,86 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "8f133243dbc8d4ef84ae4eb4ca97de9c",
-    "org_level": 6,
-    "title": "アルスノヴァに喝采を [SP INSANE]",
-    "artist": "qfeileadh feat.レゾナンスもえこ movie:アカイユウ \/ illust:ねるぞう",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
+    "md5": "ee81997919cb87d398915b36f7ac23ac",
+    "org_level": 12,
+    "title": "BRAIN BREAKER[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=15&event=137",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=407&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ee81997919cb87d398915b36f7ac23ac",
+      "092512fc826da66f52b9144b9632a4a3",
+      "3725345112c8a252ade33173e9d8441e",
+      "81966ef856a43819361ccf1fc3fe1b2c",
+      "73161833a21ec8a320c6d742461aac23",
+      "12e2b1ff9939af3a208bf65bbe847592"
+    ],
+    "org_md5": "ee81997919cb87d398915b36f7ac23ac",
+    "comment": "",
+    "adddate": "2023\/06\/07"
+  },
+  {
+    "md5": "9e6ab94dc412c4129b84e554e802e529",
+    "org_level": 12,
+    "title": "BRAIN HACKER[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=85&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0361c7c588903e04defe9920401f6e5a",
+      "887603fefb8744522a877cca0e9507e5",
+      "e4e3ad4a5749dde34b330eb9661fd06b",
+      "9e6ab94dc412c4129b84e554e802e529",
+      "2fa87a131f4df3d43578672195fc8886",
+      "5ad93a439dc8ae1f009ad5724bfbe07c",
+      "4c77d9e7bfaca4faee4a035cd8ffe872",
+      "5a3f37c7a2ca6e8445d74a30420e3297",
+      "186679a86043c140396228a430f69d6e",
+      "77f6793f8896f14262d7377d59b60177"
+    ],
+    "org_md5": "0361c7c588903e04defe9920401f6e5a",
+    "comment": "",
+    "adddate": "2023\/06\/07"
+  },
+  {
+    "md5": "b8d9488923de28377d9fea70e9d0e15c",
+    "org_level": 7,
+    "title": "Calamity Fortune [MASTER]",
+    "artist": "ZUN remixed by LeaF Movie:Optie \/ obj:monaka",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/leafbms.web.fc2.com\/song.html",
+    "url_diff": "https:\/\/ux.getuploader.com\/monaka_sabun_2\/download\/181",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl7",
+    "adddate": "2023\/06\/07"
+  },
+  {
+    "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
+    "org_level": 12,
+    "title": "HAELEQUIN",
+    "artist": "orangentle \/ deadblue238",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": "140320",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=389&event=83",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sl5~6?",
-    "adddate": "2023\/03\/01"
-  },
-  {
-    "md5": "6cc4d54b02d50301bfffe605f1babeba",
-    "org_level": 12,
-    "title": "* this game does not exist * [SP  INSANE]",
-    "artist": "litmus* x Ester",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=284&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "13718b033c720defeae1a7f8c0ebf20f",
-      "4babc0e57ff2da3b0eee90109d283b3b",
-      "d16e46114cf6c83bc068524337454883",
-      "97003476e9c22f496c310f5a373fa90c",
-      "f3e209a225267b88db40d4f8d2933cf6",
-      "6cc4d54b02d50301bfffe605f1babeba",
-      "ead977fca9a925dc226a73278a2231de",
-      "abc26841c864e70351d08e0ade9507ff"
-    ],
-    "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
-    "comment": "video<https:\/\/youtu.be\/AXLnpNN8tXc>",
-    "adddate": "2023\/02\/16"
-  },
-  {
-    "md5": "5aedf9dc1425b691e779b4a7c90e77e1",
-    "org_level": 12,
-    "title": "D3C3MB3R",
-    "artist": "eicateve movie:龍花 \/ object:hi-low",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=405&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8e692cbbd4b18f16bca5b7a0ddbbecd0",
-      "c4d2b621968fd50e61540362efbb8496",
-      "12182c5994c7ec9ae3f2090da09ba970",
-      "5aedf9dc1425b691e779b4a7c90e77e1",
-      "bbf3c39c723d486d7f73560692400246",
-      "6d4016eabddc8d77ccb8e6cfe0b45404",
-      "ca99c6fc8377fb1846478d86d39033a7",
-      "606c331a2af77df466a595e67f416180",
-      "e4d3f2907ce7b35a3f9736db024756b8",
-      "f8f69cf3f11960146d46a503f96fdf8d"
-    ],
-    "org_md5": "8e692cbbd4b18f16bca5b7a0ddbbecd0",
-    "comment": "video<https:\/\/youtu.be\/dfgHzxLYLWk>",
-    "adddate": "2023\/02\/24"
+    "comment": "> 公式パッケージのものは古くなっています。現在の会場のものを使用してください。",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "56dcfb48fcef417f3ea34007944c0e0a",
@@ -5602,23 +5560,30 @@
     ],
     "org_md5": "56dcfb48fcef417f3ea34007944c0e0a",
     "comment": "video<https:\/\/youtu.be\/cuCtngHFuAA>",
-    "adddate": "2023\/02\/24"
+    "adddate": "2023\/06\/07"
   },
   {
-    "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
-    "org_level": 8,
-    "title": "LWVIIX[ANOTHER]",
-    "artist": "69 de 74 BGA:FanfRS",
+    "md5": "698a9b91384a09c21a9d714d4af807c9",
+    "org_level": 12,
+    "title": "Lost Petal's Wander [SP ANOTHER]",
+    "artist": "RB.H × lixound × 薛南 mov:Keizou \/ obj:9RAN",
     "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
     "level": "12.7(HARD適正CPI1800~1850)",
     "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=16&event=133",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=443&event=140",
     "url_diff": "",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "sl8 BPM225 高速階段",
-    "adddate": "2023\/02\/22"
+    "org_md5s": [
+      "b88024edc3263a6cd074e7afcf1956b5",
+      "07723bfcf5c4eb64cb1312fa9ef68a73",
+      "e1edfdcc5515f9539d0fa3b50da384f8",
+      "698a9b91384a09c21a9d714d4af807c9",
+      "1652c53be4932ab7050b123010f70121",
+      "da784d6149b1272d21b0cdde3d766947"
+    ],
+    "org_md5": "b88024edc3263a6cd074e7afcf1956b5",
+    "comment": "video<https:\/\/youtu.be\/bkFjS9aWdus>",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
@@ -5669,30 +5634,20 @@
     "adddate": "2023\/02\/22"
   },
   {
-    "md5": "857e8c40f16cfab843e0b48576d28454",
-    "org_level": 14,
-    "title": "stardust explorer [INSANE]",
-    "artist": "kooridori BGA:Arishima_ \/ obj.rat",
+    "md5": "1922023d01ef953493c15342a4c418ca",
+    "org_level": 8,
+    "title": "Stokesia [NEXT]",
+    "artist": "lazward \/ BGI:ミロ飲め夫 \/ obj:Sar",
     "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
     "level": "12.7(HARD適正CPI1800~1850)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=146&event=140",
-    "url_diff": "",
+    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/Stokesia%20(by%20lazward).rar",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/bof\/src\/up1008.zip",
     "name_diff": null,
-    "org_md5s": [
-      "fc75db28223333c1983704b6c71dc407",
-      "aec027ffed1bde0a8fdb981a01feeec9",
-      "299901fc3912720cbdbb8eff5f1c1852",
-      "937b3cb1e7189c6834c3e764783cf627",
-      "e3b0a5ca58a3ce507c436564b6cdb599",
-      "a51630978e19a5e706da6d0445c33c43",
-      "857e8c40f16cfab843e0b48576d28454",
-      "4fa32b9ef9b0eea82a9816bc9323250a",
-      "6a563ddcebe86e6e753098f2f6982e7f"
-    ],
-    "org_md5": "fc75db28223333c1983704b6c71dc407",
-    "comment": "video<https:\/\/youtu.be\/F2_jshcWHRU>",
-    "adddate": "2023\/02\/22"
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "7fd4d1b5a767fd97343129157782a95f",
@@ -5711,31 +5666,20 @@
     "adddate": "2023\/02\/27"
   },
   {
-    "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
-    "org_level": 14,
-    "title": "ネイクド・ワイルド・パラノイド [夜王牙]",
-    "artist": "kei_iwata + saaa BGA:内村徹 \/ obj:saaa",
+    "md5": "8f133243dbc8d4ef84ae4eb4ca97de9c",
+    "org_level": 6,
+    "title": "アルスノヴァに喝采を [SP INSANE]",
+    "artist": "qfeileadh feat.レゾナンスもえこ movie:アカイユウ \/ illust:ねるぞう",
     "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
     "level": "12.7(HARD適正CPI1800~1850)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=140",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=15&event=137",
     "url_diff": "",
     "name_diff": null,
-    "org_md5s": [
-      "8e876aba33aaa2d3caf422cad0ecfd30",
-      "75c0dad7cecaed6b446606eb7aaf067a",
-      "a351c951170f483781afe1f45861dbb4",
-      "70316c387e7efed31ddfc70ef506eea8",
-      "fc63360d02056d19635e0b66c0f3d462",
-      "504356dfc48e8abf9b54a88b509b9999",
-      "5da3018d94c69912d02d5326943af296",
-      "2faabba39629502c39567df611d0a318",
-      "fb7def20e0a22572f87f2c6690555e18",
-      "0e0e1c6f0e2548216689ae6dbe67b7e7"
-    ],
-    "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
-    "comment": "",
-    "adddate": "2023\/02\/22"
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl5~6?",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "8b71de41395ff4f802b4e6fa7d92f9c0",
@@ -5754,27 +5698,56 @@
     "adddate": "2023\/02\/27"
   },
   {
-    "md5": "d2d008d377cbe373f5822b1f5f218f57",
+    "md5": "6cc4d54b02d50301bfffe605f1babeba",
     "org_level": 12,
-    "title": "\"Fishpot\"",
-    "artist": "Lemi.",
+    "title": "* this game does not exist * [SP  INSANE]",
+    "artist": "litmus* x Ester",
     "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
     "level": "12.8(HARD適正CPI1850~1900)",
     "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=227&event=140",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=284&event=140",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "d2d008d377cbe373f5822b1f5f218f57",
-      "c2fe3e22df60215074acb391c2d523e8",
-      "dbb531fcb7d6e1c0604784b3b51b017f",
-      "d54adbb688c55cef07571c29de98c6ce",
-      "1d10eb46783433825ad5e14334f836e0",
-      "c78b936c6a8e636bef73c0c9caab5f5d"
+      "13718b033c720defeae1a7f8c0ebf20f",
+      "4babc0e57ff2da3b0eee90109d283b3b",
+      "d16e46114cf6c83bc068524337454883",
+      "97003476e9c22f496c310f5a373fa90c",
+      "f3e209a225267b88db40d4f8d2933cf6",
+      "6cc4d54b02d50301bfffe605f1babeba",
+      "ead977fca9a925dc226a73278a2231de",
+      "abc26841c864e70351d08e0ade9507ff"
     ],
-    "org_md5": "d2d008d377cbe373f5822b1f5f218f57",
-    "comment": "video<https:\/\/youtu.be\/3ChGWs-VQDU>",
-    "adddate": "2023\/02\/22"
+    "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
+    "comment": "video<https:\/\/youtu.be\/AXLnpNN8tXc>",
+    "adddate": "2023\/06\/07"
+  },
+  {
+    "md5": "5aedf9dc1425b691e779b4a7c90e77e1",
+    "org_level": 12,
+    "title": "D3C3MB3R",
+    "artist": "eicateve movie:龍花 \/ object:hi-low",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=405&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8e692cbbd4b18f16bca5b7a0ddbbecd0",
+      "c4d2b621968fd50e61540362efbb8496",
+      "12182c5994c7ec9ae3f2090da09ba970",
+      "5aedf9dc1425b691e779b4a7c90e77e1",
+      "bbf3c39c723d486d7f73560692400246",
+      "6d4016eabddc8d77ccb8e6cfe0b45404",
+      "ca99c6fc8377fb1846478d86d39033a7",
+      "606c331a2af77df466a595e67f416180",
+      "e4d3f2907ce7b35a3f9736db024756b8",
+      "f8f69cf3f11960146d46a503f96fdf8d"
+    ],
+    "org_md5": "8e692cbbd4b18f16bca5b7a0ddbbecd0",
+    "comment": "video<https:\/\/youtu.be\/dfgHzxLYLWk>",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "acc60924b0410990fc7d47cea561a441",
@@ -5811,59 +5784,20 @@
     "adddate": "2023\/05\/25"
   },
   {
-    "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
-    "org_level": 12,
-    "title": "HAELEQUIN",
-    "artist": "orangentle \/ deadblue238",
+    "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
+    "org_level": 8,
+    "title": "LWVIIX[ANOTHER]",
+    "artist": "69 de 74 BGA:FanfRS",
     "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
     "level": "12.8(HARD適正CPI1850~1900)",
-    "lr2_bmsid": "140320",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=389&event=83",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=16&event=133",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "> 公式パッケージのものは古くなっています。現在の会場のものを使用してください。",
-    "adddate": "2023\/05\/25"
-  },
-  {
-    "md5": "ce447245541dc4b936aead4d1b304842",
-    "org_level": 9,
-    "title": "High-Priestess[HARDEST]",
-    "artist": "Luxion \/差分 赤い人",
-    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
-    "level": "12.8(HARD適正CPI1850~1900)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/bof2012bfg.web.fc2.com\/nowcanyouclear.html",
-    "url_diff": "http:\/\/akred.web.fc2.com\/bmsfile\/HighPriestess-HARDEST.bme",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "地力",
-    "adddate": "2023\/02\/23"
-  },
-  {
-    "md5": "698a9b91384a09c21a9d714d4af807c9",
-    "org_level": 12,
-    "title": "Lost Petal's Wander [SP ANOTHER]",
-    "artist": "RB.H × lixound × 薛南 mov:Keizou \/ obj:9RAN",
-    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
-    "level": "12.8(HARD適正CPI1850~1900)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=443&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "b88024edc3263a6cd074e7afcf1956b5",
-      "07723bfcf5c4eb64cb1312fa9ef68a73",
-      "e1edfdcc5515f9539d0fa3b50da384f8",
-      "698a9b91384a09c21a9d714d4af807c9",
-      "1652c53be4932ab7050b123010f70121",
-      "da784d6149b1272d21b0cdde3d766947"
-    ],
-    "org_md5": "b88024edc3263a6cd074e7afcf1956b5",
-    "comment": "video<https:\/\/youtu.be\/bkFjS9aWdus>",
-    "adddate": "2023\/04\/10"
+    "comment": "sl8 BPM225 高速階段",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "bae8c1d74a0e9ee020ebeb4c80d62ef0",
@@ -5894,6 +5828,32 @@
     "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
     "comment": "",
     "adddate": "2023\/06\/04"
+  },
+  {
+    "md5": "c4a4d2ba035fe1f60fc125d47fd2d0e3",
+    "org_level": 12,
+    "title": "Needy Samples Overdose [ANOTHER]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=31&event=139",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+      "d9302d9780532d17628f69a6394ef1ec",
+      "d4bbdbbcbb7ed8d1f693580dedc4ad7c",
+      "c4a4d2ba035fe1f60fc125d47fd2d0e3",
+      "9ec76ed7fecdaad50ffd7f539584cb0e",
+      "32511bb6febd5019950ddf8526c536aa",
+      "f27f4cc58a880baae7acbc1b96de0717",
+      "560a27c1b53ffdbd51150de413b21310",
+      "afcb96517ba1250bfd094de28ff2e735"
+    ],
+    "org_md5": "c2d37fb6ec7ad0c0f292595f6aeb8f10",
+    "comment": "video<https:\/\/youtu.be\/6lYtfrfBM4s>",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "e385b553488a23c440c776ba18649803",
@@ -5946,7 +5906,34 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "sl9",
-    "adddate": "2023\/02\/22"
+    "adddate": "2023\/06\/07"
+  },
+  {
+    "md5": "0e0e1c6f0e2548216689ae6dbe67b7e7",
+    "org_level": 14,
+    "title": "ネイクド・ワイルド・パラノイド [夜王牙]",
+    "artist": "kei_iwata + saaa BGA:内村徹 \/ obj:saaa",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8e876aba33aaa2d3caf422cad0ecfd30",
+      "75c0dad7cecaed6b446606eb7aaf067a",
+      "a351c951170f483781afe1f45861dbb4",
+      "70316c387e7efed31ddfc70ef506eea8",
+      "fc63360d02056d19635e0b66c0f3d462",
+      "504356dfc48e8abf9b54a88b509b9999",
+      "5da3018d94c69912d02d5326943af296",
+      "2faabba39629502c39567df611d0a318",
+      "fb7def20e0a22572f87f2c6690555e18",
+      "0e0e1c6f0e2548216689ae6dbe67b7e7"
+    ],
+    "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
+    "comment": "",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "7c13fda7208a6847a47396eda0b58408",
@@ -5971,6 +5958,29 @@
     "org_md5": "d6ab2b5c196c6e5d585f54d046664940",
     "comment": "",
     "adddate": "2023\/06\/02"
+  },
+  {
+    "md5": "d2d008d377cbe373f5822b1f5f218f57",
+    "org_level": 12,
+    "title": "\"Fishpot\"",
+    "artist": "Lemi.",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=227&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d2d008d377cbe373f5822b1f5f218f57",
+      "c2fe3e22df60215074acb391c2d523e8",
+      "dbb531fcb7d6e1c0604784b3b51b017f",
+      "d54adbb688c55cef07571c29de98c6ce",
+      "1d10eb46783433825ad5e14334f836e0",
+      "c78b936c6a8e636bef73c0c9caab5f5d"
+    ],
+    "org_md5": "d2d008d377cbe373f5822b1f5f218f57",
+    "comment": "video<https:\/\/youtu.be\/3ChGWs-VQDU>",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "e11ea3e5107888481425f76d7da26222",
@@ -6003,6 +6013,22 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/kx_2Mt8TDsE>sl9",
     "adddate": "2023\/05\/19"
+  },
+  {
+    "md5": "ce447245541dc4b936aead4d1b304842",
+    "org_level": 9,
+    "title": "High-Priestess[HARDEST]",
+    "artist": "Luxion \/差分 赤い人",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/bof2012bfg.web.fc2.com\/nowcanyouclear.html",
+    "url_diff": "http:\/\/akred.web.fc2.com\/bmsfile\/HighPriestess-HARDEST.bme",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "地力",
+    "adddate": "2023\/06\/07"
   },
   {
     "md5": "f96cf3af3d9356407bff483d27f4aecc",
@@ -6048,32 +6074,6 @@
     "org_md5": "9d961ac9f0a2ee2a2d4e326282223682",
     "comment": "video<https:\/\/youtu.be\/x9tYUKl3W_s>",
     "adddate": "2023\/04\/12"
-  },
-  {
-    "md5": "c4a4d2ba035fe1f60fc125d47fd2d0e3",
-    "org_level": 12,
-    "title": "Needy Samples Overdose [ANOTHER]",
-    "artist": "CYLTIE.",
-    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
-    "level": "12.9(HARD適正CPI1900~1950)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=31&event=139",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "c2d37fb6ec7ad0c0f292595f6aeb8f10",
-      "d9302d9780532d17628f69a6394ef1ec",
-      "d4bbdbbcbb7ed8d1f693580dedc4ad7c",
-      "c4a4d2ba035fe1f60fc125d47fd2d0e3",
-      "9ec76ed7fecdaad50ffd7f539584cb0e",
-      "32511bb6febd5019950ddf8526c536aa",
-      "f27f4cc58a880baae7acbc1b96de0717",
-      "560a27c1b53ffdbd51150de413b21310",
-      "afcb96517ba1250bfd094de28ff2e735"
-    ],
-    "org_md5": "c2d37fb6ec7ad0c0f292595f6aeb8f10",
-    "comment": "video<https:\/\/youtu.be\/6lYtfrfBM4s>",
-    "adddate": "2023\/05\/25"
   },
   {
     "md5": "b87f1a693ab02b82ba065ad60609055a",
@@ -6169,7 +6169,7 @@
       "29218763f7b55ddf23d1f4e1ec112816"
     ],
     "org_md5": "ae3875f342e6f9ac5d475e742fce6470",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/PLPzjM2Djy8>",
     "adddate": "2023\/04\/12"
   },
   {
@@ -6192,7 +6192,7 @@
       "7bc4913beb3949308756e6edec8999e5"
     ],
     "org_md5": "3d23a3e8b2e2ff092892101628d2d638",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/1MY9qnLX9sk>",
     "adddate": "2023\/05\/31"
   },
   {
@@ -6208,7 +6208,7 @@
     "name_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up0956GENOSIDE段位認定 発狂六段 1曲目",
+    "comment": "video<https:\/\/youtu.be\/i08nrtvGYp0>★16",
     "adddate": "2023\/05\/19"
   },
   {
@@ -6224,7 +6224,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/0-JsIdrU7KE>sl9",
     "adddate": "2023\/05\/25"
   },
   {
@@ -6251,7 +6251,7 @@
       "96a91ebad9a86aeef831a78168082e36"
     ],
     "org_md5": "4a1c8204ef96b541c915285b5b610607",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/TnI8smBgmX0>sl10",
     "adddate": "2023\/05\/31"
   },
   {
