@@ -1715,7 +1715,7 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "1to24PBPページhttp:\/\/www6.atpages.jp\/japancoolfuku\/1to24\/",
-    "adddate": "2023\/02\/17"
+    "adddate": "2023\/06\/14"
   },
   {
     "md5": "72341b3417b72cdf78488a9e0f22797a",
@@ -2453,31 +2453,6 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "a7acabe67ba063511ecc35e71c0ffda7",
-    "org_level": 12,
-    "title": "GYNOID [SP LEGGENDARIA]",
-    "artist": "Kamisys feat.VE mov. yusi.",
-    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
-    "level": "12.1(HARD適正CPI1500~1550)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=22&num=34&order=reg&odtype=a",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "5cf7f446efbc2b28265f616c14319a16",
-      "9fd3ec6e036d0572ee950ca3792a44f8",
-      "47b4c3cce8f3e4f2f91e79510b3b6ee3",
-      "a7acabe67ba063511ecc35e71c0ffda7",
-      "6b8ac39c2f79cc15e1d8d19c2bba8017",
-      "050fe95f8a20767545dd4be31cdb5b12",
-      "eba6573e9158dfd35e5206a74187d9d4",
-      "0ee576ef3fc2e8cbd763b7fc4d024599"
-    ],
-    "org_md5": "5cf7f446efbc2b28265f616c14319a16",
-    "comment": "",
-    "adddate": "2023\/02\/22"
-  },
-  {
     "md5": "79c687475c69c9f2590465e7b187f593",
     "org_level": 12,
     "title": "HOPE [7key Another HOPE]",
@@ -2798,30 +2773,6 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "15d31e04fbf5bd2380f69564a30d78b1",
-    "org_level": 12,
-    "title": "VIFU-0368[ANOTHER]",
-    "artist": "SOMON",
-    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
-    "level": "12.1(HARD適正CPI1500~1550)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=404&event=137",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "15d31e04fbf5bd2380f69564a30d78b1",
-      "dcde993cd45ffa9ac7f65bb525c84539",
-      "de01652d34eccd072c1973900542a49d",
-      "f11a8fd19d7f0670d3b410b82744963c",
-      "0a933d8d92c3a7d7af4a97a1989b6563",
-      "f2ce12117746286fd1c5a13c9508b639",
-      "50637a8e234d7bdb6a090c4fc4e74dfd"
-    ],
-    "org_md5": "15d31e04fbf5bd2380f69564a30d78b1",
-    "comment": "",
-    "adddate": "2023\/02\/22"
-  },
-  {
     "md5": "6382797789a4791da0e5750fb34d1fb2",
     "org_level": 2,
     "title": "Wonderful Tomorrow [WONDER]",
@@ -3123,6 +3074,31 @@
     "org_md5": "",
     "comment": "sl3",
     "adddate": "2023\/02\/23"
+  },
+  {
+    "md5": "a7acabe67ba063511ecc35e71c0ffda7",
+    "org_level": 12,
+    "title": "GYNOID [SP LEGGENDARIA]",
+    "artist": "Kamisys feat.VE mov. yusi.",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=22&num=34&order=reg&odtype=a",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5cf7f446efbc2b28265f616c14319a16",
+      "9fd3ec6e036d0572ee950ca3792a44f8",
+      "47b4c3cce8f3e4f2f91e79510b3b6ee3",
+      "a7acabe67ba063511ecc35e71c0ffda7",
+      "6b8ac39c2f79cc15e1d8d19c2bba8017",
+      "050fe95f8a20767545dd4be31cdb5b12",
+      "eba6573e9158dfd35e5206a74187d9d4",
+      "0ee576ef3fc2e8cbd763b7fc4d024599"
+    ],
+    "org_md5": "5cf7f446efbc2b28265f616c14319a16",
+    "comment": "",
+    "adddate": "2023\/06\/14"
   },
   {
     "md5": "4ce3d407b67d1edf3106d40731beac8a",
@@ -3441,6 +3417,30 @@
     "adddate": "2023\/02\/25"
   },
   {
+    "md5": "15d31e04fbf5bd2380f69564a30d78b1",
+    "org_level": 12,
+    "title": "VIFU-0368[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=404&event=137",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "15d31e04fbf5bd2380f69564a30d78b1",
+      "dcde993cd45ffa9ac7f65bb525c84539",
+      "de01652d34eccd072c1973900542a49d",
+      "f11a8fd19d7f0670d3b410b82744963c",
+      "0a933d8d92c3a7d7af4a97a1989b6563",
+      "f2ce12117746286fd1c5a13c9508b639",
+      "50637a8e234d7bdb6a090c4fc4e74dfd"
+    ],
+    "org_md5": "15d31e04fbf5bd2380f69564a30d78b1",
+    "comment": "",
+    "adddate": "2023\/06\/14"
+  },
+  {
     "md5": "fa843ffd47214c787c2673e83bb5da69",
     "org_level": 3,
     "title": "シレノ [SP INSANE]",
@@ -3583,22 +3583,6 @@
     "org_md5": "",
     "comment": "ズレ",
     "adddate": "2023\/02\/25"
-  },
-  {
-    "md5": "f8c9dff750341063a3df9b84535d74db",
-    "org_level": 4,
-    "title": "Barely Barely",
-    "artist": "unknown \"β\"",
-    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
-    "level": "12.3(HARD適正CPI1600~1650)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/venue.bmssearch.net\/bmsshuin2\/65",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "第二回BMS衆議院選、LN、連打、皿、階段",
-    "adddate": "2023\/02\/27"
   },
   {
     "md5": "e7cea726602a37c85cefb34ef69dc18d",
@@ -3810,6 +3794,22 @@
     "org_md5": "",
     "comment": "同時押し",
     "adddate": "2023\/02\/27"
+  },
+  {
+    "md5": "0c65f3ac5bbd647977a64d51ef90d2ac",
+    "org_level": 7,
+    "title": "PEACE BREAKER[ANOTHER]",
+    "artist": "Omnipotenx",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": "105462",
+    "url": "http:\/\/monochrome-world.sakura.ne.jp\/peace_breaker.zip",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "■ 本体アーカイブ\u000a　 https:\/\/web.archive.org\/web\/20120710000514\/http:\/\/monochrome-world.sakura.ne.jp\/peace_breaker.zip\u000a■ GENOSIDEスターターパッケージ収録楽曲\u000a　 http:\/\/nekokan.dyndns.info\/~lobsak\/genoside\/",
+    "adddate": "2023\/06\/14"
   },
   {
     "md5": "effc5c191235d51d7d8d8d9b5ac342cc",
@@ -4038,6 +4038,22 @@
     "adddate": "2023\/02\/27"
   },
   {
+    "md5": "0676d42c5eb08932d96a941b0a0a341e",
+    "org_level": 8,
+    "title": "舞姫 ～buki～　[7key AFOTHER]",
+    "artist": "HOUJIROU",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": "478",
+    "url": "http:\/\/houjirou.at-ninja.jp\/",
+    "url_diff": "http:\/\/nekokan.dyndns.info\/~lobsak\/hokan\/",
+    "name_diff": "http:\/\/nekokan.dyndns.info\/~lobsak\/hokan\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/06\/10"
+  },
+  {
     "md5": "16a5e6b5b3de5efd9930fb1051b4968c",
     "org_level": 12,
     "title": "葡萄茶の寫眞機[SP ANOTHER]",
@@ -4252,6 +4268,22 @@
     "adddate": "2023\/02\/16"
   },
   {
+    "md5": "f8c9dff750341063a3df9b84535d74db",
+    "org_level": 4,
+    "title": "Barely Barely",
+    "artist": "unknown \"β\"",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmsshuin2\/65",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "第二回BMS衆議院選、LN、連打、皿、階段",
+    "adddate": "2023\/06\/14"
+  },
+  {
     "md5": "f94e4a5f13263fdb5ee4aa74e0856b47",
     "org_level": 5,
     "title": "BOUNCE THE TECH [M4KE S0M3 N01SE]",
@@ -4424,6 +4456,22 @@
     "org_md5": "d5a0ef30bdeb132021ec9cc8ac65fd4e",
     "comment": "",
     "adddate": "2023\/02\/21"
+  },
+  {
+    "md5": "6f100b3d018d06249af4b44768ff8a44",
+    "org_level": 6,
+    "title": "More Selfish -fickle-",
+    "artist": "mommy \/ obj:あーさん",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": "69365",
+    "url": "http:\/\/mommy16807.seesaa.net\/article\/148541992.html",
+    "url_diff": "http:\/\/drowsy.hannnari.com\/index.html",
+    "name_diff": "http:\/\/drowsy.hannnari.com\/index.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/06\/14"
   },
   {
     "md5": "82edafc8f0cb779bf4872a5c2d835cde",
@@ -4723,6 +4771,22 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "d6fb78635d9c5027417c3beefe6ade67",
+    "org_level": 10,
+    "title": "Halcyon[ANOTHER+]",
+    "artist": "xi \/ obj:Risky*",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": "83710",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=237&event=65",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up1433.rar",
+    "name_diff": "http:\/\/absolute.pv.land.to\/uploader\/upload.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "up1433.rar",
+    "adddate": "2023\/06\/14"
+  },
+  {
     "md5": "081f3e162b1d88f0f0e59a44593af6e4",
     "org_level": 6,
     "title": "HEXPERUS [SP INSANE]",
@@ -4927,6 +4991,22 @@
     "org_md5": "",
     "comment": "同時押し,  乱打,  皿,  X",
     "adddate": "2023\/03\/01"
+  },
+  {
+    "md5": "284fd8fdf21f963359aca222b9872c92",
+    "org_level": 10,
+    "title": "PUPA [LAPITHER]",
+    "artist": "モリモリあつし bga.HALLPBE.S \/ obj.LAPIS vs sne",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": "202116",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=129&event=96",
+    "url_diff": "http:\/\/www.dropbox.com\/s\/sf80oiia5ancno0\/pupa_lapither_bgafix.rar?dl=0",
+    "name_diff": "http:\/\/www.dropbox.com\/s\/sf80oiia5ancno0\/pupa_lapither_bgafix.rar?dl=0",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "\u0009差分 + BGA : http:\/\/www.dropbox.com\/s\/vw74m26ogagsryf\/pupa_lapither_bgafix%2Bbga.rar?dl=0BGA is from G2R後夜祭 : http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=99* fixed from http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsid=199606",
+    "adddate": "2023\/06\/12"
   },
   {
     "md5": "dfa7a9706059297fc7bbc1b14c884372",
@@ -5424,7 +5504,7 @@
       "7f874741b862f7da1eb9771b18af1b43"
     ],
     "org_md5": "29eac6d2820febba4097b8917817b7f0",
-    "comment": "",
+    "comment": "video<https:\/\/youtu.be\/GW1zOlsKqSQ>",
     "adddate": "2023\/02\/24"
   },
   {
@@ -6889,22 +6969,6 @@
     "adddate": "2023\/06\/04"
   },
   {
-    "md5": "2e1cc5e6bb96bff8a92f2defce49e70a",
-    "org_level": 20,
-    "title": "Messier 333(EX7)",
-    "artist": "sun3 \/ BGA:Johnny \/ obj:ds",
-    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
-    "level": "13.3(HARD適正CPI2100~2150?)",
-    "lr2_bmsid": "40173",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=113&event=60",
-    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up0454.zip",
-    "name_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/s-H8IGMu0rI>★20",
-    "adddate": "2023\/06\/04"
-  },
-  {
     "md5": "abc26841c864e70351d08e0ade9507ff",
     "org_level": 21,
     "title": "* this game does not exist * [NIL]",
@@ -6960,6 +7024,22 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/MGI9sZSONJw>★22",
     "adddate": "2023\/04\/12"
+  },
+  {
+    "md5": "2e1cc5e6bb96bff8a92f2defce49e70a",
+    "org_level": 20,
+    "title": "Messier 333(EX7)",
+    "artist": "sun3 \/ BGA:Johnny \/ obj:ds",
+    "folder": "LEVEL13.4(HARD適正CPI2150~?)",
+    "level": "13.4(HARD適正CPI2150~?)",
+    "lr2_bmsid": "40173",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=113&event=60",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up0454.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/s-H8IGMu0rI>★20",
+    "adddate": "2023\/06\/12"
   },
   {
     "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
