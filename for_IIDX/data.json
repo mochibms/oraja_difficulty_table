@@ -3862,6 +3862,28 @@
     "adddate": "2023\/06\/14"
   },
   {
+    "md5": "c9b36afa93691a76d9eceda640ce8ed4",
+    "org_level": 12,
+    "title": "Redo -Rebirth-",
+    "artist": "Sound-Box(feat.nayuta) Movie:Kengo Nakao \/ obj:monaka",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c9b36afa93691a76d9eceda640ce8ed4",
+      "6ca7d4904590eb071699f409caf3205a",
+      "371bccbfaa02d28fd9d71f93cb89583b",
+      "6124ac0884a92f0cbae3d3baeeb60ae0",
+      "cc0b2c2240bd1238f5a3be27f6398f53"
+    ],
+    "org_md5": "c9b36afa93691a76d9eceda640ce8ed4",
+    "comment": "",
+    "adddate": "2023\/07\/03"
+  },
+  {
     "md5": "effc5c191235d51d7d8d8d9b5ac342cc",
     "org_level": 7,
     "title": "Rush-Hour [SP INSANE]",
@@ -4558,28 +4580,6 @@
     "adddate": "2023\/02\/25"
   },
   {
-    "md5": "c9b36afa93691a76d9eceda640ce8ed4",
-    "org_level": 12,
-    "title": "Redo -Rebirth-",
-    "artist": "Sound-Box(feat.nayuta) Movie:Kengo Nakao \/ obj:monaka",
-    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
-    "level": "12.4(HARD適正CPI1650~1700)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "c9b36afa93691a76d9eceda640ce8ed4",
-      "6ca7d4904590eb071699f409caf3205a",
-      "371bccbfaa02d28fd9d71f93cb89583b",
-      "6124ac0884a92f0cbae3d3baeeb60ae0",
-      "cc0b2c2240bd1238f5a3be27f6398f53"
-    ],
-    "org_md5": "c9b36afa93691a76d9eceda640ce8ed4",
-    "comment": "",
-    "adddate": "2023\/06\/14"
-  },
-  {
     "md5": "70562f8a42b5b76b8c75e826139b4b77",
     "org_level": 12,
     "title": "reikon girl@Genso-kyo (ANOTHER7)",
@@ -4760,33 +4760,6 @@
     "adddate": "2023\/06\/27"
   },
   {
-    "md5": "a383dfc55f1b5122cd38a055d1c2ae91",
-    "org_level": 12,
-    "title": "葡萄茶の寫眞機 -Photography-",
-    "artist": "魔界都市ニイガタ obj.Lapis_BK（dawn-system\/黄泉路テヂーモ\/かゆき\/自動車 原付）",
-    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
-    "level": "12.4(HARD適正CPI1650~1700)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=423&event=137",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/1605",
-    "name_diff": null,
-    "org_md5s": [
-      "7e15fa3c885687fa5c0ffa205fba1c15",
-      "18f27af79f891437b7daf893582b62ac",
-      "a066ee11c2ceb1f1ac54735aef74ca0f",
-      "418ca393df9b23102519a06581f282a0",
-      "7ffb6e6168f38e79ff4414a11ce1c1a5",
-      "16a5e6b5b3de5efd9930fb1051b4968c",
-      "759bda365ff26ac1e9f8c88af445e7ba",
-      "e5d0abf74f3fa42abcf29e60afd1c401",
-      "15be18c857675b5ba6cfef46d9f427fb",
-      "a383dfc55f1b5122cd38a055d1c2ae91"
-    ],
-    "org_md5": "7e15fa3c885687fa5c0ffa205fba1c15",
-    "comment": "",
-    "adddate": "2023\/02\/27"
-  },
-  {
     "md5": "8003ae6304d047b08b3740bf09ad64e0",
     "org_level": 12,
     "title": "#DoomeyTunes [SP ANOTHER]",
@@ -4882,6 +4855,26 @@
     "org_md5": "",
     "comment": "BOF,G2R up0955.ziphttp:\/\/iroirokiba.web.fc2.com\/bms.htmlhttp:\/\/hiiiii.web.fc2.com\/sabun\/index.html",
     "adddate": "2023\/06\/21"
+  },
+  {
+    "md5": "076e29572b1eb9db8f5956130c86767c",
+    "org_level": 12,
+    "title": "crack in the earth [so below]",
+    "artist": "dandeless BGA:空読無 白眼",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "076e29572b1eb9db8f5956130c86767c",
+      "71aced698f473443f563f2f32d343788",
+      "d80b5f16c8e3270a2f16a00f34dcfd91"
+    ],
+    "org_md5": "076e29572b1eb9db8f5956130c86767c",
+    "comment": "",
+    "adddate": "2023\/07\/03"
   },
   {
     "md5": "d6fb78635d9c5027417c3beefe6ade67",
@@ -5276,6 +5269,33 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "a383dfc55f1b5122cd38a055d1c2ae91",
+    "org_level": 12,
+    "title": "葡萄茶の寫眞機 -Photography-",
+    "artist": "魔界都市ニイガタ obj.Lapis_BK（dawn-system\/黄泉路テヂーモ\/かゆき\/自動車 原付）",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=423&event=137",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/1605",
+    "name_diff": null,
+    "org_md5s": [
+      "7e15fa3c885687fa5c0ffa205fba1c15",
+      "18f27af79f891437b7daf893582b62ac",
+      "a066ee11c2ceb1f1ac54735aef74ca0f",
+      "418ca393df9b23102519a06581f282a0",
+      "7ffb6e6168f38e79ff4414a11ce1c1a5",
+      "16a5e6b5b3de5efd9930fb1051b4968c",
+      "759bda365ff26ac1e9f8c88af445e7ba",
+      "e5d0abf74f3fa42abcf29e60afd1c401",
+      "15be18c857675b5ba6cfef46d9f427fb",
+      "a383dfc55f1b5122cd38a055d1c2ae91"
+    ],
+    "org_md5": "7e15fa3c885687fa5c0ffa205fba1c15",
+    "comment": "",
+    "adddate": "2023\/07\/03"
+  },
+  {
     "md5": "9ca663f162a70b7c8c3819cd1c18708a",
     "org_level": 12,
     "title": "Altale[INSANE]",
@@ -5500,29 +5520,6 @@
     "adddate": "2023\/02\/27"
   },
   {
-    "md5": "b274d8fce2a3fc3d255250044b6ea03c",
-    "org_level": 12,
-    "title": "Motif [SP Another]",
-    "artist": "世界のよーすく劇場",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "937a79a60110b91e04eb1a33632bcd0e",
-      "6dea21042b1434da0f3694bee51cf314",
-      "64f3ff97ec44fb030b2158a8d5d6bd38",
-      "b274d8fce2a3fc3d255250044b6ea03c",
-      "59402dff341df913ab4ffc78424ebc39",
-      "b064d23ff162f9641ef37115f358ce47"
-    ],
-    "org_md5": "937a79a60110b91e04eb1a33632bcd0e",
-    "comment": "",
-    "adddate": "2023\/06\/27"
-  },
-  {
     "md5": "a1e0b36dd5c4533e59f0c8e297240315",
     "org_level": 12,
     "title": "Neutrφn Reaper [Reaper]",
@@ -5713,22 +5710,6 @@
     "adddate": "2023\/06\/07"
   },
   {
-    "md5": "b8d9488923de28377d9fea70e9d0e15c",
-    "org_level": 7,
-    "title": "Calamity Fortune [MASTER]",
-    "artist": "ZUN remixed by LeaF Movie:Optie \/ obj:monaka",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/leafbms.web.fc2.com\/song.html",
-    "url_diff": "https:\/\/ux.getuploader.com\/monaka_sabun_2\/download\/181",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/1mt16YBScs8>sl7",
-    "adddate": "2023\/06\/07"
-  },
-  {
     "md5": "03910179a5facdf570d15823fdaac281",
     "org_level": 12,
     "title": "FortunA[INSANE]",
@@ -5813,6 +5794,29 @@
     "adddate": "2023\/06\/07"
   },
   {
+    "md5": "b274d8fce2a3fc3d255250044b6ea03c",
+    "org_level": 12,
+    "title": "Motif [SP Another]",
+    "artist": "世界のよーすく劇場",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "937a79a60110b91e04eb1a33632bcd0e",
+      "6dea21042b1434da0f3694bee51cf314",
+      "64f3ff97ec44fb030b2158a8d5d6bd38",
+      "b274d8fce2a3fc3d255250044b6ea03c",
+      "59402dff341df913ab4ffc78424ebc39",
+      "b064d23ff162f9641ef37115f358ce47"
+    ],
+    "org_md5": "937a79a60110b91e04eb1a33632bcd0e",
+    "comment": "",
+    "adddate": "2023\/07\/03"
+  },
+  {
     "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
     "org_level": 8,
     "title": "PhonDrome![GALAPAGOS']",
@@ -5827,6 +5831,31 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/f_vc-bWkG0c>sl8",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "09b813d7dee327bab5450d6809168896",
+    "org_level": 12,
+    "title": "Poppy",
+    "artist": "Columba(Daily vs. Roon_kun) obj. Scely",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "09b813d7dee327bab5450d6809168896",
+      "70f19bbe70443bf733b23c5bb739a9c4",
+      "7215eed4625eb2c227280df0ca53aaaf",
+      "f30e664f3ca01b1174b4fb770b208848",
+      "1b1926af6f412a3d7440306d9689064e",
+      "fd166406d0f45c84e21f7d85ddf6cab6",
+      "b8ef7cfc2121dc7e62c94a09b6459a93",
+      "684e9005a2e263020a02e9bf01f54658"
+    ],
+    "org_md5": "09b813d7dee327bab5450d6809168896",
+    "comment": "",
+    "adddate": "2023\/07\/03"
   },
   {
     "md5": "637acc81a4774e365973d0badca5fa4e",
@@ -5944,58 +5973,6 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/GNBA-GgjKhA>★13",
     "adddate": "2023\/02\/27"
-  },
-  {
-    "md5": "6cc4d54b02d50301bfffe605f1babeba",
-    "org_level": 12,
-    "title": "* this game does not exist * [SP  INSANE]",
-    "artist": "litmus* x Ester",
-    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
-    "level": "12.8(HARD適正CPI1850~1900)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=284&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "13718b033c720defeae1a7f8c0ebf20f",
-      "4babc0e57ff2da3b0eee90109d283b3b",
-      "d16e46114cf6c83bc068524337454883",
-      "97003476e9c22f496c310f5a373fa90c",
-      "f3e209a225267b88db40d4f8d2933cf6",
-      "6cc4d54b02d50301bfffe605f1babeba",
-      "ead977fca9a925dc226a73278a2231de",
-      "abc26841c864e70351d08e0ade9507ff"
-    ],
-    "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
-    "comment": "video<https:\/\/youtu.be\/AXLnpNN8tXc>ソフラン 中盤加速時にギアチェン可能",
-    "adddate": "2023\/06\/07"
-  },
-  {
-    "md5": "5aedf9dc1425b691e779b4a7c90e77e1",
-    "org_level": 12,
-    "title": "D3C3MB3R",
-    "artist": "eicateve movie:龍花 \/ object:hi-low",
-    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
-    "level": "12.8(HARD適正CPI1850~1900)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=405&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8e692cbbd4b18f16bca5b7a0ddbbecd0",
-      "c4d2b621968fd50e61540362efbb8496",
-      "12182c5994c7ec9ae3f2090da09ba970",
-      "5aedf9dc1425b691e779b4a7c90e77e1",
-      "bbf3c39c723d486d7f73560692400246",
-      "6d4016eabddc8d77ccb8e6cfe0b45404",
-      "ca99c6fc8377fb1846478d86d39033a7",
-      "606c331a2af77df466a595e67f416180",
-      "e4d3f2907ce7b35a3f9736db024756b8",
-      "f8f69cf3f11960146d46a503f96fdf8d"
-    ],
-    "org_md5": "8e692cbbd4b18f16bca5b7a0ddbbecd0",
-    "comment": "video<https:\/\/youtu.be\/dfgHzxLYLWk>連皿",
-    "adddate": "2023\/06\/07"
   },
   {
     "md5": "acc60924b0410990fc7d47cea561a441",
@@ -6201,6 +6178,31 @@
     "adddate": "2023\/06\/07"
   },
   {
+    "md5": "6cc4d54b02d50301bfffe605f1babeba",
+    "org_level": 12,
+    "title": "* this game does not exist * [SP  INSANE]",
+    "artist": "litmus* x Ester",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=284&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "13718b033c720defeae1a7f8c0ebf20f",
+      "4babc0e57ff2da3b0eee90109d283b3b",
+      "d16e46114cf6c83bc068524337454883",
+      "97003476e9c22f496c310f5a373fa90c",
+      "f3e209a225267b88db40d4f8d2933cf6",
+      "6cc4d54b02d50301bfffe605f1babeba",
+      "ead977fca9a925dc226a73278a2231de",
+      "abc26841c864e70351d08e0ade9507ff"
+    ],
+    "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
+    "comment": "video<https:\/\/youtu.be\/AXLnpNN8tXc>ソフラン 中盤加速時にギアチェン可能",
+    "adddate": "2023\/07\/03"
+  },
+  {
     "md5": "e11ea3e5107888481425f76d7da26222",
     "org_level": 9,
     "title": "AzTella -aztellite-",
@@ -6231,6 +6233,33 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/kx_2Mt8TDsE>sl9",
     "adddate": "2023\/05\/19"
+  },
+  {
+    "md5": "5aedf9dc1425b691e779b4a7c90e77e1",
+    "org_level": 12,
+    "title": "D3C3MB3R",
+    "artist": "eicateve movie:龍花 \/ object:hi-low",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=405&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8e692cbbd4b18f16bca5b7a0ddbbecd0",
+      "c4d2b621968fd50e61540362efbb8496",
+      "12182c5994c7ec9ae3f2090da09ba970",
+      "5aedf9dc1425b691e779b4a7c90e77e1",
+      "bbf3c39c723d486d7f73560692400246",
+      "6d4016eabddc8d77ccb8e6cfe0b45404",
+      "ca99c6fc8377fb1846478d86d39033a7",
+      "606c331a2af77df466a595e67f416180",
+      "e4d3f2907ce7b35a3f9736db024756b8",
+      "f8f69cf3f11960146d46a503f96fdf8d"
+    ],
+    "org_md5": "8e692cbbd4b18f16bca5b7a0ddbbecd0",
+    "comment": "video<https:\/\/youtu.be\/dfgHzxLYLWk>連皿",
+    "adddate": "2023\/07\/03"
   },
   {
     "md5": "ce447245541dc4b936aead4d1b304842",
@@ -6322,30 +6351,6 @@
     "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
     "comment": "video<https:\/\/youtu.be\/PtHC07Bsy4Q>ソフラン、停止ギミック",
     "adddate": "2023\/06\/27"
-  },
-  {
-    "md5": "80d975b1d6a255026608f58dafe4f79e",
-    "org_level": 0,
-    "title": "On The Floor -Baltimore Club mix-[INSANE]",
-    "artist": "LeaF",
-    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
-    "level": "12.9(HARD適正CPI1900~1950)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/dropbox.bms.ms\/u\/87878874\/bms\/OntheFloor_LeaF.zip",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "3c08ee1bc286c6a1db6995efb075baa3",
-      "2f8be002a68e6927df0f1ed8b064389c",
-      "fab36aa7f55201aae937d3bc4d5c7502",
-      "c26722df3891d23b67051bf9489af48b",
-      "598972225079c4a9f520d9af12b693aa",
-      "80d975b1d6a255026608f58dafe4f79e",
-      "c931cf544a17b3ad59d7971dcafe6a29"
-    ],
-    "org_md5": "3c08ee1bc286c6a1db6995efb075baa3",
-    "comment": "video<https:\/\/youtu.be\/-D4LvWJPRG4>連皿",
-    "adddate": "2023\/06\/19"
   },
   {
     "md5": "b87f1a693ab02b82ba065ad60609055a",
@@ -6577,6 +6582,22 @@
     "adddate": "2023\/05\/19"
   },
   {
+    "md5": "67a76e7d26f3c3ea99fdc6f912f83021",
+    "org_level": 18,
+    "title": "Dreadnought [Fragarach]",
+    "artist": "Mastermind(xi+nora2r) iimo \/ Obj. LAPIS vs Triforce",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": "220863",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=410&event=104",
+    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/hBjam-h1uvE>★18",
+    "adddate": "2023\/07\/03"
+  },
+  {
     "md5": "f0037658680a91c1d5f54a8773b236bf",
     "org_level": 17,
     "title": "GOODRUSH [LUNATIC]",
@@ -6597,6 +6618,55 @@
     "org_md5": "c2e527ea018293b8bc6e0453b83d998b",
     "comment": "video<https:\/\/youtu.be\/AoNmPuT34Kg>",
     "adddate": "2023\/05\/19"
+  },
+  {
+    "md5": "80d975b1d6a255026608f58dafe4f79e",
+    "org_level": 0,
+    "title": "On The Floor -Baltimore Club mix-[INSANE]",
+    "artist": "LeaF",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/dropbox.bms.ms\/u\/87878874\/bms\/OntheFloor_LeaF.zip",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3c08ee1bc286c6a1db6995efb075baa3",
+      "2f8be002a68e6927df0f1ed8b064389c",
+      "fab36aa7f55201aae937d3bc4d5c7502",
+      "c26722df3891d23b67051bf9489af48b",
+      "598972225079c4a9f520d9af12b693aa",
+      "80d975b1d6a255026608f58dafe4f79e",
+      "c931cf544a17b3ad59d7971dcafe6a29"
+    ],
+    "org_md5": "3c08ee1bc286c6a1db6995efb075baa3",
+    "comment": "video<https:\/\/youtu.be\/-D4LvWJPRG4>連皿",
+    "adddate": "2023\/07\/03"
+  },
+  {
+    "md5": "2391b1c72074436cf655fd465e9176ca",
+    "org_level": 17,
+    "title": "Rush-Hour [SP LEGGENDARIA]",
+    "artist": "litmus* obj:BAECON",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=8&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e0040bacdee4a1cd0f78ee7e3cbe7906",
+      "10f8b7904fb9f4971ced34d04289d463",
+      "da25940907cce232042591119644d9f0",
+      "4f7194ff14462a3145f3aa2b88cb70ea",
+      "8504592fefd7cb14bedcfd9b860ded49",
+      "f33fc37068668828f16c9c2edfc4e2a1",
+      "effc5c191235d51d7d8d8d9b5ac342cc",
+      "2391b1c72074436cf655fd465e9176ca"
+    ],
+    "org_md5": "e0040bacdee4a1cd0f78ee7e3cbe7906",
+    "comment": "video<https:\/\/youtu.be\/OXv9fv55yvc>",
+    "adddate": "2023\/07\/03"
   },
   {
     "md5": "599ee45b7da27fb21c3df9b21f10f8bd",
@@ -6651,22 +6721,6 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/Za2SYOuVyus>sl12 ",
     "adddate": "2023\/05\/25"
-  },
-  {
-    "md5": "67a76e7d26f3c3ea99fdc6f912f83021",
-    "org_level": 18,
-    "title": "Dreadnought [Fragarach]",
-    "artist": "Mastermind(xi+nora2r) iimo \/ Obj. LAPIS vs Triforce",
-    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
-    "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": "220863",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=410&event=104",
-    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
-    "name_diff": "http:\/\/lapisbms.web.fc2.com\/",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/hBjam-h1uvE>★18",
-    "adddate": "2023\/06\/26"
   },
   {
     "md5": "a349367da4bf5f5c7c03095acf61e762",
@@ -6765,31 +6819,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/yfhnaWNV5zI>★17 連皿複合",
-    "adddate": "2023\/05\/19"
-  },
-  {
-    "md5": "2391b1c72074436cf655fd465e9176ca",
-    "org_level": 17,
-    "title": "Rush-Hour [SP LEGGENDARIA]",
-    "artist": "litmus* obj:BAECON",
-    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
-    "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=8&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "e0040bacdee4a1cd0f78ee7e3cbe7906",
-      "10f8b7904fb9f4971ced34d04289d463",
-      "da25940907cce232042591119644d9f0",
-      "4f7194ff14462a3145f3aa2b88cb70ea",
-      "8504592fefd7cb14bedcfd9b860ded49",
-      "f33fc37068668828f16c9c2edfc4e2a1",
-      "effc5c191235d51d7d8d8d9b5ac342cc",
-      "2391b1c72074436cf655fd465e9176ca"
-    ],
-    "org_md5": "e0040bacdee4a1cd0f78ee7e3cbe7906",
-    "comment": "video<https:\/\/youtu.be\/OXv9fv55yvc>",
     "adddate": "2023\/05\/19"
   },
   {
@@ -7000,6 +7029,28 @@
     "adddate": "2023\/05\/25"
   },
   {
+    "md5": "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+    "org_level": 19,
+    "title": "Avantgarde [Black Another]",
+    "artist": "Raimukun movie:あるし \/ obj:スノート",
+    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
+    "level": "13.3(HARD適正CPI2100~2150?)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/drive\/folders\/1QCreQH54kqV-iYDoZEJ3RY_BYcQVljrM?usp=sharing",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "619b191dfe5a9baa81d1d5c18289bd22",
+      "108e19da9af56cabcb71e78a630ab1eb",
+      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
+      "77a8c02f706786f4bd9776e7811ed584",
+      "a89c4538e2314bd252bef0c475ef4965"
+    ],
+    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
+    "comment": "video<https:\/\/youtu.be\/sb3Cv1qLijA>",
+    "adddate": "2023\/07\/04"
+  },
+  {
     "md5": "4c77d9e7bfaca4faee4a035cd8ffe872",
     "org_level": 12,
     "title": "BRAIN HACKER[BLACK ANOTHER]",
@@ -7128,28 +7179,6 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/MGI9sZSONJw>★22",
     "adddate": "2023\/04\/12"
-  },
-  {
-    "md5": "a43f1684cb8f38b9f8ca961ba8ce7ec0",
-    "org_level": 19,
-    "title": "Avantgarde [Black Another]",
-    "artist": "Raimukun movie:あるし \/ obj:スノート",
-    "folder": "LEVEL13.4(HARD適正CPI2150~?)",
-    "level": "13.4(HARD適正CPI2150~?)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/drive.google.com\/drive\/folders\/1QCreQH54kqV-iYDoZEJ3RY_BYcQVljrM?usp=sharing",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "619b191dfe5a9baa81d1d5c18289bd22",
-      "108e19da9af56cabcb71e78a630ab1eb",
-      "a43f1684cb8f38b9f8ca961ba8ce7ec0",
-      "77a8c02f706786f4bd9776e7811ed584",
-      "a89c4538e2314bd252bef0c475ef4965"
-    ],
-    "org_md5": "619b191dfe5a9baa81d1d5c18289bd22",
-    "comment": "video<https:\/\/youtu.be\/sb3Cv1qLijA>",
-    "adddate": "2023\/06\/26"
   },
   {
     "md5": "b5ac8582091269f60ed0d5f711c603bd",
