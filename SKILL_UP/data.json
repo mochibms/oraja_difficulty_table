@@ -1076,22 +1076,6 @@
     "adddate": "2023\/07\/08"
   },
   {
-    "md5": "16a7c7bad1dacb7fed698639c3574ec6",
-    "org_level": 11,
-    "title": "glacier's poetry [stare at the milky way]",
-    "artist": "VeetaCrush & ProjectG bga: linglvz obj: tyrcs",
-    "folder": "LEVEL2",
-    "level": "2",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=425&event=137",
-    "url_diff": "https:\/\/darksabun.github.io\/event\/bofxvii\/",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2023\/07\/11"
-  },
-  {
     "md5": "f0037658680a91c1d5f54a8773b236bf",
     "org_level": 17,
     "title": "GOODRUSH [LUNATIC]",
@@ -1497,6 +1481,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023\/07\/08"
+  },
+  {
+    "md5": "16a7c7bad1dacb7fed698639c3574ec6",
+    "org_level": 11,
+    "title": "glacier's poetry [stare at the milky way]",
+    "artist": "VeetaCrush & ProjectG bga: linglvz obj: tyrcs",
+    "folder": "LEVEL3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=425&event=137",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofxvii\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/07\/20"
   },
   {
     "md5": "40f931bdce724586b1545ea80eb7fde4",
@@ -6326,28 +6326,6 @@
     "adddate": "2023\/07\/08"
   },
   {
-    "md5": "ffb9dfbb5f7fd65746eeffe6b31fa66d",
-    "org_level": 2,
-    "title": "Play Me Your Love Song [Hexagon]",
-    "artist": "Kyuzo Sameura feat. a-m obj.hex",
-    "folder": "LEVEL10(st5)",
-    "level": "10(st5)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=115&event=123",
-    "url_diff": "https:\/\/bms.hexlataia.xyz\/tables\/hexajoy.html",
-    "name_diff": null,
-    "org_md5s": [
-      "8d4043fa4fcc278c53f3a5df9da762e0",
-      "3126afd76ec55a440501fff848a5f5a5",
-      "ab5c2d5c7310008aa873c61d8668e3b4",
-      "aa802c3b0fdbc4c44aa5739cdaa673e6",
-      "ffb9dfbb5f7fd65746eeffe6b31fa66d"
-    ],
-    "org_md5": "8d4043fa4fcc278c53f3a5df9da762e0",
-    "comment": "",
-    "adddate": "2023\/07\/08"
-  },
-  {
     "md5": "81d2bc2d271c2bc318f478a59cdfb507",
     "org_level": 24,
     "title": "Prayer [LAST BOSS]",
@@ -6993,6 +6971,28 @@
     "adddate": "2023\/07\/08"
   },
   {
+    "md5": "ffb9dfbb5f7fd65746eeffe6b31fa66d",
+    "org_level": 2,
+    "title": "Play Me Your Love Song [Hexagon]",
+    "artist": "Kyuzo Sameura feat. a-m obj.hex",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=115&event=123",
+    "url_diff": "https:\/\/bms.hexlataia.xyz\/tables\/hexajoy.html",
+    "name_diff": null,
+    "org_md5s": [
+      "8d4043fa4fcc278c53f3a5df9da762e0",
+      "3126afd76ec55a440501fff848a5f5a5",
+      "ab5c2d5c7310008aa873c61d8668e3b4",
+      "aa802c3b0fdbc4c44aa5739cdaa673e6",
+      "ffb9dfbb5f7fd65746eeffe6b31fa66d"
+    ],
+    "org_md5": "8d4043fa4fcc278c53f3a5df9da762e0",
+    "comment": "",
+    "adddate": "2023\/07\/20"
+  },
+  {
     "md5": "d65545a1dc09aa9f32871e222c4bb302",
     "org_level": 26,
     "title": "The Mighty A[NIGHTMARE]",
@@ -7071,6 +7071,33 @@
     "org_md5": "",
     "comment": "01451",
     "adddate": "2023\/07\/08"
+  },
+  {
+    "md5": "3bc9cd6c867d599303c014fbe3f58cc5",
+    "org_level": 25,
+    "title": "テキトウ・エクスプローリング・トイボックス [ステラのまほう]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "81129ca4892adad1f35a0d40a966ea4d",
+      "9baa71f89986ded4cd06bacfada12e7f",
+      "ca99f6ab4d99c2b9928344bec23f24a8",
+      "55a7bd5ce6f81669efa7904c46515a94",
+      "b04019cd8528bf17b2fd3c07d8c48969",
+      "ebcded37c24bb8a70f4466fb2fbe1f54",
+      "296da3e0d2f63883a1752f7693dd4f19",
+      "bf78fe9d8b0f5d911e48b1f4e0950802",
+      "3bc9cd6c867d599303c014fbe3f58cc5",
+      "48d58347415e60a4ca1c29567b4dded1"
+    ],
+    "org_md5": "81129ca4892adad1f35a0d40a966ea4d",
+    "comment": "",
+    "adddate": "2023\/07\/17"
   },
   {
     "md5": "18caf5155005e01366802135e948eb1b",
@@ -7558,33 +7585,6 @@
     "org_md5": "",
     "comment": "Before Tamamocchi there was Teumessia...",
     "adddate": "2023\/07\/08"
-  },
-  {
-    "md5": "3bc9cd6c867d599303c014fbe3f58cc5",
-    "org_level": 25,
-    "title": "テキトウ・エクスプローリング・トイボックス [ステラのまほう]",
-    "artist": "CYLTIE.",
-    "folder": "LEVEL12",
-    "level": "12",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "81129ca4892adad1f35a0d40a966ea4d",
-      "9baa71f89986ded4cd06bacfada12e7f",
-      "ca99f6ab4d99c2b9928344bec23f24a8",
-      "55a7bd5ce6f81669efa7904c46515a94",
-      "b04019cd8528bf17b2fd3c07d8c48969",
-      "ebcded37c24bb8a70f4466fb2fbe1f54",
-      "296da3e0d2f63883a1752f7693dd4f19",
-      "bf78fe9d8b0f5d911e48b1f4e0950802",
-      "3bc9cd6c867d599303c014fbe3f58cc5",
-      "48d58347415e60a4ca1c29567b4dded1"
-    ],
-    "org_md5": "81129ca4892adad1f35a0d40a966ea4d",
-    "comment": "",
-    "adddate": "2023\/07\/09"
   },
   {
     "md5": "e0c3fdbfc1f7bd71ea15d84ba53a2b4d",
