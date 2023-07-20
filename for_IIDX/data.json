@@ -468,6 +468,26 @@
     "adddate": "2023\/06\/04"
   },
   {
+    "md5": "d10c53876eee3e4c57f267a1d77a31c5",
+    "org_level": 11,
+    "title": "Black Wings [Another]",
+    "artist": "Abel & litmus* feat. nayuta",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=448&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "de475e7a59abefb5fd5fde991257dfea",
+      "00dbff7d9264bf41c503edb3d5899e2b",
+      "d10c53876eee3e4c57f267a1d77a31c5"
+    ],
+    "org_md5": "de475e7a59abefb5fd5fde991257dfea",
+    "comment": "",
+    "adddate": "2023\/07\/04"
+  },
+  {
     "md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
     "org_level": 11,
     "title": "Caffeine Overdose Girl [Another]",
@@ -2533,6 +2553,22 @@
     "adddate": "2023\/02\/27"
   },
   {
+    "md5": "cc117d0521097efbfc5bb461a168ccf0",
+    "org_level": 3,
+    "title": "Ocean Memory [Rea'du]",
+    "artist": "Junk",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": "112030",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=287&event=74",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同梱譜面",
+    "adddate": "2023\/07\/20"
+  },
+  {
     "md5": "c26722df3891d23b67051bf9489af48b",
     "org_level": 11,
     "title": "On The Floor -Baltimore Club mix-[ANOTHER]",
@@ -4564,6 +4600,22 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+    "org_level": 5,
+    "title": "NIRVANA [SP INSANE]",
+    "artist": "Music : Zekk \/ Movie : vol-t",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=35&event=104",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl5 同梱譜面　物量　微縦",
+    "adddate": "2023\/07\/20"
+  },
+  {
     "md5": "684e9005a2e263020a02e9bf01f54658",
     "org_level": 5,
     "title": "Poppy [Immortal]",
@@ -4875,6 +4927,27 @@
     "org_md5": "076e29572b1eb9db8f5956130c86767c",
     "comment": "",
     "adddate": "2023\/07\/03"
+  },
+  {
+    "md5": "dfc6c3ddb37c46ccaccc4696b985fd10",
+    "org_level": 12,
+    "title": "FUN PARTY OF THE BEACH!!!",
+    "artist": "Enterskip",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=128&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "dfc6c3ddb37c46ccaccc4696b985fd10",
+      "1863a02ec5432cf86a0903cb674eb1df",
+      "71e4b08f074dd934f80c2bfa96144998",
+      "20c186f3b38af29e93f539da108db60e"
+    ],
+    "org_md5": "dfc6c3ddb37c46ccaccc4696b985fd10",
+    "comment": "",
+    "adddate": "2023\/07\/20"
   },
   {
     "md5": "d6fb78635d9c5027417c3beefe6ade67",
@@ -5198,6 +5271,29 @@
     "org_md5": "",
     "comment": "大体乱打,偶に連皿",
     "adddate": "2023\/03\/01"
+  },
+  {
+    "md5": "e5023dcbf68bda6980c058cac955f9d0",
+    "org_level": 12,
+    "title": "インドア系ならトラックメイカー［INSANE］ 199024club mix",
+    "artist": "Yunomi & nicamoq remixed by 王 宙航",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=23&event=132",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "70c0840620009182a8f1cfe89dfa01ae",
+      "c70a5f6f955e4a33f44994eea0cc019e",
+      "36c8e659d9fdb777e65867c30415869f",
+      "e5023dcbf68bda6980c058cac955f9d0",
+      "9029f2722279ea927e8821bbc56d2dac",
+      "3f94e631f4665f04794412599d34ed25"
+    ],
+    "org_md5": "70c0840620009182a8f1cfe89dfa01ae",
+    "comment": "",
+    "adddate": "2023\/07\/17"
   },
   {
     "md5": "d2e73bab4a9e3f474f0336c3ee0c7d2a",
@@ -5637,6 +5733,34 @@
     "adddate": "2023\/06\/07"
   },
   {
+    "md5": "590a5263fcbcbe6502abe96f098c60ee",
+    "org_level": 12,
+    "title": "THE RAVAGE[INSANE]",
+    "artist": "Sheena Ed Crow BGI:69 de 74",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/9domu46i.com\/yuruyuru\/phase11.html",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "eecea096f2fc7bdcc21b3fce42019863",
+      "06dce53371bba45fec7397eb6e9f70c3",
+      "276b916493eeddf0e14dcc0b51cb7b1d",
+      "861f4f5df099e90c3c97db30489e94e0",
+      "cca331aa3d15697c6e375cc3fe5e3bd0",
+      "87b8ef9f093f38e9d4ce6ad6e4890d6d",
+      "590a5263fcbcbe6502abe96f098c60ee",
+      "53c465cf4502cf92349eeef42aa84a18",
+      "1253705c6085539bae4b53b9ba6236ec",
+      "e002529b67029dacce660a15c4c49af8",
+      "40cf31907740ad40b5eea5419e23b3aa"
+    ],
+    "org_md5": "eecea096f2fc7bdcc21b3fce42019863",
+    "comment": "",
+    "adddate": "2023\/07\/20"
+  },
+  {
     "md5": "6a4f405ecba42d19d535464ef6d8b8f8",
     "org_level": 13,
     "title": "VECTOR",
@@ -5658,6 +5782,22 @@
     "org_md5": "e702550d7d5a953989b90754d94d22a4",
     "comment": "video<https:\/\/youtu.be\/jhCjlt2TLjk>制限さんの神差分のbga定義追加版です。ファイル名_bgaの動画ファイルを用意して遊んでください。",
     "adddate": "2023\/02\/21"
+  },
+  {
+    "md5": "49cb4664ae8b5ca5ab355ed892875ed1",
+    "org_level": 7,
+    "title": "ロスト：ユートピアと真理と純粋の極彩世界 [SP ANOTHER]",
+    "artist": "Sound piercer & Sobrem",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/k-bms.com\/party_pabat\/party2017.jsp?board_num=17&num=70&order=reg&odtype=a",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl7",
+    "adddate": "2023\/07\/20"
   },
   {
     "md5": "ee81997919cb87d398915b36f7ac23ac",
@@ -5975,6 +6115,22 @@
     "adddate": "2023\/02\/27"
   },
   {
+    "md5": "62f6543036ffb0390c0abeb2af6ecb25",
+    "org_level": 13,
+    "title": "Blooming [Feeling] [7key Feeling]",
+    "artist": "Trish \/ obj.swa Movie:Vergil",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": "179177",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=19&event=91",
+    "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up4045.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "汎用up4045.zip",
+    "adddate": "2023\/07\/20"
+  },
+  {
     "md5": "acc60924b0410990fc7d47cea561a441",
     "org_level": 13,
     "title": "ELECTRiCiTY [7_voltage]",
@@ -6065,6 +6221,29 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/tCIJiU4WbdQ>",
     "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "da64bc2a556ac71e4e657e0a5f79efb2",
+    "org_level": 15,
+    "title": "αMe:TRiC -RhYMeTRiC-",
+    "artist": "srask obj: qtp13",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=173&event=127",
+    "url_diff": "https:\/\/darksabun.github.io\/bceg\/event\/bofxv\/",
+    "name_diff": null,
+    "org_md5s": [
+      "c96baabe8d2c62f14ddf75ac18c454bb",
+      "0e4b7b958d794f12771eac926ee1768d",
+      "21fcee5ec0a3a07a0c6ccf072a984dc4",
+      "b74621c9d3f4dbd8da37f0e9759d1a2c",
+      "da64bc2a556ac71e4e657e0a5f79efb2",
+      "e1bd1d999a8d1ff5df27cc8ed60e840a"
+    ],
+    "org_md5": "c96baabe8d2c62f14ddf75ac18c454bb",
+    "comment": "",
+    "adddate": "2023\/07\/20"
   },
   {
     "md5": "cd8b42bea86dbe0804d8a07cd1e50dbf",
@@ -6260,6 +6439,28 @@
     "org_md5": "8e692cbbd4b18f16bca5b7a0ddbbecd0",
     "comment": "video<https:\/\/youtu.be\/dfgHzxLYLWk>連皿",
     "adddate": "2023\/07\/03"
+  },
+  {
+    "md5": "f0037658680a91c1d5f54a8773b236bf",
+    "org_level": 17,
+    "title": "GOODRUSH [LUNATIC]",
+    "artist": "EBIMAYO obj.nozomi",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=313&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2125",
+    "name_diff": null,
+    "org_md5s": [
+      "c2e527ea018293b8bc6e0453b83d998b",
+      "9d8ed000465a1d3f3188184d3447530d",
+      "f3e519e5fb9d1109727a9a0393609f29",
+      "4bc9d6b4fca9d2621a4129f3f3148f82",
+      "f0037658680a91c1d5f54a8773b236bf"
+    ],
+    "org_md5": "c2e527ea018293b8bc6e0453b83d998b",
+    "comment": "video<https:\/\/youtu.be\/AoNmPuT34Kg>",
+    "adddate": "2023\/07\/20"
   },
   {
     "md5": "ce447245541dc4b936aead4d1b304842",
@@ -6473,6 +6674,22 @@
     "adddate": "2023\/05\/31"
   },
   {
+    "md5": "9747e0270b7e1c2e9ce87e3fd2e0c658",
+    "org_level": 16,
+    "title": "Welcome To The Electronic World!![SGVsbG8sIHdvcmxkIQ==]",
+    "artist": "Laur obj:0war1a VS 秘密",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": "224658",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=151&event=104",
+    "url_diff": "http:\/\/absolute.pv.land.to\/bof\/src\/up1084.zip",
+    "name_diff": "http:\/\/absolute.pv.land.to\/bof\/upload.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BOF,G2R系up1084.ziphttp:\/\/0war1a.web.fc2.com\/http:\/\/hiiiii.web.fc2.com\/sabun\/",
+    "adddate": "2023\/07\/20"
+  },
+  {
     "md5": "bcf7607db2955c8979b54a0981b5eeb6",
     "org_level": 16,
     "title": "Yakumo >>JOINT STRUGGLE-隙間-",
@@ -6487,6 +6704,33 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/i08nrtvGYp0>★16",
     "adddate": "2023\/05\/19"
+  },
+  {
+    "md5": "296da3e0d2f63883a1752f7693dd4f19",
+    "org_level": 12,
+    "title": "テキトウ・エクスプローリング・トイボックス [ANOTHER]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "81129ca4892adad1f35a0d40a966ea4d",
+      "9baa71f89986ded4cd06bacfada12e7f",
+      "ca99f6ab4d99c2b9928344bec23f24a8",
+      "55a7bd5ce6f81669efa7904c46515a94",
+      "b04019cd8528bf17b2fd3c07d8c48969",
+      "ebcded37c24bb8a70f4466fb2fbe1f54",
+      "296da3e0d2f63883a1752f7693dd4f19",
+      "bf78fe9d8b0f5d911e48b1f4e0950802",
+      "3bc9cd6c867d599303c014fbe3f58cc5",
+      "48d58347415e60a4ca1c29567b4dded1"
+    ],
+    "org_md5": "81129ca4892adad1f35a0d40a966ea4d",
+    "comment": "",
+    "adddate": "2023\/07\/17"
   },
   {
     "md5": "1bc98542eaf7f0cccfb4026bb3c25f49",
@@ -6530,6 +6774,28 @@
     "org_md5": "4a1c8204ef96b541c915285b5b610607",
     "comment": "video<https:\/\/youtu.be\/TnI8smBgmX0>sl10",
     "adddate": "2023\/05\/31"
+  },
+  {
+    "md5": "71ffe425897aa9bc7c0a0e54c521f45b",
+    "org_level": 12,
+    "title": "邂逅(BMS Refine) [ANOTHER]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7d99b3fd411698593aa75a52c1caa6d0",
+      "71ffe425897aa9bc7c0a0e54c521f45b",
+      "6d5fbe50848093e37da8ea591bd00d91",
+      "48d0560f0177c8a463644864d0205732",
+      "0ea7be68ce5060ee0706f982570a8997"
+    ],
+    "org_md5": "7d99b3fd411698593aa75a52c1caa6d0",
+    "comment": "",
+    "adddate": "2023\/07\/17"
   },
   {
     "md5": "34d94660c2d8232b8339703543a9343c",
@@ -6582,6 +6848,22 @@
     "adddate": "2023\/05\/19"
   },
   {
+    "md5": "ad6d4631747d7aa03530a5db4b9120c7",
+    "org_level": 11,
+    "title": "Bloody Scarlet Nightmare [Li]",
+    "artist": "ZUN remixed by翡乃イスカ obj:LIEF",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=71&event=102",
+    "url_diff": "http:\/\/flowermaster.web.fc2.com\/kikaku\/sabunsakusei.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "高速",
+    "adddate": "2023\/07\/20"
+  },
+  {
     "md5": "67a76e7d26f3c3ea99fdc6f912f83021",
     "org_level": 18,
     "title": "Dreadnought [Fragarach]",
@@ -6596,28 +6878,6 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/hBjam-h1uvE>★18",
     "adddate": "2023\/07\/03"
-  },
-  {
-    "md5": "f0037658680a91c1d5f54a8773b236bf",
-    "org_level": 17,
-    "title": "GOODRUSH [LUNATIC]",
-    "artist": "EBIMAYO obj.nozomi",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=313&event=140",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/2125",
-    "name_diff": null,
-    "org_md5s": [
-      "c2e527ea018293b8bc6e0453b83d998b",
-      "9d8ed000465a1d3f3188184d3447530d",
-      "f3e519e5fb9d1109727a9a0393609f29",
-      "4bc9d6b4fca9d2621a4129f3f3148f82",
-      "f0037658680a91c1d5f54a8773b236bf"
-    ],
-    "org_md5": "c2e527ea018293b8bc6e0453b83d998b",
-    "comment": "video<https:\/\/youtu.be\/AoNmPuT34Kg>",
-    "adddate": "2023\/05\/19"
   },
   {
     "md5": "80d975b1d6a255026608f58dafe4f79e",
@@ -6909,6 +7169,28 @@
     "adddate": "2023\/05\/19"
   },
   {
+    "md5": "7d99b3fd411698593aa75a52c1caa6d0",
+    "org_level": 12,
+    "title": "邂逅(BMS Refine) [IIDX]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7d99b3fd411698593aa75a52c1caa6d0",
+      "71ffe425897aa9bc7c0a0e54c521f45b",
+      "6d5fbe50848093e37da8ea591bd00d91",
+      "48d0560f0177c8a463644864d0205732",
+      "0ea7be68ce5060ee0706f982570a8997"
+    ],
+    "org_md5": "7d99b3fd411698593aa75a52c1caa6d0",
+    "comment": "",
+    "adddate": "2023\/07\/17"
+  },
+  {
     "md5": "0f02775a367c932432b0e31bb38acc3b",
     "org_level": 12,
     "title": "DEATH SENTENCE [Eliminator]",
@@ -7027,6 +7309,29 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/mG0tEpH6YDE>sl12",
     "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "3f94e631f4665f04794412599d34ed25",
+    "org_level": 12,
+    "title": "インドア系ならトラックメイカー［TRACKMAKER fixed］ 199024club mix",
+    "artist": "Yunomi & nicamoq remixed by 王 宙航",
+    "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
+    "level": "13.2(HARD適正CPI2050~2100?)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=23&event=132",
+    "url_diff": "https:\/\/drive.google.com\/file\/d\/1NI0hKWTrl6qcSunGuhXrNbDzGEMNvVu-\/view?usp=share_link",
+    "name_diff": null,
+    "org_md5s": [
+      "70c0840620009182a8f1cfe89dfa01ae",
+      "c70a5f6f955e4a33f44994eea0cc019e",
+      "36c8e659d9fdb777e65867c30415869f",
+      "e5023dcbf68bda6980c058cac955f9d0",
+      "9029f2722279ea927e8821bbc56d2dac",
+      "3f94e631f4665f04794412599d34ed25"
+    ],
+    "org_md5": "70c0840620009182a8f1cfe89dfa01ae",
+    "comment": "同梱版にBGAが途中で消える配置ミスが有ったため勝手に修正しました。",
+    "adddate": "2023\/07\/17"
   },
   {
     "md5": "a43f1684cb8f38b9f8ca961ba8ce7ec0",
