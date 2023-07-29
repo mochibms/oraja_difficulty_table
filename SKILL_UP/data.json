@@ -4600,22 +4600,6 @@
     "adddate": "2023\/07\/08"
   },
   {
-    "md5": "c67ba013af164f2cdec7c8c98c90d8f5",
-    "org_level": 22,
-    "title": "Cynic(THE another)",
-    "artist": "6yen \/ G \/ 、",
-    "folder": "LEVEL8",
-    "level": "8",
-    "lr2_bmsid": "1578",
-    "url": "http:\/\/www.commonsense.nu\/",
-    "url_diff": "http:\/\/cid-ce1dd07774d515b4.skydrive.live.com\/browse.aspx\/.Public?lc=1041",
-    "name_diff": "http:\/\/cid-ce1dd07774d515b4.skydrive.live.com\/browse.aspx\/.Public?lc=1041",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "GENOSIDE段位認定 発狂十段 2曲目@answer.txtより抜粋フレーズごとに（叩きが切り替わる場所毎に）以下の通り。３拍子、８小節目だけ５拍子３拍子→５拍子の繰り返し7\/8→9\/8の繰り返し7\/8→5\/4→3\/4→9\/8→3\/4→9\/8→7\/8→5\/4（ここら辺でもう無理）6\/4（ここは同じ）15\/16→17\/16の繰り返し（１６分素数拍子登場）7\/8→17\/16→15\/16→9\/8→7\/8→17\/16→15\/16→4\/4（フレーズの終わり際が４拍子）２拍子３拍子、ラスト５拍子",
-    "adddate": "2023\/07\/08"
-  },
-  {
     "md5": "9cd5a316117bce74196a4fc94d56e39c",
     "org_level": 3,
     "title": "DEYANEN [Hexagon]",
@@ -4645,22 +4629,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "BPM193 横に広い乱打",
-    "adddate": "2023\/07\/08"
-  },
-  {
-    "md5": "10420967a85371e65db57967e6c696cd",
-    "org_level": 23,
-    "title": "Doppelganger[Hi]",
-    "artist": "LeaF \/ obj:秘密 Movie:To7",
-    "folder": "LEVEL8",
-    "level": "8",
-    "lr2_bmsid": "174124",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=142&event=88",
-    "url_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
-    "name_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "■ GENOSIDE2018段位認定 発狂皆伝 1曲目（18\/04\/15～）\u000a■ 楽曲会場：http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=142&event=88",
     "adddate": "2023\/07\/08"
   },
   {
@@ -6065,6 +6033,22 @@
     "adddate": "2023\/07\/08"
   },
   {
+    "md5": "10420967a85371e65db57967e6c696cd",
+    "org_level": 23,
+    "title": "Doppelganger[Hi]",
+    "artist": "LeaF \/ obj:秘密 Movie:To7",
+    "folder": "LEVEL10(st5)",
+    "level": "10(st5)",
+    "lr2_bmsid": "174124",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=142&event=88",
+    "url_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
+    "name_diff": "http:\/\/www.geocities.jp\/hihihi4442\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "■ GENOSIDE2018段位認定 発狂皆伝 1曲目（18\/04\/15～）\u000a■ 楽曲会場：http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=142&event=88",
+    "adddate": "2023\/07\/29"
+  },
+  {
     "md5": "f2106aa9aa8ccc0f96ab64c883c6b79e",
     "org_level": 5,
     "title": "ELIMINATOR [A0]",
@@ -6717,22 +6701,6 @@
     "adddate": "2023\/07\/08"
   },
   {
-    "md5": "5a5cb7566f6415c9a8aeaa496df03f00",
-    "org_level": 24,
-    "title": "AzTella -Pleiades-",
-    "artist": "Nuekawa \/ obj:Criyajuh",
-    "folder": "LEVEL11",
-    "level": "11",
-    "lr2_bmsid": null,
-    "url": "https:\/\/stellabms.xyz\/upload\/2220",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/2220",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2023\/07\/08"
-  },
-  {
     "md5": "204febd6a2f38c3d4f0f2e3278b6a960",
     "org_level": 6,
     "title": "Black Lotus [Other]",
@@ -7256,6 +7224,22 @@
     "org_md5": "",
     "comment": "ディレイ",
     "adddate": "2023\/07\/08"
+  },
+  {
+    "md5": "5a5cb7566f6415c9a8aeaa496df03f00",
+    "org_level": 24,
+    "title": "AzTella -Pleiades-",
+    "artist": "Nuekawa \/ obj:Criyajuh",
+    "folder": "LEVEL12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "https:\/\/stellabms.xyz\/upload\/2220",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2220",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/07\/29"
   },
   {
     "md5": "49dae02d73b30e37473ed9c1094a7e33",
