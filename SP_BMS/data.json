@@ -10052,27 +10052,6 @@
     "adddate": "2023\/01\/30"
   },
   {
-    "md5": "5d34516e26d3496b9da0ea0e262bcd49",
-    "org_level": 3,
-    "title": "Ego Eater [K vs S]",
-    "artist": "iTIC (Obj: ReiOW vs ReiOW)",
-    "folder": "LEVEL12-(sl1~sl2)",
-    "level": "12-(sl1~sl2)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=65&event=140",
-    "url_diff": "https:\/\/darksabun.github.io\/event\/bofet\/",
-    "name_diff": null,
-    "org_md5s": [
-      "5d34516e26d3496b9da0ea0e262bcd49",
-      "07fa9a272a8f3009d2e060d8bb8dded5",
-      "b507a563afcdb61a257ee4e73c5eeb45",
-      "8986b086c349d6a13210efff9490a037"
-    ],
-    "org_md5": "5d34516e26d3496b9da0ea0e262bcd49",
-    "comment": "",
-    "adddate": "2023\/01\/10"
-  },
-  {
     "md5": "510a26c813c41de416268278d1a1adfe",
     "org_level": 12,
     "title": "Elixir [BITTER7]",
@@ -12068,30 +12047,6 @@
     "adddate": "2023\/01\/30"
   },
   {
-    "md5": "71f4385706dfe8ab3c0776da629af9d3",
-    "org_level": 1,
-    "title": "7th Avenue [AbNormal]",
-    "artist": "Sound Souler BGA: Yaesachi OBJ: Restia",
-    "folder": "LEVEL12(sl3~sl5)",
-    "level": "12(sl3~sl5)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=28&event=127",
-    "url_diff": "https:\/\/darksabun.github.io\/bceg\/event\/bofxv\/",
-    "name_diff": null,
-    "org_md5s": [
-      "f65de393efea1f6c8675be239705a0f1",
-      "95ad6b375b456fa6298cce1f372fe814",
-      "f04307b7a66e9ba17f22322b700076ae",
-      "f5077e06ff1ed491be7d6aed0f6e3cf5",
-      "31371e886ceb52eda29ab808f82d289e",
-      "979e65d64ade3d5f3db65f4613c1d63a",
-      "71f4385706dfe8ab3c0776da629af9d3"
-    ],
-    "org_md5": "f65de393efea1f6c8675be239705a0f1",
-    "comment": "ソフランギミックあり 低中速、同時押し、ハネリズム、",
-    "adddate": "2023\/02\/03"
-  },
-  {
     "md5": "d9cff74284c7784f8bdfe833f6bb34e9",
     "org_level": 12,
     "title": "ABSOLUTE DARK [7K MAXIMUM]",
@@ -12798,6 +12753,27 @@
     "adddate": "2023\/01\/30"
   },
   {
+    "md5": "5d34516e26d3496b9da0ea0e262bcd49",
+    "org_level": 3,
+    "title": "Ego Eater [K vs S]",
+    "artist": "iTIC (Obj: ReiOW vs ReiOW)",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=65&event=140",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofet\/",
+    "name_diff": null,
+    "org_md5s": [
+      "5d34516e26d3496b9da0ea0e262bcd49",
+      "07fa9a272a8f3009d2e060d8bb8dded5",
+      "b507a563afcdb61a257ee4e73c5eeb45",
+      "8986b086c349d6a13210efff9490a037"
+    ],
+    "org_md5": "5d34516e26d3496b9da0ea0e262bcd49",
+    "comment": "",
+    "adddate": "2023\/06\/18"
+  },
+  {
     "md5": "5a7f422b05a7867ccdd47f10ebe31907",
     "org_level": 3,
     "title": "ENERGY SYNERGY MATRIX",
@@ -13113,6 +13089,28 @@
     "org_md5": "b33141988fb08a3e0579eebe8b25fc97",
     "comment": "",
     "adddate": "2023\/01\/30"
+  },
+  {
+    "md5": "00f88e9dca387cd7dd300a541f5063f1",
+    "org_level": 12,
+    "title": "Gimme All The Cocaine [ANOTHER]",
+    "artist": "Futami \/ mov:KeiuO \/ obj:Lian",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=40&event=131",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "00f88e9dca387cd7dd300a541f5063f1",
+      "4d6ba0561b571e22b8f9f7e6954bc157",
+      "f1ea458b43d0a2a4c02e7706b2628409",
+      "f0243f85a41ede6145397a4ff50af437",
+      "2ad8b3447d2ab6a05884069ed79f883e"
+    ],
+    "org_md5": "00f88e9dca387cd7dd300a541f5063f1",
+    "comment": "",
+    "adddate": "2023\/08\/03"
   },
   {
     "md5": "938acecd03ff1f0a178abfebb1ed1f2b",
@@ -13997,6 +13995,22 @@
     "org_md5": "2f40c551e8ef2c06d4276d4f4c48bc43",
     "comment": "",
     "adddate": "2023\/01\/30"
+  },
+  {
+    "md5": "284fd8fdf21f963359aca222b9872c92",
+    "org_level": 10,
+    "title": "PUPA [LAPITHER]",
+    "artist": "モリモリあつし bga.HALLPBE.S \/ obj.LAPIS vs sne",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": "202116",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=129&event=96",
+    "url_diff": "http:\/\/www.dropbox.com\/s\/sf80oiia5ancno0\/pupa_lapither_bgafix.rar?dl=0",
+    "name_diff": "http:\/\/www.dropbox.com\/s\/sf80oiia5ancno0\/pupa_lapither_bgafix.rar?dl=0",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "\u0009差分 + BGA : http:\/\/www.dropbox.com\/s\/vw74m26ogagsryf\/pupa_lapither_bgafix%2Bbga.rar?dl=0BGA is from G2R後夜祭 : http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=99* fixed from http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsid=199606",
+    "adddate": "2023\/06\/12"
   },
   {
     "md5": "e3fa38ed30a52e5a388148df644817a3",
@@ -15216,6 +15230,22 @@
     "adddate": "2023\/01\/30"
   },
   {
+    "md5": "0676d42c5eb08932d96a941b0a0a341e",
+    "org_level": 8,
+    "title": "舞姫 ～buki～　[7key AFOTHER]",
+    "artist": "HOUJIROU",
+    "folder": "LEVEL12(sl3~sl5)",
+    "level": "12(sl3~sl5)",
+    "lr2_bmsid": "478",
+    "url": "http:\/\/houjirou.at-ninja.jp\/",
+    "url_diff": "http:\/\/nekokan.dyndns.info\/~lobsak\/hokan\/",
+    "name_diff": "http:\/\/nekokan.dyndns.info\/~lobsak\/hokan\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/06\/10"
+  },
+  {
     "md5": "16a5e6b5b3de5efd9930fb1051b4968c",
     "org_level": 12,
     "title": "葡萄茶の寫眞機[SP ANOTHER]",
@@ -16027,6 +16057,28 @@
     "org_md5": "d2bfc4d98cb059d6045304b9393e7c75",
     "comment": "",
     "adddate": "2023\/01\/30"
+  },
+  {
+    "md5": "f0243f85a41ede6145397a4ff50af437",
+    "org_level": 12,
+    "title": "Gimme All The Cocaine [INSANE]",
+    "artist": "Futami \/ mov:KeiuO \/ obj:Lian",
+    "folder": "LEVEL12+(sl6~sl9)",
+    "level": "12+(sl6~sl9)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=40&event=131",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "00f88e9dca387cd7dd300a541f5063f1",
+      "4d6ba0561b571e22b8f9f7e6954bc157",
+      "f1ea458b43d0a2a4c02e7706b2628409",
+      "f0243f85a41ede6145397a4ff50af437",
+      "2ad8b3447d2ab6a05884069ed79f883e"
+    ],
+    "org_md5": "00f88e9dca387cd7dd300a541f5063f1",
+    "comment": "",
+    "adddate": "2023\/08\/03"
   },
   {
     "md5": "8229d7a8e7a1712d55b7ee0a6966a6ae",
