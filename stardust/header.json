@@ -22,10 +22,10 @@
     "17",
     "18",
     "Overjoy",
-    "LEVEL???",
-    "難易度査定待ち"
+    "LEVEL???"
   ],
   "folder_order": [
+    "",
     "LEVEL 0",
     "LEVEL 1",
     "LEVEL 2",
@@ -46,16 +46,15 @@
     "LEVEL 17",
     "LEVEL 18",
     "LEVEL Overjoy",
-    "LEVEL???",
-    "難易度査定待ち"
+    "LEVEL???"
   ],
   "folder_sort_key": "level",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL ",
-  "last_update": "2023\/07\/25",
+  "last_update": "2023\/08\/11",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2023\/07\/25"
+  "output_date": "2023\/08\/11"
 }
