@@ -1,1 +1,17 @@
-
+{
+  "name": "難易度査定\/譜面確認待ち",
+  "symbol": null,
+  "level_order": [
+    "Stardust難易度表"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "data.json",
+  "compat_prefix": "",
+  "last_update": "2023\/08\/11",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "0.3.5.6",
+  "output_date": "2023\/08\/11"
+}
