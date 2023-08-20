@@ -1425,8 +1425,8 @@
     "folder": "LEVEL 0",
     "level": "0",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=141",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2978",
     "name_diff": null,
     "org_md5s": [
       "d6a7a48757ba862ac0edd2f376c133e0",
@@ -4867,7 +4867,7 @@
     "folder": "LEVEL 4",
     "level": "4",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=80&event=135",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -8004,8 +8004,8 @@
     "folder": "LEVEL 6",
     "level": "6",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "http:\/\/k-bms.com\/party_pabat\/party2015.jsp?board_num=15&num=31&order=reg&odtype=a",
+    "url_diff": "https:\/\/drive.google.com\/file\/d\/0B4Lag8JPHqO3LU1BMnZVMmNhR0k\/view?resourcekey=0-VGjjKifYB5tnpIR5iiodKg",
     "name_diff": null,
     "org_md5s": [
       "f65f2ed13cec6a56b3f5513470f2173d",
@@ -9551,7 +9551,7 @@
     "folder": "LEVEL 7",
     "level": "7",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=40&event=139",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -10569,8 +10569,8 @@
     "folder": "LEVEL 8",
     "level": "8",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=332&event=137",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1314",
     "name_diff": null,
     "org_md5s": [
       "ad12cfa7dbbe9b558907cda06877f722",
@@ -11468,7 +11468,7 @@
     "folder": "LEVEL 9",
     "level": "9",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=29&event=133",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -12595,8 +12595,8 @@
     "folder": "LEVEL 10",
     "level": "10",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=141",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2978",
     "name_diff": null,
     "org_md5s": [
       "d6a7a48757ba862ac0edd2f376c133e0",
@@ -12623,8 +12623,8 @@
     "folder": "LEVEL 10",
     "level": "10",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/venue.bmssearch.net\/3\/42",
+    "url_diff": "https:\/\/drive.google.com\/file\/d\/0B7qCw4hNijr4VFZJbzhVcEhTd28\/view",
     "name_diff": null,
     "org_md5s": [
       "0397367543e53c1aa02daa037d886b99",
@@ -14121,33 +14121,6 @@
     "adddate": "2023\/05\/14"
   },
   {
-    "md5": "abcfaf4120fef2463c86c39d8ccb9a0f",
-    "org_level": 12,
-    "title": "Poison AND÷OR Affection [LOVE 100%]",
-    "artist": "LeaF OBJ:Fruit",
-    "folder": "LEVEL ★2",
-    "level": "★2",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "41a4af566065fdf79b2020239957d25c",
-      "abcfaf4120fef2463c86c39d8ccb9a0f",
-      "28677e8e2e4a7f7f4ac56323f705f0f7",
-      "20e0759efaaf3d45a2045009eb381ce0",
-      "52c1eb44fd0349389922481998467eac",
-      "46cbd3b29d0ba5b55820858f5d5cf12c",
-      "51245af100f24264cf3df0bc5523ca27",
-      "c41c151e9f07773130d179cc0ef5745f",
-      "1fad72fb41378fd0a83bbac02132edd1",
-      "3a81a248c028249d2672f1164566c556"
-    ],
-    "org_md5": "41a4af566065fdf79b2020239957d25c",
-    "comment": "",
-    "adddate": "2023\/03\/15"
-  },
-  {
     "md5": "a1b94ca36a0c07d29033317b3186779b",
     "org_level": 12,
     "title": "Conclusio Catastropha -BMS edit- [DP Lost]",
@@ -14911,6 +14884,33 @@
     "org_md5": "5275d130d8eff2a5ae6ee7281ce3832b",
     "comment": "",
     "adddate": "2023\/04\/06"
+  },
+  {
+    "md5": "abcfaf4120fef2463c86c39d8ccb9a0f",
+    "org_level": 12,
+    "title": "Poison AND÷OR Affection [LOVE 100%]",
+    "artist": "LeaF OBJ:Fruit",
+    "folder": "LEVEL ★3",
+    "level": "★3",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "41a4af566065fdf79b2020239957d25c",
+      "abcfaf4120fef2463c86c39d8ccb9a0f",
+      "28677e8e2e4a7f7f4ac56323f705f0f7",
+      "20e0759efaaf3d45a2045009eb381ce0",
+      "52c1eb44fd0349389922481998467eac",
+      "46cbd3b29d0ba5b55820858f5d5cf12c",
+      "51245af100f24264cf3df0bc5523ca27",
+      "c41c151e9f07773130d179cc0ef5745f",
+      "1fad72fb41378fd0a83bbac02132edd1",
+      "3a81a248c028249d2672f1164566c556"
+    ],
+    "org_md5": "41a4af566065fdf79b2020239957d25c",
+    "comment": "",
+    "adddate": "2023\/08\/20"
   },
   {
     "md5": "b3b9364b9175f8198e9c725ec107a873",
@@ -15986,7 +15986,7 @@
     "folder": "LEVEL ★5",
     "level": "★5",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/venue.bmssearch.net\/bmstukuru2023\/33",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
@@ -16139,8 +16139,8 @@
     "folder": "LEVEL ★5",
     "level": "★5",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=141",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2978",
     "name_diff": null,
     "org_md5s": [
       "d6a7a48757ba862ac0edd2f376c133e0",
@@ -16674,6 +16674,27 @@
     "adddate": "2023\/07\/16"
   },
   {
+    "md5": "88eb1cabf16eb04d5eda8bf5a94b48d3",
+    "org_level": 12,
+    "title": "Reconnected [DP ANOTHER]",
+    "artist": "imitator T.G. obj:nBel",
+    "folder": "LEVEL ★6",
+    "level": "★6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "88eb1cabf16eb04d5eda8bf5a94b48d3",
+      "beef68cbbf4a834f157f7bb526d5e1bd",
+      "ed55bd8197f4dee81a8ea42ba952816b",
+      "8ad2b99b48b28ec23a73fe6e26970c36"
+    ],
+    "org_md5": "88eb1cabf16eb04d5eda8bf5a94b48d3",
+    "comment": "",
+    "adddate": "2023\/08\/20"
+  },
+  {
     "md5": "df5f842dfd54d60f1651794b019ae694",
     "org_level": 13,
     "title": "☆をかけるアドベンチャー ～ we are forever friends! ～ [Farewell14]",
@@ -16681,8 +16702,8 @@
     "folder": "LEVEL ★6",
     "level": "★6",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=121&event=104",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1440",
     "name_diff": null,
     "org_md5s": [
       "bf82ded4bf64e8b88af421fa797e8eea",
@@ -17274,8 +17295,8 @@
     "folder": "LEVEL Overjoy",
     "level": "Overjoy",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=120&event=137",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1436",
     "name_diff": null,
     "org_md5s": [
       "7195e449abf1f2e1e037c2afe31be4f9",
@@ -17297,8 +17318,8 @@
     "folder": "LEVEL Overjoy",
     "level": "Overjoy",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/venue.bmssearch.net\/bmstukuru2022\/3",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1399",
     "name_diff": null,
     "org_md5s": [
       "d7465340412fe8387a649812f6ca4cee",
@@ -17324,8 +17345,8 @@
     "folder": "LEVEL Overjoy",
     "level": "Overjoy",
     "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=13&event=140",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1435",
     "name_diff": null,
     "org_md5s": [
       "0e5d52816476d94be4232fa3db2c389a",
@@ -17369,7 +17390,7 @@
     "folder": "LEVEL???",
     "level": "LEVEL???",
     "lr2_bmsid": null,
-    "url": "",
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=230&event=140",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
