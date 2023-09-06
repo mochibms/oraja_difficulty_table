@@ -16915,6 +16915,22 @@
     "adddate": "2023\/08\/27"
   },
   {
+    "md5": "e3b4b604bc33cc28614b2a7b2e48286d",
+    "org_level": 7,
+    "title": "Leonids -Binary Stars-",
+    "artist": "horoscope object:Beatnoob",
+    "folder": "LEVEL ★7",
+    "level": "★7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "リュウセイグン",
+    "adddate": "2023\/09\/03"
+  },
+  {
     "md5": "8d1461e0a5ad510ed07b99e828ab8925",
     "org_level": 11,
     "title": "Ophelia",
@@ -17050,6 +17066,36 @@
     "org_md5": "88eb1cabf16eb04d5eda8bf5a94b48d3",
     "comment": "",
     "adddate": "2023\/08\/27"
+  },
+  {
+    "md5": "4a8472febf041508f1353df81fa987cf",
+    "org_level": 12,
+    "title": "REZIDUAL MiND [Farewell]",
+    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス obj:nBel",
+    "folder": "LEVEL ★7",
+    "level": "★7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "917c14a93776b5da767511e18075bc57",
+      "0d6c4d604f835334e4bd6e97dec39308",
+      "915cf4777e5ad43eaabf87f4abfcb75f",
+      "f03b575c415008d035cd20c0ed66e67f",
+      "a8a9def7ce0b05136b58c14744d0ac11",
+      "d105d85948b271cb167796f6b10a55b0",
+      "1cd29c630f0857f7a9cc5edb00e29a0b",
+      "e49ca2432adddc7a6982ebb1e04fe3a3",
+      "4a8472febf041508f1353df81fa987cf",
+      "1f383f6c8873245a8b80c37623edf5ac",
+      "39451b7b2ef9310b5d9685c07fb2fd42",
+      "b58910732126f44dd6412ed080152a6d",
+      "e3364a47e49d2d7315cc65afe8fccf41"
+    ],
+    "org_md5": "917c14a93776b5da767511e18075bc57",
+    "comment": "",
+    "adddate": "2023\/09\/06"
   },
   {
     "md5": "fe6b972d067924b304624443a1bab92f",
@@ -17331,6 +17377,22 @@
     "adddate": "2023\/08\/21"
   },
   {
+    "md5": "5e4de85e8f8cf8809409fd20fdce7c98",
+    "org_level": 5,
+    "title": "FREAKOUT [14KEYS INSANE]",
+    "artist": "Kyuzo Sameura \/\/obj:MIST",
+    "folder": "LEVEL ★8",
+    "level": "★8",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=319&event=137",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1294",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/09\/06"
+  },
+  {
     "md5": "0858a9a5ced84e08ad0444baa3cee717",
     "org_level": 8,
     "title": "Bird Sprite -D.K.R. mix- [DP Spiritual]",
@@ -17452,36 +17514,6 @@
     "org_md5": "3d999444cbde6a24d0c92660126b0c05",
     "comment": "",
     "adddate": "2023\/07\/25"
-  },
-  {
-    "md5": "4a8472febf041508f1353df81fa987cf",
-    "org_level": 12,
-    "title": "REZIDUAL MiND [Farewell]",
-    "artist": "あとぅす feat.つゆり花鈴 BGI:りーふぱいザウルス obj:nBel",
-    "folder": "LEVEL ★8",
-    "level": "★8",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "917c14a93776b5da767511e18075bc57",
-      "0d6c4d604f835334e4bd6e97dec39308",
-      "915cf4777e5ad43eaabf87f4abfcb75f",
-      "f03b575c415008d035cd20c0ed66e67f",
-      "a8a9def7ce0b05136b58c14744d0ac11",
-      "d105d85948b271cb167796f6b10a55b0",
-      "1cd29c630f0857f7a9cc5edb00e29a0b",
-      "e49ca2432adddc7a6982ebb1e04fe3a3",
-      "4a8472febf041508f1353df81fa987cf",
-      "1f383f6c8873245a8b80c37623edf5ac",
-      "39451b7b2ef9310b5d9685c07fb2fd42",
-      "b58910732126f44dd6412ed080152a6d",
-      "e3364a47e49d2d7315cc65afe8fccf41"
-    ],
-    "org_md5": "917c14a93776b5da767511e18075bc57",
-    "comment": "",
-    "adddate": "2023\/08\/29"
   },
   {
     "md5": "574e55bdf4ad7b54003994923991c2fd",
