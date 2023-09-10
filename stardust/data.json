@@ -9641,6 +9641,31 @@
     "adddate": "2023\/09\/09"
   },
   {
+    "md5": "69243d74c045184b7aaea84c7bbf9550",
+    "org_level": 12,
+    "title": "Fungus Dance [DP INSANE]",
+    "artist": "paraneumann mov:FGD obj:ka2o",
+    "folder": "LEVEL 7",
+    "level": "7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fcbf2f4fe811a8877556fea027f3b4c1",
+      "7ae70793a18cdbfea32775e2fcb4f56d",
+      "69243d74c045184b7aaea84c7bbf9550",
+      "7c9008aee31f1c46c8441d2f82b67504",
+      "adbe33e207e74ed59a431fcd82cc3c08",
+      "3e9b31de44a3285da50d61f29b768524",
+      "48781dd8c716418d15045b590cd8e854",
+      "ac14cc2951f32d545159613858c072eb"
+    ],
+    "org_md5": "fcbf2f4fe811a8877556fea027f3b4c1",
+    "comment": "",
+    "adddate": "2023\/09\/09"
+  },
+  {
     "md5": "07da42898d941bd2d6371894bba2fa90",
     "org_level": 13,
     "title": "Sayonara Stardust [DP insane]",
