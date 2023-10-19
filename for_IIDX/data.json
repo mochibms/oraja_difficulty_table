@@ -535,28 +535,6 @@
     "adddate": "2023\/02\/24"
   },
   {
-    "md5": "4bdc9d6baaa75b2ace515a13743c8373",
-    "org_level": 11,
-    "title": "ECKESACHS[HYPER]",
-    "artist": "SOMON",
-    "folder": "LEVEL11",
-    "level": "11",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=24&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "76a4c2cbb947506603d3d999cf060358",
-      "abfb7b75ca0a18e273a15a8939919d5e",
-      "2f43ee53a1b602c797a395e5f49b17ba",
-      "4bdc9d6baaa75b2ace515a13743c8373",
-      "d8b9b866979267c313b3468c7dd120e8"
-    ],
-    "org_md5": "76a4c2cbb947506603d3d999cf060358",
-    "comment": "",
-    "adddate": "2023\/02\/16"
-  },
-  {
     "md5": "0e1320b1606710130f68f6c02c48d181",
     "org_level": 11,
     "title": "Elixir [ANOTHER7]",
@@ -1213,6 +1191,28 @@
     "adddate": "2023\/02\/24"
   },
   {
+    "md5": "4bdc9d6baaa75b2ace515a13743c8373",
+    "org_level": 11,
+    "title": "ECKESACHS[HYPER]",
+    "artist": "SOMON",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=24&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "76a4c2cbb947506603d3d999cf060358",
+      "abfb7b75ca0a18e273a15a8939919d5e",
+      "2f43ee53a1b602c797a395e5f49b17ba",
+      "4bdc9d6baaa75b2ace515a13743c8373",
+      "d8b9b866979267c313b3468c7dd120e8"
+    ],
+    "org_md5": "76a4c2cbb947506603d3d999cf060358",
+    "comment": "",
+    "adddate": "2023\/08\/17"
+  },
+  {
     "md5": "9afb1496687e1ed64e642b3186b3f557",
     "org_level": 11,
     "title": "enchanted love [Another]",
@@ -1287,6 +1287,29 @@
     "org_md5": "",
     "comment": "sl0 satellite入門にgood",
     "adddate": "2023\/02\/16"
+  },
+  {
+    "md5": "1652c53be4932ab7050b123010f70121",
+    "org_level": 11,
+    "title": "Lost Petal's Wander [SP HYPER]",
+    "artist": "RB.H × lixound × 薛南 mov:Keizou \/ obj:9RAN",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=443&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b88024edc3263a6cd074e7afcf1956b5",
+      "07723bfcf5c4eb64cb1312fa9ef68a73",
+      "e1edfdcc5515f9539d0fa3b50da384f8",
+      "698a9b91384a09c21a9d714d4af807c9",
+      "1652c53be4932ab7050b123010f70121",
+      "da784d6149b1272d21b0cdde3d766947"
+    ],
+    "org_md5": "b88024edc3263a6cd074e7afcf1956b5",
+    "comment": "",
+    "adddate": "2023\/08\/09"
   },
   {
     "md5": "9ea6ddc2d7314129542aed068bc01144",
@@ -1414,26 +1437,6 @@
     "adddate": "2023\/02\/18"
   },
   {
-    "md5": "1ea24e12d53e2e644527b002553318b4",
-    "org_level": 11,
-    "title": "sunshine (BMS EDIT) [7KEYS ANOTHER]",
-    "artist": "Kyuzo Sameura",
-    "folder": "LEVEL11.5",
-    "level": "11.5",
-    "lr2_bmsid": null,
-    "url": "https:\/\/venue.bmssearch.net\/bmstukuru2023\/78",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "1ea24e12d53e2e644527b002553318b4",
-      "9d49bf8ece57692a48a4f06a5931b4b3",
-      "694c64b147aa50559e376ffa34cc9cf3"
-    ],
-    "org_md5": "1ea24e12d53e2e644527b002553318b4",
-    "comment": "",
-    "adddate": "2023\/05\/31"
-  },
-  {
     "md5": "939030fb362e981e99fff29c886fe01b",
     "org_level": 0,
     "title": "TECHNO-LOGIC [ANOTHER]",
@@ -1494,6 +1497,22 @@
     "org_md5": "72619bb801d9352068cd8e2a7a0afce9",
     "comment": "",
     "adddate": "2023\/06\/21"
+  },
+  {
+    "md5": "d6259aa76c94bdd4e4b885dc2af26623",
+    "org_level": 1,
+    "title": "Abendo [Trioxide]",
+    "artist": "r obj : Scely",
+    "folder": "LEVEL12.0(HARD適正CPI1400~1500)",
+    "level": "12.0(HARD適正CPI1400~1500)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=426&event=133",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/543",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/08\/09"
   },
   {
     "md5": "f7ac648eb15fa285fb2ddb900adf242c",
@@ -2719,6 +2738,22 @@
     "adddate": "2023\/06\/20"
   },
   {
+    "md5": "d67e55f35737d07bdb1b6e574ab8b47c",
+    "org_level": 3,
+    "title": "STAGER [7_Success]",
+    "artist": "Ras obj.screw",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": "174130",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=356&event=88",
+    "url_diff": "http:\/\/iidxscrew.blog.fc2.com\/blog-entry-1.html",
+    "name_diff": "http:\/\/iidxscrew.blog.fc2.com\/blog-entry-1.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "http:\/\/absolute.pv.land.to\/bmsuploader.htmlBOF系up0461.zipBOF系up0446.zipの修正版",
+    "adddate": "2023\/08\/04"
+  },
+  {
     "md5": "30c1993623dcda955b497b356077c34b",
     "org_level": 2,
     "title": "Sweet Pie",
@@ -3409,6 +3444,22 @@
     "adddate": "2023\/07\/26"
   },
   {
+    "md5": "d1877ad5dc0134b27eb0238da5721eed",
+    "org_level": 4,
+    "title": "Pure Ruby -JUNK7-",
+    "artist": "SHIKI \/ obj:sok",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": "49164",
+    "url": "http:\/\/shiki2.sakura.ne.jp\/fohs.html",
+    "url_diff": "http:\/\/srdbms.otodo.net\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "差分補完 https:\/\/skydrive.live.com\/?cid=B15AE20BF21EAB5A&id=B15AE20BF21EAB5A!123GENOSIDE段位認定 発狂初段 4曲目",
+    "adddate": "2023\/08\/04"
+  },
+  {
     "md5": "74c27eb019dccab87b437b6500186da3",
     "org_level": 12,
     "title": "reveL [7 Insane]",
@@ -4080,32 +4131,6 @@
     "adddate": "2023\/02\/27"
   },
   {
-    "md5": "6c857d6b6c87782e698f0b6610d3d2b6",
-    "org_level": 7,
-    "title": "ゼイタクするまで抱きしめて [サエザー]",
-    "artist": "kei_iwata 監督：KeiuO \/ 譜面監修：saaa",
-    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
-    "level": "12.3(HARD適正CPI1600~1650)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=2&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "95cdaf33a00b42682360cb5a3e118511",
-      "d4a2b3660b56acaeb5b89485e16c64d0",
-      "336b61e0e43f1fd75501d7484b4c7721",
-      "f57248a593490dab39c75f2191e599d7",
-      "cda9c63d0bb72c7870e8dc2a21a0b13d",
-      "1e8ce9281a1e1b3cd46a97c18ce72288",
-      "6c857d6b6c87782e698f0b6610d3d2b6",
-      "dd93b8ee483f04d739a4d444d83d4cee",
-      "b57f9ba8902fab00d6b4b1ffd48869eb"
-    ],
-    "org_md5": "95cdaf33a00b42682360cb5a3e118511",
-    "comment": "sl5",
-    "adddate": "2023\/02\/26"
-  },
-  {
     "md5": "01b980cdbf815a53eec50a3995b870e2",
     "org_level": 4,
     "title": "新 漢江水打令 (The New Han River Anthem) [SP LEGGENDARIA]",
@@ -4226,34 +4251,6 @@
     "org_md5": "",
     "comment": "ガチ押し、ディレイ",
     "adddate": "2023\/02\/27"
-  },
-  {
-    "md5": "ddc47af3c5f5684d963348938acc8cce",
-    "org_level": 12,
-    "title": "$trange Attraktor [ANOTHER]",
-    "artist": "schwarzekugel BGA:出前",
-    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
-    "level": "12.4(HARD適正CPI1650~1700)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "014dd26ed58126665debe373c6959612",
-      "3a4577104112439dca46dc61aa79307a",
-      "edef05886b5edf2c5e91e703353c1dac",
-      "e77b60fa4861c27f6cdfd5600f328821",
-      "cfaf5e080356b226f18588a71ed1e3d1",
-      "ddc47af3c5f5684d963348938acc8cce",
-      "08bacdb1734585d4a131daa72918563d",
-      "c2ed5d786ccf14e2159a36b7a7563020",
-      "34d94660c2d8232b8339703543a9343c",
-      "627ebef65a575a12ba0b03a9ddb840cc",
-      "b0fd7111b74fd8d0812393fc11a04fe1"
-    ],
-    "org_md5": "014dd26ed58126665debe373c6959612",
-    "comment": "",
-    "adddate": "2023\/02\/22"
   },
   {
     "md5": "97003476e9c22f496c310f5a373fa90c",
@@ -4610,38 +4607,6 @@
     "adddate": "2023\/06\/14"
   },
   {
-    "md5": "82edafc8f0cb779bf4872a5c2d835cde",
-    "org_level": 8,
-    "title": "New York Back Raise [FULL HOUSE]",
-    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
-    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
-    "level": "12.4(HARD適正CPI1650~1700)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "3189f24b19e375d38d076850aaa3de9a",
-      "72a8bb9573bc5296bfa3c3250c01b0eb",
-      "39e6f8a4a9a8cca9d77c2e15641e1785",
-      "10bd23a0db41a9fd2764bcd77825cf6a",
-      "82edafc8f0cb779bf4872a5c2d835cde",
-      "bc366d45f50ca45bcefe7ad18b4eaeaf",
-      "fb5dad11be831f4b7286794ca7f1c278",
-      "a4695197ae2c9eecc245629ac84f9586",
-      "2fb078ea595f6ae168e189cd1f6f22cc",
-      "2afcf8f878df9bae0c83bbb2aacb6657",
-      "5d628afc615a1f66b28267890265246b",
-      "4523dbc1a50913f659c35a74bc3db0f8",
-      "d1a5b9b43147a550a65f46507b3444a5",
-      "5a3b85ba3430f83e43e9b25a40b85d18",
-      "49e50e5c6e1fe859c3642bace0e03632"
-    ],
-    "org_md5": "3189f24b19e375d38d076850aaa3de9a",
-    "comment": "",
-    "adddate": "2023\/02\/18"
-  },
-  {
     "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
     "org_level": 5,
     "title": "NIRVANA [SP INSANE]",
@@ -4692,6 +4657,22 @@
     "org_md5": "70562f8a42b5b76b8c75e826139b4b77",
     "comment": "",
     "adddate": "2023\/02\/18"
+  },
+  {
+    "md5": "0f11ca484064380eefa624cc34cb30c5",
+    "org_level": 5,
+    "title": "Rin-Rin [W]",
+    "artist": "Hyparpax",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=251&event=133",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04894",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "前半は個人差要素多め、後半は若干LNが絡むが概ね地力譜面",
+    "adddate": "2023\/08\/10"
   },
   {
     "md5": "d58545307e1bf7c666c0d032cdb72298",
@@ -4794,6 +4775,32 @@
     "adddate": "2023\/02\/23"
   },
   {
+    "md5": "6c857d6b6c87782e698f0b6610d3d2b6",
+    "org_level": 7,
+    "title": "ゼイタクするまで抱きしめて [サエザー]",
+    "artist": "kei_iwata 監督：KeiuO \/ 譜面監修：saaa",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=2&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "95cdaf33a00b42682360cb5a3e118511",
+      "d4a2b3660b56acaeb5b89485e16c64d0",
+      "336b61e0e43f1fd75501d7484b4c7721",
+      "f57248a593490dab39c75f2191e599d7",
+      "cda9c63d0bb72c7870e8dc2a21a0b13d",
+      "1e8ce9281a1e1b3cd46a97c18ce72288",
+      "6c857d6b6c87782e698f0b6610d3d2b6",
+      "dd93b8ee483f04d739a4d444d83d4cee",
+      "b57f9ba8902fab00d6b4b1ffd48869eb"
+    ],
+    "org_md5": "95cdaf33a00b42682360cb5a3e118511",
+    "comment": "sl5",
+    "adddate": "2023\/08\/10"
+  },
+  {
     "md5": "4377e154655b3d277b1c65b77d98cf1c",
     "org_level": 9,
     "title": "愛と煩悩と輪廻と常識の極彩世界 [皿と乱打と階段と縦連の同時押世界]",
@@ -4856,6 +4863,34 @@
     "org_md5": "710e28f2070b1b8ee870a52be11112d8",
     "comment": "video<https:\/\/youtu.be\/eehyFg1JbY0>",
     "adddate": "2023\/02\/22"
+  },
+  {
+    "md5": "ddc47af3c5f5684d963348938acc8cce",
+    "org_level": 12,
+    "title": "$trange Attraktor [ANOTHER]",
+    "artist": "schwarzekugel BGA:出前",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "014dd26ed58126665debe373c6959612",
+      "3a4577104112439dca46dc61aa79307a",
+      "edef05886b5edf2c5e91e703353c1dac",
+      "e77b60fa4861c27f6cdfd5600f328821",
+      "cfaf5e080356b226f18588a71ed1e3d1",
+      "ddc47af3c5f5684d963348938acc8cce",
+      "08bacdb1734585d4a131daa72918563d",
+      "c2ed5d786ccf14e2159a36b7a7563020",
+      "34d94660c2d8232b8339703543a9343c",
+      "627ebef65a575a12ba0b03a9ddb840cc",
+      "b0fd7111b74fd8d0812393fc11a04fe1"
+    ],
+    "org_md5": "014dd26ed58126665debe373c6959612",
+    "comment": "",
+    "adddate": "2023\/08\/17"
   },
   {
     "md5": "83855e7be644eef3af16b58a704fc77b",
@@ -5087,6 +5122,38 @@
     "org_md5": "9d961ac9f0a2ee2a2d4e326282223682",
     "comment": "",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "82edafc8f0cb779bf4872a5c2d835cde",
+    "org_level": 8,
+    "title": "New York Back Raise [FULL HOUSE]",
+    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3189f24b19e375d38d076850aaa3de9a",
+      "72a8bb9573bc5296bfa3c3250c01b0eb",
+      "39e6f8a4a9a8cca9d77c2e15641e1785",
+      "10bd23a0db41a9fd2764bcd77825cf6a",
+      "82edafc8f0cb779bf4872a5c2d835cde",
+      "bc366d45f50ca45bcefe7ad18b4eaeaf",
+      "fb5dad11be831f4b7286794ca7f1c278",
+      "a4695197ae2c9eecc245629ac84f9586",
+      "2fb078ea595f6ae168e189cd1f6f22cc",
+      "2afcf8f878df9bae0c83bbb2aacb6657",
+      "5d628afc615a1f66b28267890265246b",
+      "4523dbc1a50913f659c35a74bc3db0f8",
+      "d1a5b9b43147a550a65f46507b3444a5",
+      "5a3b85ba3430f83e43e9b25a40b85d18",
+      "49e50e5c6e1fe859c3642bace0e03632"
+    ],
+    "org_md5": "3189f24b19e375d38d076850aaa3de9a",
+    "comment": "",
+    "adddate": "2023\/08\/17"
   },
   {
     "md5": "0a196131cfc5d81fb3b143835b80b697",
@@ -5612,6 +5679,22 @@
     "adddate": "2023\/06\/19"
   },
   {
+    "md5": "1925b5ab0ec1fb8781a87a8a21359c7b",
+    "org_level": 6,
+    "title": "On And On!! [IR]",
+    "artist": "ETIA. feat. Jenga \/ obj:marquee Movie: わっふゑ",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=6&event=123",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/irbattle\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM170 総合力",
+    "adddate": "2023\/08\/10"
+  },
+  {
     "md5": "88e7d0747983b331e35a264719c41e67",
     "org_level": 12,
     "title": "ouroVoros [SP AMETHER-A]",
@@ -5676,6 +5759,22 @@
     "org_md5": "1c92f941b47220c228b10caa5f54a7c6",
     "comment": "video<https:\/\/youtu.be\/_eA9UfkSxnc>",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "ab84c7f922e034182a7e1edac1148433",
+    "org_level": 6,
+    "title": "reverieland [7KEYS EXTRA]",
+    "artist": "void \/ tes obj:monaka",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=32&event=120",
+    "url_diff": "https:\/\/ux.getuploader.com\/monaka_sabun_2\/download\/155",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "縦連、乱打",
+    "adddate": "2023\/08\/10"
   },
   {
     "md5": "857e8c40f16cfab843e0b48576d28454",
@@ -5771,6 +5870,22 @@
     "adddate": "2023\/08\/04"
   },
   {
+    "md5": "8a17295809444b13954a1bf1739cd1f8",
+    "org_level": 6,
+    "title": "サカサマの空に在ったのは [Dreaming]",
+    "artist": "qfeileadh feat. レゾナンスもえこ obj : Lapis \/ Movie : 浪漫映像制作倶楽部",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=78&event=123",
+    "url_diff": "http:\/\/lapisbms.xyz\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/08\/10"
+  },
+  {
     "md5": "49cb4664ae8b5ca5ab355ed892875ed1",
     "org_level": 7,
     "title": "ロスト：ユートピアと真理と純粋の極彩世界 [SP ANOTHER]",
@@ -5785,6 +5900,22 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/_Tum7_o7RUQ>sl7",
     "adddate": "2023\/07\/20"
+  },
+  {
+    "md5": "22850b3b023918b76b9eb2a7c7172a1f",
+    "org_level": 6,
+    "title": "浮世絵横丁 -凱風快晴-",
+    "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき） BGA:自動車原付 \/ obj. BK_Lapis",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=482&event=116",
+    "url_diff": "http:\/\/lapisbms.web.fc2.com\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2023\/08\/10"
   },
   {
     "md5": "619b191dfe5a9baa81d1d5c18289bd22",
@@ -6000,6 +6131,22 @@
     "adddate": "2023\/02\/22"
   },
   {
+    "md5": "08d63a18406f7d418e22f226f0aa644a",
+    "org_level": 6,
+    "title": "Sakura Fubuki [ZOI]",
+    "artist": "Street obj:SUZUKAZEΛ",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/Sakura%20Fubuki%20(by%20Street).rar",
+    "url_diff": "http:\/\/suzukazekuhare.web.fc2.com\/suzukazelist.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "微縦連",
+    "adddate": "2023\/08\/10"
+  },
+  {
     "md5": "6610020dbc80d70caec78cf39eb2b4b4",
     "org_level": 14,
     "title": "SAMBISTA  -sarambista?-",
@@ -6083,6 +6230,22 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/GNBA-GgjKhA>★13",
     "adddate": "2023\/02\/27"
+  },
+  {
+    "md5": "438fa3931fcbb5b71c27b6587c5034c3",
+    "org_level": 6,
+    "title": "白菊 [Snother]",
+    "artist": "立秋 obj:スノート",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=268&event=116",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02873",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "5~6?",
+    "adddate": "2023\/08\/10"
   },
   {
     "md5": "62f6543036ffb0390c0abeb2af6ecb25",
@@ -6746,6 +6909,38 @@
     "adddate": "2023\/05\/25"
   },
   {
+    "md5": "64c5d825e6b4eb6d288270719aedb793",
+    "org_level": 20,
+    "title": "ハッピーフェイクショー[SP INSANE]",
+    "artist": "Ponchi♪ feat.はぁち obj:mathath",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d96c7ce6a9a01c80d356136c6e49c1c0",
+      "b2a686e09393dbcce8992e8813fdf437",
+      "3a9338257e96637378c6f7f4dac076f7",
+      "f5cc8d3a03d6e4b1fb0fe9d2f399da3d",
+      "80b98874a7b6e67c9a471f487ad8a517",
+      "6bb3c7347b3abf1fec9f09206944955e",
+      "196b23d514f7831e2c40f094a23e476e",
+      "8c9f968797e05e308bdd5d9e0dac9c1a",
+      "106f60cc801a4b57d900cbef5f840026",
+      "b05196e19567cd6bbed47a10057b203c",
+      "46150a466a037cc641348a49f05bb961",
+      "0610b14f2c930aaf7e91e38fa26e8c1f",
+      "64c5d825e6b4eb6d288270719aedb793",
+      "34a615e440942a36834f12046930d6b1",
+      "f1040af1f00fa49ea68ed6e9ab3aa2e9"
+    ],
+    "org_md5": "d96c7ce6a9a01c80d356136c6e49c1c0",
+    "comment": "",
+    "adddate": "2023\/08\/24"
+  },
+  {
     "md5": "4a1c8204ef96b541c915285b5b610607",
     "org_level": 12,
     "title": "リクロスフェイト[ANOTHER]",
@@ -6793,34 +6988,6 @@
     "org_md5": "7d99b3fd411698593aa75a52c1caa6d0",
     "comment": "video<https:\/\/youtu.be\/gfo11ORMJmI>",
     "adddate": "2023\/07\/17"
-  },
-  {
-    "md5": "34d94660c2d8232b8339703543a9343c",
-    "org_level": 14,
-    "title": "$trange Attraktor [MASTER]",
-    "artist": "schwarzekugel BGA:出前",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "014dd26ed58126665debe373c6959612",
-      "3a4577104112439dca46dc61aa79307a",
-      "edef05886b5edf2c5e91e703353c1dac",
-      "e77b60fa4861c27f6cdfd5600f328821",
-      "cfaf5e080356b226f18588a71ed1e3d1",
-      "ddc47af3c5f5684d963348938acc8cce",
-      "08bacdb1734585d4a131daa72918563d",
-      "c2ed5d786ccf14e2159a36b7a7563020",
-      "34d94660c2d8232b8339703543a9343c",
-      "627ebef65a575a12ba0b03a9ddb840cc",
-      "b0fd7111b74fd8d0812393fc11a04fe1"
-    ],
-    "org_md5": "014dd26ed58126665debe373c6959612",
-    "comment": "video<https:\/\/youtu.be\/1-MsMfG-uwA>連皿",
-    "adddate": "2023\/05\/25"
   },
   {
     "md5": "863f2e1743f1192b7eec53f5c8a3cb63",
@@ -6875,6 +7042,30 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/hBjam-h1uvE>★18",
     "adddate": "2023\/07\/03"
+  },
+  {
+    "md5": "f1e3b81187d776311556a0b713596ba5",
+    "org_level": 19,
+    "title": "Luminaria [INSANE7]",
+    "artist": "Lime",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c660ba7698940e75a9ff45af488cc2e0",
+      "50550689f73618eb3ad234ea849bf76c",
+      "38af943dbb4a71869df93037bd319dbe",
+      "b7e4335df57045be750a9b7bcc68007f",
+      "ffe87bc7492b4d558cc1f581a788028e",
+      "f1e3b81187d776311556a0b713596ba5",
+      "6f6a92c104f94eaf39b6134c92f0d2d1"
+    ],
+    "org_md5": "c660ba7698940e75a9ff45af488cc2e0",
+    "comment": "",
+    "adddate": "2023\/08\/24"
   },
   {
     "md5": "bae8c1d74a0e9ee020ebeb4c80d62ef0",
@@ -7019,6 +7210,34 @@
     "org_md5": "81129ca4892adad1f35a0d40a966ea4d",
     "comment": "video<https:\/\/youtu.be\/V8e4OpmXxqo>",
     "adddate": "2023\/07\/21"
+  },
+  {
+    "md5": "34d94660c2d8232b8339703543a9343c",
+    "org_level": 14,
+    "title": "$trange Attraktor [MASTER]",
+    "artist": "schwarzekugel BGA:出前",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "014dd26ed58126665debe373c6959612",
+      "3a4577104112439dca46dc61aa79307a",
+      "edef05886b5edf2c5e91e703353c1dac",
+      "e77b60fa4861c27f6cdfd5600f328821",
+      "cfaf5e080356b226f18588a71ed1e3d1",
+      "ddc47af3c5f5684d963348938acc8cce",
+      "08bacdb1734585d4a131daa72918563d",
+      "c2ed5d786ccf14e2159a36b7a7563020",
+      "34d94660c2d8232b8339703543a9343c",
+      "627ebef65a575a12ba0b03a9ddb840cc",
+      "b0fd7111b74fd8d0812393fc11a04fe1"
+    ],
+    "org_md5": "014dd26ed58126665debe373c6959612",
+    "comment": "video<https:\/\/youtu.be\/1-MsMfG-uwA>連皿",
+    "adddate": "2023\/08\/12"
   },
   {
     "md5": "71c1d1a5c09eb16dfe722414ed70f658",
