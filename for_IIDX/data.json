@@ -121,6 +121,36 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "2758340908a4d4b6b13101838c2c50fa",
+    "org_level": 10,
+    "title": "Do it! Do it! [SP Another]",
+    "artist": "litmus*×神宮要×蝦夷リス ft. 橘ルミ(CV.犬塚いちご)、陽向星シャイナ(CV.みゅい)、れくもちちゃん(仮称)(CV.杠葉えりか) bms\/obj:litmus*",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8f5721648edf89c842af978ca9bed9e8",
+      "8bab3174ae6cc14d32805054f2eeafd5",
+      "0355cbd8617039ad4fbedee3b598f9cd",
+      "2758340908a4d4b6b13101838c2c50fa",
+      "2cc8bf7360be15e30fbb35e2f9143a3e",
+      "4a233c960ea87efe77a9715b99b4cbe7",
+      "ce5dc2bfc5124842b51a595a4bf19505",
+      "982a793bba04df413b1815db9b2c39c3",
+      "7cb7b2f1b623ff04640cf340a1f7d2c4",
+      "e115daec9ac0f6cc4ef32efd84b8c2af",
+      "de65609ce0790e6d1b37d23cf8ca0cc3",
+      "059767e99f2353c76393400471ded4c6",
+      "75ad56db35976b403f3a3f8b2cc32e0d"
+    ],
+    "org_md5": "8f5721648edf89c842af978ca9bed9e8",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "851a20f9a55dc0741349a2b5111b76a1",
     "org_level": 10,
     "title": "Fall Apart [SP ANOTHER]",
@@ -169,6 +199,29 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "94f9a913b5f20ab180cd31486c53b9a9",
+    "org_level": 10,
+    "title": "Last Fireworks [SP ANOTHER]",
+    "artist": "Kohta Imafuku obj:Kohta Imafuku :: BGA:140\/fth",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7f80f9f2a67f1faa5fe26dd454abb40e",
+      "7a332d18dd8873387761dbf51e69fa7f",
+      "c451c41da98db04d3e6296ab0f0f8e74",
+      "94f9a913b5f20ab180cd31486c53b9a9",
+      "09fb9b616097ee09c689c0b3346be589",
+      "9010ffe3c19d16bf9d14f73498bcfe51"
+    ],
+    "org_md5": "7f80f9f2a67f1faa5fe26dd454abb40e",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "849b336cd6aa4bdc6f843d76e425b7de",
     "org_level": 10,
     "title": "Lucent [SP HYPER]",
@@ -196,6 +249,86 @@
     "org_md5": "9d961ac9f0a2ee2a2d4e326282223682",
     "comment": "",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "af446922dcd97a813ec0b0cca423b8c6",
+    "org_level": 11,
+    "title": "Memories in the Blue [SP ANOTHER]",
+    "artist": "otoshi.b × FanfRS × はしたかさん bms:otoshi.b",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "20d6f049f96423958458f0e3c115de68",
+      "5f428315aa6ca9c715fa5ce4cb48d587",
+      "b58c7002e6c70693063f8e4ca7ec4c49",
+      "af446922dcd97a813ec0b0cca423b8c6",
+      "929ad7ab0ef942f950f2725ac59793a2",
+      "27901213a9741f01e841a2e09372428c",
+      "377decc3f77dfea175707f5f271055f7",
+      "a27bfa46b8189b3548b05c1ef5487f57",
+      "f67e028c51a5471a7729dab4f08b267d",
+      "a7b98a6bc2e3b9f6f7de40f67a022ee8",
+      "87d1e4c75e6c557d9b8f7a8252092ef8",
+      "4fdd969f8e3c0e9ddde6ea629a9ddd55",
+      "30c78d84fc2c3ad59ea9a681a15381d2",
+      "b49a91b33f7911778389c5dcace1b31c"
+    ],
+    "org_md5": "20d6f049f96423958458f0e3c115de68",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
+    "md5": "44c37cd5906a98b3a64ed9c093b27b85",
+    "org_level": 10,
+    "title": "MORNINGLOOM [SP ANOTHER]",
+    "artist": "saaa \/ BGA : すずあ",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "853c1aca9a50d8a43c88b0cd5c58067b",
+      "d75d87438adc99151f9f8492d98c95e6",
+      "faf898ce9f32a8962de677a7dac93e52",
+      "94605322d5617cb96283b6e0dd20f249",
+      "509d3be74a45a8782373bcc7129932ae",
+      "b1c04d102bcf27b74a9257000f3f02cb",
+      "640eb830422d95bd977a8c20d7ba3df2",
+      "e3f98632ee91521b597273d8c45de646",
+      "0d62c270ef76b2857774988a6ea4422a",
+      "08188dcfcb58dee255b3b87cf9899156",
+      "44c37cd5906a98b3a64ed9c093b27b85",
+      "dfa37ee7db7f63038ade499ced19e687",
+      "1d3a437d0986979f99aceb309fa853d9",
+      "ab95fa1caba36206206fc1c4f5da56ac"
+    ],
+    "org_md5": "853c1aca9a50d8a43c88b0cd5c58067b",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
+    "md5": "ee7138a8c97135f9f635ea86748f6f7e",
+    "org_level": 10,
+    "title": "nutty trip [7key Another]",
+    "artist": "Aliesrite* (Ym1024 feat. lamie*) Movie : YABILITY, retu",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ee7138a8c97135f9f635ea86748f6f7e"
+    ],
+    "org_md5": "ee7138a8c97135f9f635ea86748f6f7e",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "848933c50bb6ab6be1df4ad29aedf929",
@@ -302,6 +435,27 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "42312e07a3cee5a7178851aeef59ab82",
+    "org_level": 10,
+    "title": "WILDANCE",
+    "artist": "KAH BGA: 自動車 原付",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "42312e07a3cee5a7178851aeef59ab82",
+      "cc173e8a0a6732bbfdefe67dc54ee3b2",
+      "88dbdbb28cb68eea44e9aae9e48eddea",
+      "6e7a57adf78467e93a21b28546459f2d"
+    ],
+    "org_md5": "42312e07a3cee5a7178851aeef59ab82",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "906a0d7420ad128bc1287d33df906c59",
     "org_level": 10,
     "title": "お兄火[SP Hyper]",
@@ -390,6 +544,35 @@
     "adddate": "2023\/02\/16"
   },
   {
+    "md5": "1c553bdb8cdd6d3b35cac312b59beb58",
+    "org_level": 10,
+    "title": "プレヤ [SP ANOTHER]",
+    "artist": "qfeileadh&レゾナンスもえこ bms:qfeileadh \/ mov:自動車 原付&なぎのにちこ \/ obj:qfeileadh",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "20f8bccdf98aedae3fa2d867a933525c",
+      "79704775b2c64ba9ad0e27f92c36f958",
+      "33eb2fe6bf1c02a89d157f65b6811a16",
+      "1c553bdb8cdd6d3b35cac312b59beb58",
+      "ed8f04b21e2601a0d511d86319478a5d",
+      "30fbc416714c1c8e2b4eb619a3c7df82",
+      "c2948c76df8381ed2c89a428a093ae59",
+      "0c1cbff6225cfaccdff8e02a7c39bdb5",
+      "0d12113f7edba19708d5505c62ea701e",
+      "e933dff446402e391214b107bf759de6",
+      "68729adba074658e71f69016d65f6cce",
+      "2770400784f8c0af48099eba3a33a2b0"
+    ],
+    "org_md5": "20f8bccdf98aedae3fa2d867a933525c",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "899bcf2fcf8f2fa3bdf83145e26f8468",
     "org_level": 10,
     "title": "ペイペイ2000[ANOTHER]",
@@ -419,6 +602,32 @@
     "org_md5": "fca4d1b14c72e794141eb85214fc92c3",
     "comment": "",
     "adddate": "2023\/02\/16"
+  },
+  {
+    "md5": "5d606955e07ca224250bf664ec98abcb",
+    "org_level": 10,
+    "title": "花鳥暁日 [SP ANOTHER]",
+    "artist": "utzbo VS Reku Mochizuki BGA:Nima \/ obj:Reku Mochizuki",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d5313467b6a56f96790387cf4fb7dbb8",
+      "aa910565e01d25127a723a5a6194915f",
+      "04d3abc136854d02d8317a8698f3b2cf",
+      "97c58fa41bf992dfab726c981d860a2f",
+      "0e25cdc7f2fb10d23897898542195085",
+      "5d606955e07ca224250bf664ec98abcb",
+      "d883c16746844d9a88fa5314da700b13",
+      "2127338872353af2eb208159f21cbdc4",
+      "0150767d545be2920b1c32c6cb95deee"
+    ],
+    "org_md5": "d5313467b6a56f96790387cf4fb7dbb8",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "d9ff2e8a0a83d80421c2261e613fbd8a",
@@ -616,6 +825,27 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "2dd76a387f559ac65b60d36252f77181",
+    "org_level": 11,
+    "title": "LIFE [SP ANOTHER]",
+    "artist": "大前 司 × Reku Mochizuki feat. レゾナンスもえこ movie: Mido \/ illustration:linglvz",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2dd76a387f559ac65b60d36252f77181",
+      "42115c1481a2badbc0b27e9b7cd39a23",
+      "d149e61a83499e7293adb989b61a88c6",
+      "2da18a5f07a2227dad86a0df165fbd70"
+    ],
+    "org_md5": "2dd76a387f559ac65b60d36252f77181",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "327b367c7959101d464018a615d3b34c",
     "org_level": 11,
     "title": "Lucent [SP ANOTHER]",
@@ -643,6 +873,33 @@
     "org_md5": "9d961ac9f0a2ee2a2d4e326282223682",
     "comment": "",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "da49d7f27ebbfc6a30af378c003c4070",
+    "org_level": 11,
+    "title": "Moonlit Operation [SP ANOTHER]",
+    "artist": "utzbo VS *wakadori BGA:Nao_AnD \/ obj:*wakadori",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3fca7f235ed6825119fbae99679fda5b",
+      "6179c1a97afafd97b7fb864877dc9287",
+      "ad5bd975be7299359c0d9eb7ff36bd20",
+      "0a1360c771a32176086962dd054c251a",
+      "0db72ebd8784c8cfaed1ec829d400f29",
+      "da49d7f27ebbfc6a30af378c003c4070",
+      "385daf814fa67596666e2669a6b125b5",
+      "4519ad377b2e963a274eefd4efe132a6",
+      "d05a9c7256e541130bcecbe596f2e3ed",
+      "f7696626d4810e00cc8ae7b5ef0f0956"
+    ],
+    "org_md5": "3fca7f235ed6825119fbae99679fda5b",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "5d628afc615a1f66b28267890265246b",
@@ -872,6 +1129,54 @@
     "adddate": "2023\/02\/24"
   },
   {
+    "md5": "11467ddb343a0d279e34c3765be5339c",
+    "org_level": 11,
+    "title": "Transcend to Heaven [SP ANOTHER]",
+    "artist": "Reku Mochizuki",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "eac09128d065efa5c8a8401c9d54afd8",
+      "a1651fcdc99f0d7aacc51edfd531cc45",
+      "023b2046d4f70c8af25c87bbd77d178f",
+      "a64736dd071b7bcb2be865ea37cff126",
+      "ae5b834f760069aa5a320174d59fd3c6",
+      "fe8df371638e12837c2097862973106b",
+      "11467ddb343a0d279e34c3765be5339c",
+      "c1f20fe818d392a3df88720af0879cc7",
+      "638a002d408b425a24152c90fb2daee5",
+      "036203262c1b4f8379fd2562fed9ba72"
+    ],
+    "org_md5": "eac09128d065efa5c8a8401c9d54afd8",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
+    "md5": "081d4afa0a15d528f0059e7c7ffa62b3",
+    "org_level": 11,
+    "title": "Unit:Squash! [SP ANOTHER]",
+    "artist": "Music:わかどり | Movie:もがみ",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "081d4afa0a15d528f0059e7c7ffa62b3",
+      "018cc2ac1e18812c9e637162d29552ce",
+      "b87531863d3c3933c67a671deb2bc57b",
+      "5854c7dd95cc7bebcbc10048ad1aeb6a"
+    ],
+    "org_md5": "081d4afa0a15d528f0059e7c7ffa62b3",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "31da39a9735681d7028b5b5b10da61f2",
     "org_level": 11,
     "title": "VEZZELiX [Another]",
@@ -893,6 +1198,29 @@
     "org_md5": "31da39a9735681d7028b5b5b10da61f2",
     "comment": "",
     "adddate": "2023\/06\/18"
+  },
+  {
+    "md5": "f5ab0ec3ada57f8ef4eafd6506712c90",
+    "org_level": 11,
+    "title": "アドバンス・シグナル[ANOTHER]",
+    "artist": "みーに feat. はらもりよしな",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "25b6ce53767cd61ff18ddb988be3473e",
+      "b42fe7353e67efe0a27a299f518937be",
+      "cfb0835827b3306789e141cc61949d54",
+      "454ae07da75b14d1b6231af948884a3e",
+      "f5ab0ec3ada57f8ef4eafd6506712c90",
+      "65458ed86b3ff9d39b17c324772bd80d"
+    ],
+    "org_md5": "25b6ce53767cd61ff18ddb988be3473e",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "4c368c94b5833241200cd08ba2c45577",
@@ -1142,6 +1470,33 @@
     "adddate": "2023\/05\/31"
   },
   {
+    "md5": "bd2af60c883234f03a9a65cf0015ce12",
+    "org_level": 11,
+    "title": "Atohs",
+    "artist": "Music: Ice \/ Movie: Sand Suna",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "52b63ec129cf19e787a602100952a59f",
+      "c5953fd4c57d84fa2817fbba3310e2f8",
+      "b63fe3d2c5ff032636d51da3bf903156",
+      "24c289be32a60ab7eabdbd012e55f527",
+      "22e7c571cdc7c7e71a68f3151036d4ee",
+      "9d4107e951cfd3b8f3a4227689912bbb",
+      "bd2af60c883234f03a9a65cf0015ce12",
+      "4be82241ec96118b13309acf3c946dda",
+      "0899eaf72c7b2463a73e4882fb7f597d",
+      "3a4681800fd849acc56d7a18ade3fa5d"
+    ],
+    "org_md5": "52b63ec129cf19e787a602100952a59f",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "77a8c02f706786f4bd9776e7811ed584",
     "org_level": 11,
     "title": "Avantgarde [Hyper]",
@@ -1273,6 +1628,28 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "79e0e3b20db2242736951e618bc46d49",
+    "org_level": 11,
+    "title": "HUGEAXE",
+    "artist": "牧野",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "79e0e3b20db2242736951e618bc46d49",
+      "fa4b2d44d6c2b8ce0b819c9881e4f988",
+      "2ae5f2f6c4c9794ab9cc76cc79350184",
+      "3386837cadcc4513a85a3bef15f053dc",
+      "af31801a15161111779e936f3610279c"
+    ],
+    "org_md5": "79e0e3b20db2242736951e618bc46d49",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "0a3c046f60b71eb86731cb75173a0d5b",
     "org_level": 0,
     "title": "lightsphere -ほしをみるひと-",
@@ -1367,6 +1744,27 @@
     "adddate": "2023\/02\/25"
   },
   {
+    "md5": "8a127f746a00c25065584c6ab5c05bce",
+    "org_level": 11,
+    "title": "Off-grid [SP ANOTHER]",
+    "artist": "Sobrem",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "acae8a613ccdffc9c4e8b7082228cd6a",
+      "a4e62aac30138f0caf25b91e7aafb6bf",
+      "33ab5985b24d34238009f34b6db0b63d",
+      "8a127f746a00c25065584c6ab5c05bce"
+    ],
+    "org_md5": "acae8a613ccdffc9c4e8b7082228cd6a",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "3d29a68c301a7a64537376409868c134",
     "org_level": 11,
     "title": "Peridot [SP ANOTHER]",
@@ -1437,6 +1835,30 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "639177e92a387efa14ed2562b8b28440",
+    "org_level": 11,
+    "title": "Star Lily",
+    "artist": "あさり",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "46b8032a32b1a83caa962ea27e8e2b2c",
+      "5b9a160bfb040e46c6a5532193870f44",
+      "27ed3df37dab9fce1a535073262a36fb",
+      "639177e92a387efa14ed2562b8b28440",
+      "eeaf2c6378949f225b9ab7723654d964",
+      "65a3a2f732a998ef38ea65989cca20eb",
+      "9d8775bd32e3dcea482bc7453984cae0"
+    ],
+    "org_md5": "46b8032a32b1a83caa962ea27e8e2b2c",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "939030fb362e981e99fff29c886fe01b",
     "org_level": 0,
     "title": "TECHNO-LOGIC [ANOTHER]",
@@ -1469,6 +1891,29 @@
     "adddate": "2023\/02\/17"
   },
   {
+    "md5": "f4ed13e039d10e51f226d94b986b19d6",
+    "org_level": 11,
+    "title": "エヴァネセント [SP HYPER]",
+    "artist": "stuv + qfeileadh bms:stuv | mov:kazari | obj:stuv",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fc0ce4893d631b42fe7ed9da1d0de7f5",
+      "eacce3911b7db8125bb256ebf8631640",
+      "f4ed13e039d10e51f226d94b986b19d6",
+      "8a5e281b0cccba512034573782bb0bfd",
+      "630a648ca7e67b83fab9276b365b434b",
+      "5c1f65b660225957466d4b435065e5f4"
+    ],
+    "org_md5": "fc0ce4893d631b42fe7ed9da1d0de7f5",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "445e92fee350214e5ce6c1f4b152715b",
     "org_level": 11,
     "title": "新 漢江水打令 (The New Han River Anthem) [SP ANOTHER]",
@@ -1497,6 +1942,28 @@
     "org_md5": "72619bb801d9352068cd8e2a7a0afce9",
     "comment": "",
     "adddate": "2023\/06\/21"
+  },
+  {
+    "md5": "687e5540791be8550f4ac492a5f4d179",
+    "org_level": 12,
+    "title": "窒素 [SP ANOTHER]",
+    "artist": "立秋feat.ちょこ BMS:立秋 \/ Mov:石王マサト \/ obj:qfeileadh",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8aa14ba39cab7160b892082066f6cba2",
+      "c75418f37d6f0bbcd1f0e915baaeba17",
+      "2928e535a79d9bcdde45ef507cb854c0",
+      "687e5540791be8550f4ac492a5f4d179",
+      "72c5d55f0f7e28f2179bdf6da17923f7"
+    ],
+    "org_md5": "8aa14ba39cab7160b892082066f6cba2",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "d6259aa76c94bdd4e4b885dc2af26623",
@@ -1634,6 +2101,26 @@
     "org_md5": "",
     "comment": "階段",
     "adddate": "2023\/02\/25"
+  },
+  {
+    "md5": "70b6f38f9a5536c0826c15155c471d51",
+    "org_level": 12,
+    "title": "Assault TAXI",
+    "artist": "∀S∀",
+    "folder": "LEVEL12.0(HARD適正CPI1400~1500)",
+    "level": "12.0(HARD適正CPI1400~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "70b6f38f9a5536c0826c15155c471d51",
+      "0dbb35ef596874df5764f5baa50b008f",
+      "e241339924302a3f0708d71971531a21"
+    ],
+    "org_md5": "70b6f38f9a5536c0826c15155c471d51",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "915baa2845e3b25237d43d58d3672589",
@@ -2416,6 +2903,63 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "2cc8bf7360be15e30fbb35e2f9143a3e",
+    "org_level": 5,
+    "title": "Do it! Do it! [SP LEGGENDARIA]",
+    "artist": "litmus*×神宮要×蝦夷リス ft. 橘ルミ(CV.犬塚いちご)、陽向星シャイナ(CV.みゅい)、れくもちちゃん(仮称)(CV.杠葉えりか) bms:litmus* \/ obj:BAECON",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8f5721648edf89c842af978ca9bed9e8",
+      "8bab3174ae6cc14d32805054f2eeafd5",
+      "0355cbd8617039ad4fbedee3b598f9cd",
+      "2758340908a4d4b6b13101838c2c50fa",
+      "2cc8bf7360be15e30fbb35e2f9143a3e",
+      "4a233c960ea87efe77a9715b99b4cbe7",
+      "ce5dc2bfc5124842b51a595a4bf19505",
+      "982a793bba04df413b1815db9b2c39c3",
+      "7cb7b2f1b623ff04640cf340a1f7d2c4",
+      "e115daec9ac0f6cc4ef32efd84b8c2af",
+      "de65609ce0790e6d1b37d23cf8ca0cc3",
+      "059767e99f2353c76393400471ded4c6",
+      "75ad56db35976b403f3a3f8b2cc32e0d"
+    ],
+    "org_md5": "8f5721648edf89c842af978ca9bed9e8",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
+    "md5": "0060041df3777584c3c3bd92389f39df",
+    "org_level": 12,
+    "title": "Dynasty of Extinction [SP ANOTHER]",
+    "artist": "utzbo VS paraneumann BGA\/obj:paraneumann",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "18434600789aea77a13e075889525f63",
+      "cf067decffe68569df6f09e143fc10e5",
+      "003db03ae7881e065fcd487fa199f6b0",
+      "71dd92ddf41f46e57227bef16fb25de8",
+      "de84bbebf1faedb291a780f2e17f0aa2",
+      "1cf076c773c3e1979b487ab31666a7a2",
+      "0060041df3777584c3c3bd92389f39df",
+      "2293850679642cdc9daa8c597777d41a",
+      "173d95754ddacca2ace96b2e982131de",
+      "00e5a64cc96318549bfa08de2e4ec0e9"
+    ],
+    "org_md5": "18434600789aea77a13e075889525f63",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "510a26c813c41de416268278d1a1adfe",
     "org_level": 12,
     "title": "Elixir [BITTER7]",
@@ -3084,6 +3628,34 @@
     "adddate": "2023\/02\/23"
   },
   {
+    "md5": "ea3dcd2e9b13e7360c698fc9cfd2142f",
+    "org_level": 12,
+    "title": "《Ж》 [SP ANOTHER]",
+    "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON bms. Qyubey \/ mov. Siesphere \/ obj. tkqn14",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a30f1fd518805923653c3f1f9d4a619a",
+      "70c0dae91abe36ce67b75e17ae4890d1",
+      "5c30d660b85a3318f2cb6cecece6b018",
+      "ea3dcd2e9b13e7360c698fc9cfd2142f",
+      "f874a92222b5298fce8469a2434da802",
+      "ea987f7d0674560451f19a97ea55ef4d",
+      "1f0f14b99c1e0540532942a44f79fe70",
+      "fc38dc4c63f311a60b3c0593bd5613fc",
+      "3583fba6f4bee38668a941d6f102edd0",
+      "d370debc492f547f0a3dbeff48f033e3",
+      "2b61ac73e28f0acfa6c558204bbbfa5b"
+    ],
+    "org_md5": "a30f1fd518805923653c3f1f9d4a619a",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "0f35d6c3308c459726286c23b48d4660",
     "org_level": 3,
     "title": "Absolute Future [ANOTHER]",
@@ -3640,6 +4212,35 @@
     "adddate": "2023\/02\/24"
   },
   {
+    "md5": "ed8f04b21e2601a0d511d86319478a5d",
+    "org_level": 12,
+    "title": "プレヤ [SP INSANE]",
+    "artist": "qfeileadh&レゾナンスもえこ bms:qfeileadh \/ mov:自動車 原付&なぎのにちこ \/ obj:qfeileadh",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "20f8bccdf98aedae3fa2d867a933525c",
+      "79704775b2c64ba9ad0e27f92c36f958",
+      "33eb2fe6bf1c02a89d157f65b6811a16",
+      "1c553bdb8cdd6d3b35cac312b59beb58",
+      "ed8f04b21e2601a0d511d86319478a5d",
+      "30fbc416714c1c8e2b4eb619a3c7df82",
+      "c2948c76df8381ed2c89a428a093ae59",
+      "0c1cbff6225cfaccdff8e02a7c39bdb5",
+      "0d12113f7edba19708d5505c62ea701e",
+      "e933dff446402e391214b107bf759de6",
+      "68729adba074658e71f69016d65f6cce",
+      "2770400784f8c0af48099eba3a33a2b0"
+    ],
+    "org_md5": "20f8bccdf98aedae3fa2d867a933525c",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "afbac5a87e521f83da946fe1a0ef6182",
     "org_level": 12,
     "title": "ミライトコネクト [SP ANOTHER]",
@@ -3792,6 +4393,31 @@
     "adddate": "2023\/02\/22"
   },
   {
+    "md5": "e2061134cf3acd5a71b7ef59b6a4ab9b",
+    "org_level": 12,
+    "title": "E.V.E[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e2061134cf3acd5a71b7ef59b6a4ab9b",
+      "4f2b37fdcdf849da8a9c69712ca8db15",
+      "c796981a56a6ee41e6cb19abc71a192b",
+      "2ea293c3ef95853c05399a9df78f8c00",
+      "812c28fff222f3fd4657cf1081d243eb",
+      "d285cdad89eb9b5dc8339e8c6750abe2",
+      "08d5d69b137bec80d7a1da04d8f1a9f0",
+      "9f19e694702b1507ac957db3c8ceada6"
+    ],
+    "org_md5": "e2061134cf3acd5a71b7ef59b6a4ab9b",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "ecb6c38d3925e3817b13fc5032744634",
     "org_level": 7,
     "title": "Echo [SP INSANE]",
@@ -3921,6 +4547,37 @@
     "org_md5": "feb1429a18f2694baff23564471d996b",
     "comment": "中速、微連打、皿複合、ディレイ、連皿",
     "adddate": "2023\/02\/21"
+  },
+  {
+    "md5": "b1c04d102bcf27b74a9257000f3f02cb",
+    "org_level": 5,
+    "title": "MORNINGLOOM [GUIDANCE]",
+    "artist": "saaa \/ BGA : すずあ",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "853c1aca9a50d8a43c88b0cd5c58067b",
+      "d75d87438adc99151f9f8492d98c95e6",
+      "faf898ce9f32a8962de677a7dac93e52",
+      "94605322d5617cb96283b6e0dd20f249",
+      "509d3be74a45a8782373bcc7129932ae",
+      "b1c04d102bcf27b74a9257000f3f02cb",
+      "640eb830422d95bd977a8c20d7ba3df2",
+      "e3f98632ee91521b597273d8c45de646",
+      "0d62c270ef76b2857774988a6ea4422a",
+      "08188dcfcb58dee255b3b87cf9899156",
+      "44c37cd5906a98b3a64ed9c093b27b85",
+      "dfa37ee7db7f63038ade499ced19e687",
+      "1d3a437d0986979f99aceb309fa853d9",
+      "ab95fa1caba36206206fc1c4f5da56ac"
+    ],
+    "org_md5": "853c1aca9a50d8a43c88b0cd5c58067b",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "4c8d82ccf93dd4ea622201c89d2fb6d9",
@@ -4278,6 +4935,34 @@
     "adddate": "2023\/02\/16"
   },
   {
+    "md5": "3583fba6f4bee38668a941d6f102edd0",
+    "org_level": 12,
+    "title": "《Ж》 [SP INSANE]",
+    "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON bms. Qyubey \/ mov. Siesphere \/ obj. tkqn14 & Seori",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a30f1fd518805923653c3f1f9d4a619a",
+      "70c0dae91abe36ce67b75e17ae4890d1",
+      "5c30d660b85a3318f2cb6cecece6b018",
+      "ea3dcd2e9b13e7360c698fc9cfd2142f",
+      "f874a92222b5298fce8469a2434da802",
+      "ea987f7d0674560451f19a97ea55ef4d",
+      "1f0f14b99c1e0540532942a44f79fe70",
+      "fc38dc4c63f311a60b3c0593bd5613fc",
+      "3583fba6f4bee38668a941d6f102edd0",
+      "d370debc492f547f0a3dbeff48f033e3",
+      "2b61ac73e28f0acfa6c558204bbbfa5b"
+    ],
+    "org_md5": "a30f1fd518805923653c3f1f9d4a619a",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "5417170ffdb54d990d591c70ade70c39",
     "org_level": 12,
     "title": "∀[ANOTHER]",
@@ -4567,6 +5252,26 @@
     "adddate": "2023\/02\/22"
   },
   {
+    "md5": "51db12e2efed6a9ebf867ad61ef90805",
+    "org_level": 12,
+    "title": "How to make 音ゲ～曲! [SP ANOTHER]",
+    "artist": "F Rabbeat \/ BMS: Nakaiankow BGA by もうり \/ obj AZVW_2",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "51db12e2efed6a9ebf867ad61ef90805",
+      "3df5e619848d13084ae25ac41a8dd392",
+      "cbc524947f14d28e5aee10bf6cef5ed5"
+    ],
+    "org_md5": "51db12e2efed6a9ebf867ad61ef90805",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "d5a0ef30bdeb132021ec9cc8ac65fd4e",
     "org_level": 12,
     "title": "Mind Disorder [SP AMETHER-A]",
@@ -4773,6 +5478,29 @@
     "org_md5": "eecea096f2fc7bdcc21b3fce42019863",
     "comment": "",
     "adddate": "2023\/02\/23"
+  },
+  {
+    "md5": "8a5e281b0cccba512034573782bb0bfd",
+    "org_level": 12,
+    "title": "エヴァネセント [SP ANOTHER]",
+    "artist": "stuv + qfeileadh bms:stuv | mov:kazari | obj:qfeileadh",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fc0ce4893d631b42fe7ed9da1d0de7f5",
+      "eacce3911b7db8125bb256ebf8631640",
+      "f4ed13e039d10e51f226d94b986b19d6",
+      "8a5e281b0cccba512034573782bb0bfd",
+      "630a648ca7e67b83fab9276b365b434b",
+      "5c1f65b660225957466d4b435065e5f4"
+    ],
+    "org_md5": "fc0ce4893d631b42fe7ed9da1d0de7f5",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "6c857d6b6c87782e698f0b6610d3d2b6",
@@ -5574,6 +6302,31 @@
     "adddate": "2023\/06\/21"
   },
   {
+    "md5": "c796981a56a6ee41e6cb19abc71a192b",
+    "org_level": 12,
+    "title": "E.V.E[BLACK ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e2061134cf3acd5a71b7ef59b6a4ab9b",
+      "4f2b37fdcdf849da8a9c69712ca8db15",
+      "c796981a56a6ee41e6cb19abc71a192b",
+      "2ea293c3ef95853c05399a9df78f8c00",
+      "812c28fff222f3fd4657cf1081d243eb",
+      "d285cdad89eb9b5dc8339e8c6750abe2",
+      "08d5d69b137bec80d7a1da04d8f1a9f0",
+      "9f19e694702b1507ac957db3c8ceada6"
+    ],
+    "org_md5": "e2061134cf3acd5a71b7ef59b6a4ab9b",
+    "comment": "",
+    "adddate": "2023\/10\/23"
+  },
+  {
     "md5": "55da43dac14edfb274838edc7493a2e0",
     "org_level": 12,
     "title": "GO BACK 2 YOUR RAVE [EX]",
@@ -5916,6 +6669,33 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023\/08\/10"
+  },
+  {
+    "md5": "22e7c571cdc7c7e71a68f3151036d4ee",
+    "org_level": 12,
+    "title": "Atohs",
+    "artist": "Music: Ice \/ Movie: Sand Suna",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "52b63ec129cf19e787a602100952a59f",
+      "c5953fd4c57d84fa2817fbba3310e2f8",
+      "b63fe3d2c5ff032636d51da3bf903156",
+      "24c289be32a60ab7eabdbd012e55f527",
+      "22e7c571cdc7c7e71a68f3151036d4ee",
+      "9d4107e951cfd3b8f3a4227689912bbb",
+      "bd2af60c883234f03a9a65cf0015ce12",
+      "4be82241ec96118b13309acf3c946dda",
+      "0899eaf72c7b2463a73e4882fb7f597d",
+      "3a4681800fd849acc56d7a18ade3fa5d"
+    ],
+    "org_md5": "52b63ec129cf19e787a602100952a59f",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "619b191dfe5a9baa81d1d5c18289bd22",
@@ -7238,6 +8018,33 @@
     "org_md5": "014dd26ed58126665debe373c6959612",
     "comment": "video<https:\/\/youtu.be\/1-MsMfG-uwA>連皿",
     "adddate": "2023\/08\/12"
+  },
+  {
+    "md5": "4be82241ec96118b13309acf3c946dda",
+    "org_level": 12,
+    "title": "Atohs",
+    "artist": "Music: Ice \/ Movie: Sand Suna",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "52b63ec129cf19e787a602100952a59f",
+      "c5953fd4c57d84fa2817fbba3310e2f8",
+      "b63fe3d2c5ff032636d51da3bf903156",
+      "24c289be32a60ab7eabdbd012e55f527",
+      "22e7c571cdc7c7e71a68f3151036d4ee",
+      "9d4107e951cfd3b8f3a4227689912bbb",
+      "bd2af60c883234f03a9a65cf0015ce12",
+      "4be82241ec96118b13309acf3c946dda",
+      "0899eaf72c7b2463a73e4882fb7f597d",
+      "3a4681800fd849acc56d7a18ade3fa5d"
+    ],
+    "org_md5": "52b63ec129cf19e787a602100952a59f",
+    "comment": "",
+    "adddate": "2023\/10\/23"
   },
   {
     "md5": "71c1d1a5c09eb16dfe722414ed70f658",
