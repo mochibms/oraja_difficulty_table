@@ -1966,6 +1966,30 @@
     "adddate": "2023\/10\/23"
   },
   {
+    "md5": "f72a80c76c6d491d547011d1c0148ab1",
+    "org_level": 11,
+    "title": "未来予想図に淡い希望を [ANOTHER]",
+    "artist": "kei_iwata \/ KeiuO + 内村徹",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0da9ac72452930e897624b2389fd07ec",
+      "7fa4b90b989d4192c3c73a117c6d63c8",
+      "654e6e0dcc7382e92ce2e6fa57c8ba7a",
+      "f72a80c76c6d491d547011d1c0148ab1",
+      "684df5ad9c4ae413dc58246316a9cd43",
+      "7444146c0ea0cd891d6114d2f66b7dc1",
+      "3f8edbba732424a2880abb938fe17391"
+    ],
+    "org_md5": "0da9ac72452930e897624b2389fd07ec",
+    "comment": "",
+    "adddate": "2023\/10\/30"
+  },
+  {
     "md5": "d6259aa76c94bdd4e4b885dc2af26623",
     "org_level": 1,
     "title": "Abendo [Trioxide]",
@@ -4878,6 +4902,30 @@
     "adddate": "2023\/02\/27"
   },
   {
+    "md5": "684df5ad9c4ae413dc58246316a9cd43",
+    "org_level": 7,
+    "title": "未来予想図に淡い希望を [Opt]",
+    "artist": "kei_iwata \/ KeiuO + 内村徹 obj:saaa",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0da9ac72452930e897624b2389fd07ec",
+      "7fa4b90b989d4192c3c73a117c6d63c8",
+      "654e6e0dcc7382e92ce2e6fa57c8ba7a",
+      "f72a80c76c6d491d547011d1c0148ab1",
+      "684df5ad9c4ae413dc58246316a9cd43",
+      "7444146c0ea0cd891d6114d2f66b7dc1",
+      "3f8edbba732424a2880abb938fe17391"
+    ],
+    "org_md5": "0da9ac72452930e897624b2389fd07ec",
+    "comment": "",
+    "adddate": "2023\/10\/30"
+  },
+  {
     "md5": "98e341e00e7355fe03132f6da49dc07f",
     "org_level": 4,
     "title": "明空リュウセイグン [Daybreak]",
@@ -5619,6 +5667,32 @@
     "org_md5": "014dd26ed58126665debe373c6959612",
     "comment": "",
     "adddate": "2023\/08\/17"
+  },
+  {
+    "md5": "2bd1d8f39a7389edd03cc3a1dc41614a",
+    "org_level": 12,
+    "title": "〇、 [星]",
+    "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj.Reiaki",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e355dc241b2fcba796bcfe3bedc74b97",
+      "6523e2c0f0420122a7c1bf981b6f5b55",
+      "aa46e0e7dde98e04dd3f6e0dd6b14bda",
+      "82e104e385cee63c1950105a65f1ede1",
+      "d543c3a6cf5548d30f49af1c9f8ae2db",
+      "2bd1d8f39a7389edd03cc3a1dc41614a",
+      "a1052dfb71bd0a790d57fb7ec7f08269",
+      "dd9c2b5776ea20d18f60f57caef8642b",
+      "a77d305d0be66d30d211c91b3324642e"
+    ],
+    "org_md5": "e355dc241b2fcba796bcfe3bedc74b97",
+    "comment": "",
+    "adddate": "2023\/10\/30"
   },
   {
     "md5": "83855e7be644eef3af16b58a704fc77b",
@@ -6669,6 +6743,31 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023\/08\/10"
+  },
+  {
+    "md5": "cc6afe721072c6808ddb6958a92adc12",
+    "org_level": 12,
+    "title": "5UPER BREEZE CH∀NCE [ANOTHER]",
+    "artist": "さんわり Illust.LLRK",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cc6afe721072c6808ddb6958a92adc12",
+      "d789e31297b083455ba2a30a0c93352b",
+      "161f25d928145d2c98e5b5de5e8f5013",
+      "b984c5234c1d487b6902efeb8da70413",
+      "5da1498de785f8f8a7b2f7dd2ebaee70",
+      "816db0ea9cfba51645243e1514afb0a4",
+      "1ad47986edf3d839b150ee33659f904c",
+      "aa4b4f6ed8942325751c7c3210926724"
+    ],
+    "org_md5": "cc6afe721072c6808ddb6958a92adc12",
+    "comment": "",
+    "adddate": "2023\/10\/30"
   },
   {
     "md5": "22e7c571cdc7c7e71a68f3151036d4ee",
