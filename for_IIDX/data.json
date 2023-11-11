@@ -3960,33 +3960,6 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "638a002d408b425a24152c90fb2daee5",
-    "org_level": 6,
-    "title": "Transcend to Heaven [SP INSANE]",
-    "artist": "Reku Mochizuki obj:BAECON",
-    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
-    "level": "12.1(HARD適正CPI1500~1550)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "eac09128d065efa5c8a8401c9d54afd8",
-      "a1651fcdc99f0d7aacc51edfd531cc45",
-      "023b2046d4f70c8af25c87bbd77d178f",
-      "a64736dd071b7bcb2be865ea37cff126",
-      "ae5b834f760069aa5a320174d59fd3c6",
-      "fe8df371638e12837c2097862973106b",
-      "11467ddb343a0d279e34c3765be5339c",
-      "c1f20fe818d392a3df88720af0879cc7",
-      "638a002d408b425a24152c90fb2daee5",
-      "036203262c1b4f8379fd2562fed9ba72"
-    ],
-    "org_md5": "eac09128d065efa5c8a8401c9d54afd8",
-    "comment": "",
-    "adddate": "2023\/11\/04"
-  },
-  {
     "md5": "fb0b8fc4c83fabce0866aca301b8b537",
     "org_level": 12,
     "title": "Twin☆kle Snowglobe [SP ANOTHER]",
@@ -4791,30 +4764,31 @@
     "adddate": "2023\/05\/31"
   },
   {
-    "md5": "5dc7f4e0e0317ab5ea8ea3bdd5f83dbd",
-    "org_level": 12,
-    "title": "This Club is not 4 U [SP INSANE]",
-    "artist": "EmoCo. \/ 玲架 obj. Lapis",
+    "md5": "638a002d408b425a24152c90fb2daee5",
+    "org_level": 6,
+    "title": "Transcend to Heaven [SP INSANE]",
+    "artist": "Reku Mochizuki obj:BAECON",
     "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
     "level": "12.2(HARD適正CPI1550~1600)",
     "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=105&event=123",
+    "url": "",
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "c213fe9adbad615bea7ff413f381a2cb",
-      "32240ef56432206660feb51017d7185d",
-      "42ec3e46fa946af3650b83036886ef60",
-      "2921407eb7da296d3611186430d63c91",
-      "5dc7f4e0e0317ab5ea8ea3bdd5f83dbd",
-      "1dae20a833b19a4e1856a95c97fe82b6",
-      "a1c8ede6eb74ea3b4b721a2f50115210",
-      "dac9501eb6e44e30a8ef7c08ab857e1d",
-      "156783da7d59f7ddfb2543890eceb3c5"
+      "eac09128d065efa5c8a8401c9d54afd8",
+      "a1651fcdc99f0d7aacc51edfd531cc45",
+      "023b2046d4f70c8af25c87bbd77d178f",
+      "a64736dd071b7bcb2be865ea37cff126",
+      "ae5b834f760069aa5a320174d59fd3c6",
+      "fe8df371638e12837c2097862973106b",
+      "11467ddb343a0d279e34c3765be5339c",
+      "c1f20fe818d392a3df88720af0879cc7",
+      "638a002d408b425a24152c90fb2daee5",
+      "036203262c1b4f8379fd2562fed9ba72"
     ],
-    "org_md5": "c213fe9adbad615bea7ff413f381a2cb",
+    "org_md5": "eac09128d065efa5c8a8401c9d54afd8",
     "comment": "",
-    "adddate": "2023\/02\/21"
+    "adddate": "2023\/11\/10"
   },
   {
     "md5": "4927784f183953f4aa54bd7f3ac48a54",
@@ -5619,6 +5593,32 @@
     "org_md5": "fc75db28223333c1983704b6c71dc407",
     "comment": "video<https:\/\/youtu.be\/gu515b1p-3o>",
     "adddate": "2023\/02\/16"
+  },
+  {
+    "md5": "5dc7f4e0e0317ab5ea8ea3bdd5f83dbd",
+    "org_level": 12,
+    "title": "This Club is not 4 U [SP INSANE]",
+    "artist": "EmoCo. \/ 玲架 obj. Lapis",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=105&event=123",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c213fe9adbad615bea7ff413f381a2cb",
+      "32240ef56432206660feb51017d7185d",
+      "42ec3e46fa946af3650b83036886ef60",
+      "2921407eb7da296d3611186430d63c91",
+      "5dc7f4e0e0317ab5ea8ea3bdd5f83dbd",
+      "1dae20a833b19a4e1856a95c97fe82b6",
+      "a1c8ede6eb74ea3b4b721a2f50115210",
+      "dac9501eb6e44e30a8ef7c08ab857e1d",
+      "156783da7d59f7ddfb2543890eceb3c5"
+    ],
+    "org_md5": "c213fe9adbad615bea7ff413f381a2cb",
+    "comment": "",
+    "adddate": "2023\/11\/10"
   },
   {
     "md5": "51ef41dc324468db932334c0c402e5b3",
@@ -7969,33 +7969,6 @@
     "adddate": "2023\/10\/30"
   },
   {
-    "md5": "22e7c571cdc7c7e71a68f3151036d4ee",
-    "org_level": 12,
-    "title": "Atohs",
-    "artist": "Music: Ice \/ Movie: Sand Suna",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "52b63ec129cf19e787a602100952a59f",
-      "c5953fd4c57d84fa2817fbba3310e2f8",
-      "b63fe3d2c5ff032636d51da3bf903156",
-      "24c289be32a60ab7eabdbd012e55f527",
-      "22e7c571cdc7c7e71a68f3151036d4ee",
-      "9d4107e951cfd3b8f3a4227689912bbb",
-      "bd2af60c883234f03a9a65cf0015ce12",
-      "4be82241ec96118b13309acf3c946dda",
-      "0899eaf72c7b2463a73e4882fb7f597d",
-      "3a4681800fd849acc56d7a18ade3fa5d"
-    ],
-    "org_md5": "52b63ec129cf19e787a602100952a59f",
-    "comment": "",
-    "adddate": "2023\/10\/23"
-  },
-  {
     "md5": "619b191dfe5a9baa81d1d5c18289bd22",
     "org_level": 12,
     "title": "Avantgarde [Another]",
@@ -8113,27 +8086,6 @@
     "org_md5": "a9507a17425df81f6f488e26feb7419d",
     "comment": "",
     "adddate": "2023\/11\/04"
-  },
-  {
-    "md5": "38ea80028ff4fe4d1551df697795a6de",
-    "org_level": 12,
-    "title": "Frostwitch [SP ANOTHER]",
-    "artist": "Abel & Kamisys with. ESPITZ (feat.重音テトSV) mov. marierie & VARD & Nima",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "7df2136ddd02fe8703af0f2a9316c53b",
-      "4a7e2587fbd537b2061e982e70089dc7",
-      "4649952431b2da07b17cf33ff450c3b0",
-      "38ea80028ff4fe4d1551df697795a6de"
-    ],
-    "org_md5": "7df2136ddd02fe8703af0f2a9316c53b",
-    "comment": "",
-    "adddate": "2023\/11\/05"
   },
   {
     "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
@@ -8377,22 +8329,6 @@
     "adddate": "2023\/02\/27"
   },
   {
-    "md5": "438fa3931fcbb5b71c27b6587c5034c3",
-    "org_level": 6,
-    "title": "白菊 [Snother]",
-    "artist": "立秋 obj:スノート",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=268&event=116",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=02873",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "5~6?",
-    "adddate": "2023\/08\/10"
-  },
-  {
     "md5": "83c27dcf886b52e3d429571580865a60",
     "org_level": 14,
     "title": "\"Badger-A\" [Type 39]",
@@ -8413,6 +8349,33 @@
     "org_md5": "7cedb01c006c430107e7c7a7e375b923",
     "comment": "",
     "adddate": "2023\/11\/05"
+  },
+  {
+    "md5": "22e7c571cdc7c7e71a68f3151036d4ee",
+    "org_level": 12,
+    "title": "Atohs",
+    "artist": "Music: Ice \/ Movie: Sand Suna",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "52b63ec129cf19e787a602100952a59f",
+      "c5953fd4c57d84fa2817fbba3310e2f8",
+      "b63fe3d2c5ff032636d51da3bf903156",
+      "24c289be32a60ab7eabdbd012e55f527",
+      "22e7c571cdc7c7e71a68f3151036d4ee",
+      "9d4107e951cfd3b8f3a4227689912bbb",
+      "bd2af60c883234f03a9a65cf0015ce12",
+      "4be82241ec96118b13309acf3c946dda",
+      "0899eaf72c7b2463a73e4882fb7f597d",
+      "3a4681800fd849acc56d7a18ade3fa5d"
+    ],
+    "org_md5": "52b63ec129cf19e787a602100952a59f",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "62f6543036ffb0390c0abeb2af6ecb25",
@@ -8490,6 +8453,27 @@
     "org_md5": "5670df6611ea668b266b07a4f8c6f445",
     "comment": "video<https:\/\/youtu.be\/ZA_Djt4wKqY>",
     "adddate": "2023\/05\/25"
+  },
+  {
+    "md5": "38ea80028ff4fe4d1551df697795a6de",
+    "org_level": 12,
+    "title": "Frostwitch [SP ANOTHER]",
+    "artist": "Abel & Kamisys with. ESPITZ (feat.重音テトSV) mov. marierie & VARD & Nima",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7df2136ddd02fe8703af0f2a9316c53b",
+      "4a7e2587fbd537b2061e982e70089dc7",
+      "4649952431b2da07b17cf33ff450c3b0",
+      "38ea80028ff4fe4d1551df697795a6de"
+    ],
+    "org_md5": "7df2136ddd02fe8703af0f2a9316c53b",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
@@ -9236,28 +9220,6 @@
     "adddate": "2023\/07\/03"
   },
   {
-    "md5": "432a28b296202c14f39fc19f126829a7",
-    "org_level": 12,
-    "title": "HYPER☆MEGA★COASTER [SP LEGGENDARIA]",
-    "artist": "Mono. meets Halv obj.nye",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "ca76efa13c2306f522e56885f83e7f98",
-      "fa1edbd287e9dc106908d2cfb9d33d3f",
-      "eff6dee647306909dffffcc27f993d48",
-      "f9112e31654011f30e36b55f92a36440",
-      "432a28b296202c14f39fc19f126829a7"
-    ],
-    "org_md5": "ca76efa13c2306f522e56885f83e7f98",
-    "comment": "",
-    "adddate": "2023\/11\/04"
-  },
-  {
     "md5": "f1e3b81187d776311556a0b713596ba5",
     "org_level": 19,
     "title": "Luminaria [INSANE7]",
@@ -9381,6 +9343,32 @@
     "org_md5": "3e953b5030fb29632c0a410fce224dd5",
     "comment": "video<https:\/\/youtu.be\/rVPjvpcvqAw>連皿",
     "adddate": "2023\/06\/01"
+  },
+  {
+    "md5": "048bbb0632163a91cce160c26bfda173",
+    "org_level": 12,
+    "title": "Volanphantasia [SP Fantasia]",
+    "artist": "VeetaCrush obj: noodle bga: MANAKA",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "793048a3f0032e5f45de96ac129254de",
+      "34d1253cef8731f190a909721d60002a",
+      "fdc7624167d93c5446a4aa66f8a338bd",
+      "0fd94e871621ecdea499186769a00221",
+      "8931bd9842ee3db22d11a6f70b105592",
+      "048bbb0632163a91cce160c26bfda173",
+      "6d885acfe9bcb2c893aca8cf3ac08541",
+      "738bb629b6e0df0977a875ff2e025ce8",
+      "0c16bdf08d87fa15270d4ad4ca619b18"
+    ],
+    "org_md5": "793048a3f0032e5f45de96ac129254de",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "97f65f3a8bd34961ddc95983e4494661",
@@ -9595,6 +9583,28 @@
     "adddate": "2023\/05\/25"
   },
   {
+    "md5": "432a28b296202c14f39fc19f126829a7",
+    "org_level": 12,
+    "title": "HYPER☆MEGA★COASTER [SP LEGGENDARIA]",
+    "artist": "Mono. meets Halv obj.nye",
+    "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ca76efa13c2306f522e56885f83e7f98",
+      "fa1edbd287e9dc106908d2cfb9d33d3f",
+      "eff6dee647306909dffffcc27f993d48",
+      "f9112e31654011f30e36b55f92a36440",
+      "432a28b296202c14f39fc19f126829a7"
+    ],
+    "org_md5": "ca76efa13c2306f522e56885f83e7f98",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "2a89b25427e5842bb986630bd71bd853",
     "org_level": 16,
     "title": "Illusion of Mind [Jesus†Christus]",
@@ -9646,28 +9656,20 @@
     "adddate": "2023\/05\/19"
   },
   {
-    "md5": "990c60f68f2b75d56169a7121d4fab7c",
-    "org_level": 12,
-    "title": "VOLATILITY",
-    "artist": "TARO",
+    "md5": "6de6909c19156221d729b5e965c5cc2a",
+    "org_level": 17,
+    "title": "Poppin' Shower -sugarless-",
+    "artist": "P*Light あ",
     "folder": "LEVEL13.1(HARD適正CPI2000~2050)",
     "level": "13.1(HARD適正CPI2000~2050)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "2f339d2bc4b4ee1c5a0b4eca8f162b92",
-      "73b4303609ada5c58ff3da6c466c5615",
-      "656423f81bec0c945d5a39b5cf98add8",
-      "aee42e32a7c9c10c8748d710660cef25",
-      "f00e2d8542319f610e28c53357f66524",
-      "990c60f68f2b75d56169a7121d4fab7c",
-      "0276efc1597a49799746d0b08ace17b8"
-    ],
-    "org_md5": "2f339d2bc4b4ee1c5a0b4eca8f162b92",
-    "comment": "",
-    "adddate": "2023\/11\/04"
+    "lr2_bmsid": "120625",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=239&event=74",
+    "url_diff": "http:\/\/drowsy.hannnari.com\/index.html",
+    "name_diff": "http:\/\/drowsy.hannnari.com\/index.html",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/yfhnaWNV5zI>★17 連皿複合",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "0e1b2bf8450cf06a1726470a42e18b22",
@@ -9821,20 +9823,28 @@
     "adddate": "2023\/05\/25"
   },
   {
-    "md5": "6de6909c19156221d729b5e965c5cc2a",
-    "org_level": 17,
-    "title": "Poppin' Shower -sugarless-",
-    "artist": "P*Light あ",
+    "md5": "990c60f68f2b75d56169a7121d4fab7c",
+    "org_level": 12,
+    "title": "VOLATILITY",
+    "artist": "TARO",
     "folder": "LEVEL13.2(HARD適正CPI2050~2100?)",
     "level": "13.2(HARD適正CPI2050~2100?)",
-    "lr2_bmsid": "120625",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=239&event=74",
-    "url_diff": "http:\/\/drowsy.hannnari.com\/index.html",
-    "name_diff": "http:\/\/drowsy.hannnari.com\/index.html",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/yfhnaWNV5zI>★17 連皿複合",
-    "adddate": "2023\/08\/04"
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+      "73b4303609ada5c58ff3da6c466c5615",
+      "656423f81bec0c945d5a39b5cf98add8",
+      "aee42e32a7c9c10c8748d710660cef25",
+      "f00e2d8542319f610e28c53357f66524",
+      "990c60f68f2b75d56169a7121d4fab7c",
+      "0276efc1597a49799746d0b08ace17b8"
+    ],
+    "org_md5": "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
@@ -9955,28 +9965,6 @@
     "adddate": "2023\/06\/26"
   },
   {
-    "md5": "7d99b3fd411698593aa75a52c1caa6d0",
-    "org_level": 12,
-    "title": "邂逅(BMS Refine) [IIDX]",
-    "artist": "CYLTIE.",
-    "folder": "LEVEL13.3(HARD適正CPI2100~2150?)",
-    "level": "13.3(HARD適正CPI2100~2150?)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "7d99b3fd411698593aa75a52c1caa6d0",
-      "71ffe425897aa9bc7c0a0e54c521f45b",
-      "6d5fbe50848093e37da8ea591bd00d91",
-      "48d0560f0177c8a463644864d0205732",
-      "0ea7be68ce5060ee0706f982570a8997"
-    ],
-    "org_md5": "7d99b3fd411698593aa75a52c1caa6d0",
-    "comment": "video<https:\/\/youtu.be\/MnJNqcrtCx8>ソフラン NORMAL判定",
-    "adddate": "2023\/08\/03"
-  },
-  {
     "md5": "4a5c06c56de19b8450a955ee6b746b9b",
     "org_level": 1,
     "title": "!nterroban(?, [ !)ualit'? ]",
@@ -9993,31 +9981,6 @@
     "adddate": "2023\/06\/26"
   },
   {
-    "md5": "abc26841c864e70351d08e0ade9507ff",
-    "org_level": 21,
-    "title": "* this game does not exist * [NIL]",
-    "artist": "litmus* x Ester obj:qfeileadh",
-    "folder": "LEVEL13.4(HARD適正CPI2150~?)",
-    "level": "13.4(HARD適正CPI2150~?)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=284&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "13718b033c720defeae1a7f8c0ebf20f",
-      "4babc0e57ff2da3b0eee90109d283b3b",
-      "d16e46114cf6c83bc068524337454883",
-      "97003476e9c22f496c310f5a373fa90c",
-      "f3e209a225267b88db40d4f8d2933cf6",
-      "6cc4d54b02d50301bfffe605f1babeba",
-      "ead977fca9a925dc226a73278a2231de",
-      "abc26841c864e70351d08e0ade9507ff"
-    ],
-    "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
-    "comment": "video<https:\/\/www.youtube.com\/watch?v=qZGuKGSCf44>ソフラン 他の同梱譜面とは違って190地帯がBPM237で流れるように調整されているのでハイスピは合わせ易い",
-    "adddate": "2023\/04\/12"
-  },
-  {
     "md5": "2e2ec86581e880d8570d2f3b10c03fda",
     "org_level": 0,
     "title": "Aleph-0 [Ω]",
@@ -10032,22 +9995,6 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/9K5ybfwSlT0>ソフラン削除差分",
     "adddate": "2023\/06\/04"
-  },
-  {
-    "md5": "e58e3f718d089ec37caa0f2c7149a54b",
-    "org_level": 22,
-    "title": "Altale [Mirage]",
-    "artist": "削除 \/ obj.siokaze",
-    "folder": "LEVEL13.4(HARD適正CPI2150~?)",
-    "level": "13.4(HARD適正CPI2150~?)",
-    "lr2_bmsid": "197987",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=150&event=96",
-    "url_diff": "http:\/\/siokazebms.web.fc2.com\/",
-    "name_diff": "http:\/\/siokazebms.web.fc2.com\/",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/MGI9sZSONJw>★22",
-    "adddate": "2023\/04\/12"
   },
   {
     "md5": "b5ac8582091269f60ed0d5f711c603bd",
@@ -10092,12 +10039,75 @@
     "adddate": "2023\/06\/12"
   },
   {
+    "md5": "7d99b3fd411698593aa75a52c1caa6d0",
+    "org_level": 12,
+    "title": "邂逅(BMS Refine) [IIDX]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL13.4(HARD適正CPI2150~?)",
+    "level": "13.4(HARD適正CPI2150~?)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7d99b3fd411698593aa75a52c1caa6d0",
+      "71ffe425897aa9bc7c0a0e54c521f45b",
+      "6d5fbe50848093e37da8ea591bd00d91",
+      "48d0560f0177c8a463644864d0205732",
+      "0ea7be68ce5060ee0706f982570a8997"
+    ],
+    "org_md5": "7d99b3fd411698593aa75a52c1caa6d0",
+    "comment": "video<https:\/\/youtu.be\/MnJNqcrtCx8>ソフラン NORMAL判定",
+    "adddate": "2023\/11\/11"
+  },
+  {
+    "md5": "abc26841c864e70351d08e0ade9507ff",
+    "org_level": 21,
+    "title": "* this game does not exist * [NIL]",
+    "artist": "litmus* x Ester obj:qfeileadh",
+    "folder": "LEVEL13.5",
+    "level": "13.5",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=284&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "13718b033c720defeae1a7f8c0ebf20f",
+      "4babc0e57ff2da3b0eee90109d283b3b",
+      "d16e46114cf6c83bc068524337454883",
+      "97003476e9c22f496c310f5a373fa90c",
+      "f3e209a225267b88db40d4f8d2933cf6",
+      "6cc4d54b02d50301bfffe605f1babeba",
+      "ead977fca9a925dc226a73278a2231de",
+      "abc26841c864e70351d08e0ade9507ff"
+    ],
+    "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
+    "comment": "video<https:\/\/www.youtube.com\/watch?v=qZGuKGSCf44>ソフラン 他の同梱譜面とは違って190地帯がBPM237で流れるように調整されているのでハイスピは合わせ易い",
+    "adddate": "2023\/11\/11"
+  },
+  {
+    "md5": "e58e3f718d089ec37caa0f2c7149a54b",
+    "org_level": 22,
+    "title": "Altale [Mirage]",
+    "artist": "削除 \/ obj.siokaze",
+    "folder": "LEVEL13.5",
+    "level": "13.5",
+    "lr2_bmsid": "197987",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=150&event=96",
+    "url_diff": "http:\/\/siokazebms.web.fc2.com\/",
+    "name_diff": "http:\/\/siokazebms.web.fc2.com\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/MGI9sZSONJw>★22",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "b8ef7cfc2121dc7e62c94a09b6459a93",
     "org_level": 2,
     "title": "Poppy [Opium]",
     "artist": "Columba(Daily vs. Roon_kun) \/ obj: Mary_Sue",
-    "folder": "LEVEL13.4(HARD適正CPI2150~?)",
-    "level": "13.4(HARD適正CPI2150~?)",
+    "folder": "LEVEL13.5",
+    "level": "13.5",
     "lr2_bmsid": null,
     "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=46&event=137",
     "url_diff": "https:\/\/darksabun.github.io\/Mary_Sue\/",
@@ -10105,15 +10115,15 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/WQpCsfSIrGQ>st2 ",
-    "adddate": "2023\/04\/12"
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "96a5b7861d91d03cb82495abef5b8c8b",
     "org_level": 24,
     "title": "MESMERA [SP ANOTHER]",
     "artist": "qfeileadh + 空読無 白眼",
-    "folder": "LEVEL14(???)",
-    "level": "14(???)",
+    "folder": "LEVEL14",
+    "level": "14",
     "lr2_bmsid": null,
     "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=283&event=140",
     "url_diff": "",
@@ -10142,8 +10152,8 @@
     "org_level": 24,
     "title": "Needy Samples Overdose [INSANE]",
     "artist": "CYLTIE.",
-    "folder": "LEVEL14(???)",
-    "level": "14(???)",
+    "folder": "LEVEL14",
+    "level": "14",
     "lr2_bmsid": null,
     "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=31&event=139",
     "url_diff": "",
@@ -10168,8 +10178,8 @@
     "org_level": 24,
     "title": "PEACE BREAKER[BREAKER]",
     "artist": "Omnipotenx",
-    "folder": "LEVEL14(???)",
-    "level": "14(???)",
+    "folder": "LEVEL14",
+    "level": "14",
     "lr2_bmsid": "105486",
     "url": "http:\/\/monochrome-world.sakura.ne.jp\/peace_breaker.zip",
     "url_diff": "",
@@ -10184,8 +10194,8 @@
     "org_level": 24,
     "title": "キミとボクへの葬送歌 [Maybe kill]",
     "artist": "ROKINA\/obj:仙人掌の人 BGA:REI-K",
-    "folder": "LEVEL14(???)",
-    "level": "14(???)",
+    "folder": "LEVEL14",
+    "level": "14",
     "lr2_bmsid": "220441",
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&event=104&num=4",
     "url_diff": "http:\/\/absolute.pv.land.to\/uploader\/src\/up5955.zip",
