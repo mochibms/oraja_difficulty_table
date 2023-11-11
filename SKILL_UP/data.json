@@ -1888,6 +1888,30 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "2126af143327727c383f6bb886b1dca9",
+    "org_level": 18,
+    "title": "Revolution [Starry Debut]",
+    "artist": "BilliumMoto Illust: Metyayurusu, BGA: Fate, obj: Jakads",
+    "folder": "LEVELsl11",
+    "level": "sl11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7722e2843e50a49ecfe74a4bccbb1438",
+      "4adb46df1c6166f8a054a58fa6e05caa",
+      "e8ca25f57106e867edaa1f95a7172a03",
+      "8c88f5f74fcc4a4e4d3e5112525978b1",
+      "aa9ad141eb3fc64e8f09e2a312767be1",
+      "2126af143327727c383f6bb886b1dca9",
+      "cf4cda9a1478a8a9470586e265d66ee3"
+    ],
+    "org_md5": "7722e2843e50a49ecfe74a4bccbb1438",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "2391b1c72074436cf655fd465e9176ca",
     "org_level": 17,
     "title": "Rush-Hour [SP LEGGENDARIA]",
@@ -1959,6 +1983,30 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023\/10\/30"
+  },
+  {
+    "md5": "ba0d98716f87a29e2eb364272f34cfc6",
+    "org_level": 16,
+    "title": "アドバンス・シグナル [IMPULSE]",
+    "artist": "みーに feat. はらもりよしな obj:potechang",
+    "folder": "LEVELsl11",
+    "level": "sl11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "25b6ce53767cd61ff18ddb988be3473e",
+      "ba0d98716f87a29e2eb364272f34cfc6",
+      "b42fe7353e67efe0a27a299f518937be",
+      "cfb0835827b3306789e141cc61949d54",
+      "454ae07da75b14d1b6231af948884a3e",
+      "f5ab0ec3ada57f8ef4eafd6506712c90",
+      "65458ed86b3ff9d39b17c324772bd80d"
+    ],
+    "org_md5": "25b6ce53767cd61ff18ddb988be3473e",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "00b7d72f7ecd3d4f0af4ebdc0ee69f61",
@@ -2560,6 +2608,30 @@
     "org_md5": "31da39a9735681d7028b5b5b10da61f2",
     "comment": "",
     "adddate": "2023\/10\/30"
+  },
+  {
+    "md5": "990c60f68f2b75d56169a7121d4fab7c",
+    "org_level": 12,
+    "title": "VOLATILITY",
+    "artist": "TARO",
+    "folder": "LEVELsl12",
+    "level": "sl12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+      "73b4303609ada5c58ff3da6c466c5615",
+      "656423f81bec0c945d5a39b5cf98add8",
+      "aee42e32a7c9c10c8748d710660cef25",
+      "f00e2d8542319f610e28c53357f66524",
+      "990c60f68f2b75d56169a7121d4fab7c",
+      "0276efc1597a49799746d0b08ace17b8"
+    ],
+    "org_md5": "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
@@ -4345,6 +4417,30 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "aa9ad141eb3fc64e8f09e2a312767be1",
+    "org_level": 22,
+    "title": "Revolution [Finitura Fettuccia]",
+    "artist": "BilliumMoto Illust: Metyayurusu, BGA: Fate, obj: Jakads",
+    "folder": "LEVELst2",
+    "level": "st2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7722e2843e50a49ecfe74a4bccbb1438",
+      "4adb46df1c6166f8a054a58fa6e05caa",
+      "e8ca25f57106e867edaa1f95a7172a03",
+      "8c88f5f74fcc4a4e4d3e5112525978b1",
+      "aa9ad141eb3fc64e8f09e2a312767be1",
+      "2126af143327727c383f6bb886b1dca9",
+      "cf4cda9a1478a8a9470586e265d66ee3"
+    ],
+    "org_md5": "7722e2843e50a49ecfe74a4bccbb1438",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "b5385ffeaf8924174db726c3721a6ffe",
     "org_level": 2,
     "title": "Romantic Children [魔界]",
@@ -5347,6 +5443,31 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "e4f77d63933e29ec72cf609f8fe17cdc",
+    "org_level": 23,
+    "title": "永夜ノ蝶 [PHANTOM]",
+    "artist": "長沼浩太(パパ頑張りました) & 長沼浩太(フライパンでやりまーす)",
+    "folder": "LEVELst3",
+    "level": "st3",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b9656d36814500f9ef8306df60def273",
+      "4fd7f4272d6a9d1e1976d1a899356a5a",
+      "9ecafbf213c276b9134234de1754b6dc",
+      "7b8685c8c86f6a7819826bf30699392a",
+      "d3a53fceb5fbc253d6647a77013b8836",
+      "e4f77d63933e29ec72cf609f8fe17cdc",
+      "6372bc99656c1a7ab101d38648eb1c67",
+      "44895c0a34e939881ed2b7ecc34db1c7"
+    ],
+    "org_md5": "b9656d36814500f9ef8306df60def273",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "f5114077ded4168d255c7f0e24ff21f1",
     "org_level": 3,
     "title": "温泉大作戦 [温泉卵]",
@@ -5756,6 +5877,37 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "377decc3f77dfea175707f5f271055f7",
+    "org_level": 23,
+    "title": "Memories in the Blue [Reminiscence]",
+    "artist": "otoshi.b × FanfRS × はしたかさん bms:otoshi.b \/ obj:BAECON",
+    "folder": "LEVELst4",
+    "level": "st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "20d6f049f96423958458f0e3c115de68",
+      "5f428315aa6ca9c715fa5ce4cb48d587",
+      "b58c7002e6c70693063f8e4ca7ec4c49",
+      "af446922dcd97a813ec0b0cca423b8c6",
+      "929ad7ab0ef942f950f2725ac59793a2",
+      "27901213a9741f01e841a2e09372428c",
+      "377decc3f77dfea175707f5f271055f7",
+      "a27bfa46b8189b3548b05c1ef5487f57",
+      "f67e028c51a5471a7729dab4f08b267d",
+      "a7b98a6bc2e3b9f6f7de40f67a022ee8",
+      "87d1e4c75e6c557d9b8f7a8252092ef8",
+      "4fdd969f8e3c0e9ddde6ea629a9ddd55",
+      "30c78d84fc2c3ad59ea9a681a15381d2",
+      "b49a91b33f7911778389c5dcace1b31c"
+    ],
+    "org_md5": "20d6f049f96423958458f0e3c115de68",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "a4fbdf2fb7cdc54b1b284e2d2c460415",
     "org_level": 4,
     "title": "Nexus -Despair & Hope-",
@@ -6004,6 +6156,32 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "0c16bdf08d87fa15270d4ad4ca619b18",
+    "org_level": 12,
+    "title": "Volanphantasia [SP SUBCONSCIOUS]",
+    "artist": "VeetaCrush obj AZVW_2 \/ BGA by MANAKA",
+    "folder": "LEVELst4",
+    "level": "st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "793048a3f0032e5f45de96ac129254de",
+      "34d1253cef8731f190a909721d60002a",
+      "fdc7624167d93c5446a4aa66f8a338bd",
+      "0fd94e871621ecdea499186769a00221",
+      "8931bd9842ee3db22d11a6f70b105592",
+      "048bbb0632163a91cce160c26bfda173",
+      "6d885acfe9bcb2c893aca8cf3ac08541",
+      "738bb629b6e0df0977a875ff2e025ce8",
+      "0c16bdf08d87fa15270d4ad4ca619b18"
+    ],
+    "org_md5": "793048a3f0032e5f45de96ac129254de",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "a453ecdda9bf2161f38aa69dd5493ed9",
     "org_level": 4,
     "title": "ZENITHALIZE [Monsther]",
@@ -6240,6 +6418,32 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "dd9c2b5776ea20d18f60f57caef8642b",
+    "org_level": 24,
+    "title": "〇、 [・]",
+    "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj.tyrcs",
+    "folder": "LEVELst5",
+    "level": "st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e355dc241b2fcba796bcfe3bedc74b97",
+      "6523e2c0f0420122a7c1bf981b6f5b55",
+      "aa46e0e7dde98e04dd3f6e0dd6b14bda",
+      "82e104e385cee63c1950105a65f1ede1",
+      "a77d305d0be66d30d211c91b3324642e",
+      "d543c3a6cf5548d30f49af1c9f8ae2db",
+      "2bd1d8f39a7389edd03cc3a1dc41614a",
+      "a1052dfb71bd0a790d57fb7ec7f08269",
+      "dd9c2b5776ea20d18f60f57caef8642b"
+    ],
+    "org_md5": "e355dc241b2fcba796bcfe3bedc74b97",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "a85994133df21871af5dc168d1fabbfd",
     "org_level": 5,
     "title": "1516 [3032]",
@@ -6310,6 +6514,34 @@
     "org_md5": "",
     "comment": "delay",
     "adddate": "2023\/10\/30"
+  },
+  {
+    "md5": "ea6966b76ba740cc505caeb5a68d9331",
+    "org_level": 24,
+    "title": "Debate Paradigm [Deadlock]",
+    "artist": "utzbo VS ルゼ BGA:Nao_AnD & Chiru \/ obj:57",
+    "folder": "LEVELst5",
+    "level": "st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "76f588cd349e759c89cf28a4adc35b2b",
+      "1462255863fea6d2803df89092cc525e",
+      "c63732044049ce31d2d072a8c6339c18",
+      "7bf5864a60973c4315843b004d9c58f5",
+      "d9a922ac73737db56ebdd9e6b5eab87b",
+      "6bc988a597e7aeeff16c2a1645f1a1a0",
+      "8741523c4d3496e75a7ea82988860bc1",
+      "6776cda98a82c269417851e74528bf35",
+      "bb7c5f69d048ad44bf9c4463169c198b",
+      "0c8c63eb3356ee40e31fe7325219273c",
+      "ea6966b76ba740cc505caeb5a68d9331"
+    ],
+    "org_md5": "76f588cd349e759c89cf28a4adc35b2b",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "10420967a85371e65db57967e6c696cd",
@@ -6916,6 +7148,34 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "ea987f7d0674560451f19a97ea55ef4d",
+    "org_level": 12,
+    "title": "《Ж》 [Exosphere]",
+    "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON obj. Mary_Sue",
+    "folder": "LEVELst6",
+    "level": "st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a30f1fd518805923653c3f1f9d4a619a",
+      "70c0dae91abe36ce67b75e17ae4890d1",
+      "5c30d660b85a3318f2cb6cecece6b018",
+      "ea3dcd2e9b13e7360c698fc9cfd2142f",
+      "f874a92222b5298fce8469a2434da802",
+      "ea987f7d0674560451f19a97ea55ef4d",
+      "1f0f14b99c1e0540532942a44f79fe70",
+      "fc38dc4c63f311a60b3c0593bd5613fc",
+      "3583fba6f4bee38668a941d6f102edd0",
+      "d370debc492f547f0a3dbeff48f033e3",
+      "2b61ac73e28f0acfa6c558204bbbfa5b"
+    ],
+    "org_md5": "a30f1fd518805923653c3f1f9d4a619a",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "01d9ea966de753dee21609a2b69a68e0",
     "org_level": 6,
     "title": "Agilion[OVERJOY]",
@@ -7164,6 +7424,38 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "4190b95871d7affad2f11a3b0ce957d6",
+    "org_level": 24,
+    "title": "Miracletale [Fairytale]",
+    "artist": "kooridori & TRIAL BGA:浪漫映像制作倶楽部 \/ OBJ:BAECON",
+    "folder": "LEVELst6",
+    "level": "st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f49acbc1137ddae844f8ed880a838e0e",
+      "2a0dba2cb391df79bd2a0f3368f9f0d2",
+      "cfe2eaea4b3a3ac7f25f2a37d74cf9ef",
+      "5fc7dfbb256147c7741b475caf542f1f",
+      "e3e5fea1b07d3d3bc0960bfbb50e542f",
+      "523ac66c98e3399ff237451cd5a7b394",
+      "4190b95871d7affad2f11a3b0ce957d6",
+      "c1d6b97cc2d7bcb770859d8c54ac97df",
+      "8ab883df06a16c15b535c297e8d6bcde",
+      "76a436ec43bdbcff33fb26aea448e3d3",
+      "94ed492b231dd991e520bc79a47f1607",
+      "ccbbd07e86197156babb4cf800aad6db",
+      "c710c6f9c4ed31a66ee87561093d0802",
+      "751537a0e094108c2722a281f8c8c84f",
+      "4dacb348104dbea5ad32eecceaec65a1"
+    ],
+    "org_md5": "f49acbc1137ddae844f8ed880a838e0e",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "db56731c65cfe9e60e77b9da1aa8f1a1",
     "org_level": 24,
     "title": "Moondread [T]",
@@ -7200,6 +7492,36 @@
     "org_md5": "",
     "comment": "体力譜面",
     "adddate": "2023\/10\/30"
+  },
+  {
+    "md5": "62da41eccff3d56fe38e92d8e772af40",
+    "org_level": 25,
+    "title": "Overjoy ★ OVERDOSE!! [BMS MASTER ( ^▽^)\/ ~♪]",
+    "artist": "Luna Fozer prod. BilliumMoto + 黒皇帝 + Sobrem \/ lyric assist. AKA \/ vox. vally.exe \/ chara. 蟹江 \/ illust. Shalink \/ mv. riguruma",
+    "folder": "LEVELst6",
+    "level": "st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "956bac5b4b32ff59de40702ced94262f",
+      "c426be385658cfd9e73bb28052d6e361",
+      "41ce44857d79680174011df12e184c41",
+      "a84eef525de6557c637149446205bb10",
+      "d09149a421766a718a06a5f87c4afcff",
+      "8c257255d74bbfdcb36d32875b87ad27",
+      "e8d63dfef28da45b38aeb1a98b607505",
+      "5e86840e6463590b19ad24118af7de36",
+      "62da41eccff3d56fe38e92d8e772af40",
+      "562cf85a973886a76ea09a93da81344c",
+      "fde11881acba4fc16a1738a821af45aa",
+      "ad58aa8584acea1c47772d0f0313a689",
+      "a7a6856a28bc7919763aa88c6ac4b950"
+    ],
+    "org_md5": "956bac5b4b32ff59de40702ced94262f",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "d97a2a85dca765f958ac7e90247e2985",
@@ -7583,6 +7905,32 @@
     "org_md5": "",
     "comment": "同時押しとディレイ",
     "adddate": "2023\/10\/30"
+  },
+  {
+    "md5": "697e1b5e215cd37a749adcbb11d4748a",
+    "org_level": 24,
+    "title": "Fluorescence Flamboyant Flight [Flight For FREEDOM]",
+    "artist": "otoshi.b feat.Aoi obj:BAECON",
+    "folder": "LEVELst7",
+    "level": "st7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "51c57ef523fd2e9b6fd88da802c7d7f8",
+      "5d5c361a457fe98d32f9537b3c8c5ad0",
+      "02b67eac5a6daa88be5913044f5dfc63",
+      "478071ac1921598233518cb7ed10086a",
+      "d7c87454af289150039b8bef369f7aec",
+      "697e1b5e215cd37a749adcbb11d4748a",
+      "f658f07e01e90d047f4a2e89d78b225e",
+      "0623f0d9d5543a3de00cc66fcbcb9e8b",
+      "91e1bea8e6cf986aa85422d619ffdfc9"
+    ],
+    "org_md5": "51c57ef523fd2e9b6fd88da802c7d7f8",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   },
   {
     "md5": "bb2f16f585dd5274dab081facc4b3b69",
@@ -8078,5 +8426,28 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023\/10\/30"
+  },
+  {
+    "md5": "5c1f65b660225957466d4b435065e5f4",
+    "org_level": 25,
+    "title": "エヴァネセント [SUPEREPHEMERAL]",
+    "artist": "stuv + qfeileadh bms:stuv | mov:kazari | obj:qfeileadh",
+    "folder": "LEVELst8",
+    "level": "st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fc0ce4893d631b42fe7ed9da1d0de7f5",
+      "eacce3911b7db8125bb256ebf8631640",
+      "f4ed13e039d10e51f226d94b986b19d6",
+      "8a5e281b0cccba512034573782bb0bfd",
+      "630a648ca7e67b83fab9276b365b434b",
+      "5c1f65b660225957466d4b435065e5f4"
+    ],
+    "org_md5": "fc0ce4893d631b42fe7ed9da1d0de7f5",
+    "comment": "",
+    "adddate": "2023\/11\/11"
   }
 ]
