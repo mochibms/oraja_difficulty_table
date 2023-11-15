@@ -185,6 +185,26 @@
     "adddate": "2023\/11\/02"
   },
   {
+    "md5": "ba0d2fc45cf853dbbfdc7f3afda2aa83",
+    "org_level": 10,
+    "title": "Acquire",
+    "artist": "ryhki",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ba0d2fc45cf853dbbfdc7f3afda2aa83",
+      "eaa85440700dd77fe0a558516d2c0ce3",
+      "ef25b3fbe4bf539c75a20a5ebb01e812"
+    ],
+    "org_md5": "ba0d2fc45cf853dbbfdc7f3afda2aa83",
+    "comment": "",
+    "adddate": "2023\/11\/15"
+  },
+  {
     "md5": "0dbb35ef596874df5764f5baa50b008f",
     "org_level": 10,
     "title": "Assault TAXI",
@@ -890,6 +910,31 @@
     "adddate": "2023\/02\/16"
   },
   {
+    "md5": "7b8685c8c86f6a7819826bf30699392a",
+    "org_level": 10,
+    "title": "永夜ノ蝶 [HYPER7]",
+    "artist": "長沼浩太(パパ頑張りました) & 長沼浩太(フライパンでやりまーす)",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b9656d36814500f9ef8306df60def273",
+      "4fd7f4272d6a9d1e1976d1a899356a5a",
+      "9ecafbf213c276b9134234de1754b6dc",
+      "7b8685c8c86f6a7819826bf30699392a",
+      "d3a53fceb5fbc253d6647a77013b8836",
+      "e4f77d63933e29ec72cf609f8fe17cdc",
+      "6372bc99656c1a7ab101d38648eb1c67",
+      "44895c0a34e939881ed2b7ecc34db1c7"
+    ],
+    "org_md5": "b9656d36814500f9ef8306df60def273",
+    "comment": "",
+    "adddate": "2023\/11\/15"
+  },
+  {
     "md5": "5d606955e07ca224250bf664ec98abcb",
     "org_level": 10,
     "title": "花鳥暁日 [SP ANOTHER]",
@@ -1127,6 +1172,30 @@
     "adddate": "2023\/11\/05"
   },
   {
+    "md5": "9129af5b4fee1ef642ea9e2f9f6a0ca8",
+    "org_level": 11,
+    "title": "dandelion",
+    "artist": "あさり",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "497643f4d8e9eb1fd8db3c199d907ee2",
+      "82a0baeb5f78bd34ed5b3c5dee04c45d",
+      "89622a07c1f8343f2b52b68d32d3a7a4",
+      "bd531f87dc8d5e635dacdbb8bf4f7b1d",
+      "1688802204858e5111a196e76b504246",
+      "b71b4a17acd34d695ab8937836f2a07f",
+      "9129af5b4fee1ef642ea9e2f9f6a0ca8"
+    ],
+    "org_md5": "497643f4d8e9eb1fd8db3c199d907ee2",
+    "comment": "",
+    "adddate": "2023\/11\/15"
+  },
+  {
     "md5": "0e1320b1606710130f68f6c02c48d181",
     "org_level": 11,
     "title": "Elixir [ANOTHER7]",
@@ -1154,6 +1223,29 @@
     "org_md5": "0e998d1090458f47de00b27b221b24f4",
     "comment": "",
     "adddate": "2023\/02\/16"
+  },
+  {
+    "md5": "62b0a823a97041c0d48b8ad25b52e5ba",
+    "org_level": 11,
+    "title": "Freefall [SP ANOTHER]",
+    "artist": "yusi. (w\/ Renko) \/ yusi. & KyleHeren obj. DK",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7ee88545fbb5f5b1cfe495afaa3553e8",
+      "62b0a823a97041c0d48b8ad25b52e5ba",
+      "1a4e7d96123de0ae12d19a9a359acc7e",
+      "2a38fbe45ff7348f3f4c7ce9a312b3e4",
+      "d779846b99889df93568b6c8c2c02a44",
+      "fa1cc2efac5e4a8d4c432e7425a8654c"
+    ],
+    "org_md5": "7ee88545fbb5f5b1cfe495afaa3553e8",
+    "comment": "",
+    "adddate": "2023\/11\/15"
   },
   {
     "md5": "9fbd73fd61ca51496be9faa8d91cc1c6",
@@ -1598,33 +1690,6 @@
     "org_md5": "546de1c318919282afce8ba15e938f08",
     "comment": "",
     "adddate": "2023\/02\/24"
-  },
-  {
-    "md5": "504356dfc48e8abf9b54a88b509b9999",
-    "org_level": 11,
-    "title": "ネイクド・ワイルド・パラノイド [SP ANOTHER]",
-    "artist": "kei_iwata + saaa BGA:内村徹",
-    "folder": "LEVEL11",
-    "level": "11",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8e876aba33aaa2d3caf422cad0ecfd30",
-      "75c0dad7cecaed6b446606eb7aaf067a",
-      "a351c951170f483781afe1f45861dbb4",
-      "70316c387e7efed31ddfc70ef506eea8",
-      "fc63360d02056d19635e0b66c0f3d462",
-      "504356dfc48e8abf9b54a88b509b9999",
-      "5da3018d94c69912d02d5326943af296",
-      "2faabba39629502c39567df611d0a318",
-      "fb7def20e0a22572f87f2c6690555e18",
-      "0e0e1c6f0e2548216689ae6dbe67b7e7"
-    ],
-    "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
-    "comment": "",
-    "adddate": "2023\/02\/16"
   },
   {
     "md5": "5106496c0b78a6cdd03ff04d68bb3a02",
@@ -2427,6 +2492,33 @@
     "adddate": "2023\/11\/04"
   },
   {
+    "md5": "504356dfc48e8abf9b54a88b509b9999",
+    "org_level": 11,
+    "title": "ネイクド・ワイルド・パラノイド [SP ANOTHER]",
+    "artist": "kei_iwata + saaa BGA:内村徹",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=3&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8e876aba33aaa2d3caf422cad0ecfd30",
+      "75c0dad7cecaed6b446606eb7aaf067a",
+      "a351c951170f483781afe1f45861dbb4",
+      "70316c387e7efed31ddfc70ef506eea8",
+      "fc63360d02056d19635e0b66c0f3d462",
+      "504356dfc48e8abf9b54a88b509b9999",
+      "5da3018d94c69912d02d5326943af296",
+      "2faabba39629502c39567df611d0a318",
+      "fb7def20e0a22572f87f2c6690555e18",
+      "0e0e1c6f0e2548216689ae6dbe67b7e7"
+    ],
+    "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "445e92fee350214e5ce6c1f4b152715b",
     "org_level": 11,
     "title": "新 漢江水打令 (The New Han River Anthem) [SP ANOTHER]",
@@ -2698,28 +2790,6 @@
     "adddate": "2023\/10\/23"
   },
   {
-    "md5": "915baa2845e3b25237d43d58d3672589",
-    "org_level": 12,
-    "title": "Before It Ends [7-A]",
-    "artist": "BilliumMoto BGA: さるきむ",
-    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
-    "level": "12.0(HARD適正CPI1450~1500)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=215&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "915baa2845e3b25237d43d58d3672589",
-      "f35806a42c39cea6b056bbf6d9bc8603",
-      "367daf4138a8ee60e4779e9ced3e4cfe",
-      "7bda0f7bb211db9cb425a673f6eb708b",
-      "8b11f3d52c68d46d6333d46f1dcb6ab8"
-    ],
-    "org_md5": "915baa2845e3b25237d43d58d3672589",
-    "comment": "",
-    "adddate": "2023\/02\/16"
-  },
-  {
     "md5": "d2d922aa6bcaeed61087d434b330c30e",
     "org_level": 1,
     "title": "Berry Go!! [Esteem and Love]",
@@ -2950,28 +3020,6 @@
     "org_md5": "",
     "comment": "https:\/\/skydrive.live.com\/?cid=fc95a680740ca8c9&id=FC95A680740CA8C9%21111#cid=FC95A680740CA8C9&id=FC95A680740CA8C9%21111",
     "adddate": "2023\/02\/21"
-  },
-  {
-    "md5": "9ea6ddc2d7314129542aed068bc01144",
-    "org_level": 6,
-    "title": "MAKE IT FUNKY NOW -sara tech-bga added",
-    "artist": "DOT96 obj:MineC24",
-    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
-    "level": "12.0(HARD適正CPI1450~1500)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/mega.nz\/file\/NQMxGI4C#zzmJ7iMYZA5OtrkX1GiJxt5ImYafUpMf-PAZXr5UIyM",
-    "url_diff": "https:\/\/drive.google.com\/file\/d\/1OLCaUVzCDsABALmqtej-9UXh_hc44u1c\/view?usp=drive_link",
-    "name_diff": null,
-    "org_md5s": [
-      "3abad02f038ef75a03ac13ec743a26a8",
-      "4a4b16ca98437cff0880c8bb68fe269c",
-      "624e6b61d4eb3f9b472b6bbd561ce780",
-      "ee791fa43de79162b4607b8ff866b390",
-      "9ea6ddc2d7314129542aed068bc01144"
-    ],
-    "org_md5": "3abad02f038ef75a03ac13ec743a26a8",
-    "comment": "bga定義追加版です。動画ファイルを用意してお楽しみください。",
-    "adddate": "2023\/11\/06"
   },
   {
     "md5": "64e3148d9b0d0bec242b026af08f1125",
@@ -3374,6 +3422,28 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "915baa2845e3b25237d43d58d3672589",
+    "org_level": 12,
+    "title": "Before It Ends [7-A]",
+    "artist": "BilliumMoto BGA: さるきむ",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=215&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "915baa2845e3b25237d43d58d3672589",
+      "f35806a42c39cea6b056bbf6d9bc8603",
+      "367daf4138a8ee60e4779e9ced3e4cfe",
+      "7bda0f7bb211db9cb425a673f6eb708b",
+      "8b11f3d52c68d46d6333d46f1dcb6ab8"
+    ],
+    "org_md5": "915baa2845e3b25237d43d58d3672589",
+    "comment": "",
+    "adddate": "2023\/11\/11"
+  },
+  {
     "md5": "eb8d45df93a41bd64cb9b363e5670d19",
     "org_level": 12,
     "title": "Cat's rule [Another]",
@@ -3694,6 +3764,28 @@
     "org_md5": "3a8f099d447d67b73ee735712bc52eb5",
     "comment": "",
     "adddate": "2023\/11\/04"
+  },
+  {
+    "md5": "9ea6ddc2d7314129542aed068bc01144",
+    "org_level": 6,
+    "title": "MAKE IT FUNKY NOW -sara tech-bga added",
+    "artist": "DOT96 obj:MineC24",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/mega.nz\/file\/NQMxGI4C#zzmJ7iMYZA5OtrkX1GiJxt5ImYafUpMf-PAZXr5UIyM",
+    "url_diff": "https:\/\/drive.google.com\/file\/d\/1OLCaUVzCDsABALmqtej-9UXh_hc44u1c\/view?usp=drive_link",
+    "name_diff": null,
+    "org_md5s": [
+      "3abad02f038ef75a03ac13ec743a26a8",
+      "4a4b16ca98437cff0880c8bb68fe269c",
+      "624e6b61d4eb3f9b472b6bbd561ce780",
+      "ee791fa43de79162b4607b8ff866b390",
+      "9ea6ddc2d7314129542aed068bc01144"
+    ],
+    "org_md5": "3abad02f038ef75a03ac13ec743a26a8",
+    "comment": "bga定義追加版です。動画ファイルを用意してお楽しみください。",
+    "adddate": "2023\/11\/12"
   },
   {
     "md5": "cc117d0521097efbfc5bb461a168ccf0",
@@ -4511,6 +4603,27 @@
     "org_md5": "",
     "comment": "★4",
     "adddate": "2023\/02\/23"
+  },
+  {
+    "md5": "8cbd3c93f0862823591a0c5bfce527f4",
+    "org_level": 12,
+    "title": "Lava Control",
+    "artist": "Zris",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8cbd3c93f0862823591a0c5bfce527f4",
+      "4f1c81033ae8276ac0cdc932bd4be071",
+      "8af1ea14599d86f528dc8144f98f6071",
+      "3e54ae33ee59cd5c18d56bfeaed8e18a"
+    ],
+    "org_md5": "8cbd3c93f0862823591a0c5bfce527f4",
+    "comment": "",
+    "adddate": "2023\/11\/15"
   },
   {
     "md5": "4f4342202658305da9b05aa01bdd5a61",
@@ -8559,6 +8672,33 @@
     "adddate": "2023\/08\/01"
   },
   {
+    "md5": "58cf883246797f1bba27f4962bdd6c6c",
+    "org_level": 12,
+    "title": "spila [SP ANOTHER]",
+    "artist": "lufm obj:みすげ～",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "34a6d6d430543b07b0def439c86c5569",
+      "ba292d38691b5ba005c0a03a1c2a7ca4",
+      "88cbb3d86c8f2299d61f1de144073a0c",
+      "58cf883246797f1bba27f4962bdd6c6c",
+      "e046d1c9181de6e8963e872fd0731943",
+      "7372e212ac62fd5f12336cdcc991052d",
+      "b1e43cfc2b436cb8b41df7c3c7319f38",
+      "c627eee0a1c6a2660a6af0f340c5bdbf",
+      "5e17c5f8691f8ec72c20900bc639f4c2",
+      "0c6c996e8b95d24e04a90ad89839c11a"
+    ],
+    "org_md5": "34a6d6d430543b07b0def439c86c5569",
+    "comment": "",
+    "adddate": "2023\/11\/15"
+  },
+  {
     "md5": "e385b553488a23c440c776ba18649803",
     "org_level": 9,
     "title": "Sunset Toybox [yumether]",
@@ -10116,6 +10256,33 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/WQpCsfSIrGQ>st2 ",
     "adddate": "2023\/11\/11"
+  },
+  {
+    "md5": "e046d1c9181de6e8963e872fd0731943",
+    "org_level": 21,
+    "title": "spila [SP INSANE]",
+    "artist": "lufm obj : BAECON",
+    "folder": "LEVEL13.5",
+    "level": "13.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "34a6d6d430543b07b0def439c86c5569",
+      "ba292d38691b5ba005c0a03a1c2a7ca4",
+      "88cbb3d86c8f2299d61f1de144073a0c",
+      "58cf883246797f1bba27f4962bdd6c6c",
+      "e046d1c9181de6e8963e872fd0731943",
+      "7372e212ac62fd5f12336cdcc991052d",
+      "b1e43cfc2b436cb8b41df7c3c7319f38",
+      "c627eee0a1c6a2660a6af0f340c5bdbf",
+      "5e17c5f8691f8ec72c20900bc639f4c2",
+      "0c6c996e8b95d24e04a90ad89839c11a"
+    ],
+    "org_md5": "34a6d6d430543b07b0def439c86c5569",
+    "comment": "",
+    "adddate": "2023\/11\/15"
   },
   {
     "md5": "96a5b7861d91d03cb82495abef5b8c8b",
