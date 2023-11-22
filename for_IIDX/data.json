@@ -59,6 +59,29 @@
     "adddate": "2023\/11\/08"
   },
   {
+    "md5": "c9dbee19bcdef63415d6d71ca13b4f47",
+    "org_level": 9,
+    "title": "ステラウェイ・マイハート[ANOTHER]",
+    "artist": "みーに feat. みーに",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fd344c37d6ee7ec0262b34466d0fe223",
+      "e053ff6094180e55a0a91809c0bc8708",
+      "96aca36f88d83fe46224a4f8568ce548",
+      "c5b40dc4149ebffbe77f762b284c6412",
+      "c9dbee19bcdef63415d6d71ca13b4f47",
+      "d1b59a5a4491e6b63282b9729415aa9e"
+    ],
+    "org_md5": "fd344c37d6ee7ec0262b34466d0fe223",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
     "md5": "7cedb01c006c430107e7c7a7e375b923",
     "org_level": 10,
     "title": "\"Badger-A\"",
@@ -741,6 +764,51 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "2a585e0c998a7668d9d6de27d91363ed",
+    "org_level": 10,
+    "title": "Unchosen [SP Hyper]",
+    "artist": "ProjectG",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "62cf987f7b09b00008caa145bfb2cbd5",
+      "2a585e0c998a7668d9d6de27d91363ed",
+      "2446ec5a42f66c7374f7cf4301601e94"
+    ],
+    "org_md5": "62cf987f7b09b00008caa145bfb2cbd5",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
+    "md5": "f00e2d8542319f610e28c53357f66524",
+    "org_level": 10,
+    "title": "VOLATILITY",
+    "artist": "TARO",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+      "73b4303609ada5c58ff3da6c466c5615",
+      "656423f81bec0c945d5a39b5cf98add8",
+      "aee42e32a7c9c10c8748d710660cef25",
+      "f00e2d8542319f610e28c53357f66524",
+      "990c60f68f2b75d56169a7121d4fab7c",
+      "0276efc1597a49799746d0b08ace17b8",
+      "c51f61eb54a2c03546f56218cee57339"
+    ],
+    "org_md5": "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
     "md5": "42312e07a3cee5a7178851aeef59ab82",
     "org_level": 10,
     "title": "WILDANCE",
@@ -786,6 +854,50 @@
     "org_md5": "8a82c70b9bf5aaff7f4ac4bd825a8014",
     "comment": "",
     "adddate": "2023\/02\/18"
+  },
+  {
+    "md5": "746d437cc23ba36c62f57ed334058f4e",
+    "org_level": 10,
+    "title": "ドSメスガキ幼女歯医者 でんたるちゃん [HYPER7]",
+    "artist": "ねこみりん feat.まるもこ Movie:むらしん \/ Illust:なか",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b2d3c385a01bf8a09fae7f68a744a156",
+      "b5e40fe54d35de99a8ac96cff5b67a4f",
+      "746d437cc23ba36c62f57ed334058f4e",
+      "7b6be80e31aa7e0d6acfd96ab3b8cbb6"
+    ],
+    "org_md5": "b2d3c385a01bf8a09fae7f68a744a156",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
+    "md5": "7c438550a9059e0e51ed86f82a36b71a",
+    "org_level": 10,
+    "title": "ビタースイート・サンデー[ANOTHER]",
+    "artist": "みーに feat. しろさきあや",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "68f4ca293130c4337e34d640c852168d",
+      "35e0532d672aea1cb1845aa34bd6742b",
+      "43c63e0fef735a7e19d5599670bf349f",
+      "0b1a5520fb5f91e8d015571fdde51331",
+      "7c438550a9059e0e51ed86f82a36b71a",
+      "ee56e65423474438cdfdfe70ae6f43e2"
+    ],
+    "org_md5": "68f4ca293130c4337e34d640c852168d",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "482f6c7d92fa835c4056f03a037288ec",
@@ -933,6 +1045,85 @@
     "org_md5": "b9656d36814500f9ef8306df60def273",
     "comment": "",
     "adddate": "2023\/11\/15"
+  },
+  {
+    "md5": "ad5ab563670041bf40e3be8b60b2dffd",
+    "org_level": 10,
+    "title": "空に浮かぶティートレイのように",
+    "artist": "Nego_tiator × 神宮要 × Avtorica",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "754b24509390859eb185a1df503cc0bd",
+      "957b6e769fc14ba44947d921e773b5bb",
+      "ad5ab563670041bf40e3be8b60b2dffd",
+      "6bd35da98872a1a584e8e2ade7020392"
+    ],
+    "org_md5": "754b24509390859eb185a1df503cc0bd",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
+    "md5": "ec24e36feb1f1c98077724a495f00867",
+    "org_level": 10,
+    "title": "孤独なる慈愛と芽生ゆる友愛 [SP HYPER]",
+    "artist": "らふむ BGI:朧烏",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "dd3ea1e436c8981aa7ae32dc2f82b5d3",
+      "84d1ccf6b8049697eeaf00b97deddeb5",
+      "ec24e36feb1f1c98077724a495f00867",
+      "27124bdc45b14ef93cd7cccc0b310db2",
+      "a35d021427d2f39ea4f6a764d5ae69b5",
+      "88dee86e9e3b209ca955328481fb5611",
+      "e5df3827fba0105b21eb5394419d8d75",
+      "1a6c2c9468a9e387058b2250a1c02c28",
+      "aaa35739ae4ae52ffb3953dfff71eec2",
+      "79a09b4d9724b08e9a714ebd0f84966f",
+      "917f68870a884d19d5fc4bdaf751f7cc",
+      "717ac87c631b1a4749644909a05b9246"
+    ],
+    "org_md5": "dd3ea1e436c8981aa7ae32dc2f82b5d3",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
+    "md5": "aa027c7d82d7bac49c31813412a73c97",
+    "org_level": 10,
+    "title": "珊瑚郷",
+    "artist": "Shimomura obj:ya_ti_n bga:kelvin_kombinat",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "640f1b8bc4c3e141fe74abbab472cc93",
+      "96dfcc96eb99aca37ac105a9a2e751b8",
+      "70a20850bda3c7e2bea6576fab2333b5",
+      "6992e340086b1399635234bd358382a4",
+      "a038f79e320d71673f890f2b11b9f952",
+      "aa027c7d82d7bac49c31813412a73c97",
+      "8d11323531683b86d04a17ee61499540",
+      "5fef53c59e7fa1316626c2bf26da29df",
+      "c300a9e28dc02c374341ddc0e00f9423",
+      "4919b752b4523140b135a5dbc33b6bff",
+      "b7461e1bb6fa874e3fc85cc424f2475a",
+      "b2f6c858c2e985736bc46b92be18d482"
+    ],
+    "org_md5": "640f1b8bc4c3e141fe74abbab472cc93",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "d9ff2e8a0a83d80421c2261e613fbd8a",
@@ -1666,6 +1857,29 @@
     "adddate": "2023\/02\/24"
   },
   {
+    "md5": "ee56e65423474438cdfdfe70ae6f43e2",
+    "org_level": 11,
+    "title": "ビタースイート・サンデー[BREATHER]",
+    "artist": "みーに feat. しろさきあや",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "68f4ca293130c4337e34d640c852168d",
+      "35e0532d672aea1cb1845aa34bd6742b",
+      "43c63e0fef735a7e19d5599670bf349f",
+      "0b1a5520fb5f91e8d015571fdde51331",
+      "7c438550a9059e0e51ed86f82a36b71a",
+      "ee56e65423474438cdfdfe70ae6f43e2"
+    ],
+    "org_md5": "68f4ca293130c4337e34d640c852168d",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
     "md5": "5d606955e07ca224250bf664ec98abcb",
     "org_level": 10,
     "title": "花鳥暁日 [SP ANOTHER]",
@@ -1690,6 +1904,32 @@
     "org_md5": "d5313467b6a56f96790387cf4fb7dbb8",
     "comment": "",
     "adddate": "2023\/11\/19"
+  },
+  {
+    "md5": "09b19a6a9843e42259ca711828548eeb",
+    "org_level": 11,
+    "title": "花嵐、空に溶けて [Another]",
+    "artist": "DJ Raisei vs. Setca. feat. 咲良ゆの obj:Setca. Movie:蒼",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "38e924bb5db00aa0e34218039f45194d",
+      "09b19a6a9843e42259ca711828548eeb",
+      "d07ed83c6a40613d2c086b32d457198a",
+      "81065afc71644d4265c4f93fc10fd579",
+      "3a09d456f913f48a04a865ffa0301d78",
+      "cf099e9047e2fda8c281f1fe0253a1dc",
+      "2082403c6d0ca885f0ec990e3b05f310",
+      "799fda0d17791f9176f89bb8dc232115",
+      "ff0fe099406cc885217f7a9593e8d0a3"
+    ],
+    "org_md5": "38e924bb5db00aa0e34218039f45194d",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "5106496c0b78a6cdd03ff04d68bb3a02",
@@ -2467,6 +2707,54 @@
     "adddate": "2023\/02\/17"
   },
   {
+    "md5": "6d885acfe9bcb2c893aca8cf3ac08541",
+    "org_level": 10,
+    "title": "Volanphantasia [SP Hyper]",
+    "artist": "VeetaCrush obj: noodle bga: MANAKA",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "793048a3f0032e5f45de96ac129254de",
+      "34d1253cef8731f190a909721d60002a",
+      "fdc7624167d93c5446a4aa66f8a338bd",
+      "0fd94e871621ecdea499186769a00221",
+      "8931bd9842ee3db22d11a6f70b105592",
+      "048bbb0632163a91cce160c26bfda173",
+      "6d885acfe9bcb2c893aca8cf3ac08541",
+      "738bb629b6e0df0977a875ff2e025ce8",
+      "0c16bdf08d87fa15270d4ad4ca619b18"
+    ],
+    "org_md5": "793048a3f0032e5f45de96ac129254de",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
+    "md5": "8896664dbb45c688ae050f375c0d5c88",
+    "org_level": 11,
+    "title": "Welcome! Mr.Sampling Slayer [HYPER]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ce5b6f35a2f029b2c8848f18157a6dbd",
+      "31da1332769843b4a7ebeb111c4fdba4",
+      "8896664dbb45c688ae050f375c0d5c88",
+      "3202abce77a67e86305be84b445c3da8",
+      "e3ca49154e45a6f0cd6da76de845c143"
+    ],
+    "org_md5": "ce5b6f35a2f029b2c8848f18157a6dbd",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
     "md5": "f4ed13e039d10e51f226d94b986b19d6",
     "org_level": 11,
     "title": "エヴァネセント [SP HYPER]",
@@ -2538,6 +2826,35 @@
     "org_md5": "8e876aba33aaa2d3caf422cad0ecfd30",
     "comment": "",
     "adddate": "2023\/11\/11"
+  },
+  {
+    "md5": "8d11323531683b86d04a17ee61499540",
+    "org_level": 1,
+    "title": "珊瑚郷",
+    "artist": "Shimomura obj:Rfiv bga:kelvin_kombinat",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "640f1b8bc4c3e141fe74abbab472cc93",
+      "96dfcc96eb99aca37ac105a9a2e751b8",
+      "70a20850bda3c7e2bea6576fab2333b5",
+      "6992e340086b1399635234bd358382a4",
+      "a038f79e320d71673f890f2b11b9f952",
+      "aa027c7d82d7bac49c31813412a73c97",
+      "8d11323531683b86d04a17ee61499540",
+      "5fef53c59e7fa1316626c2bf26da29df",
+      "c300a9e28dc02c374341ddc0e00f9423",
+      "4919b752b4523140b135a5dbc33b6bff",
+      "b7461e1bb6fa874e3fc85cc424f2475a",
+      "b2f6c858c2e985736bc46b92be18d482"
+    ],
+    "org_md5": "640f1b8bc4c3e141fe74abbab472cc93",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "445e92fee350214e5ce6c1f4b152715b",
@@ -2950,31 +3267,6 @@
     "org_md5": "72341b3417b72cdf78488a9e0f22797a",
     "comment": "",
     "adddate": "2023\/02\/16"
-  },
-  {
-    "md5": "255f2a67628304d2ee7d2bc008dce002",
-    "org_level": 12,
-    "title": "FortunA[ANOTHER]",
-    "artist": "くるやのぶ BGA : 珊瑚",
-    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
-    "level": "12.0(HARD適正CPI1450~1500)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "356a6af909c400ebd7ad9bf75925ce59",
-      "3c5f1e376cc1f1e2cfea5bc3ac1df0a7",
-      "9cd28dce209ed81aab90261608196a28",
-      "255f2a67628304d2ee7d2bc008dce002",
-      "d10d2bce89524fd1fc7821058ae35b9b",
-      "e9ece2e30e87d34a38b7d364698d7e35",
-      "03910179a5facdf570d15823fdaac281",
-      "2e9ee2fdfcaa955b8c60f6d7eca364d4"
-    ],
-    "org_md5": "356a6af909c400ebd7ad9bf75925ce59",
-    "comment": "",
-    "adddate": "2023\/02\/18"
   },
   {
     "md5": "81e59fa3a2f294c5ed0bb8750f3729bb",
@@ -3575,30 +3867,6 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "db73e0de15bb1c96d4dd4791ff2950d0",
-    "org_level": 13,
-    "title": "FAKE LIFE [Kill]",
-    "artist": "ProjectG obj:Scely",
-    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
-    "level": "12.1(HARD適正CPI1500~1550)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=406&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "68f709ad576392f57fcbee4b0df88fe3",
-      "c0f3911088dcb6f705bbd850b7fd8de4",
-      "82f5cf65826c99dfc3484d2fa70edfeb",
-      "5be2f2b71443afe72042eeb7437daaa7",
-      "bf5ee9aa0f844b88e4dc6470ccd20357",
-      "db73e0de15bb1c96d4dd4791ff2950d0",
-      "d6068d25ac2c638c329a7c9bf9107394"
-    ],
-    "org_md5": "68f709ad576392f57fcbee4b0df88fe3",
-    "comment": "",
-    "adddate": "2023\/02\/21"
-  },
-  {
     "md5": "c0037ab5ccc1216d5b0532ac2265ef41",
     "org_level": 12,
     "title": "For No Reason",
@@ -4040,37 +4308,6 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "fb0b8fc4c83fabce0866aca301b8b537",
-    "org_level": 12,
-    "title": "Twin☆kle Snowglobe [SP ANOTHER]",
-    "artist": "翡乃イスカ × otoshi.b Illust:TOYCAT obj:BAECON",
-    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
-    "level": "12.1(HARD適正CPI1500~1550)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/stellabms.xyz\/upload\/1270",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8bdec8b414553eb6d7975dfd7f4ffd63",
-      "7e4e23b8d9698049482183464756b06c",
-      "587ed48a57bddb260ba3965f58857915",
-      "fb0b8fc4c83fabce0866aca301b8b537",
-      "daf577f25dbc5e27d52e8f134ae3ed4d",
-      "a90ed988ac9b343b1011f826305e8ebe",
-      "67703ddeceee3b837a46ebb7945c71d7",
-      "2e8140e89b2d3600bc40d0cf1c0e6b3a",
-      "61da587633ea1f0f907af71463bb5fd0",
-      "727a209424f3b4b8bce768ddbdef3044",
-      "ad511caaa06f708ee7e7642d33716ed0",
-      "01774ca3ad0662ffd1581df6a297cef5",
-      "2edcfc70da2d7950206a3b0b93279d78",
-      "4bd5b6e034c1766a699f851862725aaa"
-    ],
-    "org_md5": "8bdec8b414553eb6d7975dfd7f4ffd63",
-    "comment": "video<https:\/\/youtu.be\/VRi4JD9UyhY>",
-    "adddate": "2023\/02\/18"
-  },
-  {
     "md5": "b1b29a6af94bd1792f248499aa61a9fc",
     "org_level": 2,
     "title": "Unleashed World [ANOTHER-]",
@@ -4477,6 +4714,55 @@
     "adddate": "2023\/02\/22"
   },
   {
+    "md5": "db73e0de15bb1c96d4dd4791ff2950d0",
+    "org_level": 13,
+    "title": "FAKE LIFE [Kill]",
+    "artist": "ProjectG obj:Scely",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=406&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "68f709ad576392f57fcbee4b0df88fe3",
+      "c0f3911088dcb6f705bbd850b7fd8de4",
+      "82f5cf65826c99dfc3484d2fa70edfeb",
+      "5be2f2b71443afe72042eeb7437daaa7",
+      "bf5ee9aa0f844b88e4dc6470ccd20357",
+      "db73e0de15bb1c96d4dd4791ff2950d0",
+      "d6068d25ac2c638c329a7c9bf9107394"
+    ],
+    "org_md5": "68f709ad576392f57fcbee4b0df88fe3",
+    "comment": "",
+    "adddate": "2023\/11\/19"
+  },
+  {
+    "md5": "255f2a67628304d2ee7d2bc008dce002",
+    "org_level": 12,
+    "title": "FortunA[ANOTHER]",
+    "artist": "くるやのぶ BGA : 珊瑚",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "356a6af909c400ebd7ad9bf75925ce59",
+      "3c5f1e376cc1f1e2cfea5bc3ac1df0a7",
+      "9cd28dce209ed81aab90261608196a28",
+      "255f2a67628304d2ee7d2bc008dce002",
+      "d10d2bce89524fd1fc7821058ae35b9b",
+      "e9ece2e30e87d34a38b7d364698d7e35",
+      "03910179a5facdf570d15823fdaac281",
+      "2e9ee2fdfcaa955b8c60f6d7eca364d4"
+    ],
+    "org_md5": "356a6af909c400ebd7ad9bf75925ce59",
+    "comment": "",
+    "adddate": "2023\/11\/21"
+  },
+  {
     "md5": "938acecd03ff1f0a178abfebb1ed1f2b",
     "org_level": 3,
     "title": "Giselle [Leggiero]",
@@ -4858,6 +5144,37 @@
     "org_md5": "eac09128d065efa5c8a8401c9d54afd8",
     "comment": "",
     "adddate": "2023\/11\/10"
+  },
+  {
+    "md5": "fb0b8fc4c83fabce0866aca301b8b537",
+    "org_level": 12,
+    "title": "Twin☆kle Snowglobe [SP ANOTHER]",
+    "artist": "翡乃イスカ × otoshi.b Illust:TOYCAT obj:BAECON",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/stellabms.xyz\/upload\/1270",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8bdec8b414553eb6d7975dfd7f4ffd63",
+      "7e4e23b8d9698049482183464756b06c",
+      "587ed48a57bddb260ba3965f58857915",
+      "fb0b8fc4c83fabce0866aca301b8b537",
+      "daf577f25dbc5e27d52e8f134ae3ed4d",
+      "a90ed988ac9b343b1011f826305e8ebe",
+      "67703ddeceee3b837a46ebb7945c71d7",
+      "2e8140e89b2d3600bc40d0cf1c0e6b3a",
+      "61da587633ea1f0f907af71463bb5fd0",
+      "727a209424f3b4b8bce768ddbdef3044",
+      "ad511caaa06f708ee7e7642d33716ed0",
+      "01774ca3ad0662ffd1581df6a297cef5",
+      "2edcfc70da2d7950206a3b0b93279d78",
+      "4bd5b6e034c1766a699f851862725aaa"
+    ],
+    "org_md5": "8bdec8b414553eb6d7975dfd7f4ffd63",
+    "comment": "video<https:\/\/youtu.be\/VRi4JD9UyhY>",
+    "adddate": "2023\/11\/19"
   },
   {
     "md5": "4927784f183953f4aa54bd7f3ac48a54",
@@ -6298,6 +6615,32 @@
     "adddate": "2023\/02\/27"
   },
   {
+    "md5": "478071ac1921598233518cb7ed10086a",
+    "org_level": 12,
+    "title": "Fluorescence Flamboyant Flight [SP ANOTHER]",
+    "artist": "otoshi.b feat.Aoi obj:BAECON",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "51c57ef523fd2e9b6fd88da802c7d7f8",
+      "5d5c361a457fe98d32f9537b3c8c5ad0",
+      "02b67eac5a6daa88be5913044f5dfc63",
+      "478071ac1921598233518cb7ed10086a",
+      "d7c87454af289150039b8bef369f7aec",
+      "697e1b5e215cd37a749adcbb11d4748a",
+      "f658f07e01e90d047f4a2e89d78b225e",
+      "0623f0d9d5543a3de00cc66fcbcb9e8b",
+      "91e1bea8e6cf986aa85422d619ffdfc9"
+    ],
+    "org_md5": "51c57ef523fd2e9b6fd88da802c7d7f8",
+    "comment": "",
+    "adddate": "2023\/11\/21"
+  },
+  {
     "md5": "edaadf58b4404820ddd70fbb94180fdf",
     "org_level": 5,
     "title": "GOODBOUNCE [建大入口駅1番出口から徒歩10分]",
@@ -6568,6 +6911,31 @@
     "org_md5": "eecea096f2fc7bdcc21b3fce42019863",
     "comment": "",
     "adddate": "2023\/02\/23"
+  },
+  {
+    "md5": "aee42e32a7c9c10c8748d710660cef25",
+    "org_level": 12,
+    "title": "VOLATILITY",
+    "artist": "TARO",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+      "73b4303609ada5c58ff3da6c466c5615",
+      "656423f81bec0c945d5a39b5cf98add8",
+      "aee42e32a7c9c10c8748d710660cef25",
+      "f00e2d8542319f610e28c53357f66524",
+      "990c60f68f2b75d56169a7121d4fab7c",
+      "0276efc1597a49799746d0b08ace17b8",
+      "c51f61eb54a2c03546f56218cee57339"
+    ],
+    "org_md5": "2f339d2bc4b4ee1c5a0b4eca8f162b92",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "8a5e281b0cccba512034573782bb0bfd",
@@ -6877,32 +7245,6 @@
     "adddate": "2023\/11\/05"
   },
   {
-    "md5": "478071ac1921598233518cb7ed10086a",
-    "org_level": 12,
-    "title": "Fluorescence Flamboyant Flight [SP ANOTHER]",
-    "artist": "otoshi.b feat.Aoi obj:BAECON",
-    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
-    "level": "12.5(HARD適正CPI1700~1750)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "51c57ef523fd2e9b6fd88da802c7d7f8",
-      "5d5c361a457fe98d32f9537b3c8c5ad0",
-      "02b67eac5a6daa88be5913044f5dfc63",
-      "478071ac1921598233518cb7ed10086a",
-      "d7c87454af289150039b8bef369f7aec",
-      "697e1b5e215cd37a749adcbb11d4748a",
-      "f658f07e01e90d047f4a2e89d78b225e",
-      "0623f0d9d5543a3de00cc66fcbcb9e8b",
-      "91e1bea8e6cf986aa85422d619ffdfc9"
-    ],
-    "org_md5": "51c57ef523fd2e9b6fd88da802c7d7f8",
-    "comment": "",
-    "adddate": "2023\/11\/05"
-  },
-  {
     "md5": "dfc6c3ddb37c46ccaccc4696b985fd10",
     "org_level": 12,
     "title": "FUN PARTY OF THE BEACH!!!",
@@ -7205,6 +7547,30 @@
     "org_md5": "2ba3072c031ff8af0034eccee290ea89",
     "comment": "",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "4adb46df1c6166f8a054a58fa6e05caa",
+    "org_level": 12,
+    "title": "Revolution [SP ANOTHER]",
+    "artist": "BilliumMoto Illust: Metyayurusu, BGA: Fate",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7722e2843e50a49ecfe74a4bccbb1438",
+      "4adb46df1c6166f8a054a58fa6e05caa",
+      "e8ca25f57106e867edaa1f95a7172a03",
+      "8c88f5f74fcc4a4e4d3e5112525978b1",
+      "aa9ad141eb3fc64e8f09e2a312767be1",
+      "2126af143327727c383f6bb886b1dca9",
+      "cf4cda9a1478a8a9470586e265d66ee3"
+    ],
+    "org_md5": "7722e2843e50a49ecfe74a4bccbb1438",
+    "comment": "",
+    "adddate": "2023\/11\/21"
   },
   {
     "md5": "0cbbb890dd63a20938f97edd2db42e4c",
@@ -7972,6 +8338,29 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "02408c838897c5e26d78f0f1793cb90a",
+    "org_level": 12,
+    "title": "ZETABYTE [SJ]",
+    "artist": "Ras obj.seojoon",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "09144b709c1282a1111c297e1353caa8",
+      "88b35c5e5bec6f078ac36c897e79cd3c",
+      "44261df9372d7775b637e7b0cc48d322",
+      "cc0ddd92f0dc3b120d0e4279335c6a64",
+      "02408c838897c5e26d78f0f1793cb90a",
+      "3205279b8c312d01b6d5327a32eb12a1"
+    ],
+    "org_md5": "09144b709c1282a1111c297e1353caa8",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
     "md5": "8f133243dbc8d4ef84ae4eb4ca97de9c",
     "org_level": 6,
     "title": "アルスノヴァに喝采を [SP INSANE]",
@@ -8424,6 +8813,28 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/ryTggdRDjFw>★13",
     "adddate": "2023\/02\/27"
+  },
+  {
+    "md5": "3202abce77a67e86305be84b445c3da8",
+    "org_level": 12,
+    "title": "Welcome! Mr.Sampling Slayer [ANOTHER]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ce5b6f35a2f029b2c8848f18157a6dbd",
+      "31da1332769843b4a7ebeb111c4fdba4",
+      "8896664dbb45c688ae050f375c0d5c88",
+      "3202abce77a67e86305be84b445c3da8",
+      "e3ca49154e45a6f0cd6da76de845c143"
+    ],
+    "org_md5": "ce5b6f35a2f029b2c8848f18157a6dbd",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "8b71de41395ff4f802b4e6fa7d92f9c0",
@@ -10355,6 +10766,28 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/hv5SOGviRvs>★24",
     "adddate": "2023\/04\/12"
+  },
+  {
+    "md5": "e3ca49154e45a6f0cd6da76de845c143",
+    "org_level": 25,
+    "title": "Welcome! Mr.Sampling Slayer [INSANE]",
+    "artist": "CYLTIE.",
+    "folder": "LEVEL14",
+    "level": "14",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ce5b6f35a2f029b2c8848f18157a6dbd",
+      "31da1332769843b4a7ebeb111c4fdba4",
+      "8896664dbb45c688ae050f375c0d5c88",
+      "3202abce77a67e86305be84b445c3da8",
+      "e3ca49154e45a6f0cd6da76de845c143"
+    ],
+    "org_md5": "ce5b6f35a2f029b2c8848f18157a6dbd",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "45446f6c96bdb081a2054b80cd8f7208",
