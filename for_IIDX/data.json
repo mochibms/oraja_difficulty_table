@@ -468,6 +468,27 @@
     "adddate": "2023\/02\/18"
   },
   {
+    "md5": "4649952431b2da07b17cf33ff450c3b0",
+    "org_level": 10,
+    "title": "Frostwitch [SP HYPER]",
+    "artist": "Abel & Kamisys with. ESPITZ (feat.重音テトSV) mov. marierie & VARD & Nima",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7df2136ddd02fe8703af0f2a9316c53b",
+      "4a7e2587fbd537b2061e982e70089dc7",
+      "4649952431b2da07b17cf33ff450c3b0",
+      "38ea80028ff4fe4d1551df697795a6de"
+    ],
+    "org_md5": "7df2136ddd02fe8703af0f2a9316c53b",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
     "md5": "2c81d2c151b4f28ba6dfb59ee3cdcc6a",
     "org_level": 10,
     "title": "Get isekai'd",
@@ -485,6 +506,26 @@
     "org_md5": "2c81d2c151b4f28ba6dfb59ee3cdcc6a",
     "comment": "",
     "adddate": "2023\/11\/04"
+  },
+  {
+    "md5": "3df5e619848d13084ae25ac41a8dd392",
+    "org_level": 10,
+    "title": "How to make 音ゲ～曲! [SP HYPER]",
+    "artist": "F Rabbeat \/ BMS: Nakaiankow BGA by もうり \/ obj AZVW_2",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "51db12e2efed6a9ebf867ad61ef90805",
+      "3df5e619848d13084ae25ac41a8dd392",
+      "cbc524947f14d28e5aee10bf6cef5ed5"
+    ],
+    "org_md5": "51db12e2efed6a9ebf867ad61ef90805",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "94f9a913b5f20ab180cd31486c53b9a9",
@@ -2953,6 +2994,27 @@
     "org_md5": "d6a7a48757ba862ac0edd2f376c133e0",
     "comment": "",
     "adddate": "2023\/11\/08"
+  },
+  {
+    "md5": "2d6f141cd4ea445ffffabdc646ed2248",
+    "org_level": 11,
+    "title": "A Playable Life [SP ANOTHER]",
+    "artist": "Tsukasa & Mimi \/ movie: Nima bms: 大前 司 \/ obj:NASA",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "675c96709eab899c5dc208f433f78666",
+      "2d6f141cd4ea445ffffabdc646ed2248",
+      "02d67ff1ae3a2d9ef4f707a41b055378",
+      "21235ed3faf386845c3ca260a44e7370"
+    ],
+    "org_md5": "675c96709eab899c5dc208f433f78666",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "d6259aa76c94bdd4e4b885dc2af26623",
@@ -8945,6 +9007,32 @@
     "adddate": "2023\/08\/04"
   },
   {
+    "md5": "1d59eca3860616eb5dd525ff03a8794b",
+    "org_level": 13,
+    "title": "Call of Alfine [ANOTHER]",
+    "artist": "ROKINA",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "aa80ec11ace463abff7ae9bee8ef2a29",
+      "d6e1b2657bcfcd04e2cc09c2e079b259",
+      "42242040802c216a1dd3493646a2b24e",
+      "1d59eca3860616eb5dd525ff03a8794b",
+      "57d359af9bea29f7196f1ce7c2276630",
+      "8baee1a762c945d4d8344b29aa7ddd51",
+      "1016bb7467c9ee441b12b9c5f029a8ae",
+      "af5ef9c82354319d5fcf66a2adf97f2b",
+      "df1b327cd48d39aec2af1c2a1dc62103"
+    ],
+    "org_md5": "aa80ec11ace463abff7ae9bee8ef2a29",
+    "comment": "",
+    "adddate": "2023\/11\/22"
+  },
+  {
     "md5": "acc60924b0410990fc7d47cea561a441",
     "org_level": 13,
     "title": "ELECTRiCiTY [7_voltage]",
@@ -9737,6 +9825,27 @@
     "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
     "comment": "video<https:\/\/youtu.be\/eax5V-n5Kag>",
     "adddate": "2023\/05\/19"
+  },
+  {
+    "md5": "21235ed3faf386845c3ca260a44e7370",
+    "org_level": 13,
+    "title": "A Playable Life [SP INSANE]",
+    "artist": "Tsukasa & Mimi \/ movie: Nima bms: 大前 司 \/ obj:NASA",
+    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
+    "level": "13.0(HARD適正CPI1950~2000)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "675c96709eab899c5dc208f433f78666",
+      "2d6f141cd4ea445ffffabdc646ed2248",
+      "02d67ff1ae3a2d9ef4f707a41b055378",
+      "21235ed3faf386845c3ca260a44e7370"
+    ],
+    "org_md5": "675c96709eab899c5dc208f433f78666",
+    "comment": "",
+    "adddate": "2023\/11\/22"
   },
   {
     "md5": "ad6d4631747d7aa03530a5db4b9120c7",
