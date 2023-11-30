@@ -443,6 +443,32 @@
     "adddate": "2023\/02\/16"
   },
   {
+    "md5": "02b67eac5a6daa88be5913044f5dfc63",
+    "org_level": 11,
+    "title": "Fluorescence Flamboyant Flight [SP HYPER]",
+    "artist": "otoshi.b feat.Aoi obj:otoshi.b",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "51c57ef523fd2e9b6fd88da802c7d7f8",
+      "5d5c361a457fe98d32f9537b3c8c5ad0",
+      "02b67eac5a6daa88be5913044f5dfc63",
+      "478071ac1921598233518cb7ed10086a",
+      "d7c87454af289150039b8bef369f7aec",
+      "697e1b5e215cd37a749adcbb11d4748a",
+      "f658f07e01e90d047f4a2e89d78b225e",
+      "0623f0d9d5543a3de00cc66fcbcb9e8b",
+      "91e1bea8e6cf986aa85422d619ffdfc9"
+    ],
+    "org_md5": "51c57ef523fd2e9b6fd88da802c7d7f8",
+    "comment": "",
+    "adddate": "2023\/11\/27"
+  },
+  {
     "md5": "e9ece2e30e87d34a38b7d364698d7e35",
     "org_level": 10,
     "title": "FortunA[HYPER]",
@@ -489,7 +515,7 @@
     "adddate": "2023\/11\/22"
   },
   {
-    "md5": "2c81d2c151b4f28ba6dfb59ee3cdcc6a",
+    "md5": "ab88a47c97c8042948768fc0cbf7ad52",
     "org_level": 10,
     "title": "Get isekai'd",
     "artist": "Aoi mov:出前",
@@ -500,12 +526,12 @@
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "2c81d2c151b4f28ba6dfb59ee3cdcc6a",
-      "65a8aa36a86722dfee1650ef992914af"
+      "ab88a47c97c8042948768fc0cbf7ad52",
+      "4973329d6319aad332e4e6c1b10980e7"
     ],
-    "org_md5": "2c81d2c151b4f28ba6dfb59ee3cdcc6a",
+    "org_md5": "ab88a47c97c8042948768fc0cbf7ad52",
     "comment": "",
-    "adddate": "2023\/11\/04"
+    "adddate": "2023\/11\/25"
   },
   {
     "md5": "3df5e619848d13084ae25ac41a8dd392",
@@ -1675,32 +1701,6 @@
     "org_md5": "0e998d1090458f47de00b27b221b24f4",
     "comment": "",
     "adddate": "2023\/02\/16"
-  },
-  {
-    "md5": "02b67eac5a6daa88be5913044f5dfc63",
-    "org_level": 11,
-    "title": "Fluorescence Flamboyant Flight [SP HYPER]",
-    "artist": "otoshi.b feat.Aoi obj:otoshi.b",
-    "folder": "LEVEL11",
-    "level": "11",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "51c57ef523fd2e9b6fd88da802c7d7f8",
-      "5d5c361a457fe98d32f9537b3c8c5ad0",
-      "02b67eac5a6daa88be5913044f5dfc63",
-      "478071ac1921598233518cb7ed10086a",
-      "d7c87454af289150039b8bef369f7aec",
-      "697e1b5e215cd37a749adcbb11d4748a",
-      "f658f07e01e90d047f4a2e89d78b225e",
-      "0623f0d9d5543a3de00cc66fcbcb9e8b",
-      "91e1bea8e6cf986aa85422d619ffdfc9"
-    ],
-    "org_md5": "51c57ef523fd2e9b6fd88da802c7d7f8",
-    "comment": "",
-    "adddate": "2023\/11\/24"
   },
   {
     "md5": "62b0a823a97041c0d48b8ad25b52e5ba",
@@ -4823,33 +4823,6 @@
     "adddate": "2023\/02\/25"
   },
   {
-    "md5": "2500c8c660e49d08b6e554211b1498ea",
-    "org_level": 4,
-    "title": "Song [SP INSANE]",
-    "artist": "大前 司 \/ movie: Mido Sennzai×レゾナンスもえこ×大前司×kei_iwata and more 100 voices \/ obj:BAECON",
-    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
-    "level": "12.1(HARD適正CPI1500~1550)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=14&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "c91d22c0e6e779f2be00a15d06f17637",
-      "68dda3963b59cac78e16621cc52a4718",
-      "1582198a7b5a580164d40ef8710a8131",
-      "e230ebb94562589ca5e4aa9d16d9d814",
-      "757222652598e67532cbe15b460af9f6",
-      "24b2e22d9785f544aafb63939b12e803",
-      "da072234a38b8f5d4bebbbccf79bbc40",
-      "5aeecbea1805a9804ff50fbe874086fb",
-      "2500c8c660e49d08b6e554211b1498ea",
-      "da45c89ea8d8784fb4c9eba9506a4d5b"
-    ],
-    "org_md5": "c91d22c0e6e779f2be00a15d06f17637",
-    "comment": "video<https:\/\/youtu.be\/-6yxOtZOQvc>",
-    "adddate": "2023\/06\/20"
-  },
-  {
     "md5": "d67e55f35737d07bdb1b6e574ab8b47c",
     "org_level": 3,
     "title": "STAGER [7_Success]",
@@ -5487,27 +5460,6 @@
     "adddate": "2023\/02\/23"
   },
   {
-    "md5": "8cbd3c93f0862823591a0c5bfce527f4",
-    "org_level": 12,
-    "title": "Lava Control",
-    "artist": "Zris",
-    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
-    "level": "12.2(HARD適正CPI1550~1600)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "8cbd3c93f0862823591a0c5bfce527f4",
-      "4f1c81033ae8276ac0cdc932bd4be071",
-      "8af1ea14599d86f528dc8144f98f6071",
-      "3e54ae33ee59cd5c18d56bfeaed8e18a"
-    ],
-    "org_md5": "8cbd3c93f0862823591a0c5bfce527f4",
-    "comment": "",
-    "adddate": "2023\/11\/15"
-  },
-  {
     "md5": "4f4342202658305da9b05aa01bdd5a61",
     "org_level": 12,
     "title": "Liberator",
@@ -5703,6 +5655,33 @@
     "org_md5": "848933c50bb6ab6be1df4ad29aedf929",
     "comment": "",
     "adddate": "2023\/02\/18"
+  },
+  {
+    "md5": "2500c8c660e49d08b6e554211b1498ea",
+    "org_level": 4,
+    "title": "Song [SP INSANE]",
+    "artist": "大前 司 \/ movie: Mido Sennzai×レゾナンスもえこ×大前司×kei_iwata and more 100 voices \/ obj:BAECON",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=14&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c91d22c0e6e779f2be00a15d06f17637",
+      "68dda3963b59cac78e16621cc52a4718",
+      "1582198a7b5a580164d40ef8710a8131",
+      "e230ebb94562589ca5e4aa9d16d9d814",
+      "757222652598e67532cbe15b460af9f6",
+      "24b2e22d9785f544aafb63939b12e803",
+      "da072234a38b8f5d4bebbbccf79bbc40",
+      "5aeecbea1805a9804ff50fbe874086fb",
+      "2500c8c660e49d08b6e554211b1498ea",
+      "da45c89ea8d8784fb4c9eba9506a4d5b"
+    ],
+    "org_md5": "c91d22c0e6e779f2be00a15d06f17637",
+    "comment": "video<https:\/\/youtu.be\/-6yxOtZOQvc>",
+    "adddate": "2023\/11\/24"
   },
   {
     "md5": "72113d115fcfeadb856f510e76611609",
@@ -6343,6 +6322,27 @@
     "org_md5": "",
     "comment": "★7 作者サイトから落とせないときはこちら http:\/\/bit192.dnsd.info\/temp\/newevent\/detail.php?num=7",
     "adddate": "2023\/02\/22"
+  },
+  {
+    "md5": "8cbd3c93f0862823591a0c5bfce527f4",
+    "org_level": 12,
+    "title": "Lava Control",
+    "artist": "Zris",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8cbd3c93f0862823591a0c5bfce527f4",
+      "4f1c81033ae8276ac0cdc932bd4be071",
+      "8af1ea14599d86f528dc8144f98f6071",
+      "3e54ae33ee59cd5c18d56bfeaed8e18a"
+    ],
+    "org_md5": "8cbd3c93f0862823591a0c5bfce527f4",
+    "comment": "",
+    "adddate": "2023\/11\/27"
   },
   {
     "md5": "210eb5b7c0650451fbc288a42662c7c8",
@@ -7223,22 +7223,6 @@
     "adddate": "2023\/02\/22"
   },
   {
-    "md5": "e5e812b03f7a723a1f511f6be5eb9059",
-    "org_level": 4,
-    "title": "Dstorv [Another+]",
-    "artist": "Feryquitous \/ obj：mad2ki movie:Sight \/ pattern:Cymby",
-    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
-    "level": "12.4(HARD適正CPI1650~1700)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/dropbox.bms.ms\/u\/34035220\/%5BFeryquitous%5DDistorv.rar",
-    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/bof\/src\/up0823.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "4~5? (SPAと39msのズレキー音がひとつあるけど、プレイには問題なし)",
-    "adddate": "2023\/02\/27"
-  },
-  {
     "md5": "f26f2c8b3fda7112ca197fb01b56aafb",
     "org_level": 4,
     "title": "electric butterfly -twilight-",
@@ -7904,6 +7888,22 @@
     "org_md5": "5b1985951141fc8dadbb633ff60c4d7e",
     "comment": "",
     "adddate": "2023\/11\/05"
+  },
+  {
+    "md5": "e5e812b03f7a723a1f511f6be5eb9059",
+    "org_level": 4,
+    "title": "Dstorv [Another+]",
+    "artist": "Feryquitous \/ obj：mad2ki movie:Sight \/ pattern:Cymby",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/dropbox.bms.ms\/u\/34035220\/%5BFeryquitous%5DDistorv.rar",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/bof\/src\/up0823.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "4~5? (SPAと39msのズレキー音がひとつあるけど、プレイには問題なし)",
+    "adddate": "2023\/11\/24"
   },
   {
     "md5": "dfc6c3ddb37c46ccaccc4696b985fd10",
@@ -8652,6 +8652,26 @@
     "adddate": "2023\/10\/23"
   },
   {
+    "md5": "a9507a17425df81f6f488e26feb7419d",
+    "org_level": 12,
+    "title": "Fractal(i)xis",
+    "artist": "kanoryo",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a9507a17425df81f6f488e26feb7419d",
+      "06c78425953df6f816f578c0106f0c24",
+      "c3b69d3a518327918a5148db55f3f6d9"
+    ],
+    "org_md5": "a9507a17425df81f6f488e26feb7419d",
+    "comment": "",
+    "adddate": "2023\/11\/30"
+  },
+  {
     "md5": "55da43dac14edfb274838edc7493a2e0",
     "org_level": 12,
     "title": "GO BACK 2 YOUR RAVE [EX]",
@@ -9277,26 +9297,6 @@
     "adddate": "2023\/06\/19"
   },
   {
-    "md5": "a9507a17425df81f6f488e26feb7419d",
-    "org_level": 12,
-    "title": "Fractal(i)xis",
-    "artist": "kanoryo",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "a9507a17425df81f6f488e26feb7419d",
-      "06c78425953df6f816f578c0106f0c24",
-      "c3b69d3a518327918a5148db55f3f6d9"
-    ],
-    "org_md5": "a9507a17425df81f6f488e26feb7419d",
-    "comment": "",
-    "adddate": "2023\/11\/04"
-  },
-  {
     "md5": "3c9e6197ca0dbf5bba3cd1b83603643d",
     "org_level": 12,
     "title": "HAELEQUIN",
@@ -9377,22 +9377,6 @@
     "org_md5": "937a79a60110b91e04eb1a33632bcd0e",
     "comment": "video<https:\/\/youtu.be\/FiNaAhRF-BI>",
     "adddate": "2023\/07\/03"
-  },
-  {
-    "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
-    "org_level": 8,
-    "title": "PhonDrome![GALAPAGOS']",
-    "artist": "Micelle",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=12&event=127",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/f_vc-bWkG0c>sl8",
-    "adddate": "2023\/02\/24"
   },
   {
     "md5": "2c9104f4b163d6b53b7afa780e12b1e1",
@@ -9488,22 +9472,6 @@
     "org_md5": "34e1ca9211cd903c9829e6cbf911d039",
     "comment": "",
     "adddate": "2023\/11\/04"
-  },
-  {
-    "md5": "1922023d01ef953493c15342a4c418ca",
-    "org_level": 8,
-    "title": "Stokesia [NEXT]",
-    "artist": "lazward \/ BGI:ミロ飲め夫 \/ obj:Sar",
-    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
-    "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/Stokesia%20(by%20lazward).rar",
-    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/bof\/src\/up1008.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/KlnE-Nqp_Sw>sl8",
-    "adddate": "2023\/06\/07"
   },
   {
     "md5": "7fd4d1b5a767fd97343129157782a95f",
@@ -9747,6 +9715,22 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/S-CHpOcQ8FM>sl8",
     "adddate": "2023\/06\/07"
+  },
+  {
+    "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
+    "org_level": 8,
+    "title": "PhonDrome![GALAPAGOS']",
+    "artist": "Micelle",
+    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
+    "level": "12.8(HARD適正CPI1850~1900)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=12&event=127",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/f_vc-bWkG0c>sl8",
+    "adddate": "2023\/11\/30"
   },
   {
     "md5": "09b813d7dee327bab5450d6809168896",
@@ -10173,6 +10157,36 @@
     "adddate": "2023\/04\/12"
   },
   {
+    "md5": "bae8c1d74a0e9ee020ebeb4c80d62ef0",
+    "org_level": 12,
+    "title": "MESMERA [SP HYPER]",
+    "artist": "qfeileadh + 空読無 白眼 obj:saaa",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=283&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5f13faac41fa168a4747aab495a6f6cf",
+      "212e9819506aaa900def865c3dc605cb",
+      "808c0a8c8db0a82ecc421f1ee791224c",
+      "43918743cb514cb23a0019133d5b9b00",
+      "bae8c1d74a0e9ee020ebeb4c80d62ef0",
+      "96a5b7861d91d03cb82495abef5b8c8b",
+      "bb843baa1332cdacd049f1e142c79045",
+      "c8b2ac0275e79c7f1d84ddf0898d8775",
+      "30c34a8781916905ef16530b3678b317",
+      "d3b9520546d44db54c1685c02d7a45f8",
+      "6e813cbe9b7977033cbb23bcb40db1f1",
+      "63fe5d77296433f850a19065a598ea96",
+      "7d9fe6210ab4e989f37f2e24a54c1bc5"
+    ],
+    "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
+    "comment": "video<https:\/\/youtu.be\/PtHC07Bsy4Q>ソフラン、停止ギミック",
+    "adddate": "2023\/11\/27"
+  },
+  {
     "md5": "c4a4d2ba035fe1f60fc125d47fd2d0e3",
     "org_level": 12,
     "title": "Needy Samples Overdose [ANOTHER]",
@@ -10547,36 +10561,6 @@
     "org_md5": "c660ba7698940e75a9ff45af488cc2e0",
     "comment": "",
     "adddate": "2023\/08\/24"
-  },
-  {
-    "md5": "bae8c1d74a0e9ee020ebeb4c80d62ef0",
-    "org_level": 12,
-    "title": "MESMERA [SP HYPER]",
-    "artist": "qfeileadh + 空読無 白眼 obj:saaa",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=283&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "5f13faac41fa168a4747aab495a6f6cf",
-      "212e9819506aaa900def865c3dc605cb",
-      "808c0a8c8db0a82ecc421f1ee791224c",
-      "43918743cb514cb23a0019133d5b9b00",
-      "bae8c1d74a0e9ee020ebeb4c80d62ef0",
-      "96a5b7861d91d03cb82495abef5b8c8b",
-      "bb843baa1332cdacd049f1e142c79045",
-      "c8b2ac0275e79c7f1d84ddf0898d8775",
-      "30c34a8781916905ef16530b3678b317",
-      "d3b9520546d44db54c1685c02d7a45f8",
-      "6e813cbe9b7977033cbb23bcb40db1f1",
-      "63fe5d77296433f850a19065a598ea96",
-      "7d9fe6210ab4e989f37f2e24a54c1bc5"
-    ],
-    "org_md5": "5f13faac41fa168a4747aab495a6f6cf",
-    "comment": "video<https:\/\/youtu.be\/PtHC07Bsy4Q>ソフラン、停止ギミック",
-    "adddate": "2023\/08\/04"
   },
   {
     "md5": "80d975b1d6a255026608f58dafe4f79e",
