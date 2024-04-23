@@ -1946,6 +1946,29 @@
     "adddate": "2024\/02\/29"
   },
   {
+    "md5": "b53b5ff5e6f289d83c582f9cc514ce3a",
+    "org_level": 12,
+    "title": "電波塔 [1412kHz]",
+    "artist": "Yosk!",
+    "folder": "LEVEL12.3",
+    "level": "12.3",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b53b5ff5e6f289d83c582f9cc514ce3a",
+      "231c7bc875085f03a39decdc4f109322",
+      "2b89656b4b4a7e1262438519154cafe9",
+      "fe1a95215519a0467e44950422a9e112",
+      "e1cace81b4cdd7127a9de279af3d0e31",
+      "b495309168544e5b7f3f028a3de48dd1"
+    ],
+    "org_md5": "b53b5ff5e6f289d83c582f9cc514ce3a",
+    "comment": "",
+    "adddate": "2024\/04\/23"
+  },
+  {
     "md5": "b0ab4e8ea9eb8cb80e28f8cff18baa5c",
     "org_level": 6,
     "title": ".workstation [14MAD]",
@@ -1981,6 +2004,33 @@
     "org_md5": "",
     "comment": "https:\/\/mega.nz\/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA難易度表保管(☆,★,★★,δ,★)に保管",
     "adddate": "2024\/03\/15"
+  },
+  {
+    "md5": "52b63ec129cf19e787a602100952a59f",
+    "org_level": 12,
+    "title": "Atohs",
+    "artist": "Music: Ice \/ Movie: Sand Suna",
+    "folder": "LEVEL12.4",
+    "level": "12.4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "52b63ec129cf19e787a602100952a59f",
+      "c5953fd4c57d84fa2817fbba3310e2f8",
+      "b63fe3d2c5ff032636d51da3bf903156",
+      "24c289be32a60ab7eabdbd012e55f527",
+      "22e7c571cdc7c7e71a68f3151036d4ee",
+      "9d4107e951cfd3b8f3a4227689912bbb",
+      "bd2af60c883234f03a9a65cf0015ce12",
+      "4be82241ec96118b13309acf3c946dda",
+      "0899eaf72c7b2463a73e4882fb7f597d",
+      "3a4681800fd849acc56d7a18ade3fa5d"
+    ],
+    "org_md5": "52b63ec129cf19e787a602100952a59f",
+    "comment": "",
+    "adddate": "2024\/04\/23"
   },
   {
     "md5": "ad479801b49e6ea3885c5c8292c63e2c",
@@ -2446,33 +2496,6 @@
     "org_md5": "",
     "comment": "Luminous - Pure Whitehttp:\/\/l-bms.com\/2nd\/index.php",
     "adddate": "2024\/03\/15"
-  },
-  {
-    "md5": "52b63ec129cf19e787a602100952a59f",
-    "org_level": 12,
-    "title": "Atohs",
-    "artist": "Music: Ice \/ Movie: Sand Suna",
-    "folder": "LEVEL12.5",
-    "level": "12.5",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "52b63ec129cf19e787a602100952a59f",
-      "c5953fd4c57d84fa2817fbba3310e2f8",
-      "b63fe3d2c5ff032636d51da3bf903156",
-      "24c289be32a60ab7eabdbd012e55f527",
-      "22e7c571cdc7c7e71a68f3151036d4ee",
-      "9d4107e951cfd3b8f3a4227689912bbb",
-      "bd2af60c883234f03a9a65cf0015ce12",
-      "4be82241ec96118b13309acf3c946dda",
-      "0899eaf72c7b2463a73e4882fb7f597d",
-      "3a4681800fd849acc56d7a18ade3fa5d"
-    ],
-    "org_md5": "52b63ec129cf19e787a602100952a59f",
-    "comment": "",
-    "adddate": "2024\/01\/12"
   },
   {
     "md5": "9f1609281de180d924a3692c0c7b82a6",
@@ -3828,6 +3851,22 @@
     "adddate": "2024\/02\/18"
   },
   {
+    "md5": "aa389df1f9b142c58e1fd9204df74278",
+    "org_level": 11,
+    "title": "摩訶幻想マジトリク [DP INSANE]",
+    "artist": "戒 + テオン",
+    "folder": "LEVEL12.7",
+    "level": "12.7",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1X0HSj3WdI51ZskRcsE1Higd3d7ZTqjkJ",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同梱譜面",
+    "adddate": "2024\/04\/16"
+  },
+  {
     "md5": "c11998a30371142374cd158c995d9de3",
     "org_level": 12,
     "title": "ALICE IN PICOPICO NIGHT (DP ANOTHER)",
@@ -3998,6 +4037,22 @@
     "adddate": "2024\/01\/12"
   },
   {
+    "md5": "03ee34febbb179b1ebc15cf0de53b803",
+    "org_level": 2,
+    "title": "::AbnormalityPurificator:: [DP INSANE]",
+    "artist": "Shiroha BGI : Exa \/ obj:plum",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmstukuru2023\/33",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl11~12 中盤超発狂　sl12入門から卒業までの地力上げに",
+    "adddate": "2024\/04\/23"
+  },
+  {
     "md5": "066697b4ccf7ed269f4d29cc660bd345",
     "org_level": 255,
     "title": "5th Drop Shooter [HYBRID ULTIMATE HYPER CORE+]",
@@ -4050,6 +4105,38 @@
     "adddate": "2024\/01\/11"
   },
   {
+    "md5": "93d080e4b70da264f18d371169e7e20f",
+    "org_level": 2,
+    "title": "Bouquet colore [Fatalism]",
+    "artist": "Nego_tiator Obj. 0ne",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=270&event=127",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1520",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同梱SPAと比較してズレ抜け無し 回復込みでsl12",
+    "adddate": "2024\/04\/23"
+  },
+  {
+    "md5": "c18c15892b9e9224f712fd41a4127545",
+    "org_level": 2,
+    "title": "Fragments[DP ULTIMATE fixed]",
+    "artist": "影虎。 BMS:Qayo \/ BGA:FEIflick \/ obj.にぇ",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/bms-mirror.com\/pkg\/2021\/bofxvii\/Kagetora_Fragments.zip",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/1418",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "総合力　安定と信頼のにぇ差分　",
+    "adddate": "2024\/04\/23"
+  },
+  {
     "md5": "0fce20e55de1cc55921466f67f92ce9c",
     "org_level": 12,
     "title": "Melotte 333 -MANIAC14-",
@@ -4082,6 +4169,54 @@
     "adddate": "2024\/02\/16"
   },
   {
+    "md5": "8d1461e0a5ad510ed07b99e828ab8925",
+    "org_level": 3,
+    "title": "Ophelia",
+    "artist": "Lime \/ Limite",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "http:\/\/kanki2.net\/bms.html",
+    "url_diff": "https:\/\/www.limiteknj.net\/BMS\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "★★5~6?, bpm180 16分",
+    "adddate": "2024\/04\/23"
+  },
+  {
+    "md5": "31affd1c26756b6a288fd69b9fa55566",
+    "org_level": 2,
+    "title": "Time to beat the odds[DP ULTIMATE]",
+    "artist": "影虎。 BMS:Qayo\/obj.にぇ BGA:yan \/ illust:Viosgit",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=198&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2052",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "★★4~5　様々な要素を含んだ良譜面",
+    "adddate": "2024\/04\/23"
+  },
+  {
+    "md5": "0b1234798d2da9bbde81c1eaf6111005",
+    "org_level": 2,
+    "title": "WHIRLWIND [Twin Blast]",
+    "artist": "Linne X SCTL Visualized by Keiyuu & RED-FOX \/ obj. RaiN",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/k-bms.com\/party_pabat\/party2016.jsp?board_num=17&num=43&order=reg&odtype=a",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/801",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "★★5?",
+    "adddate": "2024\/04\/23"
+  },
+  {
     "md5": "09144b709c1282a1111c297e1353caa8",
     "org_level": 12,
     "title": "ZETABYTE [HARD PUNCHER]",
@@ -4103,6 +4238,38 @@
     "org_md5": "09144b709c1282a1111c297e1353caa8",
     "comment": "",
     "adddate": "2024\/02\/15"
+  },
+  {
+    "md5": "5319fd58fbb103bd6b6fadfc8aaafa0d",
+    "org_level": 3,
+    "title": "テウメッサ [matrix]",
+    "artist": "LisicA movie : ルゼ(LuzeriA) \/ illust : Orphee obj.KENIN*",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=87&event=127",
+    "url_diff": "http:\/\/sunaneko.iptime.org\/dpsabun_kenin.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同梱SPAと比較してズレ抜け無し",
+    "adddate": "2024\/04\/23"
+  },
+  {
+    "md5": "363797f8fc619cff770b5a1b0fa82923",
+    "org_level": 3,
+    "title": "ニニ [DP INS☆NE]",
+    "artist": "テヅカ ? Qayo BGI: MUSH.T ? PHage \/ obj:Starfish",
+    "folder": "LEVEL12.9",
+    "level": "12.9",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=253&event=123",
+    "url_diff": "https:\/\/ux.getuploader.com\/dpbms\/download\/539",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "★★5~6?",
+    "adddate": "2024\/04\/23"
   },
   {
     "md5": "d085ad2a0303878aefbbd571d02e2790",
@@ -4145,6 +4312,28 @@
     "org_md5": "452b4299468ea1d59aa259cc29fffc4d",
     "comment": "",
     "adddate": "2024\/02\/16"
+  },
+  {
+    "md5": "352c32fc9f349c71c4b730708544bdc9",
+    "org_level": 13,
+    "title": "DAYBREAK [DP ULTIMATE]",
+    "artist": "Lime \/ Kankitsu obj.nye",
+    "folder": "LEVEL13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7cccd94b73fd7c6e1cd4f2abc94a819e",
+      "352c32fc9f349c71c4b730708544bdc9",
+      "5e462ffdc2600fba2b40405fdccf5c7e",
+      "8239b8cb03397592726475c3ef52e47e",
+      "ab13b0bb9a60699254b9c5fa54f68f58"
+    ],
+    "org_md5": "7cccd94b73fd7c6e1cd4f2abc94a819e",
+    "comment": "",
+    "adddate": "2024\/04\/23"
   },
   {
     "md5": "7d9fe6210ab4e989f37f2e24a54c1bc5",
