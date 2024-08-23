@@ -11,6 +11,8 @@
     " st4",
     " st5",
     " st6",
+    " st7",
+    " st8",
     "候補"
   ],
   "folder_order": [
@@ -23,6 +25,8 @@
     "LEVEL st4",
     "LEVEL st5",
     "LEVEL st6",
+    "LEVEL st7",
+    "LEVEL st8",
     "候補"
   ],
   "folder_sort_key": "",
@@ -30,8 +34,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/06\/23",
+  "last_update": "2024\/07\/16",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/06\/23"
+  "output_date": "2024\/08\/23"
 }
