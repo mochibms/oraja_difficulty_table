@@ -1,1 +1,21 @@
-
+{
+  "name": "BOF:TT 良い曲で遊ぶためのリスト",
+  "symbol": "TT",
+  "level_order": [
+    "LEVEL 10以下",
+    "LEVEL 11",
+    "LEVEL 12",
+    "LEVEL 12+",
+    "LEVEL 13以上"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "data.json",
+  "compat_prefix": "",
+  "last_update": "2024\/10\/04",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "",
+  "output_date": "2024\/10\/04"
+}
