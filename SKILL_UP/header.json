@@ -2,6 +2,11 @@
   "name": "SKILL UP",
   "symbol": "",
   "level_order": [
+    " sl0",
+    " sl1",
+    " sl5",
+    " sl6",
+    " sl9",
     " sl11",
     " sl12",
     " st0",
@@ -14,9 +19,15 @@
     " st7",
     " st8",
     " st9",
-    "候補"
+    "候補",
+    " sl3"
   ],
   "folder_order": [
+    "LEVEL sl0",
+    "LEVEL sl1",
+    "LEVEL sl5",
+    "LEVEL sl6",
+    "LEVEL sl9",
     "LEVEL sl11",
     "LEVEL sl12",
     "LEVEL st0",
@@ -36,8 +47,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/08\/28",
+  "last_update": "2024\/10\/04",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/08\/28"
+  "output_date": "2024\/10\/07"
 }
