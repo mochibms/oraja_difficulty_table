@@ -8,7 +8,8 @@
     " 12(☆12中~上の下)",
     " 12+(☆12上位~sl12)",
     " 13(★20~22)",
-    " 14(★23~)"
+    " 14(★23~)",
+    " 15(st7~)"
   ],
   "folder_order": [
     "LEVEL 10以下(注釈は想定される下限難易度です)",
@@ -24,8 +25,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/10\/19",
+  "last_update": "2024\/10\/22",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/10\/19"
+  "output_date": "2024\/10\/22"
 }

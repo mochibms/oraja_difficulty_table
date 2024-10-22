@@ -152,6 +152,81 @@
     "adddate": "2024\/10\/19"
   },
   {
+    "md5": "66a5b643ca8b72cb5fc1bb6625c03cb5",
+    "org_level": 10,
+    "title": "Save Yourself [SP Another]",
+    "artist": "litmus* ft. Miori Celesta",
+    "folder": "LEVEL 10以下(注釈は想定される下限難易度です)",
+    "level": " 10以下(注釈は想定される下限難易度です)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "05572c975e512cad30b3de1f0ee3b577",
+      "bf923064ee08aaa2d3f4df6ed9956cdb",
+      "b7676a7b43c9ddcf9862db0b6c3756c0",
+      "66a5b643ca8b72cb5fc1bb6625c03cb5",
+      "828a4142fd26b4259aaf01c6ba2296df",
+      "518b032e42817c2bd50648e280f6bdee",
+      "0bb068fdb7eaf4783bf7544dbbea1841",
+      "23a0b14977ef347f263f025de3b4caff",
+      "910818f907416159cebf408516dc599c",
+      "10a552ad20a402d7263a9783163cad1e",
+      "d365218d56f84faacc43ead05345fa3e",
+      "a385b1ad27011e055aa6574eb10185f5",
+      "5e7e71e078a8a474391a63f47fc6e452"
+    ],
+    "org_md5": "05572c975e512cad30b3de1f0ee3b577",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "1262f9449b4e30f7afc04037e18c3802",
+    "org_level": 9,
+    "title": "Silly Lights [SP Another]",
+    "artist": "qfeileadh feat.柳瀬マサキ Lyrics:kei_iwata \/ Artwork:KeiuO \/ object:litmus*",
+    "folder": "LEVEL 10以下(注釈は想定される下限難易度です)",
+    "level": " 10以下(注釈は想定される下限難易度です)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b9f73c97bbf4cf45a149b11e23ce0e11",
+      "458617e811c2ad8f7f241d4ca0ff1baf",
+      "e452a9df33cabb8b83a23ce71479c84e",
+      "1262f9449b4e30f7afc04037e18c3802",
+      "ba7acceece1013af6241691bfa4bc460",
+      "64aa379652ed08cd378e90fa2136657a",
+      "4e576bb5a96d58dba1c506c1982f564d",
+      "af893e3b5cef9d242a0dea2b9bb4a9b4"
+    ],
+    "org_md5": "b9f73c97bbf4cf45a149b11e23ce0e11",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "17169a9144b13bf5191c48e1658ae0b3",
+    "org_level": 10,
+    "title": "ZWSP [7K ANOTHER]",
+    "artist": "Hyparpax BGA: Trofflesby",
+    "folder": "LEVEL 10以下(注釈は想定される下限難易度です)",
+    "level": " 10以下(注釈は想定される下限難易度です)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "43189ac48f2a9f7bed9f905ff3586c4a",
+      "5dcddb4aeb45f496f29f65b335a80a13",
+      "17169a9144b13bf5191c48e1658ae0b3"
+    ],
+    "org_md5": "43189ac48f2a9f7bed9f905ff3586c4a",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "915a0db1fa5d9daf0307beba7c3a046b",
     "org_level": 10,
     "title": "ディゾルブ [SP HYPER]",
@@ -171,6 +246,28 @@
     "org_md5": "807d2f3563ea0626e9a460c19ac38c1f",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "0f4b976dd89b6ff97848f382114f8eb1",
+    "org_level": 9,
+    "title": "みこナス オルタナテぃぶ (Otoge- ba-jyon) [HYPER7]",
+    "artist": "ねこみりん feat.まるもこ Movie suppot:いいも \/ Illust:なか \/ respect:柏木るざりん",
+    "folder": "LEVEL 10以下(注釈は想定される下限難易度です)",
+    "level": " 10以下(注釈は想定される下限難易度です)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1d0af87848ffad2629621254803fa21a",
+      "370468bc7df80ad0321a497e4390356c",
+      "0f4b976dd89b6ff97848f382114f8eb1",
+      "fcb5282b9e7e0144aa1ed07afe64b4b9",
+      "5342960f9bed7ebe1978417a4b27695a"
+    ],
+    "org_md5": "1d0af87848ffad2629621254803fa21a",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "38228441165779c2998aac96e20fa845",
@@ -324,6 +421,28 @@
     "adddate": "2024\/10\/18"
   },
   {
+    "md5": "1d44feb30fd2eea9e51d9ebfbf69ccf3",
+    "org_level": 11,
+    "title": "SPILL da BEANS [INSANE]",
+    "artist": "U-ske feat. はぁち",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ce178a67a98da16eb1a93154c6fd162e",
+      "bd083f3fa64db1c6144a49f5b1e224ed",
+      "a357450163e90991b9e4d733e31dbf66",
+      "1d44feb30fd2eea9e51d9ebfbf69ccf3",
+      "9e70a3e7979d1fc3fda032e3577cc898"
+    ],
+    "org_md5": "ce178a67a98da16eb1a93154c6fd162e",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "5b556d8a62cf3df4ebfbfd2b5ec4f424",
     "org_level": 11,
     "title": "SYNCLiNC [SP ANOTHER]",
@@ -429,6 +548,78 @@
     "org_md5": "96ab3653f2febbad65570ce100a00b45",
     "comment": "",
     "adddate": "2024\/10\/18"
+  },
+  {
+    "md5": "03dddedef429275c34cb3db7f9c73d3e",
+    "org_level": 11,
+    "title": "夢ここに在らず [7keys Another]",
+    "artist": "Yosk!",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "77bf6843daaaaa62c342bad219719704",
+      "ca05c8456fe26b05d0739685179c9b5b",
+      "b8eab27de80ac67e25128b3308d9f034",
+      "b8dd3c4dc0a206f4cfb656c2788d0bcf",
+      "8981fa3242b7815b90c33f2e020ea99f",
+      "f53d0228971caed0e8e5c509f57f1dbd",
+      "03dddedef429275c34cb3db7f9c73d3e",
+      "11beca8549aea4b9b30b68dbac8a589d",
+      "15e12b671692fa3296a7f583bed26ec1",
+      "51378a5bf18a201e5c5213dc7444e60e"
+    ],
+    "org_md5": "77bf6843daaaaa62c342bad219719704",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "13deabc08b0d3112e31b895346a457f8",
+    "org_level": 11,
+    "title": "冥府蒸気質香味関数卵祭 [SP ANOTHER]",
+    "artist": "6CHA9N mov: ミツメサチ",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "13deabc08b0d3112e31b895346a457f8",
+      "fd54a9fc7c709d5242e7e4e9040838c7",
+      "9117d4816a7eac7d5273549e4198e17b"
+    ],
+    "org_md5": "13deabc08b0d3112e31b895346a457f8",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "d32a2da58157fcd137bb097acfe73d5a",
+    "org_level": 11,
+    "title": "来世願幸 [SP 輪廻の輪]",
+    "artist": "RB.H × lixound × Sinud.0 × Cyathewitch \/ mov: 門中月, 大黄Daiwong, 蕉皮PinEA, Roll bms: RB.H obj: 9RAN",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8a318ad3f167b8be5da9b3e93c8f61f2",
+      "279e8fdb47ae7b0b54482a9705af3a9e",
+      "b4eb05f514a7cfb2d9aec4de71f57ada",
+      "d32a2da58157fcd137bb097acfe73d5a",
+      "b2025929dac0026a0b4352354ea69ff9",
+      "d410c21a8cbcc7ad897411248dc5f1cc",
+      "17201269c17b5fc4689accfa7dae5500",
+      "8f5db82ffccf9ef956f7d3a3b73f0dc6"
+    ],
+    "org_md5": "8a318ad3f167b8be5da9b3e93c8f61f2",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "fa4352651cf70bbf5f4bbb94ab7ee0a5",
@@ -585,6 +776,54 @@
     "adddate": "2024\/10\/18"
   },
   {
+    "md5": "c87346344901a1a46c412a4b687a4b57",
+    "org_level": 12,
+    "title": "GlassyHeart. [SP Another]",
+    "artist": "ILusMin feat. Bob Hou obj: ILusMin",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c87346344901a1a46c412a4b687a4b57",
+      "7a5b8b17ab2c95a48fcda8d4b1edc1e4",
+      "6d9d8dee9f6b2e767ed049227e2ab137",
+      "2281e400ecdafd3d51ef89d889f16bdd",
+      "31f9f1c42edd15f1a1f15fb6d495fce2"
+    ],
+    "org_md5": "c87346344901a1a46c412a4b687a4b57",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "0ecf44384761786bc4dd84da94a4ab7e",
+    "org_level": 12,
+    "title": "IOR [SP AIR RACE]",
+    "artist": "ariiol BG by 陸忻遊 \/ obj AZVW_2",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "43c3af5024c48b14bbc98eb0c90db250",
+      "b61c9806ee0e4a04faaf279a65bb94ee",
+      "7dc18839724009ab9eedfeb28003d86b",
+      "8fb0cce41606ceed26df4186d4882c99",
+      "0ecf44384761786bc4dd84da94a4ab7e",
+      "df063e3577a443fbd0505ca880c5a198",
+      "5d5e26aeede7d951125ad08bb5b368af",
+      "934df8709eb055f104de85a8f26bf70a",
+      "8e2803336b972accd4413912f59806c6"
+    ],
+    "org_md5": "43c3af5024c48b14bbc98eb0c90db250",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "df063e3577a443fbd0505ca880c5a198",
     "org_level": 12,
     "title": "IOR [SP ANOTHER]",
@@ -609,6 +848,45 @@
     "org_md5": "43c3af5024c48b14bbc98eb0c90db250",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "c9bed8949062134e0d63d22e6a0a8614",
+    "org_level": 12,
+    "title": "Magical Night Special",
+    "artist": "Dogsix",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c9bed8949062134e0d63d22e6a0a8614",
+      "5db0d0226721351d86c77d128f4aec39"
+    ],
+    "org_md5": "c9bed8949062134e0d63d22e6a0a8614",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "fa410c9fc32c41c118447fa81066fb10",
+    "org_level": 12,
+    "title": "Next Game",
+    "artist": "kohaxy",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fa410c9fc32c41c118447fa81066fb10",
+      "3c7b250c5adb86f2e9650995e56d81e9",
+      "910aa7acf36d21e23a664a1b4f424acd"
+    ],
+    "org_md5": "fa410c9fc32c41c118447fa81066fb10",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "97f026722d257378054f41ec3c4ea683",
@@ -647,6 +925,78 @@
     "adddate": "2024\/10\/18"
   },
   {
+    "md5": "c82138d1ebe05956b3e888515c30d422",
+    "org_level": 12,
+    "title": "Primo Magic [SP ANOTHER]",
+    "artist": "kooridori Feat.猫柳なぎ BGA:MUSH.T ILLUST:コトバッチ",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "66d5779e662f878541ff550f11de5601",
+      "d8dade347d144df6685451d868d9da3b",
+      "8640e1d7ad7965a438ac97622f0ab7f6",
+      "8631805c255da4e10e6fad911978b64e",
+      "2853cc4fad0f9e8c7d024a3500485934",
+      "692cd570d2c221cca8041b5918da40bb",
+      "3e37e34071292afaed20c39216029bf2",
+      "e2de4270923c7f84ae06770edf90b652",
+      "c82138d1ebe05956b3e888515c30d422",
+      "fd315ea0be65ac4731ca2f8805b155ae",
+      "12fdc79206674ed1315e5ed0a92e1cef",
+      "9a3d8611413929a5fe2c3d036bc66788",
+      "8ed9ccfbd38826818c5a2fff7f11cc1b",
+      "6fbbafd4df365fbc44217c00f4528ae8"
+    ],
+    "org_md5": "66d5779e662f878541ff550f11de5601",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "b47c2e9ebb30af8293ec2e3bc3e09c0f",
+    "org_level": 12,
+    "title": "Rough Stone[ANOTHER]",
+    "artist": "OverNote' OverNote'",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b47c2e9ebb30af8293ec2e3bc3e09c0f",
+      "92caed55bbbf60d14211c188e5af0f18",
+      "70434b11309efb19480bd61cec004734"
+    ],
+    "org_md5": "b47c2e9ebb30af8293ec2e3bc3e09c0f",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "04c26db66af204c145db49f21e370607",
+    "org_level": 12,
+    "title": "Signal",
+    "artist": "Ludicin BGA:ReviXy, Illust:KM",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "04c26db66af204c145db49f21e370607",
+      "d4177faaac83c630e132b5ee6f258c3b",
+      "a4328a6dc591234bef3edda25dfdc0bb",
+      "08b4d0edd62d6874c69373b46ae4ed5e"
+    ],
+    "org_md5": "04c26db66af204c145db49f21e370607",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "807d2f3563ea0626e9a460c19ac38c1f",
     "org_level": 12,
     "title": "ディゾルブ [SP ANOTHER]",
@@ -666,6 +1016,51 @@
     "org_md5": "807d2f3563ea0626e9a460c19ac38c1f",
     "comment": "",
     "adddate": "2024\/10\/18"
+  },
+  {
+    "md5": "b796a68bc0bcf00329521f04133c9971",
+    "org_level": 12,
+    "title": "夏の末わりのセレナーデ ～in the blue of twilight☆sky～",
+    "artist": "otoshi.b BGA:ひきにく×はしたかさん",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d902622a23d4f0a3ceee1e33ad932ebc",
+      "cf7498b182e62d78d8cbc674094fb0f5",
+      "b796a68bc0bcf00329521f04133c9971"
+    ],
+    "org_md5": "d902622a23d4f0a3ceee1e33ad932ebc",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "17201269c17b5fc4689accfa7dae5500",
+    "org_level": 12,
+    "title": "来世願幸 [SP 未来永劫]",
+    "artist": "RB.H × lixound × Sinud.0 × Cyathewitch \/ mov: 門中月, 大黄Daiwong, 蕉皮PinEA, Roll bms: RB.H obj: lixound",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8a318ad3f167b8be5da9b3e93c8f61f2",
+      "279e8fdb47ae7b0b54482a9705af3a9e",
+      "b4eb05f514a7cfb2d9aec4de71f57ada",
+      "d32a2da58157fcd137bb097acfe73d5a",
+      "b2025929dac0026a0b4352354ea69ff9",
+      "d410c21a8cbcc7ad897411248dc5f1cc",
+      "17201269c17b5fc4689accfa7dae5500",
+      "8f5db82ffccf9ef956f7d3a3b73f0dc6"
+    ],
+    "org_md5": "8a318ad3f167b8be5da9b3e93c8f61f2",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "8c5e52719646a027b4d832ce115d98c2",
@@ -868,6 +1263,31 @@
     "adddate": "2024\/10\/15"
   },
   {
+    "md5": "cbfc617047b86fc49ea515d34db588d5",
+    "org_level": 12,
+    "title": "E.V.E.R[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b3d3f7e711ac41b4f8acec3d90142739",
+      "137fc9c6692e45733b53c1c2559f81e7",
+      "e95bc7c6975ce7d01a383a83a2ff4871",
+      "cbfc617047b86fc49ea515d34db588d5",
+      "b6f13194f93ef2188a6dcaff653f9373",
+      "404649729fd06ab8fe0aa449bd93d214",
+      "2c121186b0788936671a455ba9486523",
+      "02f1902c72d2eca6c11fc6c4320a7463"
+    ],
+    "org_md5": "b3d3f7e711ac41b4f8acec3d90142739",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "257a95b59accabc2d12a20fbebde7e34",
     "org_level": 12,
     "title": "Exipration",
@@ -909,6 +1329,37 @@
     "org_md5": "22f02d1982b63709d510cdd698799503",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "8ed9ccfbd38826818c5a2fff7f11cc1b",
+    "org_level": 12,
+    "title": "Primo Magic [SP INSANE]",
+    "artist": "kooridori Feat.猫柳なぎ BGA:MUSH.T ILLUST:コトバッチ \/ obj.rat",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "66d5779e662f878541ff550f11de5601",
+      "d8dade347d144df6685451d868d9da3b",
+      "8640e1d7ad7965a438ac97622f0ab7f6",
+      "8631805c255da4e10e6fad911978b64e",
+      "2853cc4fad0f9e8c7d024a3500485934",
+      "692cd570d2c221cca8041b5918da40bb",
+      "3e37e34071292afaed20c39216029bf2",
+      "e2de4270923c7f84ae06770edf90b652",
+      "c82138d1ebe05956b3e888515c30d422",
+      "fd315ea0be65ac4731ca2f8805b155ae",
+      "12fdc79206674ed1315e5ed0a92e1cef",
+      "9a3d8611413929a5fe2c3d036bc66788",
+      "8ed9ccfbd38826818c5a2fff7f11cc1b",
+      "6fbbafd4df365fbc44217c00f4528ae8"
+    ],
+    "org_md5": "66d5779e662f878541ff550f11de5601",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "ac0cb26f83c0301a63d515afa2c15aa2",
@@ -1059,6 +1510,31 @@
     "adddate": "2024\/10\/19"
   },
   {
+    "md5": "cd13bab728eaf1f1563d61c30e795f83",
+    "org_level": 12,
+    "title": "Χαρων [SP-A]",
+    "artist": "Daily天利 vs Reku Mochizuki obj: PPG chart team \"Scely.L\"",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "441e1e31a748ff81b1c0228cfcc84d2c",
+      "b9605d6697c207f9442c8eb3712954d3",
+      "e03fe6e4f3c620df8580f11c09cb8d30",
+      "cd13bab728eaf1f1563d61c30e795f83",
+      "208f388f7f98b5c92becbe4238530714",
+      "5dc13c3d0295eb2e713d4c9e9a939103",
+      "31adf699100c7e9777d67c6552a93f01",
+      "23174c43c0a397d656a921dfdcf226f5"
+    ],
+    "org_md5": "441e1e31a748ff81b1c0228cfcc84d2c",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "dc2fac46fb1f9f3ba5fcfbc2353c5642",
     "org_level": 12,
     "title": "サプレッサ",
@@ -1078,6 +1554,32 @@
     "org_md5": "82e7e34a6bb57c27c6e1cbb07aab44cd",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "ea30afe6db878ffea5c3c77791c07acf",
+    "org_level": 13,
+    "title": "シロハッコ",
+    "artist": "LisicA mov:出前 illust:Orphee obj:あねしょ supported by ルゼ",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a490a3a9bcd8ca22cd880c1e4053922d",
+      "048359f7673848b05ebc016d92226c12",
+      "37f2cfb1f2dd095b41cd64107648963f",
+      "15971fcc6f5b0e16d969b51d334ba9cf",
+      "ea30afe6db878ffea5c3c77791c07acf",
+      "a9221d2bb7c74fd4a92fb1d42ac3051f",
+      "754e6e4ba67fc9c4777b891aa9d1dfa8",
+      "c3dbab69ea6ffa44934432e0ee614845",
+      "e8339379437fbc02c75e049d6ad77563"
+    ],
+    "org_md5": "a490a3a9bcd8ca22cd880c1e4053922d",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "25e19d3b2a346044fb0fd678d499241e",
@@ -1100,6 +1602,27 @@
     "org_md5": "10ec7b46efd1e55f5e472906aa473507",
     "comment": "",
     "adddate": "2024\/10\/18"
+  },
+  {
+    "md5": "6f43385ce880796480bc4f60dcd9012a",
+    "org_level": 12,
+    "title": "篝火の契り [SP ANOTHER]",
+    "artist": "lufm\/らふむ BGI:朧烏 obj:鈎兎(KagiUsagi)",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0b21264c2a7d36289a8163ca5a4c662c",
+      "05414579b79eaa7d0865f85c864eac83",
+      "214ccd1bac66fc4a727ea173aac1ad6e",
+      "6f43385ce880796480bc4f60dcd9012a"
+    ],
+    "org_md5": "0b21264c2a7d36289a8163ca5a4c662c",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "a1ff60b4ae4bad82aa62bb0915ce4b22",
@@ -1266,6 +1789,29 @@
     "adddate": "2024\/10\/19"
   },
   {
+    "md5": "2dba48413c50eb7ef81aeac1b3541796",
+    "org_level": 18,
+    "title": "セクシー・セクシー・ダイナマイト [NASTY]",
+    "artist": "kei_iwata \/ Gt. stuv \/ KeiuO + 内村徹",
+    "folder": "LEVEL 12+(☆12上位~sl12)",
+    "level": " 12+(☆12上位~sl12)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "10ec7b46efd1e55f5e472906aa473507",
+      "c4171a15dca0bc9f8d429043a809531f",
+      "ffe87cf859a9c17c14df5851935c81ba",
+      "78fe0deea1fa843533940a64caa82a7d",
+      "25e19d3b2a346044fb0fd678d499241e",
+      "2dba48413c50eb7ef81aeac1b3541796"
+    ],
+    "org_md5": "10ec7b46efd1e55f5e472906aa473507",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "8f8840379b68b5e9bca68be172e741ec",
     "org_level": 21,
     "title": "-195.8 -Brizzard's Awake-",
@@ -1298,6 +1844,46 @@
     "org_md5": "51f7a8950437744e4b2a35930a4105f1",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "52654987628fb62048473cd81f64353f",
+    "org_level": 21,
+    "title": "BE-MUSiC⇒STORY [2004-08-14 \/ 00:00 AM]",
+    "artist": "TRiNiTUM(tkqn14×NIKANON) feat.LanuBis movie.Siesphere \/\/ Illust.はしたかさん \/\/ obj.Mary_Sue",
+    "folder": "LEVEL 13(★20~22)",
+    "level": " 13(★20~22)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f0b6d87980f81eae4463147199fef8ea",
+      "b20fa42ea542f76aac1280a8c1513557",
+      "ccc382818254784db106934d09182b68",
+      "c838a139d672acb363b9eb80c805df94",
+      "f75866fc66c1fb4ccf513fcc3b8411d8",
+      "52654987628fb62048473cd81f64353f",
+      "e112a2e4ab67d3b4b402213805c04d49",
+      "ad2c741608c55da49d0bf513e8a40a70",
+      "258257ce3e060554882a5556a24f8a6f",
+      "114c826e56b0786ce969fbf592bc683f",
+      "b7a055b19324489da56d2485a62f3ea1",
+      "d11dbdfeb95396c35b9f1c681a56c4b1",
+      "e4dd7f60decdb8bf87bd7ff5ffa78610",
+      "0e3b976569ad637ee9184f2d5530a06a",
+      "3bb678e39cb003b3dbab53f2efa6e853",
+      "03aadc4372bd14073eb550ecc03ec138",
+      "a9b1d7c117e1d1d0fad91b5fb8542c56",
+      "fffaaf300c7518e48ec78b248ba58270",
+      "3ca47a1fafb6668014a6c05a1d508cb6",
+      "f1216d7017f5706b97de4b2b213ba98b",
+      "a9886de2534d21b9d51db69c70a25a89",
+      "2bb56692b67ef5f808eee0151053c846",
+      "10ec6bdbd11cbdd15d9ce3326e08f9b1"
+    ],
+    "org_md5": "f0b6d87980f81eae4463147199fef8ea",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "d104e734f46a3f18b1f37b38201c0aae",
@@ -1358,6 +1944,36 @@
     "adddate": "2024\/10\/15"
   },
   {
+    "md5": "0bb068fdb7eaf4783bf7544dbbea1841",
+    "org_level": 22,
+    "title": "Save Yourself [EX]",
+    "artist": "litmus* ft. Miori Celesta obj : BAECON",
+    "folder": "LEVEL 13(★20~22)",
+    "level": " 13(★20~22)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "05572c975e512cad30b3de1f0ee3b577",
+      "bf923064ee08aaa2d3f4df6ed9956cdb",
+      "b7676a7b43c9ddcf9862db0b6c3756c0",
+      "66a5b643ca8b72cb5fc1bb6625c03cb5",
+      "828a4142fd26b4259aaf01c6ba2296df",
+      "518b032e42817c2bd50648e280f6bdee",
+      "0bb068fdb7eaf4783bf7544dbbea1841",
+      "23a0b14977ef347f263f025de3b4caff",
+      "910818f907416159cebf408516dc599c",
+      "10a552ad20a402d7263a9783163cad1e",
+      "d365218d56f84faacc43ead05345fa3e",
+      "a385b1ad27011e055aa6574eb10185f5",
+      "5e7e71e078a8a474391a63f47fc6e452"
+    ],
+    "org_md5": "05572c975e512cad30b3de1f0ee3b577",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
     "md5": "bfab27604a6a4232ff1f6c358005947a",
     "org_level": 21,
     "title": "SKYTAKER [Re:START]",
@@ -1379,6 +1995,36 @@
     "org_md5": "4af61c5e1982e7e435c35fbc0fa5ac52",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "8936d93faf6db2d86b244068d8cf0d3b",
+    "org_level": 12,
+    "title": "Volcanic August [SP HEAT WAVE]",
+    "artist": "Ice respect for RJ mov.Siesphere \/ obj. Seori",
+    "folder": "LEVEL 13(★20~22)",
+    "level": " 13(★20~22)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "80bdaab3bcdd34fef70ed26a23f4833a",
+      "161684a255196a34724b62da6c383e59",
+      "09023cd3f96eb97a5f7c415deb69096b",
+      "aa6aab446d90f2511c77161204ce327e",
+      "c37195dfa63b008b811caf067ad4abd2",
+      "8936d93faf6db2d86b244068d8cf0d3b",
+      "f221eb72d75e651b2a59472b208d1b44",
+      "0079f53134ebf6753b25fb4e55565721",
+      "5054074405e774efe249036458667c54",
+      "6b23fb1cb68c37936de2664254a205b5",
+      "48cb06a0c30fa218f2928c53d15b61e5",
+      "613a323a2680bb8c18b513d2f7af7498",
+      "97ec0b63b2d21c8a0b9fb6b275127011"
+    ],
+    "org_md5": "80bdaab3bcdd34fef70ed26a23f4833a",
+    "comment": "",
+    "adddate": "2024\/10\/22"
   },
   {
     "md5": "7e8c0b7b5aeda254ff1e64535beb6871",
@@ -1409,30 +2055,6 @@
     "md5": "e8df0a6229ed2456ee8af041b4eb410b",
     "org_level": 23,
     "title": "Centurion [Struggle]",
-    "artist": "Setca. vs. Lemi. feat. 咲良ゆの obj:potechang",
-    "folder": "LEVEL 14(★23~)",
-    "level": " 14(★23~)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "3d4c962d684fb224e75d5d9456d77ad0",
-      "7496972d616789cfcf698e5f969e3356",
-      "aaeafce61ea4b33c1e52fa652073382f",
-      "933edafa67bc63f676d910c24ddce041",
-      "334fc34b23d3d4b6e5e1b024a75ba93d",
-      "c0d6309b07416bf38baffc544ccd25ec",
-      "e8df0a6229ed2456ee8af041b4eb410b"
-    ],
-    "org_md5": "3d4c962d684fb224e75d5d9456d77ad0",
-    "comment": "",
-    "adddate": "2024\/10\/19"
-  },
-  {
-    "md5": "c0d6309b07416bf38baffc544ccd25ec",
-    "org_level": 25,
-    "title": "Centurion [Triumph]",
     "artist": "Setca. vs. Lemi. feat. 咲良ゆの obj:potechang",
     "folder": "LEVEL 14(★23~)",
     "level": " 14(★23~)",
@@ -1591,6 +2213,55 @@
       "6fbbafd4df365fbc44217c00f4528ae8"
     ],
     "org_md5": "66d5779e662f878541ff550f11de5601",
+    "comment": "",
+    "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "5dc13c3d0295eb2e713d4c9e9a939103",
+    "org_level": 23,
+    "title": "Χαρων [Pluto]",
+    "artist": "Daily天利 vs Reku Mochizuki obj: BKwind",
+    "folder": "LEVEL 14(★23~)",
+    "level": " 14(★23~)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "441e1e31a748ff81b1c0228cfcc84d2c",
+      "b9605d6697c207f9442c8eb3712954d3",
+      "e03fe6e4f3c620df8580f11c09cb8d30",
+      "cd13bab728eaf1f1563d61c30e795f83",
+      "208f388f7f98b5c92becbe4238530714",
+      "5dc13c3d0295eb2e713d4c9e9a939103",
+      "31adf699100c7e9777d67c6552a93f01",
+      "23174c43c0a397d656a921dfdcf226f5"
+    ],
+    "org_md5": "441e1e31a748ff81b1c0228cfcc84d2c",
+    "comment": "",
+    "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "c0d6309b07416bf38baffc544ccd25ec",
+    "org_level": 25,
+    "title": "Centurion [Triumph]",
+    "artist": "Setca. vs. Lemi. feat. 咲良ゆの obj:potechang",
+    "folder": "LEVEL 15(st7~)",
+    "level": " 15(st7~)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3d4c962d684fb224e75d5d9456d77ad0",
+      "7496972d616789cfcf698e5f969e3356",
+      "aaeafce61ea4b33c1e52fa652073382f",
+      "933edafa67bc63f676d910c24ddce041",
+      "334fc34b23d3d4b6e5e1b024a75ba93d",
+      "c0d6309b07416bf38baffc544ccd25ec",
+      "e8df0a6229ed2456ee8af041b4eb410b"
+    ],
+    "org_md5": "3d4c962d684fb224e75d5d9456d77ad0",
     "comment": "",
     "adddate": "2024\/10\/19"
   }
