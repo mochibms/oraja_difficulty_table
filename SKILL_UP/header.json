@@ -4,6 +4,7 @@
   "level_order": [
     " sl0",
     " sl1",
+    " sl3",
     " sl5",
     " sl6",
     " sl9",
@@ -19,12 +20,12 @@
     " st7",
     " st8",
     " st9",
-    "候補",
-    " sl3"
+    "候補"
   ],
   "folder_order": [
     "LEVEL sl0",
     "LEVEL sl1",
+    "LEVEL sl3",
     "LEVEL sl5",
     "LEVEL sl6",
     "LEVEL sl9",
@@ -47,8 +48,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/10\/04",
+  "last_update": "2024\/10\/26",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/10\/07"
+  "output_date": "2024\/10\/26"
 }
