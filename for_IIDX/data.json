@@ -182,6 +182,26 @@
     "adddate": "2023\/11\/02"
   },
   {
+    "md5": "b5b335a9b96feefef8635d6b3705312b",
+    "org_level": 10,
+    "title": "【XFD】BakiBaki Dimension",
+    "artist": "∀S∀",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cce4528f8e65bce3cc57bff66a5860e0",
+      "b5b335a9b96feefef8635d6b3705312b",
+      "562dd13f8c340def800ee5345c60107b"
+    ],
+    "org_md5": "cce4528f8e65bce3cc57bff66a5860e0",
+    "comment": "",
+    "adddate": "2024\/10\/26"
+  },
+  {
     "md5": "aa46e0e7dde98e04dd3f6e0dd6b14bda",
     "org_level": 10,
     "title": "〇、 [SP Hyper]",
@@ -206,6 +226,29 @@
     "org_md5": "e355dc241b2fcba796bcfe3bedc74b97",
     "comment": "",
     "adddate": "2023\/11\/02"
+  },
+  {
+    "md5": "73244e4209b917881635ad4e17eec141",
+    "org_level": 10,
+    "title": "ABYSSAL \/\/ COSMOS [SP Hyper]",
+    "artist": "C.miler vs Juka_Box obj: Juka_Box",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5e68897352f2c254e334cae1b069cfc7",
+      "91621311e723292259cf9761ec25b67c",
+      "e489856a3f1ab8e832068bc048d6d2b0",
+      "73244e4209b917881635ad4e17eec141",
+      "d471c24891d142a729c59cfdced3f2b1",
+      "e33bee4d4153bf2ed8040903e240acf3"
+    ],
+    "org_md5": "5e68897352f2c254e334cae1b069cfc7",
+    "comment": "",
+    "adddate": "2024\/10\/23"
   },
   {
     "md5": "ba0d2fc45cf853dbbfdc7f3afda2aa83",
@@ -385,6 +428,28 @@
     "org_md5": "8f5721648edf89c842af978ca9bed9e8",
     "comment": "",
     "adddate": "2023\/10\/23"
+  },
+  {
+    "md5": "d0b37fc60ea65d6c72e9b56abac7ab20",
+    "org_level": 10,
+    "title": "Dull Blade [SP HYPER]",
+    "artist": "stuv mov:kazari",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "225a4d2b09feacfb29b600874025bdce",
+      "d0b37fc60ea65d6c72e9b56abac7ab20",
+      "ea047bd884b9fd343b4b23426e65d41d",
+      "98037a7849567288e22d4c3b7d5a2635",
+      "347145c8fdbc2ff12a57d6d00b4d2fe6"
+    ],
+    "org_md5": "225a4d2b09feacfb29b600874025bdce",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "08d5d69b137bec80d7a1da04d8f1a9f0",
@@ -922,6 +987,36 @@
     "adddate": "2023\/11\/04"
   },
   {
+    "md5": "66a5b643ca8b72cb5fc1bb6625c03cb5",
+    "org_level": 10,
+    "title": "Save Yourself [SP Another]",
+    "artist": "litmus* ft. Miori Celesta",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "05572c975e512cad30b3de1f0ee3b577",
+      "bf923064ee08aaa2d3f4df6ed9956cdb",
+      "b7676a7b43c9ddcf9862db0b6c3756c0",
+      "66a5b643ca8b72cb5fc1bb6625c03cb5",
+      "828a4142fd26b4259aaf01c6ba2296df",
+      "518b032e42817c2bd50648e280f6bdee",
+      "0bb068fdb7eaf4783bf7544dbbea1841",
+      "23a0b14977ef347f263f025de3b4caff",
+      "910818f907416159cebf408516dc599c",
+      "10a552ad20a402d7263a9783163cad1e",
+      "d365218d56f84faacc43ead05345fa3e",
+      "a385b1ad27011e055aa6574eb10185f5",
+      "5e7e71e078a8a474391a63f47fc6e452"
+    ],
+    "org_md5": "05572c975e512cad30b3de1f0ee3b577",
+    "comment": "",
+    "adddate": "2024\/10\/26"
+  },
+  {
     "md5": "87e55bebaa78bf92902a97fc724f5c9d",
     "org_level": 10,
     "title": "Shiny☆Strike!!! [SP HYPER]",
@@ -1184,6 +1279,27 @@
     "adddate": "2024\/08\/23"
   },
   {
+    "md5": "915a0db1fa5d9daf0307beba7c3a046b",
+    "org_level": 10,
+    "title": "ディゾルブ [SP HYPER]",
+    "artist": "stuv feat. kei_iwata, saaa, *wakadori bms:stuv bga:KeiuO+内村徹 obj:stuv",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "807d2f3563ea0626e9a460c19ac38c1f",
+      "e59b886a0f35d9f4882f7eef6aaba7b4",
+      "915a0db1fa5d9daf0307beba7c3a046b",
+      "882a3f71f77c2262d45013457dd64374"
+    ],
+    "org_md5": "807d2f3563ea0626e9a460c19ac38c1f",
+    "comment": "",
+    "adddate": "2024\/10\/26"
+  },
+  {
     "md5": "746d437cc23ba36c62f57ed334058f4e",
     "org_level": 10,
     "title": "ドSメスガキ幼女歯医者 でんたるちゃん [HYPER7]",
@@ -1203,6 +1319,32 @@
     "org_md5": "b2d3c385a01bf8a09fae7f68a744a156",
     "comment": "",
     "adddate": "2023\/11\/22"
+  },
+  {
+    "md5": "6ea214a1246c2422f748e3b9d7f1ea9a",
+    "org_level": 10,
+    "title": "ニルヴの心臓 [7HYPER]",
+    "artist": "TJ.hangneil+Atomic Sphere feat.Annabel Illust:MON \/ Movie:MiyazawaEsora",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f76a4136427aa3be271e643a37fa1bc0",
+      "2d5a05410fb8e70cef2386616bd8ccd2",
+      "6ea214a1246c2422f748e3b9d7f1ea9a",
+      "eba28043139ff2337f6b61ddc698bee6",
+      "78fa9511cbd952f47a68cefc5e6f46fd",
+      "8dcc7f14856449eff815f6933931b9b8",
+      "2a6f203dd740ccc99a887433d0692a10",
+      "d89a1305b48ed600933570b092f5c8bc",
+      "2733ff6c014e428c8010af40597c9267"
+    ],
+    "org_md5": "f76a4136427aa3be271e643a37fa1bc0",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "7c438550a9059e0e51ed86f82a36b71a",
@@ -1317,6 +1459,26 @@
     "org_md5": "20f8bccdf98aedae3fa2d867a933525c",
     "comment": "",
     "adddate": "2023\/10\/23"
+  },
+  {
+    "md5": "b0c7d9c75808a5a8d2cb8872210f5993",
+    "org_level": 10,
+    "title": "ふわり。 (bms edit) [SP Another]",
+    "artist": "litmus* ft. 可不",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8401e513201d9ef24f668293db6ebaca",
+      "4543d9f40df16f8cbd89bc2473ebcd70",
+      "b0c7d9c75808a5a8d2cb8872210f5993"
+    ],
+    "org_md5": "8401e513201d9ef24f668293db6ebaca",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "899bcf2fcf8f2fa3bdf83145e26f8468",
@@ -1748,6 +1910,28 @@
     "org_md5": "6e98007ab76c890a7dc7a7b9a7f0ee21",
     "comment": "",
     "adddate": "2023\/11\/24"
+  },
+  {
+    "md5": "cc7d16c79983d34482ce433c10363002",
+    "org_level": 11,
+    "title": "Design [SP ANOTHER]",
+    "artist": "大前 司 obj:hi-low",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fb81b660d0edb0de4031a04939f99682",
+      "cc7d16c79983d34482ce433c10363002",
+      "fd94d1a4f812ee30de03cea929bcae8a",
+      "b81a9f55909413c7bf2413dd069c4939",
+      "acda0b78c2752a4f748b79579e29c9f8"
+    ],
+    "org_md5": "fb81b660d0edb0de4031a04939f99682",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "0e1320b1606710130f68f6c02c48d181",
@@ -2709,6 +2893,46 @@
     "adddate": "2023\/02\/20"
   },
   {
+    "md5": "c838a139d672acb363b9eb80c805df94",
+    "org_level": 11,
+    "title": "BE-MUSiC⇒STORY [SP HYPER]",
+    "artist": "TRiNiTUM(tkqn14×NIKANON) feat.LanuBis movie.Siesphere \/\/ Illust.はしたかさん \/\/ obj.tkqn14×Hihumi",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f0b6d87980f81eae4463147199fef8ea",
+      "b20fa42ea542f76aac1280a8c1513557",
+      "ccc382818254784db106934d09182b68",
+      "c838a139d672acb363b9eb80c805df94",
+      "f75866fc66c1fb4ccf513fcc3b8411d8",
+      "52654987628fb62048473cd81f64353f",
+      "e112a2e4ab67d3b4b402213805c04d49",
+      "ad2c741608c55da49d0bf513e8a40a70",
+      "258257ce3e060554882a5556a24f8a6f",
+      "114c826e56b0786ce969fbf592bc683f",
+      "b7a055b19324489da56d2485a62f3ea1",
+      "d11dbdfeb95396c35b9f1c681a56c4b1",
+      "e4dd7f60decdb8bf87bd7ff5ffa78610",
+      "0e3b976569ad637ee9184f2d5530a06a",
+      "3bb678e39cb003b3dbab53f2efa6e853",
+      "03aadc4372bd14073eb550ecc03ec138",
+      "a9b1d7c117e1d1d0fad91b5fb8542c56",
+      "fffaaf300c7518e48ec78b248ba58270",
+      "3ca47a1fafb6668014a6c05a1d508cb6",
+      "f1216d7017f5706b97de4b2b213ba98b",
+      "a9886de2534d21b9d51db69c70a25a89",
+      "2bb56692b67ef5f808eee0151053c846",
+      "10ec6bdbd11cbdd15d9ce3326e08f9b1"
+    ],
+    "org_md5": "f0b6d87980f81eae4463147199fef8ea",
+    "comment": "",
+    "adddate": "2024\/10\/26"
+  },
+  {
     "md5": "39588b7e90d6e25c6c31fba7ef4fcc21",
     "org_level": 11,
     "title": "Conclusio Catastropha -BMS edit- [SP Hyper]",
@@ -2860,6 +3084,28 @@
     "org_md5": "4952e866ab2f49ad6b8e7405b298c078",
     "comment": "",
     "adddate": "2023\/11\/23"
+  },
+  {
+    "md5": "225a4d2b09feacfb29b600874025bdce",
+    "org_level": 11,
+    "title": "Dull Blade [SP ANOTHER]",
+    "artist": "stuv mov:kazari",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "225a4d2b09feacfb29b600874025bdce",
+      "d0b37fc60ea65d6c72e9b56abac7ab20",
+      "ea047bd884b9fd343b4b23426e65d41d",
+      "98037a7849567288e22d4c3b7d5a2635",
+      "347145c8fdbc2ff12a57d6d00b4d2fe6"
+    ],
+    "org_md5": "225a4d2b09feacfb29b600874025bdce",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "4bdc9d6baaa75b2ace515a13743c8373",
@@ -3106,6 +3352,32 @@
     "org_md5": "efa76bad2649fb4b9bf0284d9fbb62a4",
     "comment": "",
     "adddate": "2023\/11\/24"
+  },
+  {
+    "md5": "df063e3577a443fbd0505ca880c5a198",
+    "org_level": 12,
+    "title": "IOR [SP ANOTHER]",
+    "artist": "ariiol BG by 陸忻遊 \/ obj MKR-32",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "43c3af5024c48b14bbc98eb0c90db250",
+      "b61c9806ee0e4a04faaf279a65bb94ee",
+      "7dc18839724009ab9eedfeb28003d86b",
+      "8fb0cce41606ceed26df4186d4882c99",
+      "0ecf44384761786bc4dd84da94a4ab7e",
+      "df063e3577a443fbd0505ca880c5a198",
+      "5d5e26aeede7d951125ad08bb5b368af",
+      "934df8709eb055f104de85a8f26bf70a",
+      "8e2803336b972accd4413912f59806c6"
+    ],
+    "org_md5": "43c3af5024c48b14bbc98eb0c90db250",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "0a3c046f60b71eb86731cb75173a0d5b",
@@ -3535,6 +3807,29 @@
     "adddate": "2023\/11\/04"
   },
   {
+    "md5": "78fe0deea1fa843533940a64caa82a7d",
+    "org_level": 11,
+    "title": "セクシー・セクシー・ダイナマイト [ANOTHER]",
+    "artist": "kei_iwata \/ Gt. stuv \/ KeiuO + 内村徹",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "10ec7b46efd1e55f5e472906aa473507",
+      "c4171a15dca0bc9f8d429043a809531f",
+      "ffe87cf859a9c17c14df5851935c81ba",
+      "78fe0deea1fa843533940a64caa82a7d",
+      "25e19d3b2a346044fb0fd678d499241e",
+      "2dba48413c50eb7ef81aeac1b3541796"
+    ],
+    "org_md5": "10ec7b46efd1e55f5e472906aa473507",
+    "comment": "",
+    "adddate": "2024\/10\/26"
+  },
+  {
     "md5": "504356dfc48e8abf9b54a88b509b9999",
     "org_level": 11,
     "title": "ネイクド・ワイルド・パラノイド [SP ANOTHER]",
@@ -3888,6 +4183,26 @@
     "adddate": "2023\/02\/25"
   },
   {
+    "md5": "21aba0740548695966dfbd74d96cab0b",
+    "org_level": 12,
+    "title": "Asphalt Crack",
+    "artist": "∀S∀",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "21aba0740548695966dfbd74d96cab0b",
+      "295dea508f2ab0545e3c85c20a4443ad",
+      "6d48ec687795559d84b7b70a0349bd56"
+    ],
+    "org_md5": "21aba0740548695966dfbd74d96cab0b",
+    "comment": "",
+    "adddate": "2024\/10\/23"
+  },
+  {
     "md5": "70b6f38f9a5536c0826c15155c471d51",
     "org_level": 12,
     "title": "Assault TAXI",
@@ -3945,6 +4260,33 @@
     "org_md5": "d489eb4db28fcb6d8c6f42bc39c4057b",
     "comment": "",
     "adddate": "2023\/02\/17"
+  },
+  {
+    "md5": "c48d267341c801699a183b6b64961cfa",
+    "org_level": 12,
+    "title": "Colorful Polytope",
+    "artist": "あさり",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0d62d9fcc20ad777aa795ec1771f1d3c",
+      "7c1075912c0cd6eb3abc0696f248ccd1",
+      "f05b8990ec9a663eacd17bbc4f71dd8c",
+      "0066662a365b510b00d52b29d278ca8e",
+      "6a9cb00f4d94afaee3b607f556c9f22b",
+      "32f875844a05950dfd92451f6d7b743c",
+      "c48d267341c801699a183b6b64961cfa",
+      "1a9b0af99b9551d51d27ee06277d7375",
+      "c9e154634b57c07f34dc12db77e42e2a",
+      "d496ec0376fbc7b5d4d712ce9baf8b04"
+    ],
+    "org_md5": "0d62d9fcc20ad777aa795ec1771f1d3c",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "a556f9145914158ab05356b482937799",
@@ -4525,6 +4867,26 @@
     "adddate": "2023\/02\/23"
   },
   {
+    "md5": "cce4528f8e65bce3cc57bff66a5860e0",
+    "org_level": 12,
+    "title": "【XFD】BakiBaki Dimension",
+    "artist": "∀S∀",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cce4528f8e65bce3cc57bff66a5860e0",
+      "b5b335a9b96feefef8635d6b3705312b",
+      "562dd13f8c340def800ee5345c60107b"
+    ],
+    "org_md5": "cce4528f8e65bce3cc57bff66a5860e0",
+    "comment": "",
+    "adddate": "2024\/10\/14"
+  },
+  {
     "md5": "3083bf3ed23942c307172ef8a7553707",
     "org_level": 3,
     "title": "8th:Planet [SP ANOTHER+]",
@@ -4539,6 +4901,29 @@
     "org_md5": "",
     "comment": "obj_jakko 差分一覧 http:\/\/joka193.blog.fc2.com\/blog-category-0.html",
     "adddate": "2023\/05\/29"
+  },
+  {
+    "md5": "5e68897352f2c254e334cae1b069cfc7",
+    "org_level": 12,
+    "title": "ABYSSAL \/\/ COSMOS [SP Another]",
+    "artist": "C.miler vs Juka_Box obj: Juka_Box",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5e68897352f2c254e334cae1b069cfc7",
+      "91621311e723292259cf9761ec25b67c",
+      "e489856a3f1ab8e832068bc048d6d2b0",
+      "73244e4209b917881635ad4e17eec141",
+      "d471c24891d142a729c59cfdced3f2b1",
+      "e33bee4d4153bf2ed8040903e240acf3"
+    ],
+    "org_md5": "5e68897352f2c254e334cae1b069cfc7",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "505fbc394d48ab1210370da861ddd44c",
@@ -4882,6 +5267,32 @@
     "adddate": "2023\/11\/04"
   },
   {
+    "md5": "0ecf44384761786bc4dd84da94a4ab7e",
+    "org_level": 12,
+    "title": "IOR [SP AIR RACE]",
+    "artist": "ariiol BG by 陸忻遊 \/ obj AZVW_2",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "43c3af5024c48b14bbc98eb0c90db250",
+      "b61c9806ee0e4a04faaf279a65bb94ee",
+      "7dc18839724009ab9eedfeb28003d86b",
+      "8fb0cce41606ceed26df4186d4882c99",
+      "0ecf44384761786bc4dd84da94a4ab7e",
+      "df063e3577a443fbd0505ca880c5a198",
+      "5d5e26aeede7d951125ad08bb5b368af",
+      "934df8709eb055f104de85a8f26bf70a",
+      "8e2803336b972accd4413912f59806c6"
+    ],
+    "org_md5": "43c3af5024c48b14bbc98eb0c90db250",
+    "comment": "",
+    "adddate": "2024\/10\/26"
+  },
+  {
     "md5": "14d7e537b29ffeeeb902a8c4a2da92a5",
     "org_level": 12,
     "title": "Jemdet[ANOTHER]",
@@ -4936,6 +5347,26 @@
     "org_md5": "3a8f099d447d67b73ee735712bc52eb5",
     "comment": "",
     "adddate": "2023\/11\/04"
+  },
+  {
+    "md5": "c9bed8949062134e0d63d22e6a0a8614",
+    "org_level": 12,
+    "title": "Magical Night Special",
+    "artist": "Dogsix",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c9bed8949062134e0d63d22e6a0a8614",
+      "5db0d0226721351d86c77d128f4aec39",
+      "bd7e26953cf6f7e1d11aabb6d9a962d8"
+    ],
+    "org_md5": "c9bed8949062134e0d63d22e6a0a8614",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "9ea6ddc2d7314129542aed068bc01144",
@@ -5246,6 +5677,27 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "807d2f3563ea0626e9a460c19ac38c1f",
+    "org_level": 12,
+    "title": "ディゾルブ [SP ANOTHER]",
+    "artist": "stuv feat. kei_iwata, saaa, *wakadori bms:stuv bga:KeiuO+内村徹 obj:saaa",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "807d2f3563ea0626e9a460c19ac38c1f",
+      "e59b886a0f35d9f4882f7eef6aaba7b4",
+      "915a0db1fa5d9daf0307beba7c3a046b",
+      "882a3f71f77c2262d45013457dd64374"
+    ],
+    "org_md5": "807d2f3563ea0626e9a460c19ac38c1f",
+    "comment": "",
+    "adddate": "2024\/10\/26"
+  },
+  {
     "md5": "b41a7bbe0b6e15540739fb9573e24fb3",
     "org_level": 2,
     "title": "ネコノテ・カリタガール [Virtual]",
@@ -5425,6 +5877,46 @@
     "org_md5": "8a9d72554eada1de2172091e35c135fb",
     "comment": "sl2",
     "adddate": "2023\/11\/19"
+  },
+  {
+    "md5": "f75866fc66c1fb4ccf513fcc3b8411d8",
+    "org_level": 12,
+    "title": "BE-MUSiC⇒STORY [SP ANOTHER]",
+    "artist": "TRiNiTUM(tkqn14×NIKANON) feat.LanuBis movie.Siesphere \/\/ Illust.はしたかさん \/\/ obj.tkqn14×Hihumi",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f0b6d87980f81eae4463147199fef8ea",
+      "b20fa42ea542f76aac1280a8c1513557",
+      "ccc382818254784db106934d09182b68",
+      "c838a139d672acb363b9eb80c805df94",
+      "f75866fc66c1fb4ccf513fcc3b8411d8",
+      "52654987628fb62048473cd81f64353f",
+      "e112a2e4ab67d3b4b402213805c04d49",
+      "ad2c741608c55da49d0bf513e8a40a70",
+      "258257ce3e060554882a5556a24f8a6f",
+      "114c826e56b0786ce969fbf592bc683f",
+      "b7a055b19324489da56d2485a62f3ea1",
+      "d11dbdfeb95396c35b9f1c681a56c4b1",
+      "e4dd7f60decdb8bf87bd7ff5ffa78610",
+      "0e3b976569ad637ee9184f2d5530a06a",
+      "3bb678e39cb003b3dbab53f2efa6e853",
+      "03aadc4372bd14073eb550ecc03ec138",
+      "a9b1d7c117e1d1d0fad91b5fb8542c56",
+      "fffaaf300c7518e48ec78b248ba58270",
+      "3ca47a1fafb6668014a6c05a1d508cb6",
+      "f1216d7017f5706b97de4b2b213ba98b",
+      "a9886de2534d21b9d51db69c70a25a89",
+      "2bb56692b67ef5f808eee0151053c846",
+      "10ec6bdbd11cbdd15d9ce3326e08f9b1"
+    ],
+    "org_md5": "f0b6d87980f81eae4463147199fef8ea",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "03c61c4ee1f0d8cfe74de3881e943294",
@@ -6196,6 +6688,32 @@
     "org_md5": "",
     "comment": "kawaisou",
     "adddate": "2023\/02\/24"
+  },
+  {
+    "md5": "eba28043139ff2337f6b61ddc698bee6",
+    "org_level": 12,
+    "title": "ニルヴの心臓 [7ANOTHER]",
+    "artist": "TJ.hangneil+Atomic Sphere feat.Annabel Illust:MON \/ Movie:MiyazawaEsora",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f76a4136427aa3be271e643a37fa1bc0",
+      "2d5a05410fb8e70cef2386616bd8ccd2",
+      "6ea214a1246c2422f748e3b9d7f1ea9a",
+      "eba28043139ff2337f6b61ddc698bee6",
+      "78fa9511cbd952f47a68cefc5e6f46fd",
+      "8dcc7f14856449eff815f6933931b9b8",
+      "2a6f203dd740ccc99a887433d0692a10",
+      "d89a1305b48ed600933570b092f5c8bc",
+      "2733ff6c014e428c8010af40597c9267"
+    ],
+    "org_md5": "f76a4136427aa3be271e643a37fa1bc0",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "ed8f04b21e2601a0d511d86319478a5d",
@@ -7622,6 +8140,36 @@
     "org_md5": "",
     "comment": "前半は個人差要素多め、後半は若干LNが絡むが概ね地力譜面",
     "adddate": "2023\/08\/10"
+  },
+  {
+    "md5": "828a4142fd26b4259aaf01c6ba2296df",
+    "org_level": 5,
+    "title": "Save Yourself [SP LEGGENDARIA]",
+    "artist": "litmus* ft. Miori Celesta obj : BAECON",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "05572c975e512cad30b3de1f0ee3b577",
+      "bf923064ee08aaa2d3f4df6ed9956cdb",
+      "b7676a7b43c9ddcf9862db0b6c3756c0",
+      "66a5b643ca8b72cb5fc1bb6625c03cb5",
+      "828a4142fd26b4259aaf01c6ba2296df",
+      "518b032e42817c2bd50648e280f6bdee",
+      "0bb068fdb7eaf4783bf7544dbbea1841",
+      "23a0b14977ef347f263f025de3b4caff",
+      "910818f907416159cebf408516dc599c",
+      "10a552ad20a402d7263a9783163cad1e",
+      "d365218d56f84faacc43ead05345fa3e",
+      "a385b1ad27011e055aa6574eb10185f5",
+      "5e7e71e078a8a474391a63f47fc6e452"
+    ],
+    "org_md5": "05572c975e512cad30b3de1f0ee3b577",
+    "comment": "",
+    "adddate": "2024\/10\/26"
   },
   {
     "md5": "d58545307e1bf7c666c0d032cdb72298",
