@@ -2,7 +2,7 @@
   "name": "BOF:TT 良い曲で遊ぶためのリスト",
   "symbol": "TT",
   "level_order": [
-    " 10以下(注釈は想定される下限難易度です)",
+    " 10以下",
     " 11",
     " 12-(☆12下位~中の下)",
     " 12(☆12中~上の下)",
@@ -12,7 +12,7 @@
     " 15(st7~)"
   ],
   "folder_order": [
-    "LEVEL 10以下(注釈は想定される下限難易度です)",
+    "LEVEL 10以下",
     "LEVEL 11",
     "LEVEL 12-(☆12下位~中の下)",
     "LEVEL 12(☆12中~上の下)",
@@ -25,8 +25,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/10\/22",
+  "last_update": "2024\/10\/26",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/10\/22"
+  "output_date": "2024\/10\/26"
 }
