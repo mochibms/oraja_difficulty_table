@@ -9,7 +9,9 @@
     " 12+(☆12上位~sl12)",
     " 13(★20~22)",
     " 14(★23~)",
-    " 15(st7~)"
+    " 15(st7~)",
+    "！必ず最初にビギナー譜面をプレーして下さい 他はオート再生推奨！",
+    "ハルガスミ"
   ],
   "folder_order": [
     "LEVEL 10以下",
@@ -18,15 +20,18 @@
     "LEVEL 12(☆12中~上の下)",
     "LEVEL 12+(☆12上位~sl12)",
     "LEVEL 13(★20~22)",
-    "LEVEL 14(★23~)"
+    "LEVEL 14(★23~)",
+    "LEVEL 15(st7~)",
+    "！必ず最初にビギナー譜面をプレーして下さい 他はオート再生推奨！",
+    "ハルガスミ"
   ],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/10\/26",
+  "last_update": "2024\/11\/02",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/10\/26"
+  "output_date": "2024\/11\/02"
 }
