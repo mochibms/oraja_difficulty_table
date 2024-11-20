@@ -1,7 +1,11 @@
 {
   "name": "for IIDX SP",
-  "symbol": "☆",
+  "symbol": "IIDX☆",
   "level_order": [
+    "4",
+    "5",
+    "6",
+    "7(☆7以下は譜面を自分で確認していません)",
     "8",
     "9",
     "10",
@@ -26,6 +30,10 @@
     "14"
   ],
   "folder_order": [
+    "LEVEL4",
+    "LEVEL5",
+    "LEVEL6",
+    "LEVEL7(☆7以下は譜面を自分で確認していません)",
     "LEVEL8",
     "LEVEL9",
     "LEVEL10",
@@ -54,8 +62,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/10\/26",
+  "last_update": "2024\/11\/20",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/10\/26"
+  "output_date": "2024\/11\/20"
 }
