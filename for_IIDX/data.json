@@ -1,5 +1,25 @@
 [
   {
+    "md5": "127773a83d4c1d861d25e800b79a8438",
+    "org_level": 4,
+    "title": "Back Around",
+    "artist": "hu-zin vs kohaxy",
+    "folder": "LEVEL4",
+    "level": "4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "837ff59c277907a805693bb7a913a5ea",
+      "92e4d57a6870ea1b999bc3ccfca1d333",
+      "127773a83d4c1d861d25e800b79a8438"
+    ],
+    "org_md5": "837ff59c277907a805693bb7a913a5ea",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
     "md5": "7d34cef181b17781333296956372903c",
     "org_level": 4,
     "title": "Corgito Ergosum [SP NORMAL]",
@@ -895,6 +915,40 @@
     "adddate": "2024\/11\/20"
   },
   {
+    "md5": "00033787a4fe4bcded128c3cbf163fa1",
+    "org_level": 7,
+    "title": "-195.8 [7K NORMAL]",
+    "artist": "Lalot. (BGA:DCWH×らき)",
+    "folder": "LEVEL7(☆7以下は譜面を自分で確認していません)",
+    "level": "7(☆7以下は譜面を自分で確認していません)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "51f7a8950437744e4b2a35930a4105f1",
+      "95528dd29cbddcffa8a695467e5a9f10",
+      "82b42c3ae67be7989ad2b3d72ac53c29",
+      "990ed69e28b4b0c605c8b954121c6d40",
+      "6e89ce0eb1c99b264e7d4b824e8fab2c",
+      "52f8c909fa95e37d3baa98dd1eb15672",
+      "a09411c8a753c0af19386252b06885f3",
+      "618e0117e917021b0810098cee7c72e9",
+      "8f8840379b68b5e9bca68be172e741ec",
+      "684c7c80efdd86c8e5f4280d8ddd06f0",
+      "917cf82ebe178ac19811d38bcebddeec",
+      "cd6605aec416036e2ec8ae06516785b7",
+      "00033787a4fe4bcded128c3cbf163fa1",
+      "3f24ee2d30c7c9f3dfa5f72848557739",
+      "20d7d0a5858714ea34478cca2e32f2a4",
+      "ebc2ade32e01c32e95e09519e7bf4aea",
+      "d35126d58e7ca733bb56e7fed460a9a1"
+    ],
+    "org_md5": "51f7a8950437744e4b2a35930a4105f1",
+    "comment": "",
+    "adddate": "2024\/11\/20"
+  },
+  {
     "md5": "d471c24891d142a729c59cfdced3f2b1",
     "org_level": 7,
     "title": "ABYSSAL \/\/ COSMOS [SP Normal]",
@@ -917,6 +971,25 @@
     "org_md5": "5e68897352f2c254e334cae1b069cfc7",
     "comment": "",
     "adddate": "2024\/11\/20"
+  },
+  {
+    "md5": "dcbc7be245e6f17065fb119441caa937",
+    "org_level": 6,
+    "title": "BAMBOO TWIST(HYPER)",
+    "artist": "Ras vs Nankumo BGA：plano",
+    "folder": "LEVEL7(☆7以下は譜面を自分で確認していません)",
+    "level": "7(☆7以下は譜面を自分で確認していません)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "45b5d18de0a9d582287b8b1536a4ac79",
+      "dcbc7be245e6f17065fb119441caa937"
+    ],
+    "org_md5": "45b5d18de0a9d582287b8b1536a4ac79",
+    "comment": "",
+    "adddate": "2024\/11\/21"
   },
   {
     "md5": "ccc382818254784db106934d09182b68",
@@ -1231,6 +1304,26 @@
     "adddate": "2024\/11\/20"
   },
   {
+    "md5": "295dea508f2ab0545e3c85c20a4443ad",
+    "org_level": 8,
+    "title": "Asphalt Crack",
+    "artist": "∀S∀",
+    "folder": "LEVEL8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "21aba0740548695966dfbd74d96cab0b",
+      "295dea508f2ab0545e3c85c20a4443ad",
+      "6d48ec687795559d84b7b70a0349bd56"
+    ],
+    "org_md5": "21aba0740548695966dfbd74d96cab0b",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
     "md5": "9c284b342553332310a6e335d0b1b906",
     "org_level": 7,
     "title": "Bounce Back(7key)",
@@ -1295,6 +1388,38 @@
     "adddate": "2023\/11\/08"
   },
   {
+    "md5": "9779976a6d8af1c511771e9ec9ab3c36",
+    "org_level": 9,
+    "title": "#B2FFFF [SP HYPER]",
+    "artist": "tkqn14 mov. WIC \/ obj. Tiv",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "83aa6e63840962a06ce06bc33ee7b103",
+      "5fcd14ad511def0791f195c3ee73f085",
+      "9779976a6d8af1c511771e9ec9ab3c36",
+      "fa4352651cf70bbf5f4bbb94ab7ee0a5",
+      "8c5e52719646a027b4d832ce115d98c2",
+      "1189ac4d944a65f70df3406d7660087e",
+      "a34419877dacd773bfce2fb3214975f2",
+      "43c4056838fa6bdbbfa7fb0c5090081b",
+      "2d218c150b6e723d41b76afb78990146",
+      "8c456f30370ae79f910a246a093046f9",
+      "1fe483239f5444300f719727a6ad04f5",
+      "ada20737a1e519f198519fa782144d07",
+      "44c527302db33d4a8b16e020cdc91b4d",
+      "9d10a5feb4b6138beb9de9cadfc4b711",
+      "55392dd8d096aac25f06108b229a28f0"
+    ],
+    "org_md5": "83aa6e63840962a06ce06bc33ee7b103",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "00dbff7d9264bf41c503edb3d5899e2b",
     "org_level": 9,
     "title": "Black Wings [Hyper]",
@@ -1317,6 +1442,76 @@
     "org_md5": "de475e7a59abefb5fd5fde991257dfea",
     "comment": "",
     "adddate": "2024\/11\/03"
+  },
+  {
+    "md5": "c9e154634b57c07f34dc12db77e42e2a",
+    "org_level": 9,
+    "title": "Colorful Polytope",
+    "artist": "あさり",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0d62d9fcc20ad777aa795ec1771f1d3c",
+      "7c1075912c0cd6eb3abc0696f248ccd1",
+      "f05b8990ec9a663eacd17bbc4f71dd8c",
+      "0066662a365b510b00d52b29d278ca8e",
+      "6a9cb00f4d94afaee3b607f556c9f22b",
+      "32f875844a05950dfd92451f6d7b743c",
+      "c48d267341c801699a183b6b64961cfa",
+      "1a9b0af99b9551d51d27ee06277d7375",
+      "c9e154634b57c07f34dc12db77e42e2a",
+      "d496ec0376fbc7b5d4d712ce9baf8b04"
+    ],
+    "org_md5": "0d62d9fcc20ad777aa795ec1771f1d3c",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
+    "md5": "b81a9f55909413c7bf2413dd069c4939",
+    "org_level": 8,
+    "title": "Design [SP HYPER]",
+    "artist": "大前 司",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fb81b660d0edb0de4031a04939f99682",
+      "cc7d16c79983d34482ce433c10363002",
+      "fd94d1a4f812ee30de03cea929bcae8a",
+      "b81a9f55909413c7bf2413dd069c4939",
+      "acda0b78c2752a4f748b79579e29c9f8"
+    ],
+    "org_md5": "fb81b660d0edb0de4031a04939f99682",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
+    "md5": "a829c3c36898a481025002bbd11934ef",
+    "org_level": 9,
+    "title": "flexidefine [Intermediate]",
+    "artist": "Lamanya",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "495cc8d7ba533610b012e6f5267793f8",
+      "a829c3c36898a481025002bbd11934ef",
+      "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+      "8fdc495fad411d827954385d4e4e9643"
+    ],
+    "org_md5": "495cc8d7ba533610b012e6f5267793f8",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "3c7b250c5adb86f2e9650995e56d81e9",
@@ -1597,6 +1792,33 @@
     "adddate": "2023\/11\/15"
   },
   {
+    "md5": "ad9418960b3a849841efca693c85bbcd",
+    "org_level": 10,
+    "title": "ADONIS [SP HYPER]",
+    "artist": "Seagull BG by Aya \/ obj AZVW_2",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6e4414813b8ca9695055dbbc4a6a1f80",
+      "bb4785bddfe30775b4db299bb92d2b79",
+      "b8cc409d5a33b4718e85b91521963e56",
+      "af3243d945f6f16cd47a17e829173979",
+      "540ec8c065ed3094420f2634ee56e089",
+      "5b07e114909e52792c8dc5ab27b0d0a5",
+      "8f165bd5691b0279b6fbf8c99a57e46b",
+      "ad9418960b3a849841efca693c85bbcd",
+      "e0499afa5d894010c4043df583a7784b",
+      "fa74cab7c5e573c150789440a9fe68ba"
+    ],
+    "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "0dbb35ef596874df5764f5baa50b008f",
     "org_level": 10,
     "title": "Assault TAXI",
@@ -1873,6 +2095,33 @@
     "org_md5": "e2061134cf3acd5a71b7ef59b6a4ab9b",
     "comment": "",
     "adddate": "2023\/11\/04"
+  },
+  {
+    "md5": "7c272ef5ccc22d65487f5558e740389b",
+    "org_level": 10,
+    "title": "Eureka [7HYPER]",
+    "artist": "sasakure.UK x ArmyTom  w\/z Bitplane Movie:pam x HDLV",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "77d9eed10e3fce8464dd1ebff0b331f1",
+      "f12f7f27fcd3d7406b79e2cfd1f1e4da",
+      "8e8951527adff9fe64782d50252c7507",
+      "7c272ef5ccc22d65487f5558e740389b",
+      "7ab1a9b881f24b85eb4ed52293d85e7d",
+      "22b4805274dfb018ec3dd2ba076ef80d",
+      "c422ac717942b06b1f6815c7714cabca",
+      "623095292cc0efd75ffb2db736355c52",
+      "01581c9154925e9e5053811920f530bf",
+      "3a728b8f44acf5cc66e47f044fba8e8c"
+    ],
+    "org_md5": "77d9eed10e3fce8464dd1ebff0b331f1",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "851a20f9a55dc0741349a2b5111b76a1",
@@ -2235,6 +2484,28 @@
     "org_md5": "ba94033a3ae2f13105023182a086cfdd",
     "comment": "",
     "adddate": "2023\/11\/24"
+  },
+  {
+    "md5": "fbcf8191141edaebb823366faa7bd1a2",
+    "org_level": 10,
+    "title": "Midnight Whisper [SP ANOTHER]",
+    "artist": "ValeraP feat. Stardust lyrics:洛春\/mov:Bharal4D",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "95719acea47df27da8c27505c012de8e",
+      "d8c401ed60268dd19dc04d7cd474875c",
+      "fbcf8191141edaebb823366faa7bd1a2",
+      "bc27291437eaf57089427edf44db247c",
+      "c8a7961c2ac5a27dabf7733a95290d24"
+    ],
+    "org_md5": "95719acea47df27da8c27505c012de8e",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "09046053df041f1536ff5fbfffbb1529",
@@ -4898,6 +5169,27 @@
     "adddate": "2024\/10\/26"
   },
   {
+    "md5": "e86504d2fac0c933fc860ce5c5b87fee",
+    "org_level": 11,
+    "title": "DUO WING",
+    "artist": "∀S∀",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e86504d2fac0c933fc860ce5c5b87fee",
+      "36936c0c537e8cd96c5964294b02d8f7",
+      "981e61578b5da591c26bfb0e69abdbc6",
+      "be44f2b132b8f5c30e6bc92fee7d3ae7"
+    ],
+    "org_md5": "e86504d2fac0c933fc860ce5c5b87fee",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "4bdc9d6baaa75b2ace515a13743c8373",
     "org_level": 11,
     "title": "ECKESACHS[HYPER]",
@@ -4972,6 +5264,33 @@
     "org_md5": "9afb1496687e1ed64e642b3186b3f557",
     "comment": "",
     "adddate": "2023\/02\/25"
+  },
+  {
+    "md5": "7ab1a9b881f24b85eb4ed52293d85e7d",
+    "org_level": 11,
+    "title": "Eureka [7ANOTHER]",
+    "artist": "sasakure.UK x ArmyTom  w\/z Bitplane Movie:pam x HDLV",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "77d9eed10e3fce8464dd1ebff0b331f1",
+      "f12f7f27fcd3d7406b79e2cfd1f1e4da",
+      "8e8951527adff9fe64782d50252c7507",
+      "7c272ef5ccc22d65487f5558e740389b",
+      "7ab1a9b881f24b85eb4ed52293d85e7d",
+      "22b4805274dfb018ec3dd2ba076ef80d",
+      "c422ac717942b06b1f6815c7714cabca",
+      "623095292cc0efd75ffb2db736355c52",
+      "01581c9154925e9e5053811920f530bf",
+      "3a728b8f44acf5cc66e47f044fba8e8c"
+    ],
+    "org_md5": "77d9eed10e3fce8464dd1ebff0b331f1",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "5be2f2b71443afe72042eeb7437daaa7",
@@ -5259,6 +5578,28 @@
     "org_md5": "c2e66ac48edd8cf40116bfbad0097ae6",
     "comment": "",
     "adddate": "2023\/11\/23"
+  },
+  {
+    "md5": "c8a7961c2ac5a27dabf7733a95290d24",
+    "org_level": 12,
+    "title": "Midnight Whisper [SP INSANE]",
+    "artist": "ValeraP feat. Stardust lyrics:洛春\/mov:Bharal4D",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "95719acea47df27da8c27505c012de8e",
+      "d8c401ed60268dd19dc04d7cd474875c",
+      "fbcf8191141edaebb823366faa7bd1a2",
+      "bc27291437eaf57089427edf44db247c",
+      "c8a7961c2ac5a27dabf7733a95290d24"
+    ],
+    "org_md5": "95719acea47df27da8c27505c012de8e",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "eadf5050b1d84bd142bb7fe0234f152d",
@@ -6686,6 +7027,38 @@
     "adddate": "2024\/08\/11"
   },
   {
+    "md5": "fa4352651cf70bbf5f4bbb94ab7ee0a5",
+    "org_level": 12,
+    "title": "#B2FFFF [SP ANOTHER]",
+    "artist": "tkqn14 mov. WIC \/ obj. 七海&tkqn14",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "83aa6e63840962a06ce06bc33ee7b103",
+      "5fcd14ad511def0791f195c3ee73f085",
+      "9779976a6d8af1c511771e9ec9ab3c36",
+      "fa4352651cf70bbf5f4bbb94ab7ee0a5",
+      "8c5e52719646a027b4d832ce115d98c2",
+      "1189ac4d944a65f70df3406d7660087e",
+      "a34419877dacd773bfce2fb3214975f2",
+      "43c4056838fa6bdbbfa7fb0c5090081b",
+      "2d218c150b6e723d41b76afb78990146",
+      "8c456f30370ae79f910a246a093046f9",
+      "1fe483239f5444300f719727a6ad04f5",
+      "ada20737a1e519f198519fa782144d07",
+      "44c527302db33d4a8b16e020cdc91b4d",
+      "9d10a5feb4b6138beb9de9cadfc4b711",
+      "55392dd8d096aac25f06108b229a28f0"
+    ],
+    "org_md5": "83aa6e63840962a06ce06bc33ee7b103",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "9f63a3a9c10a57be2d65bccbf0e8c70a",
     "org_level": 12,
     "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP ANOTHER]",
@@ -6896,6 +7269,30 @@
     "org_md5": "ab92bbb6dbd13cc2d84590768b021204",
     "comment": "",
     "adddate": "2024\/08\/11"
+  },
+  {
+    "md5": "3d4c962d684fb224e75d5d9456d77ad0",
+    "org_level": 12,
+    "title": "Centurion [Another]",
+    "artist": "Setca. vs. Lemi. feat. 咲良ゆの",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3d4c962d684fb224e75d5d9456d77ad0",
+      "7496972d616789cfcf698e5f969e3356",
+      "aaeafce61ea4b33c1e52fa652073382f",
+      "933edafa67bc63f676d910c24ddce041",
+      "334fc34b23d3d4b6e5e1b024a75ba93d",
+      "c0d6309b07416bf38baffc544ccd25ec",
+      "e8df0a6229ed2456ee8af041b4eb410b"
+    ],
+    "org_md5": "3d4c962d684fb224e75d5d9456d77ad0",
+    "comment": "",
+    "adddate": "2024\/11\/21"
   },
   {
     "md5": "a3c8e94822409624336ded03ee03f831",
@@ -7856,6 +8253,27 @@
     "adddate": "2023\/02\/27"
   },
   {
+    "md5": "981e61578b5da591c26bfb0e69abdbc6",
+    "org_level": 12,
+    "title": "DUO WING",
+    "artist": "∀S∀",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e86504d2fac0c933fc860ce5c5b87fee",
+      "36936c0c537e8cd96c5964294b02d8f7",
+      "981e61578b5da591c26bfb0e69abdbc6",
+      "be44f2b132b8f5c30e6bc92fee7d3ae7"
+    ],
+    "org_md5": "e86504d2fac0c933fc860ce5c5b87fee",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "e2061134cf3acd5a71b7ef59b6a4ab9b",
     "org_level": 12,
     "title": "E.V.E[ANOTHER]",
@@ -7941,6 +8359,27 @@
     "org_md5": "68f709ad576392f57fcbee4b0df88fe3",
     "comment": "",
     "adddate": "2023\/11\/19"
+  },
+  {
+    "md5": "495cc8d7ba533610b012e6f5267793f8",
+    "org_level": 12,
+    "title": "flexidefine [Arduous]",
+    "artist": "Lamanya",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "495cc8d7ba533610b012e6f5267793f8",
+      "a829c3c36898a481025002bbd11934ef",
+      "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+      "8fdc495fad411d827954385d4e4e9643"
+    ],
+    "org_md5": "495cc8d7ba533610b012e6f5267793f8",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "255f2a67628304d2ee7d2bc008dce002",
@@ -8295,6 +8734,30 @@
     "org_md5": "baeac3fee0f258b93dac1e13e6fc3431",
     "comment": "",
     "adddate": "2024\/01\/18"
+  },
+  {
+    "md5": "6bc2078a53a98aaa5fb6faed455cf9c6",
+    "org_level": 12,
+    "title": "Plunge [Another]",
+    "artist": "潮音きつね_H \/ obj: MiyA BGA. TARA#376",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "19a536459aa77f2ab6182ec8630b70da",
+      "f3c563b1dfa35578a5f83cd56ee295a2",
+      "64dde80040dcf29d90bf79a6ea3d4324",
+      "560271946dfae7c3eb233a97c63fb402",
+      "6bc2078a53a98aaa5fb6faed455cf9c6",
+      "6e27180a8aef01a96020bbf6254d18d2",
+      "3735b8d6b84b5fdbdf0529e1f7b876d9"
+    ],
+    "org_md5": "19a536459aa77f2ab6182ec8630b70da",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "d1877ad5dc0134b27eb0238da5721eed",
@@ -8779,6 +9242,38 @@
     "adddate": "2023\/11\/19"
   },
   {
+    "md5": "8c5e52719646a027b4d832ce115d98c2",
+    "org_level": 7,
+    "title": "#B2FFFF [SP INSANE]",
+    "artist": "tkqn14 mov. WIC \/ obj. 七海",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "83aa6e63840962a06ce06bc33ee7b103",
+      "5fcd14ad511def0791f195c3ee73f085",
+      "9779976a6d8af1c511771e9ec9ab3c36",
+      "fa4352651cf70bbf5f4bbb94ab7ee0a5",
+      "8c5e52719646a027b4d832ce115d98c2",
+      "1189ac4d944a65f70df3406d7660087e",
+      "a34419877dacd773bfce2fb3214975f2",
+      "43c4056838fa6bdbbfa7fb0c5090081b",
+      "2d218c150b6e723d41b76afb78990146",
+      "8c456f30370ae79f910a246a093046f9",
+      "1fe483239f5444300f719727a6ad04f5",
+      "ada20737a1e519f198519fa782144d07",
+      "44c527302db33d4a8b16e020cdc91b4d",
+      "9d10a5feb4b6138beb9de9cadfc4b711",
+      "55392dd8d096aac25f06108b229a28f0"
+    ],
+    "org_md5": "83aa6e63840962a06ce06bc33ee7b103",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "deab2d7c66503690608c04e5c5211f6d",
     "org_level": 12,
     "title": "Adularescence[ANOTHER]",
@@ -8902,6 +9397,32 @@
     "org_md5": "",
     "comment": "sl4",
     "adddate": "2023\/02\/22"
+  },
+  {
+    "md5": "cbfc617047b86fc49ea515d34db588d5",
+    "org_level": 12,
+    "title": "E.V.E.R[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b3d3f7e711ac41b4f8acec3d90142739",
+      "137fc9c6692e45733b53c1c2559f81e7",
+      "e95bc7c6975ce7d01a383a83a2ff4871",
+      "cbfc617047b86fc49ea515d34db588d5",
+      "b6f13194f93ef2188a6dcaff653f9373",
+      "404649729fd06ab8fe0aa449bd93d214",
+      "2c121186b0788936671a455ba9486523",
+      "02f1902c72d2eca6c11fc6c4320a7463",
+      "38dfb05c421a27ecd3fbb06bba0ec83f"
+    ],
+    "org_md5": "b3d3f7e711ac41b4f8acec3d90142739",
+    "comment": "",
+    "adddate": "2024\/11\/21"
   },
   {
     "md5": "ecb6c38d3925e3817b13fc5032744634",
@@ -10492,6 +11013,33 @@
     "adddate": "2024\/08\/23"
   },
   {
+    "md5": "5b07e114909e52792c8dc5ab27b0d0a5",
+    "org_level": 12,
+    "title": "ADONIS [SP ANOTHER]",
+    "artist": "Seagull BG by Aya \/ obj AZVW_2",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6e4414813b8ca9695055dbbc4a6a1f80",
+      "bb4785bddfe30775b4db299bb92d2b79",
+      "b8cc409d5a33b4718e85b91521963e56",
+      "af3243d945f6f16cd47a17e829173979",
+      "540ec8c065ed3094420f2634ee56e089",
+      "5b07e114909e52792c8dc5ab27b0d0a5",
+      "8f165bd5691b0279b6fbf8c99a57e46b",
+      "ad9418960b3a849841efca693c85bbcd",
+      "e0499afa5d894010c4043df583a7784b",
+      "fa74cab7c5e573c150789440a9fe68ba"
+    ],
+    "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "ae1f33b3beeb299dc9a775437b5e0a1b",
     "org_level": 12,
     "title": "ATHAZA[ANOTHER]",
@@ -10603,6 +11151,27 @@
     "org_md5": "",
     "comment": "4~5? (SPAと39msのズレキー音がひとつあるけど、プレイには問題なし)",
     "adddate": "2023\/11\/24"
+  },
+  {
+    "md5": "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+    "org_level": 12,
+    "title": "flexidefine [Discriminating]",
+    "artist": "Lamanya",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "495cc8d7ba533610b012e6f5267793f8",
+      "a829c3c36898a481025002bbd11934ef",
+      "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+      "8fdc495fad411d827954385d4e4e9643"
+    ],
+    "org_md5": "495cc8d7ba533610b012e6f5267793f8",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "dfc6c3ddb37c46ccaccc4696b985fd10",
@@ -12749,6 +13318,54 @@
     "adddate": "2023\/07\/03"
   },
   {
+    "md5": "21235ed3faf386845c3ca260a44e7370",
+    "org_level": 13,
+    "title": "A Playable Life [SP INSANE]",
+    "artist": "Tsukasa & Mimi \/ movie: Nima bms: 大前 司 \/ obj:NASA",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "675c96709eab899c5dc208f433f78666",
+      "2d6f141cd4ea445ffffabdc646ed2248",
+      "02d67ff1ae3a2d9ef4f707a41b055378",
+      "21235ed3faf386845c3ca260a44e7370"
+    ],
+    "org_md5": "675c96709eab899c5dc208f433f78666",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
+    "md5": "8f165bd5691b0279b6fbf8c99a57e46b",
+    "org_level": 12,
+    "title": "ADONIS [SP BNOTHER]",
+    "artist": "Seagull BG by Aya \/ obj AZVW_2",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6e4414813b8ca9695055dbbc4a6a1f80",
+      "bb4785bddfe30775b4db299bb92d2b79",
+      "b8cc409d5a33b4718e85b91521963e56",
+      "af3243d945f6f16cd47a17e829173979",
+      "540ec8c065ed3094420f2634ee56e089",
+      "5b07e114909e52792c8dc5ab27b0d0a5",
+      "8f165bd5691b0279b6fbf8c99a57e46b",
+      "ad9418960b3a849841efca693c85bbcd",
+      "e0499afa5d894010c4043df583a7784b",
+      "fa74cab7c5e573c150789440a9fe68ba"
+    ],
+    "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "e11ea3e5107888481425f76d7da26222",
     "org_level": 9,
     "title": "AzTella -aztellite-",
@@ -13326,27 +13943,6 @@
     "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
     "comment": "video<https:\/\/youtu.be\/eax5V-n5Kag>",
     "adddate": "2023\/05\/19"
-  },
-  {
-    "md5": "21235ed3faf386845c3ca260a44e7370",
-    "org_level": 13,
-    "title": "A Playable Life [SP INSANE]",
-    "artist": "Tsukasa & Mimi \/ movie: Nima bms: 大前 司 \/ obj:NASA",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "675c96709eab899c5dc208f433f78666",
-      "2d6f141cd4ea445ffffabdc646ed2248",
-      "02d67ff1ae3a2d9ef4f707a41b055378",
-      "21235ed3faf386845c3ca260a44e7370"
-    ],
-    "org_md5": "675c96709eab899c5dc208f433f78666",
-    "comment": "",
-    "adddate": "2023\/11\/22"
   },
   {
     "md5": "4be82241ec96118b13309acf3c946dda",
