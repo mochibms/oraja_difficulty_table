@@ -1,5 +1,37 @@
 [
   {
+    "md5": "9779976a6d8af1c511771e9ec9ab3c36",
+    "org_level": 9,
+    "title": "#B2FFFF [SP HYPER]",
+    "artist": "tkqn14 mov. WIC \/ obj. Tiv",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "83aa6e63840962a06ce06bc33ee7b103",
+      "5fcd14ad511def0791f195c3ee73f085",
+      "9779976a6d8af1c511771e9ec9ab3c36",
+      "fa4352651cf70bbf5f4bbb94ab7ee0a5",
+      "8c5e52719646a027b4d832ce115d98c2",
+      "1189ac4d944a65f70df3406d7660087e",
+      "a34419877dacd773bfce2fb3214975f2",
+      "43c4056838fa6bdbbfa7fb0c5090081b",
+      "2d218c150b6e723d41b76afb78990146",
+      "8c456f30370ae79f910a246a093046f9",
+      "1fe483239f5444300f719727a6ad04f5",
+      "ada20737a1e519f198519fa782144d07",
+      "44c527302db33d4a8b16e020cdc91b4d",
+      "9d10a5feb4b6138beb9de9cadfc4b711",
+      "55392dd8d096aac25f06108b229a28f0"
+    ],
+    "org_md5": "83aa6e63840962a06ce06bc33ee7b103",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "b5b335a9b96feefef8635d6b3705312b",
     "org_level": 10,
     "title": "【XFD】BakiBaki Dimension",
@@ -43,6 +75,33 @@
     "adddate": "2024\/10\/18"
   },
   {
+    "md5": "ad9418960b3a849841efca693c85bbcd",
+    "org_level": 10,
+    "title": "ADONIS [SP HYPER]",
+    "artist": "Seagull BG by Aya \/ obj AZVW_2",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6e4414813b8ca9695055dbbc4a6a1f80",
+      "bb4785bddfe30775b4db299bb92d2b79",
+      "b8cc409d5a33b4718e85b91521963e56",
+      "af3243d945f6f16cd47a17e829173979",
+      "540ec8c065ed3094420f2634ee56e089",
+      "5b07e114909e52792c8dc5ab27b0d0a5",
+      "8f165bd5691b0279b6fbf8c99a57e46b",
+      "ad9418960b3a849841efca693c85bbcd",
+      "e0499afa5d894010c4043df583a7784b",
+      "fa74cab7c5e573c150789440a9fe68ba"
+    ],
+    "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
     "md5": "836b9d57ddd0e2343c48b3627a2549a5",
     "org_level": 10,
     "title": "Arctos [SP ANOTHER]",
@@ -63,6 +122,79 @@
     "org_md5": "836b9d57ddd0e2343c48b3627a2549a5",
     "comment": "",
     "adddate": "2024\/10\/15"
+  },
+  {
+    "md5": "aaeafce61ea4b33c1e52fa652073382f",
+    "org_level": 10,
+    "title": "Centurion [Hyper]",
+    "artist": "Setca. vs. Lemi. feat. 咲良ゆの",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3d4c962d684fb224e75d5d9456d77ad0",
+      "7496972d616789cfcf698e5f969e3356",
+      "aaeafce61ea4b33c1e52fa652073382f",
+      "933edafa67bc63f676d910c24ddce041",
+      "334fc34b23d3d4b6e5e1b024a75ba93d",
+      "c0d6309b07416bf38baffc544ccd25ec",
+      "e8df0a6229ed2456ee8af041b4eb410b"
+    ],
+    "org_md5": "3d4c962d684fb224e75d5d9456d77ad0",
+    "comment": "",
+    "adddate": "2024\/11\/04"
+  },
+  {
+    "md5": "c9e154634b57c07f34dc12db77e42e2a",
+    "org_level": 9,
+    "title": "Colorful Polytope",
+    "artist": "あさり",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0d62d9fcc20ad777aa795ec1771f1d3c",
+      "7c1075912c0cd6eb3abc0696f248ccd1",
+      "f05b8990ec9a663eacd17bbc4f71dd8c",
+      "0066662a365b510b00d52b29d278ca8e",
+      "6a9cb00f4d94afaee3b607f556c9f22b",
+      "32f875844a05950dfd92451f6d7b743c",
+      "c48d267341c801699a183b6b64961cfa",
+      "1a9b0af99b9551d51d27ee06277d7375",
+      "c9e154634b57c07f34dc12db77e42e2a",
+      "d496ec0376fbc7b5d4d712ce9baf8b04"
+    ],
+    "org_md5": "0d62d9fcc20ad777aa795ec1771f1d3c",
+    "comment": "",
+    "adddate": "2024\/11\/21"
+  },
+  {
+    "md5": "b81a9f55909413c7bf2413dd069c4939",
+    "org_level": 8,
+    "title": "Design [SP HYPER]",
+    "artist": "大前 司",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fb81b660d0edb0de4031a04939f99682",
+      "cc7d16c79983d34482ce433c10363002",
+      "fd94d1a4f812ee30de03cea929bcae8a",
+      "b81a9f55909413c7bf2413dd069c4939",
+      "acda0b78c2752a4f748b79579e29c9f8"
+    ],
+    "org_md5": "fb81b660d0edb0de4031a04939f99682",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "eb992b1c0d9e7e073e3450e95e836797",
@@ -110,6 +242,27 @@
     "adddate": "2024\/10\/19"
   },
   {
+    "md5": "36936c0c537e8cd96c5964294b02d8f7",
+    "org_level": 10,
+    "title": "DUO WING",
+    "artist": "∀S∀",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e86504d2fac0c933fc860ce5c5b87fee",
+      "36936c0c537e8cd96c5964294b02d8f7",
+      "981e61578b5da591c26bfb0e69abdbc6",
+      "be44f2b132b8f5c30e6bc92fee7d3ae7"
+    ],
+    "org_md5": "e86504d2fac0c933fc860ce5c5b87fee",
+    "comment": "",
+    "adddate": "2024\/11\/04"
+  },
+  {
     "md5": "2c121186b0788936671a455ba9486523",
     "org_level": 10,
     "title": "E.V.E.R[HYPER]",
@@ -134,6 +287,76 @@
     "org_md5": "b3d3f7e711ac41b4f8acec3d90142739",
     "comment": "",
     "adddate": "2024\/11\/02"
+  },
+  {
+    "md5": "7c272ef5ccc22d65487f5558e740389b",
+    "org_level": 10,
+    "title": "Eureka [7HYPER]",
+    "artist": "sasakure.UK x ArmyTom  w\/z Bitplane Movie:pam x HDLV",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "77d9eed10e3fce8464dd1ebff0b331f1",
+      "f12f7f27fcd3d7406b79e2cfd1f1e4da",
+      "8e8951527adff9fe64782d50252c7507",
+      "7c272ef5ccc22d65487f5558e740389b",
+      "7ab1a9b881f24b85eb4ed52293d85e7d",
+      "22b4805274dfb018ec3dd2ba076ef80d",
+      "c422ac717942b06b1f6815c7714cabca",
+      "623095292cc0efd75ffb2db736355c52",
+      "01581c9154925e9e5053811920f530bf",
+      "3a728b8f44acf5cc66e47f044fba8e8c"
+    ],
+    "org_md5": "77d9eed10e3fce8464dd1ebff0b331f1",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
+    "md5": "a829c3c36898a481025002bbd11934ef",
+    "org_level": 9,
+    "title": "flexidefine [Intermediate]",
+    "artist": "Lamanya",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "495cc8d7ba533610b012e6f5267793f8",
+      "a829c3c36898a481025002bbd11934ef",
+      "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+      "8fdc495fad411d827954385d4e4e9643"
+    ],
+    "org_md5": "495cc8d7ba533610b012e6f5267793f8",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
+    "md5": "b242183567011b9f2882f87ed2ef6243",
+    "org_level": 10,
+    "title": "Kung-fu Liberation [SP Hyper]",
+    "artist": "utzbo BGA:自動車 原付, Tori",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a439a11e96d243a46764089d00a90ca9",
+      "f446f292687d40637450a27b96c38f54",
+      "d09e21056400a9e9bf3d08558f4223a0",
+      "b242183567011b9f2882f87ed2ef6243",
+      "1354ba04825fe39b43197c98b2bddffa"
+    ],
+    "org_md5": "a439a11e96d243a46764089d00a90ca9",
+    "comment": "",
+    "adddate": "2024\/11\/04"
   },
   {
     "md5": "f287d41e39fdc097a0f906f9a59aae8f",
@@ -161,6 +384,28 @@
     "org_md5": "e923396a5655145047e5bad75c28e863",
     "comment": "",
     "adddate": "2024\/10\/18"
+  },
+  {
+    "md5": "fbcf8191141edaebb823366faa7bd1a2",
+    "org_level": 10,
+    "title": "Midnight Whisper [SP ANOTHER]",
+    "artist": "ValeraP feat. Stardust lyrics:洛春\/mov:Bharal4D",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "95719acea47df27da8c27505c012de8e",
+      "d8c401ed60268dd19dc04d7cd474875c",
+      "fbcf8191141edaebb823366faa7bd1a2",
+      "bc27291437eaf57089427edf44db247c",
+      "c8a7961c2ac5a27dabf7733a95290d24"
+    ],
+    "org_md5": "95719acea47df27da8c27505c012de8e",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "3c7b250c5adb86f2e9650995e56d81e9",
@@ -220,6 +465,37 @@
     "org_md5": "a7eaa7f767d4079c1d7ee9f60f5ba5a5",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "9a3d8611413929a5fe2c3d036bc66788",
+    "org_level": 10,
+    "title": "Primo Magic [SP HYPER]",
+    "artist": "kooridori Feat.猫柳なぎ BGA:MUSH.T ILLUST:コトバッチ",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "66d5779e662f878541ff550f11de5601",
+      "d8dade347d144df6685451d868d9da3b",
+      "8640e1d7ad7965a438ac97622f0ab7f6",
+      "8631805c255da4e10e6fad911978b64e",
+      "2853cc4fad0f9e8c7d024a3500485934",
+      "692cd570d2c221cca8041b5918da40bb",
+      "3e37e34071292afaed20c39216029bf2",
+      "e2de4270923c7f84ae06770edf90b652",
+      "c82138d1ebe05956b3e888515c30d422",
+      "fd315ea0be65ac4731ca2f8805b155ae",
+      "12fdc79206674ed1315e5ed0a92e1cef",
+      "9a3d8611413929a5fe2c3d036bc66788",
+      "8ed9ccfbd38826818c5a2fff7f11cc1b",
+      "6fbbafd4df365fbc44217c00f4528ae8"
+    ],
+    "org_md5": "66d5779e662f878541ff550f11de5601",
+    "comment": "",
+    "adddate": "2024\/11\/04"
   },
   {
     "md5": "66a5b643ca8b72cb5fc1bb6625c03cb5",
@@ -322,6 +598,28 @@
     "adddate": "2024\/11\/02"
   },
   {
+    "md5": "e3383413ea450bfeb646000c265eee05",
+    "org_level": 10,
+    "title": "あかず [HYPER]",
+    "artist": "かたぎり ft. 可不 BGA: 2nd_identity",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "877da3e2d01cd781622b1aaa09bdd1d7",
+      "e3383413ea450bfeb646000c265eee05",
+      "4f88c1d2eeaf7cf2335b75473b8359bb",
+      "6f6f34887acb78b12966f74d00b63771",
+      "9eb9d34c82f079fe96cb761601b134d0"
+    ],
+    "org_md5": "877da3e2d01cd781622b1aaa09bdd1d7",
+    "comment": "",
+    "adddate": "2024\/11\/02"
+  },
+  {
     "md5": "eaec6700442f579c51564d3f9e50e43a",
     "org_level": 10,
     "title": "イマジナリーガール [SP Another]",
@@ -408,6 +706,55 @@
     "org_md5": "807d2f3563ea0626e9a460c19ac38c1f",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "7b733eedb9fa6dcdceff84b9a7d3fd81",
+    "org_level": 10,
+    "title": "デネブ・アーケード (Deneb Arcade) [hyper]",
+    "artist": "Abel & Palami Mov:KimAutomne \/ obj:Abel",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "163166859aa257d2af9abea055a99d71",
+      "06d72c5695e5baebe04abee2257610f6",
+      "4eda109000555d22087132e00d3bddc4",
+      "7b733eedb9fa6dcdceff84b9a7d3fd81",
+      "7c8f9f224af5ffd7106ff6893f799ee6",
+      "d1277a56383b2595db9dd7ded052e618"
+    ],
+    "org_md5": "163166859aa257d2af9abea055a99d71",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
+    "md5": "6ea214a1246c2422f748e3b9d7f1ea9a",
+    "org_level": 10,
+    "title": "ニルヴの心臓 [7HYPER]",
+    "artist": "TJ.hangneil+Atomic Sphere feat.Annabel Illust:MON \/ Movie:MiyazawaEsora",
+    "folder": "LEVEL 10以下",
+    "level": " 10以下",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f76a4136427aa3be271e643a37fa1bc0",
+      "2d5a05410fb8e70cef2386616bd8ccd2",
+      "6ea214a1246c2422f748e3b9d7f1ea9a",
+      "eba28043139ff2337f6b61ddc698bee6",
+      "78fa9511cbd952f47a68cefc5e6f46fd",
+      "8dcc7f14856449eff815f6933931b9b8",
+      "2a6f203dd740ccc99a887433d0692a10",
+      "d89a1305b48ed600933570b092f5c8bc",
+      "2733ff6c014e428c8010af40597c9267"
+    ],
+    "org_md5": "f76a4136427aa3be271e643a37fa1bc0",
+    "comment": "",
+    "adddate": "2024\/11\/05"
   },
   {
     "md5": "b0c7d9c75808a5a8d2cb8872210f5993",
@@ -756,6 +1103,28 @@
     "adddate": "2024\/10\/19"
   },
   {
+    "md5": "c8a7961c2ac5a27dabf7733a95290d24",
+    "org_level": 12,
+    "title": "Midnight Whisper [SP INSANE]",
+    "artist": "ValeraP feat. Stardust lyrics:洛春\/mov:Bharal4D",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "95719acea47df27da8c27505c012de8e",
+      "d8c401ed60268dd19dc04d7cd474875c",
+      "fbcf8191141edaebb823366faa7bd1a2",
+      "bc27291437eaf57089427edf44db247c",
+      "c8a7961c2ac5a27dabf7733a95290d24"
+    ],
+    "org_md5": "95719acea47df27da8c27505c012de8e",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
     "md5": "87fafff273c131b72b299313948501de",
     "org_level": 11,
     "title": "Mugikamagika [SP ANOTHER]",
@@ -902,28 +1271,6 @@
     "adddate": "2024\/10\/18"
   },
   {
-    "md5": "e3383413ea450bfeb646000c265eee05",
-    "org_level": 10,
-    "title": "あかず [HYPER]",
-    "artist": "かたぎり ft. 可不 BGA: 2nd_identity",
-    "folder": "LEVEL 11",
-    "level": " 11",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "877da3e2d01cd781622b1aaa09bdd1d7",
-      "e3383413ea450bfeb646000c265eee05",
-      "4f88c1d2eeaf7cf2335b75473b8359bb",
-      "6f6f34887acb78b12966f74d00b63771",
-      "9eb9d34c82f079fe96cb761601b134d0"
-    ],
-    "org_md5": "877da3e2d01cd781622b1aaa09bdd1d7",
-    "comment": "",
-    "adddate": "2024\/11\/02"
-  },
-  {
     "md5": "afa5f4445298aece1647a33be1d849a5",
     "org_level": 11,
     "title": "きりんさん進化論 [SP ANOTHER]",
@@ -966,6 +1313,29 @@
     "org_md5": "10ec7b46efd1e55f5e472906aa473507",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "163166859aa257d2af9abea055a99d71",
+    "org_level": 11,
+    "title": "デネブ・アーケード (Deneb Arcade) [another-]",
+    "artist": "Abel & Palami Mov:KimAutomne \/ obj: 七海",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "163166859aa257d2af9abea055a99d71",
+      "06d72c5695e5baebe04abee2257610f6",
+      "4eda109000555d22087132e00d3bddc4",
+      "7b733eedb9fa6dcdceff84b9a7d3fd81",
+      "7c8f9f224af5ffd7106ff6893f799ee6",
+      "d1277a56383b2595db9dd7ded052e618"
+    ],
+    "org_md5": "163166859aa257d2af9abea055a99d71",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "5aa681a3b008a2bc1a1b8e941a3fca52",
@@ -1359,6 +1729,27 @@
     "adddate": "2024\/11\/02"
   },
   {
+    "md5": "495cc8d7ba533610b012e6f5267793f8",
+    "org_level": 12,
+    "title": "flexidefine [Arduous]",
+    "artist": "Lamanya",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "495cc8d7ba533610b012e6f5267793f8",
+      "a829c3c36898a481025002bbd11934ef",
+      "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+      "8fdc495fad411d827954385d4e4e9643"
+    ],
+    "org_md5": "495cc8d7ba533610b012e6f5267793f8",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
     "md5": "c87346344901a1a46c412a4b687a4b57",
     "org_level": 12,
     "title": "GlassyHeart. [SP Another]",
@@ -1377,32 +1768,6 @@
       "31f9f1c42edd15f1a1f15fb6d495fce2"
     ],
     "org_md5": "c87346344901a1a46c412a4b687a4b57",
-    "comment": "",
-    "adddate": "2024\/10\/22"
-  },
-  {
-    "md5": "0ecf44384761786bc4dd84da94a4ab7e",
-    "org_level": 12,
-    "title": "IOR [SP AIR RACE]",
-    "artist": "ariiol BG by 陸忻遊 \/ obj AZVW_2",
-    "folder": "LEVEL 12-(☆12下位~中の下)",
-    "level": " 12-(☆12下位~中の下)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "43c3af5024c48b14bbc98eb0c90db250",
-      "b61c9806ee0e4a04faaf279a65bb94ee",
-      "7dc18839724009ab9eedfeb28003d86b",
-      "8fb0cce41606ceed26df4186d4882c99",
-      "0ecf44384761786bc4dd84da94a4ab7e",
-      "df063e3577a443fbd0505ca880c5a198",
-      "5d5e26aeede7d951125ad08bb5b368af",
-      "934df8709eb055f104de85a8f26bf70a",
-      "8e2803336b972accd4413912f59806c6"
-    ],
-    "org_md5": "43c3af5024c48b14bbc98eb0c90db250",
     "comment": "",
     "adddate": "2024\/10\/22"
   },
@@ -1671,6 +2036,29 @@
     "adddate": "2024\/10\/18"
   },
   {
+    "md5": "06d72c5695e5baebe04abee2257610f6",
+    "org_level": 12,
+    "title": "デネブ・アーケード (Deneb Arcade) [another]",
+    "artist": "Abel & Palami Mov:KimAutomne \/ obj:七海 & DeicideLune",
+    "folder": "LEVEL 12-(☆12下位~中の下)",
+    "level": " 12-(☆12下位~中の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "163166859aa257d2af9abea055a99d71",
+      "06d72c5695e5baebe04abee2257610f6",
+      "4eda109000555d22087132e00d3bddc4",
+      "7b733eedb9fa6dcdceff84b9a7d3fd81",
+      "7c8f9f224af5ffd7106ff6893f799ee6",
+      "d1277a56383b2595db9dd7ded052e618"
+    ],
+    "org_md5": "163166859aa257d2af9abea055a99d71",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
     "md5": "c578b9ad9269c8d6a140f703f39e2c9b",
     "org_level": 12,
     "title": "夏の空、少女のアポリオン [Acrux]",
@@ -1825,6 +2213,33 @@
     "org_md5": "5e68897352f2c254e334cae1b069cfc7",
     "comment": "",
     "adddate": "2024\/10\/15"
+  },
+  {
+    "md5": "5b07e114909e52792c8dc5ab27b0d0a5",
+    "org_level": 12,
+    "title": "ADONIS [SP ANOTHER]",
+    "artist": "Seagull BG by Aya \/ obj AZVW_2",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6e4414813b8ca9695055dbbc4a6a1f80",
+      "bb4785bddfe30775b4db299bb92d2b79",
+      "b8cc409d5a33b4718e85b91521963e56",
+      "af3243d945f6f16cd47a17e829173979",
+      "540ec8c065ed3094420f2634ee56e089",
+      "5b07e114909e52792c8dc5ab27b0d0a5",
+      "8f165bd5691b0279b6fbf8c99a57e46b",
+      "ad9418960b3a849841efca693c85bbcd",
+      "e0499afa5d894010c4043df583a7784b",
+      "fa74cab7c5e573c150789440a9fe68ba"
+    ],
+    "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
+    "comment": "",
+    "adddate": "2024\/11\/21"
   },
   {
     "md5": "f75866fc66c1fb4ccf513fcc3b8411d8",
@@ -2009,6 +2424,32 @@
     "adddate": "2024\/10\/15"
   },
   {
+    "md5": "0ecf44384761786bc4dd84da94a4ab7e",
+    "org_level": 12,
+    "title": "IOR [SP AIR RACE]",
+    "artist": "ariiol BG by 陸忻遊 \/ obj AZVW_2",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "43c3af5024c48b14bbc98eb0c90db250",
+      "b61c9806ee0e4a04faaf279a65bb94ee",
+      "7dc18839724009ab9eedfeb28003d86b",
+      "8fb0cce41606ceed26df4186d4882c99",
+      "0ecf44384761786bc4dd84da94a4ab7e",
+      "df063e3577a443fbd0505ca880c5a198",
+      "5d5e26aeede7d951125ad08bb5b368af",
+      "934df8709eb055f104de85a8f26bf70a",
+      "8e2803336b972accd4413912f59806c6"
+    ],
+    "org_md5": "43c3af5024c48b14bbc98eb0c90db250",
+    "comment": "",
+    "adddate": "2024\/11\/02"
+  },
+  {
     "md5": "69e1dcd111b1cb89c40a2d3bfac5a1de",
     "org_level": 9,
     "title": "Magical Night Special -Hope-",
@@ -2048,6 +2489,30 @@
     "org_md5": "22f02d1982b63709d510cdd698799503",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "6bc2078a53a98aaa5fb6faed455cf9c6",
+    "org_level": 12,
+    "title": "Plunge [Another]",
+    "artist": "潮音きつね_H \/ obj: MiyA BGA. TARA#376",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "19a536459aa77f2ab6182ec8630b70da",
+      "f3c563b1dfa35578a5f83cd56ee295a2",
+      "64dde80040dcf29d90bf79a6ea3d4324",
+      "560271946dfae7c3eb233a97c63fb402",
+      "6bc2078a53a98aaa5fb6faed455cf9c6",
+      "6e27180a8aef01a96020bbf6254d18d2",
+      "3735b8d6b84b5fdbdf0529e1f7b876d9"
+    ],
+    "org_md5": "19a536459aa77f2ab6182ec8630b70da",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "8ed9ccfbd38826818c5a2fff7f11cc1b",
@@ -2417,6 +2882,32 @@
     "adddate": "2024\/10\/18"
   },
   {
+    "md5": "eba28043139ff2337f6b61ddc698bee6",
+    "org_level": 12,
+    "title": "ニルヴの心臓 [7ANOTHER]",
+    "artist": "TJ.hangneil+Atomic Sphere feat.Annabel Illust:MON \/ Movie:MiyazawaEsora",
+    "folder": "LEVEL 12(☆12中~上の下)",
+    "level": " 12(☆12中~上の下)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f76a4136427aa3be271e643a37fa1bc0",
+      "2d5a05410fb8e70cef2386616bd8ccd2",
+      "6ea214a1246c2422f748e3b9d7f1ea9a",
+      "eba28043139ff2337f6b61ddc698bee6",
+      "78fa9511cbd952f47a68cefc5e6f46fd",
+      "8dcc7f14856449eff815f6933931b9b8",
+      "2a6f203dd740ccc99a887433d0692a10",
+      "d89a1305b48ed600933570b092f5c8bc",
+      "2733ff6c014e428c8010af40597c9267"
+    ],
+    "org_md5": "f76a4136427aa3be271e643a37fa1bc0",
+    "comment": "",
+    "adddate": "2024\/11\/05"
+  },
+  {
     "md5": "134f42a43ea1c752806df24bef2b9244",
     "org_level": 12,
     "title": "一期一会（ver.DCE） [SPA]",
@@ -2487,6 +2978,33 @@
     "org_md5": "0b21264c2a7d36289a8163ca5a4c662c",
     "comment": "",
     "adddate": "2024\/10\/22"
+  },
+  {
+    "md5": "8f165bd5691b0279b6fbf8c99a57e46b",
+    "org_level": 12,
+    "title": "ADONIS [SP BNOTHER]",
+    "artist": "Seagull BG by Aya \/ obj AZVW_2",
+    "folder": "LEVEL 12+(☆12上位~sl12)",
+    "level": " 12+(☆12上位~sl12)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6e4414813b8ca9695055dbbc4a6a1f80",
+      "bb4785bddfe30775b4db299bb92d2b79",
+      "b8cc409d5a33b4718e85b91521963e56",
+      "af3243d945f6f16cd47a17e829173979",
+      "540ec8c065ed3094420f2634ee56e089",
+      "5b07e114909e52792c8dc5ab27b0d0a5",
+      "8f165bd5691b0279b6fbf8c99a57e46b",
+      "ad9418960b3a849841efca693c85bbcd",
+      "e0499afa5d894010c4043df583a7784b",
+      "fa74cab7c5e573c150789440a9fe68ba"
+    ],
+    "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
+    "comment": "",
+    "adddate": "2024\/11\/21"
   },
   {
     "md5": "42a06b2c452999294e3a0b314aca5e6e",
@@ -2871,6 +3389,30 @@
     "org_md5": "51f7a8950437744e4b2a35930a4105f1",
     "comment": "",
     "adddate": "2024\/10\/19"
+  },
+  {
+    "md5": "9bd956a907182dcfb1a44fdda7caf733",
+    "org_level": 20,
+    "title": "ABYSSAL \/\/ COSMOS [HYBRID \/\/ CHAOS] ",
+    "artist": "C.miler vs Juka_Box obj:Holy vs Lyricia",
+    "folder": "LEVEL 13(★20~22)",
+    "level": " 13(★20~22)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5e68897352f2c254e334cae1b069cfc7",
+      "91621311e723292259cf9761ec25b67c",
+      "e489856a3f1ab8e832068bc048d6d2b0",
+      "73244e4209b917881635ad4e17eec141",
+      "d471c24891d142a729c59cfdced3f2b1",
+      "9bd956a907182dcfb1a44fdda7caf733",
+      "2863f49db005243f9d3e0602e45cd1c4"
+    ],
+    "org_md5": "5e68897352f2c254e334cae1b069cfc7",
+    "comment": "",
+    "adddate": "2024\/11\/05"
   },
   {
     "md5": "52654987628fb62048473cd81f64353f",
@@ -3272,6 +3814,27 @@
     "org_md5": "a439a11e96d243a46764089d00a90ca9",
     "comment": "",
     "adddate": "2024\/10\/15"
+  },
+  {
+    "md5": "960004817317a024bce51f13573051e0",
+    "org_level": 24,
+    "title": "Nexilion [Punish]",
+    "artist": "Connexio obj:IBARAGI_YOSHIMI",
+    "folder": "LEVEL 14(★23~)",
+    "level": " 14(★23~)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2eb7ef9587c033e3b601076335db8ff2",
+      "e5b515cd2497498e7dfcb26b9913bda3",
+      "98be4c788a8281d2d506dabd107aeefb",
+      "960004817317a024bce51f13573051e0"
+    ],
+    "org_md5": "2eb7ef9587c033e3b601076335db8ff2",
+    "comment": "",
+    "adddate": "2024\/11\/05"
   },
   {
     "md5": "4895a2ce76c7427194a82fdb25bf2e24",
