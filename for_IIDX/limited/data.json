@@ -1295,6 +1295,28 @@
     "adddate": "2024\/11\/11"
   },
   {
+    "md5": "af9cc79d96fedbc98da8df95fe2e18fa",
+    "org_level": 8,
+    "title": "Particle [HYPER7]",
+    "artist": "Lime \/ Kankitsu",
+    "folder": "LEVEL 8",
+    "level": " 8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8238d43221589f7ce03bc6471d81dc89",
+      "9f4da90741dd5b878474284af661e8b8",
+      "af9cc79d96fedbc98da8df95fe2e18fa",
+      "3e352c50a746a89ec22642663e9d387b",
+      "33d7ff4c61c0849dcf2b83eecb01c6fe"
+    ],
+    "org_md5": "8238d43221589f7ce03bc6471d81dc89",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
     "md5": "c8f31793315499481ec6559d87ce7fb6",
     "org_level": 8,
     "title": "Terminus.",
@@ -1439,6 +1461,29 @@
     "org_md5": "495cc8d7ba533610b012e6f5267793f8",
     "comment": "",
     "adddate": "2024\/11\/22"
+  },
+  {
+    "md5": "ffb32994fcde6435bc12dcfa78ba9d20",
+    "org_level": 9,
+    "title": "Mugikamagika [SP HYPER]",
+    "artist": "otoshi.b BGA:ShakeJ",
+    "folder": "LEVEL 9",
+    "level": " 9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2921862c458bc8ae2309e964f110ca37",
+      "0951b42ed72b7a339da875230c8356ce",
+      "ffb32994fcde6435bc12dcfa78ba9d20",
+      "87fafff273c131b72b299313948501de",
+      "d104e734f46a3f18b1f37b38201c0aae",
+      "ba69393c518e3af8e00a26bafb4b4f65"
+    ],
+    "org_md5": "2921862c458bc8ae2309e964f110ca37",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "a93db95ccb6d13b61869a2cae5a571b9",
@@ -1631,6 +1676,34 @@
     "org_md5": "e355dc241b2fcba796bcfe3bedc74b97",
     "comment": "",
     "adddate": "2024\/08\/11"
+  },
+  {
+    "md5": "120df36d69b2515f6a1cfd49625ee58e",
+    "org_level": 10,
+    "title": "5th Drop Shooter [HYPER]",
+    "artist": "原木シィタケ illust:原木シィタケ",
+    "folder": "LEVEL 10",
+    "level": " 10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "177b11a9fa80f0e232e069fdbfa48463",
+      "be3e0de96cacf5c5855f5d485802cf57",
+      "066697b4ccf7ed269f4d29cc660bd345",
+      "04d2fbf688020d10e016c020697a47d0",
+      "d6a7a48757ba862ac0edd2f376c133e0",
+      "1ec06b7da0ff5148069e63624944926a",
+      "120df36d69b2515f6a1cfd49625ee58e",
+      "6d187a9a074d281d8353be192b1c4a7c",
+      "4bb4641e9ec8b19681aba1bdeb38e23c",
+      "351749dd4c8e632b0ed3e578a51ecd2a",
+      "634cd2218b52817692c707caefcf94fe"
+    ],
+    "org_md5": "177b11a9fa80f0e232e069fdbfa48463",
+    "comment": "",
+    "adddate": "2024\/11\/22"
   },
   {
     "md5": "73244e4209b917881635ad4e17eec141",
@@ -2090,6 +2163,27 @@
     "adddate": "2024\/08\/11"
   },
   {
+    "md5": "904686af1c099899c499036d0466f950",
+    "org_level": 10,
+    "title": "Kindness",
+    "artist": "7mai",
+    "folder": "LEVEL 10",
+    "level": " 10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "904686af1c099899c499036d0466f950",
+      "e79c4acd1756dbae500bca452eda77aa",
+      "105979a1642aa2251f1761438423e365",
+      "c9da2df3c0c6b5ec93edf222752e6006"
+    ],
+    "org_md5": "904686af1c099899c499036d0466f950",
+    "comment": "",
+    "adddate": "2024\/11\/25"
+  },
+  {
     "md5": "b242183567011b9f2882f87ed2ef6243",
     "org_level": 10,
     "title": "Kung-fu Liberation [SP Hyper]",
@@ -2458,6 +2552,30 @@
     "adddate": "2024\/08\/11"
   },
   {
+    "md5": "6e27180a8aef01a96020bbf6254d18d2",
+    "org_level": 10,
+    "title": "Plunge [HYPER]",
+    "artist": "潮音きつね_H \/ obj. KitsuneShione  BGA. TARA#376 ",
+    "folder": "LEVEL 10",
+    "level": " 10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "19a536459aa77f2ab6182ec8630b70da",
+      "f3c563b1dfa35578a5f83cd56ee295a2",
+      "64dde80040dcf29d90bf79a6ea3d4324",
+      "560271946dfae7c3eb233a97c63fb402",
+      "6bc2078a53a98aaa5fb6faed455cf9c6",
+      "6e27180a8aef01a96020bbf6254d18d2",
+      "3735b8d6b84b5fdbdf0529e1f7b876d9"
+    ],
+    "org_md5": "19a536459aa77f2ab6182ec8630b70da",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
     "md5": "509f812e23d745d5603dc67b2bf0dead",
     "org_level": 10,
     "title": "Prestige [Another]",
@@ -2696,6 +2814,27 @@
     "org_md5": "fc75db28223333c1983704b6c71dc407",
     "comment": "",
     "adddate": "2024\/08\/11"
+  },
+  {
+    "md5": "cead3ec8b161d730024fa65f6f5f714d",
+    "org_level": 11,
+    "title": "Transcend My Love",
+    "artist": "Sephid feat. aria obj: Sephid vs. PPG chart team \"Scely.L\"",
+    "folder": "LEVEL 10",
+    "level": " 10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f44cea81fea7c7658b92a28a13404e55",
+      "cead3ec8b161d730024fa65f6f5f714d",
+      "dab74da2f36ae5fd101709d9982f17c7",
+      "3fc3420d22c5769cb3173555e89e14e3"
+    ],
+    "org_md5": "f44cea81fea7c7658b92a28a13404e55",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "587ed48a57bddb260ba3965f58857915",
@@ -3462,28 +3601,6 @@
     "adddate": "2024\/08\/11"
   },
   {
-    "md5": "4c9b6179e5b16c8c29d4b1baf7e1ab3b",
-    "org_level": 10,
-    "title": "Belle de Nuit [un autre]",
-    "artist": "黒皇帝 feat. AKA Movie: phin + tivi",
-    "folder": "LEVEL 11",
-    "level": " 11",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "4c9b6179e5b16c8c29d4b1baf7e1ab3b",
-      "dd5f9574885dfdf100f4d142e3134a3b",
-      "a788832574f3b216f28b223f08098113",
-      "a3f3fa2c1ab97d1d9ce6464d7c33e972",
-      "fb3fdc69daa0d2b2a496c3cdfd807edb"
-    ],
-    "org_md5": "4c9b6179e5b16c8c29d4b1baf7e1ab3b",
-    "comment": "",
-    "adddate": "2024\/08\/11"
-  },
-  {
     "md5": "c838a139d672acb363b9eb80c805df94",
     "org_level": 11,
     "title": "BE-MUSiC⇒STORY [SP HYPER]",
@@ -3571,27 +3688,6 @@
     "adddate": "2024\/08\/11"
   },
   {
-    "md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
-    "org_level": 11,
-    "title": "Caffeine Overdose Girl [Another]",
-    "artist": "litmus* feat. Conyabata",
-    "folder": "LEVEL 11",
-    "level": " 11",
-    "lr2_bmsid": null,
-    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=22&num=13&order=reg&odtype=a",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "730aea2d07c6adce78fd071315db9b14",
-      "dfd0e46b94c7bb62e72fb128a24f3d5e",
-      "f50515ff6da7c42610db8c1edcf260d4",
-      "f196759124827008ba58242356338da4"
-    ],
-    "org_md5": "730aea2d07c6adce78fd071315db9b14",
-    "comment": "",
-    "adddate": "2024\/08\/11"
-  },
-  {
     "md5": "815442b850642afd97d713c08d8091a1",
     "org_level": 11,
     "title": "Can't it be true",
@@ -3615,22 +3711,6 @@
     ],
     "org_md5": "6e44f32f99349226cdc7dab8793801e6",
     "comment": "",
-    "adddate": "2024\/08\/11"
-  },
-  {
-    "md5": "7b87a6fe0737116ee9170819f28b446b",
-    "org_level": 0,
-    "title": "ceu [7KEYS ANOTHER]",
-    "artist": "Kyuzo Sameura feat. きりたん",
-    "folder": "LEVEL 11",
-    "level": " 11",
-    "lr2_bmsid": null,
-    "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/96",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "sl0 SUPER GOD SONG",
     "adddate": "2024\/08\/11"
   },
   {
@@ -4548,6 +4628,29 @@
     "org_md5": "786a388e704026f03f6651e7640f0efe",
     "comment": "",
     "adddate": "2024\/08\/11"
+  },
+  {
+    "md5": "87fafff273c131b72b299313948501de",
+    "org_level": 11,
+    "title": "Mugikamagika [SP ANOTHER]",
+    "artist": "otoshi.b BGA:ShakeJ",
+    "folder": "LEVEL 11",
+    "level": " 11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2921862c458bc8ae2309e964f110ca37",
+      "0951b42ed72b7a339da875230c8356ce",
+      "ffb32994fcde6435bc12dcfa78ba9d20",
+      "87fafff273c131b72b299313948501de",
+      "d104e734f46a3f18b1f37b38201c0aae",
+      "ba69393c518e3af8e00a26bafb4b4f65"
+    ],
+    "org_md5": "2921862c458bc8ae2309e964f110ca37",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "eadf5050b1d84bd142bb7fe0234f152d",
@@ -5748,6 +5851,65 @@
     "adddate": "2024\/11\/19"
   },
   {
+    "md5": "dfd0e46b94c7bb62e72fb128a24f3d5e",
+    "org_level": 11,
+    "title": "Caffeine Overdose Girl [Another]",
+    "artist": "litmus* feat. Conyabata",
+    "folder": "LEVEL 11.5",
+    "level": " 11.5",
+    "lr2_bmsid": null,
+    "url": "http:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=22&num=13&order=reg&odtype=a",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "730aea2d07c6adce78fd071315db9b14",
+      "dfd0e46b94c7bb62e72fb128a24f3d5e",
+      "f50515ff6da7c42610db8c1edcf260d4",
+      "f196759124827008ba58242356338da4"
+    ],
+    "org_md5": "730aea2d07c6adce78fd071315db9b14",
+    "comment": "",
+    "adddate": "2024\/11\/24"
+  },
+  {
+    "md5": "7b87a6fe0737116ee9170819f28b446b",
+    "org_level": 0,
+    "title": "ceu [7KEYS ANOTHER]",
+    "artist": "Kyuzo Sameura feat. きりたん",
+    "folder": "LEVEL 11.5",
+    "level": " 11.5",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/96",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl0 SUPER GOD SONG",
+    "adddate": "2024\/11\/24"
+  },
+  {
+    "md5": "9f63a3a9c10a57be2d65bccbf0e8c70a",
+    "org_level": 12,
+    "title": "(´0｀*)♪(≧Σ≦)♪(・ε・。)♪(￣∇￣；)♪（0∀0）=3♪o(･_･θ [SP ANOTHER]",
+    "artist": "立秋feat.ちょこ",
+    "folder": "LEVEL 12.0",
+    "level": " 12.0",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=312&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "50d50d82041c63230c4065623dc502d3",
+      "9f8df86d3df3af71c44a07edd431527f",
+      "f33b7ccca467950c159dd2f2b253e4b1",
+      "caf95d1f7939638b167d04d5a047ccce",
+      "9f63a3a9c10a57be2d65bccbf0e8c70a"
+    ],
+    "org_md5": "50d50d82041c63230c4065623dc502d3",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
     "md5": "d6a7a48757ba862ac0edd2f376c133e0",
     "org_level": 12,
     "title": "5th Drop Shooter [ANOTHER]",
@@ -6000,6 +6162,31 @@
     "adddate": "2024\/10\/26"
   },
   {
+    "md5": "cad4c05a31c3220a3d4775cda900d623",
+    "org_level": 12,
+    "title": "Kirakirize World [ANOTHER]",
+    "artist": "kooridori BGA:MUSH.T",
+    "folder": "LEVEL 12.0",
+    "level": " 12.0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cad4c05a31c3220a3d4775cda900d623",
+      "917d4c2f9f40371145ab1328a365d72d",
+      "329b865cd094762c753646f59782bd09",
+      "58f747acfe12eeddf80d6e53c8b81cbe",
+      "ee1964b81c382bd4b3106d24f8cc7238",
+      "2266a7126635d746c45eea901dfddefb",
+      "f248e651a3d9aef0087025606c3de964",
+      "c6f6fb8c69d91c94aaa28d25dd2cab46"
+    ],
+    "org_md5": "cad4c05a31c3220a3d4775cda900d623",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
     "md5": "9710af92ded4027a05ecc59be1103072",
     "org_level": 12,
     "title": "Luminance",
@@ -6034,6 +6221,45 @@
     "org_md5": "",
     "comment": "BOF,G2R系 up0906.rar",
     "adddate": "2024\/08\/11"
+  },
+  {
+    "md5": "97f026722d257378054f41ec3c4ea683",
+    "org_level": 12,
+    "title": "PHYSALIS [SP ANOTHER]",
+    "artist": "TAG bms.Spehs & Hihumi \/\/ movie.ShakeJ \/\/ obj.Hihumi",
+    "folder": "LEVEL 12.0",
+    "level": " 12.0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a7eaa7f767d4079c1d7ee9f60f5ba5a5",
+      "4f3ec3be5e73cb65f443eaff5b93ace9",
+      "1d686dc491b8c2dc9e97a6fdddb68c84",
+      "97f026722d257378054f41ec3c4ea683",
+      "8cf912d69262dc77c2260220affd31ff",
+      "b2acca9b6427630808c76c25e7ba067d",
+      "8c4afb4a5d8c7fec3f667f58b6c7f422",
+      "cc374f3c67c19b3df46e659c330a934c",
+      "dd85ca1e5473d20f9e2bc63d02c35ba2",
+      "13ccfea10febce66777d6c2b1ec308c2",
+      "760e7449d7b46676df5e30457b925b89",
+      "8825baabef39f9d73e305800ec3cd976",
+      "686bf40a706a5e4ac61a96ce8eed69c7",
+      "5a6372e0b946317d3d0d990f4fdf20e2",
+      "95f7de7a0f8bce4763ea44dcf46bdc42",
+      "15119e23bce66fbc5917581809a69542",
+      "11c6f491fedc14abadd44a578ea805a4",
+      "94538a39b56f61c0aa955e4ec5910aec",
+      "25924d52c97d761c0b5e08f3e73a980a",
+      "0c543d6a164dffcd71c6ca92ed9be396",
+      "4264b89d687b783a7b5d196346d465b0",
+      "ed886e10c90cbaeb6060abca6b8dfa1c"
+    ],
+    "org_md5": "a7eaa7f767d4079c1d7ee9f60f5ba5a5",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "a541e0f44d564fdd2323ce18a28a994a",
@@ -6082,6 +6308,27 @@
     "org_md5": "b6c60594cc2d1904a6945925ba0c28f0",
     "comment": "",
     "adddate": "2024\/08\/11"
+  },
+  {
+    "md5": "f44cea81fea7c7658b92a28a13404e55",
+    "org_level": 12,
+    "title": "Transcend My Love",
+    "artist": "Sephid feat. aria obj: PPG chart team \"Scely.L\"",
+    "folder": "LEVEL 12.0",
+    "level": " 12.0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f44cea81fea7c7658b92a28a13404e55",
+      "cead3ec8b161d730024fa65f6f5f714d",
+      "dab74da2f36ae5fd101709d9982f17c7",
+      "3fc3420d22c5769cb3173555e89e14e3"
+    ],
+    "org_md5": "f44cea81fea7c7658b92a28a13404e55",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "62cf987f7b09b00008caa145bfb2cbd5",
@@ -6472,6 +6719,38 @@
     "adddate": "2024\/10\/26"
   },
   {
+    "md5": "e3e5fea1b07d3d3bc0960bfbb50e542f",
+    "org_level": 12,
+    "title": "Miracletale [7key Anothertale]",
+    "artist": "kooridori & TRIAL BGA:浪漫映像制作倶楽部",
+    "folder": "LEVEL 12.1",
+    "level": " 12.1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f49acbc1137ddae844f8ed880a838e0e",
+      "2a0dba2cb391df79bd2a0f3368f9f0d2",
+      "cfe2eaea4b3a3ac7f25f2a37d74cf9ef",
+      "5fc7dfbb256147c7741b475caf542f1f",
+      "e3e5fea1b07d3d3bc0960bfbb50e542f",
+      "523ac66c98e3399ff237451cd5a7b394",
+      "4190b95871d7affad2f11a3b0ce957d6",
+      "c1d6b97cc2d7bcb770859d8c54ac97df",
+      "8ab883df06a16c15b535c297e8d6bcde",
+      "76a436ec43bdbcff33fb26aea448e3d3",
+      "94ed492b231dd991e520bc79a47f1607",
+      "ccbbd07e86197156babb4cf800aad6db",
+      "c710c6f9c4ed31a66ee87561093d0802",
+      "751537a0e094108c2722a281f8c8c84f",
+      "4dacb348104dbea5ad32eecceaec65a1"
+    ],
+    "org_md5": "f49acbc1137ddae844f8ed880a838e0e",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
     "md5": "d361afb95b321792bf485431c6387c7c",
     "org_level": 12,
     "title": "Random [SP ANOTHER]",
@@ -6493,6 +6772,31 @@
     "org_md5": "6f4663b4a10be5938e29163078d06141",
     "comment": "",
     "adddate": "2024\/08\/23"
+  },
+  {
+    "md5": "cd13bab728eaf1f1563d61c30e795f83",
+    "org_level": 12,
+    "title": "Χαρων [SP-A]",
+    "artist": "Daily天利 vs Reku Mochizuki obj: PPG chart team \"Scely.L\"",
+    "folder": "LEVEL 12.1",
+    "level": " 12.1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "441e1e31a748ff81b1c0228cfcc84d2c",
+      "b9605d6697c207f9442c8eb3712954d3",
+      "e03fe6e4f3c620df8580f11c09cb8d30",
+      "cd13bab728eaf1f1563d61c30e795f83",
+      "208f388f7f98b5c92becbe4238530714",
+      "5dc13c3d0295eb2e713d4c9e9a939103",
+      "31adf699100c7e9777d67c6552a93f01",
+      "23174c43c0a397d656a921dfdcf226f5"
+    ],
+    "org_md5": "441e1e31a748ff81b1c0228cfcc84d2c",
+    "comment": "",
+    "adddate": "2024\/11\/24"
   },
   {
     "md5": "807d2f3563ea0626e9a460c19ac38c1f",
@@ -6819,6 +7123,37 @@
     "adddate": "2024\/11\/22"
   },
   {
+    "md5": "c82138d1ebe05956b3e888515c30d422",
+    "org_level": 12,
+    "title": "Primo Magic [SP ANOTHER]",
+    "artist": "kooridori Feat.猫柳なぎ BGA:MUSH.T ILLUST:コトバッチ",
+    "folder": "LEVEL 12.2",
+    "level": " 12.2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "66d5779e662f878541ff550f11de5601",
+      "d8dade347d144df6685451d868d9da3b",
+      "8640e1d7ad7965a438ac97622f0ab7f6",
+      "8631805c255da4e10e6fad911978b64e",
+      "2853cc4fad0f9e8c7d024a3500485934",
+      "692cd570d2c221cca8041b5918da40bb",
+      "3e37e34071292afaed20c39216029bf2",
+      "e2de4270923c7f84ae06770edf90b652",
+      "c82138d1ebe05956b3e888515c30d422",
+      "fd315ea0be65ac4731ca2f8805b155ae",
+      "12fdc79206674ed1315e5ed0a92e1cef",
+      "9a3d8611413929a5fe2c3d036bc66788",
+      "8ed9ccfbd38826818c5a2fff7f11cc1b",
+      "6fbbafd4df365fbc44217c00f4528ae8"
+    ],
+    "org_md5": "66d5779e662f878541ff550f11de5601",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
     "md5": "ee14dfeb772a436de89924c2247824ee",
     "org_level": 12,
     "title": "RETROCONNECTION",
@@ -7034,38 +7369,6 @@
     "adddate": "2024\/11\/15"
   },
   {
-    "md5": "ddc47af3c5f5684d963348938acc8cce",
-    "org_level": 12,
-    "title": "$trange Attraktor [ANOTHER]",
-    "artist": "schwarzekugel BGA:出前",
-    "folder": "LEVEL 12.4",
-    "level": " 12.4",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "6651ac2a173d8adb00f1c5337d33ad71",
-      "014dd26ed58126665debe373c6959612",
-      "3a4577104112439dca46dc61aa79307a",
-      "edef05886b5edf2c5e91e703353c1dac",
-      "e77b60fa4861c27f6cdfd5600f328821",
-      "cfaf5e080356b226f18588a71ed1e3d1",
-      "ddc47af3c5f5684d963348938acc8cce",
-      "08bacdb1734585d4a131daa72918563d",
-      "c2ed5d786ccf14e2159a36b7a7563020",
-      "34d94660c2d8232b8339703543a9343c",
-      "627ebef65a575a12ba0b03a9ddb840cc",
-      "b0fd7111b74fd8d0812393fc11a04fe1",
-      "1f278e0e7c36f12febc8d9f52673d30e",
-      "ccddf84c406d33e703ed56e5cda70870",
-      "898bd63a654b9284531730bc7b1d010c"
-    ],
-    "org_md5": "6651ac2a173d8adb00f1c5337d33ad71",
-    "comment": "",
-    "adddate": "2024\/09\/26"
-  },
-  {
     "md5": "d413b6d334955475b6dc6bc9edeb9880",
     "org_level": 12,
     "title": "BIG LOVE",
@@ -7203,6 +7506,63 @@
     "adddate": "2024\/08\/23"
   },
   {
+    "md5": "ddc47af3c5f5684d963348938acc8cce",
+    "org_level": 12,
+    "title": "$trange Attraktor [ANOTHER]",
+    "artist": "schwarzekugel BGA:出前",
+    "folder": "LEVEL 12.5",
+    "level": " 12.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6651ac2a173d8adb00f1c5337d33ad71",
+      "014dd26ed58126665debe373c6959612",
+      "3a4577104112439dca46dc61aa79307a",
+      "edef05886b5edf2c5e91e703353c1dac",
+      "e77b60fa4861c27f6cdfd5600f328821",
+      "cfaf5e080356b226f18588a71ed1e3d1",
+      "ddc47af3c5f5684d963348938acc8cce",
+      "08bacdb1734585d4a131daa72918563d",
+      "c2ed5d786ccf14e2159a36b7a7563020",
+      "34d94660c2d8232b8339703543a9343c",
+      "627ebef65a575a12ba0b03a9ddb840cc",
+      "b0fd7111b74fd8d0812393fc11a04fe1",
+      "1f278e0e7c36f12febc8d9f52673d30e",
+      "ccddf84c406d33e703ed56e5cda70870",
+      "898bd63a654b9284531730bc7b1d010c"
+    ],
+    "org_md5": "6651ac2a173d8adb00f1c5337d33ad71",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
+    "md5": "97003476e9c22f496c310f5a373fa90c",
+    "org_level": 12,
+    "title": "* this game does not exist * [SP Another]",
+    "artist": "litmus* x Ester",
+    "folder": "LEVEL 12.5",
+    "level": " 12.5",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=284&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "13718b033c720defeae1a7f8c0ebf20f",
+      "4babc0e57ff2da3b0eee90109d283b3b",
+      "d16e46114cf6c83bc068524337454883",
+      "97003476e9c22f496c310f5a373fa90c",
+      "f3e209a225267b88db40d4f8d2933cf6",
+      "6cc4d54b02d50301bfffe605f1babeba",
+      "ead977fca9a925dc226a73278a2231de",
+      "abc26841c864e70351d08e0ade9507ff"
+    ],
+    "org_md5": "13718b033c720defeae1a7f8c0ebf20f",
+    "comment": "",
+    "adddate": "2024\/11\/23"
+  },
+  {
     "md5": "3583fba6f4bee38668a941d6f102edd0",
     "org_level": 12,
     "title": "《Ж》 [SP INSANE]",
@@ -7318,27 +7678,6 @@
     "adddate": "2024\/10\/04"
   },
   {
-    "md5": "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
-    "org_level": 12,
-    "title": "flexidefine [Discriminating]",
-    "artist": "Lamanya",
-    "folder": "LEVEL 12.5",
-    "level": " 12.5",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "495cc8d7ba533610b012e6f5267793f8",
-      "a829c3c36898a481025002bbd11934ef",
-      "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
-      "8fdc495fad411d827954385d4e4e9643"
-    ],
-    "org_md5": "495cc8d7ba533610b012e6f5267793f8",
-    "comment": "",
-    "adddate": "2024\/11\/22"
-  },
-  {
     "md5": "2780aaff5551505f6949e202c83d9f6e",
     "org_level": 9,
     "title": "GOODWORLD -Hope-",
@@ -7397,6 +7736,31 @@
     "org_md5": "ca76efa13c2306f522e56885f83e7f98",
     "comment": "",
     "adddate": "2024\/08\/16"
+  },
+  {
+    "md5": "ee1964b81c382bd4b3106d24f8cc7238",
+    "org_level": 10,
+    "title": "Kirakirize World [INSANE]",
+    "artist": "kooridori BGA:MUSH.T \/ obj.rat",
+    "folder": "LEVEL 12.5",
+    "level": " 12.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cad4c05a31c3220a3d4775cda900d623",
+      "917d4c2f9f40371145ab1328a365d72d",
+      "329b865cd094762c753646f59782bd09",
+      "58f747acfe12eeddf80d6e53c8b81cbe",
+      "ee1964b81c382bd4b3106d24f8cc7238",
+      "2266a7126635d746c45eea901dfddefb",
+      "f248e651a3d9aef0087025606c3de964",
+      "c6f6fb8c69d91c94aaa28d25dd2cab46"
+    ],
+    "org_md5": "cad4c05a31c3220a3d4775cda900d623",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "8ab883df06a16c15b535c297e8d6bcde",
@@ -7564,6 +7928,27 @@
     "adddate": "2024\/08\/12"
   },
   {
+    "md5": "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+    "org_level": 12,
+    "title": "flexidefine [Discriminating]",
+    "artist": "Lamanya",
+    "folder": "LEVEL 12.6",
+    "level": " 12.6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "495cc8d7ba533610b012e6f5267793f8",
+      "a829c3c36898a481025002bbd11934ef",
+      "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
+      "8fdc495fad411d827954385d4e4e9643"
+    ],
+    "org_md5": "495cc8d7ba533610b012e6f5267793f8",
+    "comment": "",
+    "adddate": "2024\/11\/22"
+  },
+  {
     "md5": "2c9104f4b163d6b53b7afa780e12b1e1",
     "org_level": 13,
     "title": "Plastic Heart [SP INSANE]",
@@ -7583,6 +7968,37 @@
     "org_md5": "baeac3fee0f258b93dac1e13e6fc3431",
     "comment": "",
     "adddate": "2024\/08\/12"
+  },
+  {
+    "md5": "8ed9ccfbd38826818c5a2fff7f11cc1b",
+    "org_level": 12,
+    "title": "Primo Magic [SP INSANE]",
+    "artist": "kooridori Feat.猫柳なぎ BGA:MUSH.T ILLUST:コトバッチ \/ obj.rat",
+    "folder": "LEVEL 12.6",
+    "level": " 12.6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "66d5779e662f878541ff550f11de5601",
+      "d8dade347d144df6685451d868d9da3b",
+      "8640e1d7ad7965a438ac97622f0ab7f6",
+      "8631805c255da4e10e6fad911978b64e",
+      "2853cc4fad0f9e8c7d024a3500485934",
+      "692cd570d2c221cca8041b5918da40bb",
+      "3e37e34071292afaed20c39216029bf2",
+      "e2de4270923c7f84ae06770edf90b652",
+      "c82138d1ebe05956b3e888515c30d422",
+      "fd315ea0be65ac4731ca2f8805b155ae",
+      "12fdc79206674ed1315e5ed0a92e1cef",
+      "9a3d8611413929a5fe2c3d036bc66788",
+      "8ed9ccfbd38826818c5a2fff7f11cc1b",
+      "6fbbafd4df365fbc44217c00f4528ae8"
+    ],
+    "org_md5": "66d5779e662f878541ff550f11de5601",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "1393d92c00283fcbf12327537bccc785",
@@ -8428,6 +8844,45 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/ri-07pqukzI>★19",
     "adddate": "2024\/08\/14"
+  },
+  {
+    "md5": "0c543d6a164dffcd71c6ca92ed9be396",
+    "org_level": 12,
+    "title": "PHYSALIS [SP LEGGENDARIA]",
+    "artist": "TAG bms.Spehs & Hihumi \/\/ movie.ShakeJ \/\/ obj.Hihumi",
+    "folder": "LEVEL 13.0",
+    "level": " 13.0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a7eaa7f767d4079c1d7ee9f60f5ba5a5",
+      "4f3ec3be5e73cb65f443eaff5b93ace9",
+      "1d686dc491b8c2dc9e97a6fdddb68c84",
+      "97f026722d257378054f41ec3c4ea683",
+      "8cf912d69262dc77c2260220affd31ff",
+      "b2acca9b6427630808c76c25e7ba067d",
+      "8c4afb4a5d8c7fec3f667f58b6c7f422",
+      "cc374f3c67c19b3df46e659c330a934c",
+      "dd85ca1e5473d20f9e2bc63d02c35ba2",
+      "13ccfea10febce66777d6c2b1ec308c2",
+      "760e7449d7b46676df5e30457b925b89",
+      "8825baabef39f9d73e305800ec3cd976",
+      "686bf40a706a5e4ac61a96ce8eed69c7",
+      "5a6372e0b946317d3d0d990f4fdf20e2",
+      "95f7de7a0f8bce4763ea44dcf46bdc42",
+      "15119e23bce66fbc5917581809a69542",
+      "11c6f491fedc14abadd44a578ea805a4",
+      "94538a39b56f61c0aa955e4ec5910aec",
+      "25924d52c97d761c0b5e08f3e73a980a",
+      "0c543d6a164dffcd71c6ca92ed9be396",
+      "4264b89d687b783a7b5d196346d465b0",
+      "ed886e10c90cbaeb6060abca6b8dfa1c"
+    ],
+    "org_md5": "a7eaa7f767d4079c1d7ee9f60f5ba5a5",
+    "comment": "",
+    "adddate": "2024\/11\/23"
   },
   {
     "md5": "6de6909c19156221d729b5e965c5cc2a",
