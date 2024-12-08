@@ -828,6 +828,29 @@
     "adddate": "2024\/11\/22"
   },
   {
+    "md5": "76c544084d1c718fab7de92edd93833d",
+    "org_level": 12,
+    "title": "τ (tau) [SP ANOTHER]",
+    "artist": "Wooden obj.fanzhen",
+    "folder": "LEVEL sl2",
+    "level": " sl2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a10810b8fbcb86cb6c5e78ce9381a8d3",
+      "45258df779773bfff2fbaede98190706",
+      "67659c6d4d816ac40142aa70a72919b5",
+      "76c544084d1c718fab7de92edd93833d",
+      "3282ecd7cda913bb3c1a4e7fcb85ee69",
+      "fb21281ef1250b6eb083d1e3591a5512"
+    ],
+    "org_md5": "a10810b8fbcb86cb6c5e78ce9381a8d3",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "cd13bab728eaf1f1563d61c30e795f83",
     "org_level": 12,
     "title": "Χαρων [SP-A]",
@@ -1417,20 +1440,49 @@
     "adddate": "2024\/10\/26"
   },
   {
-    "md5": "00000000000000000000000000000000",
-    "org_level": null,
-    "title": "",
-    "artist": "",
+    "md5": "877da3e2d01cd781622b1aaa09bdd1d7",
+    "org_level": 12,
+    "title": "あかず [ANOTHER]",
+    "artist": "かたぎり ft. 可不 BGA: 2nd_identity",
     "folder": "LEVEL sl7",
     "level": " sl7",
     "lr2_bmsid": null,
     "url": "",
     "url_diff": "",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
+    "org_md5s": [
+      "877da3e2d01cd781622b1aaa09bdd1d7",
+      "34c41ff271302f23fa3eb10d6ff5865e",
+      "e3383413ea450bfeb646000c265eee05",
+      "4f88c1d2eeaf7cf2335b75473b8359bb",
+      "6f6f34887acb78b12966f74d00b63771"
+    ],
+    "org_md5": "877da3e2d01cd781622b1aaa09bdd1d7",
     "comment": "",
-    "adddate": "2024\/11\/16"
+    "adddate": "2024\/12\/08"
+  },
+  {
+    "md5": "1531c69b829672399d0ddbc5e6f9f7d3",
+    "org_level": 12,
+    "title": "Magical Night Special [SP LEGGENDARIA]",
+    "artist": "Dogsix mov : 出前 obj.アツコ・カガリ",
+    "folder": "LEVEL sl8",
+    "level": " sl8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6c6e3808da38fd26cc08e8218e0b8a75",
+      "e2a34d4b2f91d51f173173f344555a2a",
+      "6aa8ecb37a26223028bea3f6cf2d3c98",
+      "52d00e10d76be3a59a1247f24660d5d4",
+      "69e1dcd111b1cb89c40a2d3bfac5a1de",
+      "1531c69b829672399d0ddbc5e6f9f7d3"
+    ],
+    "org_md5": "6c6e3808da38fd26cc08e8218e0b8a75",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "ba69393c518e3af8e00a26bafb4b4f65",
@@ -1763,6 +1815,33 @@
     "adddate": "2024\/06\/19"
   },
   {
+    "md5": "6d7bc9cabb8db24f9d7590ee41d218ba",
+    "org_level": 20,
+    "title": "サプレッサ -Sonata-",
+    "artist": "LisicA vs ルゼ mov:XAIQI obj:七海",
+    "folder": "LEVEL sl11",
+    "level": " sl11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "82e7e34a6bb57c27c6e1cbb07aab44cd",
+      "c27d3dd231ab782abe8b187972262822",
+      "6beb78cf51a5a55b81a916aeb16a8786",
+      "dc2fac46fb1f9f3ba5fcfbc2353c5642",
+      "4f9617924b433137dae6b637e9812c98",
+      "d0dbd3f8e19a3955830742b02dff2312",
+      "8d24ca9e17108bc8c4638f8ec2d28f86",
+      "b2803209f5ab8d38bc52f7d6e623c5b9",
+      "ebfe4e2ee2e36415ffe92efe4958211b",
+      "6d7bc9cabb8db24f9d7590ee41d218ba"
+    ],
+    "org_md5": "82e7e34a6bb57c27c6e1cbb07aab44cd",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "9057046fd86187a6221de43069de8a23",
     "org_level": 15,
     "title": "九龍霓虹街 [SP INSANE]",
@@ -1805,6 +1884,39 @@
     "org_md5": "",
     "comment": "35小節目の音ズレ修正版です。",
     "adddate": "2024\/07\/16"
+  },
+  {
+    "md5": "9188a4c9876386173ba35158edf23a15",
+    "org_level": 12,
+    "title": "#B2FFFF [SP Celeste Colored Strawberry]",
+    "artist": "tkqn14 mov. WIC \/ obj: Dignitas",
+    "folder": "LEVEL sl12",
+    "level": " sl12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "83aa6e63840962a06ce06bc33ee7b103",
+      "5fcd14ad511def0791f195c3ee73f085",
+      "9779976a6d8af1c511771e9ec9ab3c36",
+      "fa4352651cf70bbf5f4bbb94ab7ee0a5",
+      "8c5e52719646a027b4d832ce115d98c2",
+      "1189ac4d944a65f70df3406d7660087e",
+      "a34419877dacd773bfce2fb3214975f2",
+      "43c4056838fa6bdbbfa7fb0c5090081b",
+      "2d218c150b6e723d41b76afb78990146",
+      "8c456f30370ae79f910a246a093046f9",
+      "1fe483239f5444300f719727a6ad04f5",
+      "ada20737a1e519f198519fa782144d07",
+      "44c527302db33d4a8b16e020cdc91b4d",
+      "9d10a5feb4b6138beb9de9cadfc4b711",
+      "55392dd8d096aac25f06108b229a28f0",
+      "9188a4c9876386173ba35158edf23a15"
+    ],
+    "org_md5": "83aa6e63840962a06ce06bc33ee7b103",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "e2a8109d9617fbe9bfc384ea7002ed04",
@@ -2127,6 +2239,31 @@
     "adddate": "2024\/07\/16"
   },
   {
+    "md5": "208f388f7f98b5c92becbe4238530714",
+    "org_level": 18,
+    "title": "Χαρων [Realm 5: The Netherworld]",
+    "artist": "Daily天利 vs Reku Mochizuki obj.bluetrain青列車 vs nozomi",
+    "folder": "LEVEL sl12",
+    "level": " sl12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "441e1e31a748ff81b1c0228cfcc84d2c",
+      "b9605d6697c207f9442c8eb3712954d3",
+      "e03fe6e4f3c620df8580f11c09cb8d30",
+      "cd13bab728eaf1f1563d61c30e795f83",
+      "208f388f7f98b5c92becbe4238530714",
+      "5dc13c3d0295eb2e713d4c9e9a939103",
+      "31adf699100c7e9777d67c6552a93f01",
+      "23174c43c0a397d656a921dfdcf226f5"
+    ],
+    "org_md5": "441e1e31a748ff81b1c0228cfcc84d2c",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "c0c26f2d6d1cb83daefea3098a409cb7",
     "org_level": 12,
     "title": "アジサイ -Xe-",
@@ -2141,6 +2278,29 @@
     "org_md5": "",
     "comment": "BPM212 乱打 同時 微連打",
     "adddate": "2024\/07\/16"
+  },
+  {
+    "md5": "2dba48413c50eb7ef81aeac1b3541796",
+    "org_level": 18,
+    "title": "セクシー・セクシー・ダイナマイト [NASTY]",
+    "artist": "kei_iwata \/ Gt. stuv \/ KeiuO + 内村徹",
+    "folder": "LEVEL sl12",
+    "level": " sl12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "10ec7b46efd1e55f5e472906aa473507",
+      "c4171a15dca0bc9f8d429043a809531f",
+      "ffe87cf859a9c17c14df5851935c81ba",
+      "78fe0deea1fa843533940a64caa82a7d",
+      "25e19d3b2a346044fb0fd678d499241e",
+      "2dba48413c50eb7ef81aeac1b3541796"
+    ],
+    "org_md5": "10ec7b46efd1e55f5e472906aa473507",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "04bd8f404bc86c7254f44a2e4d6a0814",
@@ -3085,6 +3245,32 @@
     "adddate": "2024\/07\/16"
   },
   {
+    "md5": "4a28431aec870fe05fd9803bf133819b",
+    "org_level": 21,
+    "title": "来世願幸 [SP 薪尽火滅]",
+    "artist": "RB.H × lixound × Sinud.0 × Cyathewitch \/ mov: 門中月, 大黄Daiwong, 蕉皮PinEA, Roll bms: RB.H obj: Mary_Sue+七海",
+    "folder": "LEVEL st1",
+    "level": " st1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "8a318ad3f167b8be5da9b3e93c8f61f2",
+      "279e8fdb47ae7b0b54482a9705af3a9e",
+      "b4eb05f514a7cfb2d9aec4de71f57ada",
+      "4a28431aec870fe05fd9803bf133819b",
+      "d32a2da58157fcd137bb097acfe73d5a",
+      "b2025929dac0026a0b4352354ea69ff9",
+      "d410c21a8cbcc7ad897411248dc5f1cc",
+      "17201269c17b5fc4689accfa7dae5500",
+      "8f5db82ffccf9ef956f7d3a3b73f0dc6"
+    ],
+    "org_md5": "8a318ad3f167b8be5da9b3e93c8f61f2",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "a76e440491797451b441beb6c1258b13",
     "org_level": 2,
     "title": "\"Flanker-E\" -Xe-",
@@ -3677,6 +3863,26 @@
     "adddate": "2024\/06\/14"
   },
   {
+    "md5": "36ab5ed627a30cf4d68389b56d52b95d",
+    "org_level": 23,
+    "title": "Doomsday [cataclysm]",
+    "artist": "Aoi mov : SELDO \/ obj:Criyajuh",
+    "folder": "LEVEL st3",
+    "level": " st3",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "56bb48536f13125cf399e7420c806ff0",
+      "95733480de95409bbe79937648493f90",
+      "36ab5ed627a30cf4d68389b56d52b95d"
+    ],
+    "org_md5": "56bb48536f13125cf399e7420c806ff0",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "72eb962296d74fa32fa0dd32a17369e8",
     "org_level": 3,
     "title": "Drop Down [stand alone]",
@@ -4180,6 +4386,37 @@
     "adddate": "2024\/06\/13"
   },
   {
+    "md5": "6e9810bfc16bea421e019bf8caa62852",
+    "org_level": 23,
+    "title": "SYNCLiNC [RESONAnCE]",
+    "artist": "Reku Mochizuki \/ obj:potechang",
+    "folder": "LEVEL st4",
+    "level": " st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4f6cae091b853c11709adebce61befb1",
+      "3a09acfa6d299104d41f9c3d4a22ac62",
+      "d9abf54d49133654ce52236a81630c2e",
+      "d4ff488ca0f43f38c346bcd8c15b6162",
+      "51e7f13d9820cfeace4f47e9a075178c",
+      "5b556d8a62cf3df4ebfbfd2b5ec4f424",
+      "6d6f084b70c88d2a86fd507f4d021d11",
+      "897e25fbd120d8516155e2cb258d7f77",
+      "2220cb8d43e6d13bef07a7bf06192bc5",
+      "0a662fb0d113e72e83dc301b684e64fb",
+      "8792ce3e20d4e2a1c1b39c7d164174b6",
+      "ac0cb26f83c0301a63d515afa2c15aa2",
+      "9d366f913606ed84521e116388befbe5",
+      "6e9810bfc16bea421e019bf8caa62852"
+    ],
+    "org_md5": "4f6cae091b853c11709adebce61befb1",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "575a09f7bd5d6e22f91e01fdff83ff38",
     "org_level": 4,
     "title": "TearVid [Other]",
@@ -4233,6 +4470,34 @@
     "org_md5": "3d23a3e8b2e2ff092892101628d2d638",
     "comment": "",
     "adddate": "2024\/06\/19"
+  },
+  {
+    "md5": "6b1e6e5f35b317a8322ee851d6243114",
+    "org_level": 24,
+    "title": "シロハッコ -Ceremony-",
+    "artist": "LisicA mov:出前 illust:Orphee obj:七海+Mary_Sue",
+    "folder": "LEVEL st4",
+    "level": " st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a490a3a9bcd8ca22cd880c1e4053922d",
+      "a27391747e70dd7b21d7447d02b44bb3",
+      "048359f7673848b05ebc016d92226c12",
+      "37f2cfb1f2dd095b41cd64107648963f",
+      "15971fcc6f5b0e16d969b51d334ba9cf",
+      "ea30afe6db878ffea5c3c77791c07acf",
+      "a9221d2bb7c74fd4a92fb1d42ac3051f",
+      "754e6e4ba67fc9c4777b891aa9d1dfa8",
+      "c3dbab69ea6ffa44934432e0ee614845",
+      "e8339379437fbc02c75e049d6ad77563",
+      "6b1e6e5f35b317a8322ee851d6243114"
+    ],
+    "org_md5": "a490a3a9bcd8ca22cd880c1e4053922d",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "aeb0d6f426e59e54efdcfce3cd22b5f6",
@@ -4372,6 +4637,28 @@
     "org_md5": "71ab63901fff3a86d49ddf2c563b46cd",
     "comment": "",
     "adddate": "2024\/10\/26"
+  },
+  {
+    "md5": "90ca888098c2a6f0a3793acdf03719d6",
+    "org_level": 24,
+    "title": "DUO WING [Control Pulse]",
+    "artist": "∀S∀ \/ obj:Criyajuh vs potechang",
+    "folder": "LEVEL st5",
+    "level": " st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e86504d2fac0c933fc860ce5c5b87fee",
+      "36936c0c537e8cd96c5964294b02d8f7",
+      "981e61578b5da591c26bfb0e69abdbc6",
+      "be44f2b132b8f5c30e6bc92fee7d3ae7",
+      "90ca888098c2a6f0a3793acdf03719d6"
+    ],
+    "org_md5": "e86504d2fac0c933fc860ce5c5b87fee",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "8759e8d2a520f3e5d8a3434bc5c6b153",
@@ -4832,6 +5119,61 @@
     "adddate": "2024\/06\/14"
   },
   {
+    "md5": "38dfb05c421a27ecd3fbb06bba0ec83f",
+    "org_level": 25,
+    "title": "E.V.E.R [Ain't too proud to rely on!]",
+    "artist": "SOMON obj:IBARAGI_YOSHIMI",
+    "folder": "LEVEL st6",
+    "level": " st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b3d3f7e711ac41b4f8acec3d90142739",
+      "137fc9c6692e45733b53c1c2559f81e7",
+      "e95bc7c6975ce7d01a383a83a2ff4871",
+      "cbfc617047b86fc49ea515d34db588d5",
+      "b6f13194f93ef2188a6dcaff653f9373",
+      "404649729fd06ab8fe0aa449bd93d214",
+      "2c121186b0788936671a455ba9486523",
+      "02f1902c72d2eca6c11fc6c4320a7463",
+      "38dfb05c421a27ecd3fbb06bba0ec83f"
+    ],
+    "org_md5": "b3d3f7e711ac41b4f8acec3d90142739",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
+    "md5": "72b1e298656013f4f749de1619270a3c",
+    "org_level": 23,
+    "title": "L_ST [ENCORE | Silentia]",
+    "artist": "SpadeK Tuning:鬼面P Illust:Otaku_宅 BGA:安二 obj:Zethiwo",
+    "folder": "LEVEL st6",
+    "level": " st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3e0843d80ce10b6ad1a876a074be1a73",
+      "1fc58b5371b07da0f5b7fb0ca66a9e73",
+      "3a00eaae742c68a46dcb1c99ca9e8d67",
+      "b5ad499fcfd68ba7fcb5a0a4ee8a2ead",
+      "c42834abc1f02b42c51ac076b90d026f",
+      "72b1e298656013f4f749de1619270a3c",
+      "0ee2d576519507662970b11d9f87355d",
+      "8643bb6f0f9c26f17e0f01d0236339d9",
+      "0dfb3ffe2f46471f9c9650b055cd7c31",
+      "ed5768b6642333f3cd9e39f3b01c0331",
+      "e21ed3f04c468a6596172b58c10a66ae",
+      "8f8ec04b78d29ad2d712a30866732177"
+    ],
+    "org_md5": "3e0843d80ce10b6ad1a876a074be1a73",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "b7e4335df57045be750a9b7bcc68007f",
     "org_level": 6,
     "title": "Luminaria [Deep in Abyss]",
@@ -4993,6 +5335,28 @@
     "org_md5": "",
     "comment": "ガチ押し",
     "adddate": "2024\/06\/14"
+  },
+  {
+    "md5": "514e944bfd86b3dd6d380b88ba0cf9cb",
+    "org_level": 25,
+    "title": "Signal [Forlornness]",
+    "artist": "Ludicin BGA:ReviXy, Illust:KM \/\/ obj. tyrcs",
+    "folder": "LEVEL st6",
+    "level": " st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "04c26db66af204c145db49f21e370607",
+      "d4177faaac83c630e132b5ee6f258c3b",
+      "a4328a6dc591234bef3edda25dfdc0bb",
+      "08b4d0edd62d6874c69373b46ae4ed5e",
+      "514e944bfd86b3dd6d380b88ba0cf9cb"
+    ],
+    "org_md5": "04c26db66af204c145db49f21e370607",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "558d8ae0380a67ee1c7b8f13770983b8",
@@ -5279,6 +5643,28 @@
     "adddate": "2024\/07\/16"
   },
   {
+    "md5": "94193c71e931032508f88d824a22bfc3",
+    "org_level": 25,
+    "title": "ディゾルブ [ウゾウムゾウ]",
+    "artist": "stuv feat. kei_iwata, saaa, *wakadori bms:stuv bga:KeiuO+内村徹 \/ obj:Criyajuh",
+    "folder": "LEVEL st7",
+    "level": " st7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "807d2f3563ea0626e9a460c19ac38c1f",
+      "e59b886a0f35d9f4882f7eef6aaba7b4",
+      "915a0db1fa5d9daf0307beba7c3a046b",
+      "882a3f71f77c2262d45013457dd64374",
+      "94193c71e931032508f88d824a22bfc3"
+    ],
+    "org_md5": "807d2f3563ea0626e9a460c19ac38c1f",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "40158096b8842e0c44f99a77951f032f",
     "org_level": 7,
     "title": "テウメッサ",
@@ -5325,6 +5711,27 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2024\/07\/16"
+  },
+  {
+    "md5": "f3c516cdff75e08bae57adc78bc7830c",
+    "org_level": 25,
+    "title": "Birth [sapphire]",
+    "artist": "11月28日（kooridori × TaW × 大前 司） obj:9月18日（BAECON）",
+    "folder": "LEVEL st8",
+    "level": " st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "38228441165779c2998aac96e20fa845",
+      "ea31081ac6108ac1bfb1fdb794cb27f9",
+      "82dc212b1270550b9d054c9a1e9158f6",
+      "f3c516cdff75e08bae57adc78bc7830c"
+    ],
+    "org_md5": "38228441165779c2998aac96e20fa845",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "c46a81cb184f5a804c119930d6eba748",
@@ -5434,6 +5841,27 @@
     "org_md5": "8b684ab0da6208f03aecab46577d28ed",
     "comment": "",
     "adddate": "2024\/07\/16"
+  },
+  {
+    "md5": "86dd52a1a78457756675ab827718fe26",
+    "org_level": 25,
+    "title": "夏の末わりのセレナーデ ～in the blue of twilight☆sky～",
+    "artist": "otoshi.b BGA:ひきにく×はしたかさん \/ obj:BAECON",
+    "folder": "LEVEL st8",
+    "level": " st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d902622a23d4f0a3ceee1e33ad932ebc",
+      "cf7498b182e62d78d8cbc674094fb0f5",
+      "b796a68bc0bcf00329521f04133c9971",
+      "86dd52a1a78457756675ab827718fe26"
+    ],
+    "org_md5": "d902622a23d4f0a3ceee1e33ad932ebc",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "b320b8cf4b476baf51fbae08ff3fad40",
