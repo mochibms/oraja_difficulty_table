@@ -1534,6 +1534,37 @@
     "adddate": "2024\/10\/04"
   },
   {
+    "md5": "42a06b2c452999294e3a0b314aca5e6e",
+    "org_level": 14,
+    "title": "Corgito Ergosum [SP AXIOM]",
+    "artist": "Raimukun movie:Inukoro \/ obj:Mary_Sue",
+    "folder": "LEVEL sl9",
+    "level": " sl9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "71ab63901fff3a86d49ddf2c563b46cd",
+      "b983036f467d6258951da9a7f978c4e9",
+      "24233cc469f24c298aab44ab44b3f1c8",
+      "d240585c95da72555cc39363e39a253f",
+      "6bb3b3d258bcf9e2119e817910dffd35",
+      "e3ab0e3c3cf8f6029422397c82d3ca76",
+      "b98ec7898e06ad726e34d6de1e0e19bd",
+      "42a06b2c452999294e3a0b314aca5e6e",
+      "a7de2416d04fdc6464658e5b2472b894",
+      "e727231819372927d98031695353d000",
+      "024b9b00a01ef03a270b128ee13fbe98",
+      "2463ee293a812825590257c17d02f86b",
+      "7d34cef181b17781333296956372903c",
+      "171288a3cfbedd43dc93ef9e0fbef05f"
+    ],
+    "org_md5": "71ab63901fff3a86d49ddf2c563b46cd",
+    "comment": "",
+    "adddate": "2024\/12\/10"
+  },
+  {
     "md5": "ea047bd884b9fd343b4b23426e65d41d",
     "org_level": 12,
     "title": "Dull Blade [SP INSANE]",
@@ -1583,6 +1614,28 @@
     "org_md5": "9d961ac9f0a2ee2a2d4e326282223682",
     "comment": "",
     "adddate": "2024\/10\/04"
+  },
+  {
+    "md5": "f0037658680a91c1d5f54a8773b236bf",
+    "org_level": 17,
+    "title": "GOODRUSH [LUNATIC]",
+    "artist": "EBIMAYO obj.nozomi",
+    "folder": "LEVEL sl10",
+    "level": " sl10",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=313&event=140",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/2125",
+    "name_diff": null,
+    "org_md5s": [
+      "c2e527ea018293b8bc6e0453b83d998b",
+      "9d8ed000465a1d3f3188184d3447530d",
+      "f3e519e5fb9d1109727a9a0393609f29",
+      "4bc9d6b4fca9d2621a4129f3f3148f82",
+      "f0037658680a91c1d5f54a8773b236bf"
+    ],
+    "org_md5": "c2e527ea018293b8bc6e0453b83d998b",
+    "comment": "",
+    "adddate": "2024\/12\/09"
   },
   {
     "md5": "0c543d6a164dffcd71c6ca92ed9be396",
@@ -1644,6 +1697,26 @@
     "org_md5": "a6e8837441b7c7a2fe8834390457b49e",
     "comment": "video<https:\/\/youtu.be\/eax5V-n5Kag>",
     "adddate": "2024\/07\/16"
+  },
+  {
+    "md5": "1fda5d1c3600b1278688ba1f73286cf6",
+    "org_level": 0,
+    "title": "BAMBOO TWIST [my treat]",
+    "artist": "Ras vs Nankumo BGA：plano obj:MOMORIA",
+    "folder": "LEVEL sl11",
+    "level": " sl11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "45b5d18de0a9d582287b8b1536a4ac79",
+      "dcbc7be245e6f17065fb119441caa937",
+      "1fda5d1c3600b1278688ba1f73286cf6"
+    ],
+    "org_md5": "45b5d18de0a9d582287b8b1536a4ac79",
+    "comment": "",
+    "adddate": "2024\/12\/10"
   },
   {
     "md5": "0ac8f37c4d1fcae3ed3e535b77c1062d",
@@ -2003,6 +2076,22 @@
     "org_md5": "",
     "comment": "差分 右クリックで保存赤い人難易度表 http:\/\/akred.web.fc2.com\/ak-red.html",
     "adddate": "2024\/07\/16"
+  },
+  {
+    "md5": "a0ae63d5d9ee29663ecb68f3f63c0f60",
+    "org_level": 12,
+    "title": "DataErr0r [EXCEED GEAR -LIGHTNING MODEL-]",
+    "artist": "Music : Lunatic Sounds \/ BGA : Photonskyto object:nozomi",
+    "folder": "LEVEL sl12",
+    "level": " sl12",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=39&event=104",
+    "url_diff": "https:\/\/1drv.ms\/u\/s!ApwaJAUHJdpymiWPMzSoD-5T-SfA?e=kRz8v0",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl12 from Satellite",
+    "adddate": "2024\/12\/09"
   },
   {
     "md5": "0f02775a367c932432b0e31bb38acc3b",
@@ -2507,6 +2596,38 @@
     "org_md5": "d53f6973fe20b8372ec346975e207439",
     "comment": "video<https:\/\/youtu.be\/-ybfB-7iQ50>",
     "adddate": "2024\/06\/12"
+  },
+  {
+    "md5": "b5155c1c8cf9d622d0046b61aae3e6a5",
+    "org_level": 0,
+    "title": "E.V.E[EDEN]",
+    "artist": "SOMON obj: Mary_Sue",
+    "folder": "LEVEL st0",
+    "level": " st0",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=33&event=142",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofnt\/table.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM158 微連打",
+    "adddate": "2024\/12\/09"
+  },
+  {
+    "md5": "489d603a8b0e7597c76eb8037a70d1c7",
+    "org_level": 0,
+    "title": "Hello! My World!! [あの頃の僕らへ]",
+    "artist": "ああああ + 翡乃イスカ Mary_sue + 幻の世界 feat.Limite",
+    "folder": "LEVEL st0",
+    "level": " st0",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=398&event=142",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bofnt\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "from Satellite",
+    "adddate": "2024\/12\/09"
   },
   {
     "md5": "629dcff1a2d41bcf83f1169c710f8565",
@@ -3377,6 +3498,26 @@
     "adddate": "2024\/10\/22"
   },
   {
+    "md5": "36ab5ed627a30cf4d68389b56d52b95d",
+    "org_level": 23,
+    "title": "Doomsday [cataclysm]",
+    "artist": "Aoi mov : SELDO \/ obj:Criyajuh",
+    "folder": "LEVEL st2",
+    "level": " st2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "56bb48536f13125cf399e7420c806ff0",
+      "95733480de95409bbe79937648493f90",
+      "36ab5ed627a30cf4d68389b56d52b95d"
+    ],
+    "org_md5": "56bb48536f13125cf399e7420c806ff0",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "404649729fd06ab8fe0aa449bd93d214",
     "org_level": 12,
     "title": "E.V.E.R[BLACK ANOTHER]",
@@ -3863,26 +4004,6 @@
     "adddate": "2024\/06\/14"
   },
   {
-    "md5": "36ab5ed627a30cf4d68389b56d52b95d",
-    "org_level": 23,
-    "title": "Doomsday [cataclysm]",
-    "artist": "Aoi mov : SELDO \/ obj:Criyajuh",
-    "folder": "LEVEL st3",
-    "level": " st3",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "56bb48536f13125cf399e7420c806ff0",
-      "95733480de95409bbe79937648493f90",
-      "36ab5ed627a30cf4d68389b56d52b95d"
-    ],
-    "org_md5": "56bb48536f13125cf399e7420c806ff0",
-    "comment": "",
-    "adddate": "2024\/12\/08"
-  },
-  {
     "md5": "72eb962296d74fa32fa0dd32a17369e8",
     "org_level": 3,
     "title": "Drop Down [stand alone]",
@@ -4024,6 +4145,53 @@
     "org_md5": "",
     "comment": "st3",
     "adddate": "2024\/06\/14"
+  },
+  {
+    "md5": "aeaf1bdee032e1104edc447b7bb587bb",
+    "org_level": 22,
+    "title": "VEZZELiX -Xe-",
+    "artist": "Reku Mochizuki obj : LindBlum",
+    "folder": "LEVEL st3",
+    "level": " st3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=98&event=133",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05444",
+    "name_diff": null,
+    "org_md5s": [
+      "31da39a9735681d7028b5b5b10da61f2",
+      "58fd83bceaecd5dc7f32bea8cc30adf7",
+      "7c5a3d995a0db2098e3d85ee91dbb232",
+      "c10fc34f834e2843c6a9112080e6cc3a",
+      "7f6d3cbb541bfa636e09d802f879c757",
+      "aeaf1bdee032e1104edc447b7bb587bb",
+      "7a94fc9466f6fba4a77c8d4d61243039"
+    ],
+    "org_md5": "31da39a9735681d7028b5b5b10da61f2",
+    "comment": "",
+    "adddate": "2024\/12\/09"
+  },
+  {
+    "md5": "e1bd1d999a8d1ff5df27cc8ed60e840a",
+    "org_level": 23,
+    "title": "αMe:TRiC -RhYMeTRiX-",
+    "artist": "srask obj: qtp13",
+    "folder": "LEVEL st3",
+    "level": " st3",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=173&event=127",
+    "url_diff": "https:\/\/darksabun.github.io\/bceg\/event\/bofxv\/",
+    "name_diff": null,
+    "org_md5s": [
+      "c96baabe8d2c62f14ddf75ac18c454bb",
+      "0e4b7b958d794f12771eac926ee1768d",
+      "21fcee5ec0a3a07a0c6ccf072a984dc4",
+      "b74621c9d3f4dbd8da37f0e9759d1a2c",
+      "da64bc2a556ac71e4e657e0a5f79efb2",
+      "e1bd1d999a8d1ff5df27cc8ed60e840a"
+    ],
+    "org_md5": "c96baabe8d2c62f14ddf75ac18c454bb",
+    "comment": "",
+    "adddate": "2024\/12\/09"
   },
   {
     "md5": "093a8d66b89944db9e42aa2321b4f637",
@@ -4332,6 +4500,22 @@
     "org_md5": "",
     "comment": "BPM168 連打、アレンジ差分",
     "adddate": "2024\/06\/13"
+  },
+  {
+    "md5": "9f046029349759781a84b0ea47fa0c39",
+    "org_level": 4,
+    "title": "Pillars of Ash [INSANE]",
+    "artist": "Lidelle feat. AKA Movie: rN + Mint.zip + Trouman + Keizou + Shalink",
+    "folder": "LEVEL st4",
+    "level": " st4",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=383&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BMSバトル漫画第56話 Lidelle 対 黒皇帝",
+    "adddate": "2024\/12\/09"
   },
   {
     "md5": "fd315ea0be65ac4731ca2f8805b155ae",
@@ -4757,6 +4941,35 @@
     "adddate": "2024\/12\/07"
   },
   {
+    "md5": "95469902364aac0159a7a6043797106e",
+    "org_level": 24,
+    "title": "FREEZE [SUPER ULTIMATE ANOTHER]",
+    "artist": "lixound feat. 薛南 mov:Xquid \/ obj:IBARAGI_YOSHIMI",
+    "folder": "LEVEL st5",
+    "level": " st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3cdee053bfe7a67282f14c7ff9b67264",
+      "5c8dae5589f39e0387895f7333a11775",
+      "1f0c43571eac7c56a0f788eba5659277",
+      "9fbd73fd61ca51496be9faa8d91cc1c6",
+      "642607c35eba0ab14e573fbeda35f9b3",
+      "e4d7f88faef3222a0430e500843767c3",
+      "c57fc9e2e77cebb87921a487fa186ad9",
+      "95469902364aac0159a7a6043797106e",
+      "bd3235bd255e73543131cce4eb858cca",
+      "045a404cdca7de27e39e83a5ab7f220d",
+      "79fee53be9910920a9daf5e53c57ecce",
+      "cc7d7064ba67cb0cad66e3b9dddfcd0c"
+    ],
+    "org_md5": "3cdee053bfe7a67282f14c7ff9b67264",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "de14b9ec2c71addc5067c1130658679e",
     "org_level": 24,
     "title": "GYNOID [Dystopia 2022]",
@@ -4991,6 +5204,34 @@
     "org_md5": "8bdec8b414553eb6d7975dfd7f4ffd63",
     "comment": "",
     "adddate": "2024\/06\/14"
+  },
+  {
+    "md5": "ac3278d0813aa75a39c59e7112a98614",
+    "org_level": 22,
+    "title": "サプレッサ",
+    "artist": "LisicA vs ルゼ mov:XAIQI pattern for some reason",
+    "folder": "LEVEL st5",
+    "level": " st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "82e7e34a6bb57c27c6e1cbb07aab44cd",
+      "c27d3dd231ab782abe8b187972262822",
+      "6beb78cf51a5a55b81a916aeb16a8786",
+      "dc2fac46fb1f9f3ba5fcfbc2353c5642",
+      "4f9617924b433137dae6b637e9812c98",
+      "d0dbd3f8e19a3955830742b02dff2312",
+      "8d24ca9e17108bc8c4638f8ec2d28f86",
+      "b2803209f5ab8d38bc52f7d6e623c5b9",
+      "ebfe4e2ee2e36415ffe92efe4958211b",
+      "6d7bc9cabb8db24f9d7590ee41d218ba",
+      "ac3278d0813aa75a39c59e7112a98614"
+    ],
+    "org_md5": "82e7e34a6bb57c27c6e1cbb07aab44cd",
+    "comment": "",
+    "adddate": "2024\/12\/10"
   },
   {
     "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
@@ -5478,6 +5719,30 @@
     "adddate": "2024\/06\/14"
   },
   {
+    "md5": "5746bb34554bed4bb1e17acefb9f0420",
+    "org_level": 25,
+    "title": "夏の空、少女のアポリオン [Ephemeral Memories]",
+    "artist": "Juka_Box feat.高城みよ \/ obj:Criyajuh",
+    "folder": "LEVEL st6",
+    "level": " st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "66050d20e4fb270b401dd256ee1bbec8",
+      "09d7be6fdf431ce827fbdf5b4de1b863",
+      "4c0bb5e9e7724b26a2469d9a2b2e1637",
+      "c464d85f5dad708b8ead4e99762c41c3",
+      "c578b9ad9269c8d6a140f703f39e2c9b",
+      "02678458cc457be26b52bccab6598e38",
+      "5746bb34554bed4bb1e17acefb9f0420"
+    ],
+    "org_md5": "66050d20e4fb270b401dd256ee1bbec8",
+    "comment": "",
+    "adddate": "2024\/12\/10"
+  },
+  {
     "md5": "5dfeb1f40d32c9910fa2047288236433",
     "org_level": 24,
     "title": "自強號 -Monsther-",
@@ -5798,6 +6063,32 @@
     "adddate": "2024\/07\/16"
   },
   {
+    "md5": "c4d544a3a580efe20778ebd5386e5514",
+    "org_level": 25,
+    "title": "Χαρων [Realm 5: The Netherworld - Transcend]",
+    "artist": "Daily天利 vs Reku Mochizuki obj.bluetrain青列車 vs True : nozomi",
+    "folder": "LEVEL st8",
+    "level": " st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "441e1e31a748ff81b1c0228cfcc84d2c",
+      "b9605d6697c207f9442c8eb3712954d3",
+      "e03fe6e4f3c620df8580f11c09cb8d30",
+      "cd13bab728eaf1f1563d61c30e795f83",
+      "208f388f7f98b5c92becbe4238530714",
+      "c4d544a3a580efe20778ebd5386e5514",
+      "5dc13c3d0295eb2e713d4c9e9a939103",
+      "31adf699100c7e9777d67c6552a93f01",
+      "23174c43c0a397d656a921dfdcf226f5"
+    ],
+    "org_md5": "441e1e31a748ff81b1c0228cfcc84d2c",
+    "comment": "",
+    "adddate": "2024\/12\/10"
+  },
+  {
     "md5": "5c1f65b660225957466d4b435065e5f4",
     "org_level": 25,
     "title": "エヴァネセント [SUPEREPHEMERAL]",
@@ -5949,6 +6240,28 @@
     "adddate": "2024\/08\/28"
   },
   {
+    "md5": "34c41ff271302f23fa3eb10d6ff5865e",
+    "org_level": 25,
+    "title": "あかず [Another Dimensions]",
+    "artist": "かたぎり ft. 可不 BGA: 2nd_identity obj:IBARAGI_YOSHIMI",
+    "folder": "LEVEL st9",
+    "level": " st9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "877da3e2d01cd781622b1aaa09bdd1d7",
+      "34c41ff271302f23fa3eb10d6ff5865e",
+      "e3383413ea450bfeb646000c265eee05",
+      "4f88c1d2eeaf7cf2335b75473b8359bb",
+      "6f6f34887acb78b12966f74d00b63771"
+    ],
+    "org_md5": "877da3e2d01cd781622b1aaa09bdd1d7",
+    "comment": "",
+    "adddate": "2024\/12\/10"
+  },
+  {
     "md5": "bd1b737b599572dcba8e42c913d87b78",
     "org_level": 26,
     "title": "千樹万命を抱く翼よ -Abyss-",
@@ -5970,79 +6283,6 @@
     "org_md5": "7195e449abf1f2e1e037c2afe31be4f9",
     "comment": "",
     "adddate": "2024\/08\/28"
-  },
-  {
-    "md5": "43ab136a3f93b4a43aa3f49a8fee0188",
-    "org_level": 8,
-    "title": "\"Fresco\" [MiG-17]",
-    "artist": "Lemi. obj:И",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/venue.bmssearch.net\/bmsshuin3\/75",
-    "url_diff": "https:\/\/bms.parksulab.xyz\/",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2024\/06\/23"
-  },
-  {
-    "md5": "b6b02c390d528055bcd02025dd2eb3ae",
-    "org_level": 25,
-    "title": "\"Fulcrum-D\" [FINAL DIVE]",
-    "artist": "Lemi. \/ obj:NoName",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "http:\/\/www.dream-pro.info\/~lavalse\/LR2IR\/search.cgi?mode=ranking&bmsmd5=b7daf97b94a5e415dbf9c6922b3368b6",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/2471",
-    "name_diff": null,
-    "org_md5s": [
-      "ad12cfa7dbbe9b558907cda06877f722",
-      "e7f1f1bd6f9ea4355d41f00b1575282e",
-      "6d43dd99edaf61df2620175da7f79eec",
-      "673f1160b45ab4128bcdf37550d41345",
-      "cfe9b3ce956fb12d6fe2aad598343a33",
-      "149631195a0b8a321b49747ce08cd983",
-      "b6b02c390d528055bcd02025dd2eb3ae",
-      "b7daf97b94a5e415dbf9c6922b3368b6"
-    ],
-    "org_md5": "ad12cfa7dbbe9b558907cda06877f722",
-    "comment": "",
-    "adddate": "2024\/06\/23"
-  },
-  {
-    "md5": "7f2cbe01342d3935dd6e72a7ef2b4aa3",
-    "org_level": 7,
-    "title": "#DoomeyTunes [phi]",
-    "artist": "Louie Fibonacci feat. ricono obj:qfeileadh",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=29&event=133",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/478",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "st7 高速乱打",
-    "adddate": "2024\/06\/23"
-  },
-  {
-    "md5": "4892ab3dc15868eabba8e1c704e78fcb",
-    "org_level": 7,
-    "title": "+84 [+700]",
-    "artist": "はがね obj:sak",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=100&event=110",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00406",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "ディレイ",
-    "adddate": "2024\/06\/23"
   },
   {
     "md5": "dd9c2b5776ea20d18f60f57caef8642b",
@@ -6069,22 +6309,6 @@
     "org_md5": "e355dc241b2fcba796bcfe3bedc74b97",
     "comment": "",
     "adddate": "2024\/06\/21"
-  },
-  {
-    "md5": "32388dd5d425e025cd651096501cf694",
-    "org_level": 8,
-    "title": "AIWS [Other]",
-    "artist": "くるぶっこちゃん BGA : geniway \/ OBJ : Omino",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=354&event=110",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00606",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2024\/06\/23"
   },
   {
     "md5": "5a5cb7566f6415c9a8aeaa496df03f00",
@@ -6183,64 +6407,6 @@
     "adddate": "2024\/06\/23"
   },
   {
-    "md5": "b5155c1c8cf9d622d0046b61aae3e6a5",
-    "org_level": 0,
-    "title": "E.V.E[EDEN]",
-    "artist": "SOMON obj: Mary_Sue",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=33&event=142",
-    "url_diff": "https:\/\/darksabun.github.io\/event\/bofnt\/table.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "BPM158 微連打",
-    "adddate": "2024\/07\/16"
-  },
-  {
-    "md5": "697e1b5e215cd37a749adcbb11d4748a",
-    "org_level": 24,
-    "title": "Fluorescence Flamboyant Flight [Flight For FREEDOM]",
-    "artist": "otoshi.b feat.Aoi obj:BAECON",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "51c57ef523fd2e9b6fd88da802c7d7f8",
-      "5d5c361a457fe98d32f9537b3c8c5ad0",
-      "02b67eac5a6daa88be5913044f5dfc63",
-      "478071ac1921598233518cb7ed10086a",
-      "d7c87454af289150039b8bef369f7aec",
-      "697e1b5e215cd37a749adcbb11d4748a",
-      "f658f07e01e90d047f4a2e89d78b225e",
-      "0623f0d9d5543a3de00cc66fcbcb9e8b",
-      "91e1bea8e6cf986aa85422d619ffdfc9"
-    ],
-    "org_md5": "51c57ef523fd2e9b6fd88da802c7d7f8",
-    "comment": "",
-    "adddate": "2024\/06\/23"
-  },
-  {
-    "md5": "c46a81cb184f5a804c119930d6eba748",
-    "org_level": 25,
-    "title": "FREEDOM DiVE [FOUR DIMENSIONS]",
-    "artist": "xi \/ air",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": "1031",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=15&event=50",
-    "url_diff": "https:\/\/dl.dropboxusercontent.com\/s\/g3ig60n2oi3nc9g\/airsabun.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "■ GENOSIDE2018段位認定 ：Overjoy 4曲目（18\/04\/15～）\u000a■ GENOSIDE段位認定　　　：Overjoy 4曲目（12\/12\/30～18\/04\/14）\u000a■ 発狂BMS段位認定　　　　：Overjoy 4曲目（09\/09\/16～12\/12\/29）",
-    "adddate": "2024\/06\/23"
-  },
-  {
     "md5": "bb2f16f585dd5274dab081facc4b3b69",
     "org_level": 0,
     "title": "GIMMICK [messy]",
@@ -6294,38 +6460,6 @@
     "org_md5": "",
     "comment": "基本BPM165 多要素",
     "adddate": "2024\/06\/13"
-  },
-  {
-    "md5": "489d603a8b0e7597c76eb8037a70d1c7",
-    "org_level": 0,
-    "title": "Hello! My World!! [あの頃の僕らへ]",
-    "artist": "ああああ + 翡乃イスカ Mary_sue + 幻の世界 feat.Limite",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=398&event=142",
-    "url_diff": "https:\/\/darksabun.github.io\/event\/bofnt\/",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "from Satellite",
-    "adddate": "2024\/07\/16"
-  },
-  {
-    "md5": "3a503fb4e6605b82ed3ceafe760b5c85",
-    "org_level": 25,
-    "title": "High-Priestess[ANOTHER]",
-    "artist": "Luxion",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": "139810",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=159&event=83",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "同梱譜面",
-    "adddate": "2024\/06\/23"
   },
   {
     "md5": "38503c10766176c398e7ffbccfd4b6af",
@@ -6416,22 +6550,6 @@
     "adddate": "2024\/06\/23"
   },
   {
-    "md5": "b7e4335df57045be750a9b7bcc68007f",
-    "org_level": 6,
-    "title": "Luminaria [Deep in Abyss]",
-    "artist": "Lime \/ obj.fuko",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=137",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/1778",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "BPM227 高速物量",
-    "adddate": "2024\/06\/23"
-  },
-  {
     "md5": "c8b2ac0275e79c7f1d84ddf0898d8775",
     "org_level": 25,
     "title": "MESMERA [SP INSANE]",
@@ -6478,22 +6596,6 @@
     "adddate": "2024\/06\/14"
   },
   {
-    "md5": "10e2f934e3acd5434525dc305632680d",
-    "org_level": 7,
-    "title": "No namer [Hexagon]",
-    "artist": "削除 obj.hex",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/www.axfc.net\/u\/956768&key=bms",
-    "url_diff": "https:\/\/bms.hexlataia.xyz\/tables\/hexajoy.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "gachi, jacks",
-    "adddate": "2024\/06\/23"
-  },
-  {
     "md5": "0c44de22eaf1ac81895773e217f48ee8",
     "org_level": 7,
     "title": "NS18 [Plus]",
@@ -6526,22 +6628,6 @@
     "adddate": "2024\/06\/23"
   },
   {
-    "md5": "9f046029349759781a84b0ea47fa0c39",
-    "org_level": 4,
-    "title": "Pillars of Ash [INSANE]",
-    "artist": "Lidelle feat. AKA Movie: rN + Mint.zip + Trouman + Keizou + Shalink",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=383&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "BMSバトル漫画第56話 Lidelle 対 黒皇帝",
-    "adddate": "2024\/06\/13"
-  },
-  {
     "md5": "45681e84e18abc0b7056db209a694309",
     "org_level": 7,
     "title": "Shiny☆Strike!!! [Beyond the Future]",
@@ -6555,32 +6641,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "st7 同梱　高速物量　微縦連",
-    "adddate": "2024\/06\/23"
-  },
-  {
-    "md5": "4fa32b9ef9b0eea82a9816bc9323250a",
-    "org_level": 25,
-    "title": "stardust explorer [starlight express]",
-    "artist": "kooridori BGA:Arishima_ \/ obj:BAECON",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=146&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "fc75db28223333c1983704b6c71dc407",
-      "aec027ffed1bde0a8fdb981a01feeec9",
-      "299901fc3912720cbdbb8eff5f1c1852",
-      "937b3cb1e7189c6834c3e764783cf627",
-      "e3b0a5ca58a3ce507c436564b6cdb599",
-      "a51630978e19a5e706da6d0445c33c43",
-      "857e8c40f16cfab843e0b48576d28454",
-      "4fa32b9ef9b0eea82a9816bc9323250a",
-      "6a563ddcebe86e6e753098f2f6982e7f"
-    ],
-    "org_md5": "fc75db28223333c1983704b6c71dc407",
-    "comment": "",
     "adddate": "2024\/06\/23"
   },
   {
@@ -6616,22 +6676,6 @@
     "adddate": "2024\/06\/14"
   },
   {
-    "md5": "655052be72cdca0efda4c89041c056e3",
-    "org_level": 8,
-    "title": "tinnitus [Other]",
-    "artist": "SP-# obj:Omino",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/onedrive.live.com\/?cid=578814ACC2BD5A74&id=578814ACC2BD5A74!140",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00560",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2024\/06\/23"
-  },
-  {
     "md5": "5267eb8a7dde7bced341bd0e261d4008",
     "org_level": 7,
     "title": "Valkyrie Revolutia [Super Hexagon]",
@@ -6662,30 +6706,6 @@
     "org_md5": "",
     "comment": "物量　ディレイ発狂",
     "adddate": "2024\/06\/23"
-  },
-  {
-    "md5": "aeaf1bdee032e1104edc447b7bb587bb",
-    "org_level": 22,
-    "title": "VEZZELiX -Xe-",
-    "artist": "Reku Mochizuki obj : LindBlum",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=98&event=133",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=05444",
-    "name_diff": null,
-    "org_md5s": [
-      "31da39a9735681d7028b5b5b10da61f2",
-      "58fd83bceaecd5dc7f32bea8cc30adf7",
-      "7c5a3d995a0db2098e3d85ee91dbb232",
-      "c10fc34f834e2843c6a9112080e6cc3a",
-      "7f6d3cbb541bfa636e09d802f879c757",
-      "aeaf1bdee032e1104edc447b7bb587bb",
-      "7a94fc9466f6fba4a77c8d4d61243039"
-    ],
-    "org_md5": "31da39a9735681d7028b5b5b10da61f2",
-    "comment": "",
-    "adddate": "2024\/06\/14"
   },
   {
     "md5": "0c16bdf08d87fa15270d4ad4ca619b18",
@@ -6743,29 +6763,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "http:\/\/akred.web.fc2.com\/bmsfile\/Wizdomiot-INFERNO-AK-.bms差分 右クリックで保存赤い人難易度表 http:\/\/akred.web.fc2.com\/ak-red.html",
-    "adddate": "2024\/06\/14"
-  },
-  {
-    "md5": "e1bd1d999a8d1ff5df27cc8ed60e840a",
-    "org_level": 23,
-    "title": "αMe:TRiC -RhYMeTRiX-",
-    "artist": "srask obj: qtp13",
-    "folder": "候補",
-    "level": "候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=173&event=127",
-    "url_diff": "https:\/\/darksabun.github.io\/bceg\/event\/bofxv\/",
-    "name_diff": null,
-    "org_md5s": [
-      "c96baabe8d2c62f14ddf75ac18c454bb",
-      "0e4b7b958d794f12771eac926ee1768d",
-      "21fcee5ec0a3a07a0c6ccf072a984dc4",
-      "b74621c9d3f4dbd8da37f0e9759d1a2c",
-      "da64bc2a556ac71e4e657e0a5f79efb2",
-      "e1bd1d999a8d1ff5df27cc8ed60e840a"
-    ],
-    "org_md5": "c96baabe8d2c62f14ddf75ac18c454bb",
-    "comment": "",
     "adddate": "2024\/06\/14"
   },
   {
