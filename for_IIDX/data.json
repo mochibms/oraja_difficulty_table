@@ -123,6 +123,26 @@
     "adddate": "2024\/11\/20"
   },
   {
+    "md5": "ef25b3fbe4bf539c75a20a5ebb01e812",
+    "org_level": 5,
+    "title": "Acquire",
+    "artist": "ryhki",
+    "folder": "LEVEL5",
+    "level": "5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ba0d2fc45cf853dbbfdc7f3afda2aa83",
+      "eaa85440700dd77fe0a558516d2c0ce3",
+      "ef25b3fbe4bf539c75a20a5ebb01e812"
+    ],
+    "org_md5": "ba0d2fc45cf853dbbfdc7f3afda2aa83",
+    "comment": "",
+    "adddate": "2024\/12\/06"
+  },
+  {
     "md5": "d496ec0376fbc7b5d4d712ce9baf8b04",
     "org_level": 5,
     "title": "Colorful Polytope",
@@ -488,6 +508,34 @@
     "org_md5": "cce4528f8e65bce3cc57bff66a5860e0",
     "comment": "",
     "adddate": "2024\/11\/20"
+  },
+  {
+    "md5": "82e104e385cee63c1950105a65f1ede1",
+    "org_level": 6,
+    "title": "〇、 [SP Normal]",
+    "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj:fanzhen",
+    "folder": "LEVEL6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e355dc241b2fcba796bcfe3bedc74b97",
+      "6523e2c0f0420122a7c1bf981b6f5b55",
+      "aa46e0e7dde98e04dd3f6e0dd6b14bda",
+      "82e104e385cee63c1950105a65f1ede1",
+      "a44aac74ba54cee354ad66022516fa4f",
+      "3da419b2f0ff3f0382efdf7b42df0aa8",
+      "a77d305d0be66d30d211c91b3324642e",
+      "d543c3a6cf5548d30f49af1c9f8ae2db",
+      "2bd1d8f39a7389edd03cc3a1dc41614a",
+      "a1052dfb71bd0a790d57fb7ec7f08269",
+      "dd9c2b5776ea20d18f60f57caef8642b"
+    ],
+    "org_md5": "e355dc241b2fcba796bcfe3bedc74b97",
+    "comment": "",
+    "adddate": "2024\/12\/06"
   },
   {
     "md5": "4bb4641e9ec8b19681aba1bdeb38e23c",
@@ -913,6 +961,34 @@
     "org_md5": "8a318ad3f167b8be5da9b3e93c8f61f2",
     "comment": "",
     "adddate": "2024\/11\/20"
+  },
+  {
+    "md5": "2b61ac73e28f0acfa6c558204bbbfa5b",
+    "org_level": 7,
+    "title": "《Ж》 [SP NORMAL]",
+    "artist": "LYRi \"Cyanblue\" WHiTE x NIKANON bms. Qyubey \/ mov. Siesphere \/ obj. Seori & tkqn14",
+    "folder": "LEVEL7(☆7以下は譜面を自分で確認していません)",
+    "level": "7(☆7以下は譜面を自分で確認していません)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a30f1fd518805923653c3f1f9d4a619a",
+      "70c0dae91abe36ce67b75e17ae4890d1",
+      "5c30d660b85a3318f2cb6cecece6b018",
+      "ea3dcd2e9b13e7360c698fc9cfd2142f",
+      "f874a92222b5298fce8469a2434da802",
+      "ea987f7d0674560451f19a97ea55ef4d",
+      "1f0f14b99c1e0540532942a44f79fe70",
+      "fc38dc4c63f311a60b3c0593bd5613fc",
+      "3583fba6f4bee38668a941d6f102edd0",
+      "d370debc492f547f0a3dbeff48f033e3",
+      "2b61ac73e28f0acfa6c558204bbbfa5b"
+    ],
+    "org_md5": "a30f1fd518805923653c3f1f9d4a619a",
+    "comment": "",
+    "adddate": "2024\/12\/06"
   },
   {
     "md5": "00033787a4fe4bcded128c3cbf163fa1",
@@ -1380,6 +1456,26 @@
     "org_md5": "0b21264c2a7d36289a8163ca5a4c662c",
     "comment": "",
     "adddate": "2024\/11\/20"
+  },
+  {
+    "md5": "eaa85440700dd77fe0a558516d2c0ce3",
+    "org_level": 8,
+    "title": "Acquire",
+    "artist": "ryhki",
+    "folder": "LEVEL8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ba0d2fc45cf853dbbfdc7f3afda2aa83",
+      "eaa85440700dd77fe0a558516d2c0ce3",
+      "ef25b3fbe4bf539c75a20a5ebb01e812"
+    ],
+    "org_md5": "ba0d2fc45cf853dbbfdc7f3afda2aa83",
+    "comment": "",
+    "adddate": "2024\/12\/06"
   },
   {
     "md5": "295dea508f2ab0545e3c85c20a4443ad",
@@ -4776,28 +4872,6 @@
     "adddate": "2023\/10\/23"
   },
   {
-    "md5": "afa5f4445298aece1647a33be1d849a5",
-    "org_level": 11,
-    "title": "きりんさん進化論 [SP ANOTHER]",
-    "artist": "qfeileadh feat.レゾナンスもえこ Movie:むらたむうた",
-    "folder": "LEVEL11",
-    "level": "11",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "afa5f4445298aece1647a33be1d849a5",
-      "5bb623852ded928ca80016110a48ec90",
-      "d84c232e3ecb06f5a3f316efb4aa88a8",
-      "723c085c53d6f258b5fe100c40a17cf5",
-      "f9e3a1c56830c50b854dbd07f66fa62b"
-    ],
-    "org_md5": "afa5f4445298aece1647a33be1d849a5",
-    "comment": "",
-    "adddate": "2024\/11\/02"
-  },
-  {
     "md5": "4c368c94b5833241200cd08ba2c45577",
     "org_level": 11,
     "title": "シレノ [SP ANOTHER]",
@@ -5259,6 +5333,27 @@
     "org_md5": "",
     "comment": "sl0 SUPER GOD SONG",
     "adddate": "2024\/11\/24"
+  },
+  {
+    "md5": "a8b3b0d6c172991e9dbd1f1bfa0a8e6a",
+    "org_level": 11,
+    "title": "Colorful Days♪ [SP ANOTHER]",
+    "artist": "P4koo feat. つゆり花鈴 Art:Doro-nyong Movie:Ratif",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c310b138f0b4eb386347c222258ef944",
+      "a8b3b0d6c172991e9dbd1f1bfa0a8e6a",
+      "d2744a9bd6b05163e139ba929518566f",
+      "49fca40c9164ee9668f5e28566a5e0be"
+    ],
+    "org_md5": "c310b138f0b4eb386347c222258ef944",
+    "comment": "",
+    "adddate": "2024\/12\/14"
   },
   {
     "md5": "39588b7e90d6e25c6c31fba7ef4fcc21",
@@ -6081,6 +6176,30 @@
     "adddate": "2023\/11\/23"
   },
   {
+    "md5": "4a86ada3a9736757b27e25303994676e",
+    "org_level": 11,
+    "title": "Skyward Blast",
+    "artist": "あさり",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=300&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "aefaa41069f53b88969c337aa10ab2da",
+      "3c29e2ce28524875ee3617493aaf7219",
+      "266e960e9ede06642e53a7c7e1eaf58c",
+      "4a86ada3a9736757b27e25303994676e",
+      "e0dc1820f5a5a689b51832addd9377bb",
+      "52be2010c7e712c39d17093c49b8a3ef",
+      "8500540a919f5754635b2e247d6203d7"
+    ],
+    "org_md5": "aefaa41069f53b88969c337aa10ab2da",
+    "comment": "",
+    "adddate": "2024\/12\/18"
+  },
+  {
     "md5": "1548fe70c32b58e709cb195fed577a03",
     "org_level": 11,
     "title": "slic.hertz [SP Another]",
@@ -6207,6 +6326,31 @@
     "adddate": "2023\/11\/22"
   },
   {
+    "md5": "f00307c3a792950d15ca7daccf401dd0",
+    "org_level": 11,
+    "title": "ZERODAY [ANOTHER]",
+    "artist": "Lunatic Sounds \/ Yusi. obj.B_K",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "24edfd622b5623da309c5ffb303cab75",
+      "5e04743eab74c2015d6db15e66041e31",
+      "c4b278ede64272267cb03b7153f1a5f5",
+      "7720d0d3d5d62f58befa86875db1988d",
+      "f00307c3a792950d15ca7daccf401dd0",
+      "d30d511d9fce23c17d67759e9833d647",
+      "efd638a9e9ff35f6a9f4d10fc24f45b5",
+      "a01137fbe457b3fcf82f12a0eb39b591"
+    ],
+    "org_md5": "24edfd622b5623da309c5ffb303cab75",
+    "comment": "",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "f4ed13e039d10e51f226d94b986b19d6",
     "org_level": 11,
     "title": "エヴァネセント [SP HYPER]",
@@ -6228,6 +6372,28 @@
     "org_md5": "fc0ce4893d631b42fe7ed9da1d0de7f5",
     "comment": "",
     "adddate": "2023\/10\/23"
+  },
+  {
+    "md5": "afa5f4445298aece1647a33be1d849a5",
+    "org_level": 11,
+    "title": "きりんさん進化論 [SP ANOTHER]",
+    "artist": "qfeileadh feat.レゾナンスもえこ Movie:むらたむうた",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "afa5f4445298aece1647a33be1d849a5",
+      "5bb623852ded928ca80016110a48ec90",
+      "d84c232e3ecb06f5a3f316efb4aa88a8",
+      "723c085c53d6f258b5fe100c40a17cf5",
+      "f9e3a1c56830c50b854dbd07f66fa62b"
+    ],
+    "org_md5": "afa5f4445298aece1647a33be1d849a5",
+    "comment": "",
+    "adddate": "2024\/12\/15"
   },
   {
     "md5": "d1b59a5a4491e6b63282b9729415aa9e",
@@ -6433,6 +6599,34 @@
     "org_md5": "77bf6843daaaaa62c342bad219719704",
     "comment": "",
     "adddate": "2024\/11\/19"
+  },
+  {
+    "md5": "6523e2c0f0420122a7c1bf981b6f5b55",
+    "org_level": 12,
+    "title": "〇、 [SP Another]",
+    "artist": "Kolaa & 熊子 (movie: 毛腿猪兔子 & Kolaa) obj:fanzhen",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e355dc241b2fcba796bcfe3bedc74b97",
+      "6523e2c0f0420122a7c1bf981b6f5b55",
+      "aa46e0e7dde98e04dd3f6e0dd6b14bda",
+      "82e104e385cee63c1950105a65f1ede1",
+      "a44aac74ba54cee354ad66022516fa4f",
+      "3da419b2f0ff3f0382efdf7b42df0aa8",
+      "a77d305d0be66d30d211c91b3324642e",
+      "d543c3a6cf5548d30f49af1c9f8ae2db",
+      "2bd1d8f39a7389edd03cc3a1dc41614a",
+      "a1052dfb71bd0a790d57fb7ec7f08269",
+      "dd9c2b5776ea20d18f60f57caef8642b"
+    ],
+    "org_md5": "e355dc241b2fcba796bcfe3bedc74b97",
+    "comment": "",
+    "adddate": "2024\/12\/06"
   },
   {
     "md5": "d6a7a48757ba862ac0edd2f376c133e0",
@@ -6760,6 +6954,27 @@
     "org_md5": "ab92bbb6dbd13cc2d84590768b021204",
     "comment": "",
     "adddate": "2024\/11\/24"
+  },
+  {
+    "md5": "c310b138f0b4eb386347c222258ef944",
+    "org_level": 2,
+    "title": "Colorful Days♪ [Colour My Sky]",
+    "artist": "P4koo feat. つゆり花鈴 Art:Doro-nyong Movie:Ratif obj : BAECON",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c310b138f0b4eb386347c222258ef944",
+      "a8b3b0d6c172991e9dbd1f1bfa0a8e6a",
+      "d2744a9bd6b05163e139ba929518566f",
+      "49fca40c9164ee9668f5e28566a5e0be"
+    ],
+    "org_md5": "c310b138f0b4eb386347c222258ef944",
+    "comment": "",
+    "adddate": "2024\/12\/14"
   },
   {
     "md5": "c48d267341c801699a183b6b64961cfa",
@@ -8344,6 +8559,29 @@
     "adddate": "2023\/02\/21"
   },
   {
+    "md5": "76c544084d1c718fab7de92edd93833d",
+    "org_level": 12,
+    "title": "τ (tau) [SP ANOTHER]",
+    "artist": "Wooden obj.fanzhen",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a10810b8fbcb86cb6c5e78ce9381a8d3",
+      "45258df779773bfff2fbaede98190706",
+      "67659c6d4d816ac40142aa70a72919b5",
+      "76c544084d1c718fab7de92edd93833d",
+      "3282ecd7cda913bb3c1a4e7fcb85ee69",
+      "fb21281ef1250b6eb083d1e3591a5512"
+    ],
+    "org_md5": "a10810b8fbcb86cb6c5e78ce9381a8d3",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "cd13bab728eaf1f1563d61c30e795f83",
     "org_level": 12,
     "title": "Χαρων [SP-A]",
@@ -8999,6 +9237,22 @@
     "adddate": "2024\/10\/04"
   },
   {
+    "md5": "d9d7984f8dd5d70f8d9b7e1a4994634c",
+    "org_level": 3,
+    "title": "Me & U [Q]",
+    "artist": "siqlo BGA:将軍 \/ obj.JoeT",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=218&event=127",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03880",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "物量乱打、微縦連、BHCs7",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "f67d846b842b968f94f525f0f8e8097a",
     "org_level": 3,
     "title": "Melotte 333 -ADVANCE7-",
@@ -9429,6 +9683,22 @@
     "adddate": "2023\/06\/14"
   },
   {
+    "md5": "d30d511d9fce23c17d67759e9833d647",
+    "org_level": 3,
+    "title": "ZERODAY [INSANE]",
+    "artist": "Lunatic Sounds \/ Yusi. obj.B_K",
+    "folder": "LEVEL12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/k-bms.com\/party_pabat\/party2017.jsp?board_num=17&num=51",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "物量・連皿・微ソフラン有",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "65458ed86b3ff9d39b17c324772bd80d",
     "org_level": 12,
     "title": "アドバンス・シグナル[EVOLUTION]",
@@ -9818,6 +10088,28 @@
     "org_md5": "",
     "comment": "LNあり",
     "adddate": "2023\/02\/27"
+  },
+  {
+    "md5": "fb81b660d0edb0de4031a04939f99682",
+    "org_level": 12,
+    "title": "Design [SP INSANE]",
+    "artist": "大前 司 obj:hi-low",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "fb81b660d0edb0de4031a04939f99682",
+      "cc7d16c79983d34482ce433c10363002",
+      "fd94d1a4f812ee30de03cea929bcae8a",
+      "b81a9f55909413c7bf2413dd069c4939",
+      "acda0b78c2752a4f748b79579e29c9f8"
+    ],
+    "org_md5": "fb81b660d0edb0de4031a04939f99682",
+    "comment": "",
+    "adddate": "2024\/12\/03"
   },
   {
     "md5": "02d946340db4001ec78b1e6b9af3a388",
@@ -11547,6 +11839,22 @@
     "adddate": "2023\/06\/21"
   },
   {
+    "md5": "319f4b239a0ae5bb283b186480010685",
+    "org_level": 6,
+    "title": "Catalyst [GOODNESS Again.]",
+    "artist": "yuki. BGA EBIMAYO \/ obj: Lennon",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=4&event=108",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "乱打、同時押し",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "076e29572b1eb9db8f5956130c86767c",
     "org_level": 12,
     "title": "crack in the earth [so below]",
@@ -11886,38 +12194,6 @@
     "org_md5": "f49acbc1137ddae844f8ed880a838e0e",
     "comment": "",
     "adddate": "2024\/08\/23"
-  },
-  {
-    "md5": "82edafc8f0cb779bf4872a5c2d835cde",
-    "org_level": 8,
-    "title": "New York Back Raise [FULL HOUSE]",
-    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
-    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
-    "level": "12.5(HARD適正CPI1700~1750)",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=140",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "3189f24b19e375d38d076850aaa3de9a",
-      "72a8bb9573bc5296bfa3c3250c01b0eb",
-      "39e6f8a4a9a8cca9d77c2e15641e1785",
-      "10bd23a0db41a9fd2764bcd77825cf6a",
-      "82edafc8f0cb779bf4872a5c2d835cde",
-      "bc366d45f50ca45bcefe7ad18b4eaeaf",
-      "fb5dad11be831f4b7286794ca7f1c278",
-      "a4695197ae2c9eecc245629ac84f9586",
-      "2fb078ea595f6ae168e189cd1f6f22cc",
-      "2afcf8f878df9bae0c83bbb2aacb6657",
-      "5d628afc615a1f66b28267890265246b",
-      "4523dbc1a50913f659c35a74bc3db0f8",
-      "d1a5b9b43147a550a65f46507b3444a5",
-      "5a3b85ba3430f83e43e9b25a40b85d18",
-      "49e50e5c6e1fe859c3642bace0e03632"
-    ],
-    "org_md5": "3189f24b19e375d38d076850aaa3de9a",
-    "comment": "",
-    "adddate": "2023\/08\/17"
   },
   {
     "md5": "0a196131cfc5d81fb3b143835b80b697",
@@ -12572,6 +12848,38 @@
     "adddate": "2023\/06\/19"
   },
   {
+    "md5": "82edafc8f0cb779bf4872a5c2d835cde",
+    "org_level": 8,
+    "title": "New York Back Raise [FULL HOUSE]",
+    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3189f24b19e375d38d076850aaa3de9a",
+      "72a8bb9573bc5296bfa3c3250c01b0eb",
+      "39e6f8a4a9a8cca9d77c2e15641e1785",
+      "10bd23a0db41a9fd2764bcd77825cf6a",
+      "82edafc8f0cb779bf4872a5c2d835cde",
+      "bc366d45f50ca45bcefe7ad18b4eaeaf",
+      "fb5dad11be831f4b7286794ca7f1c278",
+      "a4695197ae2c9eecc245629ac84f9586",
+      "2fb078ea595f6ae168e189cd1f6f22cc",
+      "2afcf8f878df9bae0c83bbb2aacb6657",
+      "5d628afc615a1f66b28267890265246b",
+      "4523dbc1a50913f659c35a74bc3db0f8",
+      "d1a5b9b43147a550a65f46507b3444a5",
+      "5a3b85ba3430f83e43e9b25a40b85d18",
+      "49e50e5c6e1fe859c3642bace0e03632"
+    ],
+    "org_md5": "3189f24b19e375d38d076850aaa3de9a",
+    "comment": "",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "1925b5ab0ec1fb8781a87a8a21359c7b",
     "org_level": 6,
     "title": "On And On!! [IR]",
@@ -12831,6 +13139,28 @@
     "org_md5": "09144b709c1282a1111c297e1353caa8",
     "comment": "",
     "adddate": "2023\/11\/22"
+  },
+  {
+    "md5": "877da3e2d01cd781622b1aaa09bdd1d7",
+    "org_level": 12,
+    "title": "あかず [ANOTHER]",
+    "artist": "かたぎり ft. 可不 BGA: 2nd_identity",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "877da3e2d01cd781622b1aaa09bdd1d7",
+      "34c41ff271302f23fa3eb10d6ff5865e",
+      "e3383413ea450bfeb646000c265eee05",
+      "4f88c1d2eeaf7cf2335b75473b8359bb",
+      "6f6f34887acb78b12966f74d00b63771"
+    ],
+    "org_md5": "877da3e2d01cd781622b1aaa09bdd1d7",
+    "comment": "",
+    "adddate": "2024\/12\/08"
   },
   {
     "md5": "8f133243dbc8d4ef84ae4eb4ca97de9c",
@@ -13296,6 +13626,45 @@
     "adddate": "2023\/06\/07"
   },
   {
+    "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
+    "org_level": 8,
+    "title": "LWVIIX[ANOTHER]",
+    "artist": "69 de 74 BGA:FanfRS",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=16&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/S-CHpOcQ8FM>sl8",
+    "adddate": "2024\/12\/15"
+  },
+  {
+    "md5": "1531c69b829672399d0ddbc5e6f9f7d3",
+    "org_level": 12,
+    "title": "Magical Night Special [SP LEGGENDARIA]",
+    "artist": "Dogsix mov : 出前 obj.アツコ・カガリ",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6c6e3808da38fd26cc08e8218e0b8a75",
+      "e2a34d4b2f91d51f173173f344555a2a",
+      "6aa8ecb37a26223028bea3f6cf2d3c98",
+      "52d00e10d76be3a59a1247f24660d5d4",
+      "69e1dcd111b1cb89c40a2d3bfac5a1de",
+      "1531c69b829672399d0ddbc5e6f9f7d3"
+    ],
+    "org_md5": "6c6e3808da38fd26cc08e8218e0b8a75",
+    "comment": "",
+    "adddate": "2024\/12\/08"
+  },
+  {
     "md5": "b274d8fce2a3fc3d255250044b6ea03c",
     "org_level": 12,
     "title": "Motif [SP Another]",
@@ -13511,22 +13880,6 @@
     "org_md5": "5670df6611ea668b266b07a4f8c6f445",
     "comment": "video<https:\/\/youtu.be\/ZA_Djt4wKqY>",
     "adddate": "2023\/05\/25"
-  },
-  {
-    "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
-    "org_level": 8,
-    "title": "LWVIIX[ANOTHER]",
-    "artist": "69 de 74 BGA:FanfRS",
-    "folder": "LEVEL12.8(HARD適正CPI1850~1900)",
-    "level": "12.8(HARD適正CPI1850~1900)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=16&event=133",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/S-CHpOcQ8FM>sl8",
-    "adddate": "2023\/06\/07"
   },
   {
     "md5": "774f2c6f9635ea39a0d1b8480ff0f253",
@@ -13938,6 +14291,28 @@
     "org_md5": "8e692cbbd4b18f16bca5b7a0ddbbecd0",
     "comment": "video<https:\/\/youtu.be\/dfgHzxLYLWk>連皿",
     "adddate": "2023\/07\/03"
+  },
+  {
+    "md5": "ea047bd884b9fd343b4b23426e65d41d",
+    "org_level": 12,
+    "title": "Dull Blade [SP INSANE]",
+    "artist": "stuv mov:kazari",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "225a4d2b09feacfb29b600874025bdce",
+      "d0b37fc60ea65d6c72e9b56abac7ab20",
+      "ea047bd884b9fd343b4b23426e65d41d",
+      "98037a7849567288e22d4c3b7d5a2635",
+      "347145c8fdbc2ff12a57d6d00b4d2fe6"
+    ],
+    "org_md5": "225a4d2b09feacfb29b600874025bdce",
+    "comment": "",
+    "adddate": "2024\/12\/06"
   },
   {
     "md5": "02219fc200b7bbf9d068ac978f85188b",
