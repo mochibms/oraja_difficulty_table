@@ -128,6 +128,27 @@
     "adddate": "2024\/11\/24"
   },
   {
+    "md5": "a8b3b0d6c172991e9dbd1f1bfa0a8e6a",
+    "org_level": 11,
+    "title": "Colorful Days♪ [SP ANOTHER]",
+    "artist": "P4koo feat. つゆり花鈴 Art:Doro-nyong Movie:Ratif",
+    "folder": "LEVEL sl0",
+    "level": " sl0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c310b138f0b4eb386347c222258ef944",
+      "a8b3b0d6c172991e9dbd1f1bfa0a8e6a",
+      "d2744a9bd6b05163e139ba929518566f",
+      "49fca40c9164ee9668f5e28566a5e0be"
+    ],
+    "org_md5": "c310b138f0b4eb386347c222258ef944",
+    "comment": "",
+    "adddate": "2024\/12\/14"
+  },
+  {
     "md5": "c48d267341c801699a183b6b64961cfa",
     "org_level": 12,
     "title": "Colorful Polytope",
@@ -407,6 +428,31 @@
     "adddate": "2024\/11\/23"
   },
   {
+    "md5": "f00307c3a792950d15ca7daccf401dd0",
+    "org_level": 11,
+    "title": "ZERODAY [ANOTHER]",
+    "artist": "Lunatic Sounds \/ Yusi. obj.B_K",
+    "folder": "LEVEL sl0",
+    "level": " sl0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "24edfd622b5623da309c5ffb303cab75",
+      "5e04743eab74c2015d6db15e66041e31",
+      "c4b278ede64272267cb03b7153f1a5f5",
+      "7720d0d3d5d62f58befa86875db1988d",
+      "f00307c3a792950d15ca7daccf401dd0",
+      "d30d511d9fce23c17d67759e9833d647",
+      "efd638a9e9ff35f6a9f4d10fc24f45b5",
+      "a01137fbe457b3fcf82f12a0eb39b591"
+    ],
+    "org_md5": "24edfd622b5623da309c5ffb303cab75",
+    "comment": "",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "fa4352651cf70bbf5f4bbb94ab7ee0a5",
     "org_level": 12,
     "title": "#B2FFFF [SP ANOTHER]",
@@ -543,6 +589,27 @@
     "org_md5": "21aba0740548695966dfbd74d96cab0b",
     "comment": "",
     "adddate": "2024\/10\/23"
+  },
+  {
+    "md5": "c310b138f0b4eb386347c222258ef944",
+    "org_level": 2,
+    "title": "Colorful Days♪ [Colour My Sky]",
+    "artist": "P4koo feat. つゆり花鈴 Art:Doro-nyong Movie:Ratif obj : BAECON",
+    "folder": "LEVEL sl1",
+    "level": " sl1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c310b138f0b4eb386347c222258ef944",
+      "a8b3b0d6c172991e9dbd1f1bfa0a8e6a",
+      "d2744a9bd6b05163e139ba929518566f",
+      "49fca40c9164ee9668f5e28566a5e0be"
+    ],
+    "org_md5": "c310b138f0b4eb386347c222258ef944",
+    "comment": "",
+    "adddate": "2024\/12\/14"
   },
   {
     "md5": "2ac88e54513d52620be5d44d2a0768c7",
@@ -1039,6 +1106,22 @@
     "adddate": "2024\/10\/04"
   },
   {
+    "md5": "d9d7984f8dd5d70f8d9b7e1a4994634c",
+    "org_level": 3,
+    "title": "Me & U [Q]",
+    "artist": "siqlo BGA:将軍 \/ obj.JoeT",
+    "folder": "LEVEL sl3",
+    "level": " sl3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=218&event=127",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03880",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "物量乱打、微縦連、BHCs7",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "b1c04d102bcf27b74a9257000f3f02cb",
     "org_level": 5,
     "title": "MORNINGLOOM [GUIDANCE]",
@@ -1101,6 +1184,22 @@
     "adddate": "2024\/11\/23"
   },
   {
+    "md5": "d30d511d9fce23c17d67759e9833d647",
+    "org_level": 3,
+    "title": "ZERODAY [INSANE]",
+    "artist": "Lunatic Sounds \/ Yusi. obj.B_K",
+    "folder": "LEVEL sl3",
+    "level": " sl3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/k-bms.com\/party_pabat\/party2017.jsp?board_num=17&num=51",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "物量・連皿・微ソフラン有",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "3bb30d67d3966c27bc8887714fe7814b",
     "org_level": 7,
     "title": "再演旧都 [Insane_7key]",
@@ -1124,6 +1223,22 @@
     "org_md5": "10a9454ce8bc726f0853772015458c13",
     "comment": "",
     "adddate": "2024\/11\/11"
+  },
+  {
+    "md5": "fe47147d206b012d8f0859f21fdeb657",
+    "org_level": 3,
+    "title": "星月トラジコメディー",
+    "artist": "Yonder Voice",
+    "folder": "LEVEL sl3",
+    "level": " sl3",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/tohobmsr\/27",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "東方音弾遊戯 -REVIVED- 同梱譜面",
+    "adddate": "2024\/12\/15"
   },
   {
     "md5": "8c5e52719646a027b4d832ce115d98c2",
@@ -1156,6 +1271,22 @@
     "org_md5": "83aa6e63840962a06ce06bc33ee7b103",
     "comment": "",
     "adddate": "2024\/11\/21"
+  },
+  {
+    "md5": "e7cea726602a37c85cefb34ef69dc18d",
+    "org_level": 4,
+    "title": "Berry Go!! [sweet]",
+    "artist": "Freezer feat. 妃苺 obj : BAECON",
+    "folder": "LEVEL sl4",
+    "level": " sl4",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=23&event=116",
+    "url_diff": "http:\/\/akred.web.fc2.com\/baecon\/sweet.bme",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "Go Go Go",
+    "adddate": "2024\/12\/15"
   },
   {
     "md5": "cbfc617047b86fc49ea515d34db588d5",
@@ -1255,6 +1386,22 @@
     "adddate": "2024\/11\/16"
   },
   {
+    "md5": "4cc3a2ae8ae0bfff7b1bbe65c0093e2b",
+    "org_level": 5,
+    "title": "NIRVANA [SP INSANE]",
+    "artist": "Music : Zekk \/ Movie : vol-t",
+    "folder": "LEVEL sl5",
+    "level": " sl5",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=35&event=104",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "同梱譜面　物量　微縦",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "828a4142fd26b4259aaf01c6ba2296df",
     "org_level": 5,
     "title": "Save Yourself [SP LEGGENDARIA]",
@@ -1311,6 +1458,22 @@
     "org_md5": "a30f1fd518805923653c3f1f9d4a619a",
     "comment": "",
     "adddate": "2024\/11\/21"
+  },
+  {
+    "md5": "319f4b239a0ae5bb283b186480010685",
+    "org_level": 6,
+    "title": "Catalyst [GOODNESS Again.]",
+    "artist": "yuki. BGA EBIMAYO \/ obj: Lennon",
+    "folder": "LEVEL sl6",
+    "level": " sl6",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=4&event=108",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "乱打、同時押し",
+    "adddate": "2024\/12\/15"
   },
   {
     "md5": "97ac4eaa9bbcf19a8c43883e9ec7ad8b",
@@ -1440,6 +1603,22 @@
     "adddate": "2024\/10\/26"
   },
   {
+    "md5": "82edafc8f0cb779bf4872a5c2d835cde",
+    "org_level": 7,
+    "title": "New York Back Raise [FULL HOUSE]",
+    "artist": "saaa + kei_iwata + stuv + わかどり BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼",
+    "folder": "LEVEL sl7",
+    "level": " sl7",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=1&event=140",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl6~7?",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "877da3e2d01cd781622b1aaa09bdd1d7",
     "org_level": 12,
     "title": "あかず [ANOTHER]",
@@ -1460,6 +1639,22 @@
     "org_md5": "877da3e2d01cd781622b1aaa09bdd1d7",
     "comment": "",
     "adddate": "2024\/12\/08"
+  },
+  {
+    "md5": "19e7661ba1ae245d5bfadea3fede9ad6",
+    "org_level": 8,
+    "title": "LWVIIX[ANOTHER]",
+    "artist": "69 de 74 BGA:FanfRS",
+    "folder": "LEVEL sl8",
+    "level": " sl8",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=16&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BPM225 高速階段",
+    "adddate": "2024\/12\/15"
   },
   {
     "md5": "1531c69b829672399d0ddbc5e6f9f7d3",
@@ -1506,6 +1701,22 @@
     "org_md5": "2921862c458bc8ae2309e964f110ca37",
     "comment": "",
     "adddate": "2024\/11\/23"
+  },
+  {
+    "md5": "9978fa59025a74eb897495c0695d0199",
+    "org_level": 8,
+    "title": "Poppin' Shower[ANOTHER+]",
+    "artist": "P*Light \/ po",
+    "folder": "LEVEL sl8",
+    "level": " sl8",
+    "lr2_bmsid": null,
+    "url": "https:\/\/onedrive.live.com\/?id=FC95A680740CA8C9%21201&cid=FC95A680740CA8C9",
+    "url_diff": "http:\/\/rarehero2000.web.fc2.com\/po.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "やさしい皿",
+    "adddate": "2024\/12\/15"
   },
   {
     "md5": "bbaa3cc8e6329e786925131d90da9140",
@@ -1614,6 +1825,46 @@
     "org_md5": "9d961ac9f0a2ee2a2d4e326282223682",
     "comment": "",
     "adddate": "2024\/10\/04"
+  },
+  {
+    "md5": "04358a9776ed6fb81fe30eaa930e6eb7",
+    "org_level": 9,
+    "title": "イナリッチ [MONEY]",
+    "artist": "LisicA movie : 自動車原付 \/ illust : Orphee \/ obj: Lennon",
+    "folder": "LEVEL sl9",
+    "level": " sl9",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=141&event=137",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/1502",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "10~11?",
+    "adddate": "2024\/12\/15"
+  },
+  {
+    "md5": "e7df53f94805d0d2a1976855eaded1c4",
+    "org_level": 15,
+    "title": "Affection [Appreciation]",
+    "artist": "Xacla feat. Kate Lesing movie:cislv \/ obj:trainer",
+    "folder": "LEVEL sl10",
+    "level": " sl10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ace74c98574ebc6f91d29ec918d4b758",
+      "e7df53f94805d0d2a1976855eaded1c4",
+      "2d72c296d3963cea2d698453feffd040",
+      "ba91dfd87d40d00ec563768dd5649e98",
+      "2482352bb7ac53fdcd2aca08a8961e94",
+      "cdac66151c12d035fa4d2e707283a474",
+      "0578f88b2da583230c7d328de1ea571c"
+    ],
+    "org_md5": "ace74c98574ebc6f91d29ec918d4b758",
+    "comment": "",
+    "adddate": "2024\/12\/14"
   },
   {
     "md5": "02219fc200b7bbf9d068ac978f85188b",
@@ -4499,6 +4750,27 @@
     "adddate": "2024\/06\/14"
   },
   {
+    "md5": "25cc4978e4e2dccf5aaac85df7329dc1",
+    "org_level": 22,
+    "title": "ultimer [Intense]",
+    "artist": "ikaruga_nex obj:potechang",
+    "folder": "LEVEL st3",
+    "level": " st3",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a71e59a51c125fdd6001177aaa634d94",
+      "d60cc5cc632452af1561841680b1975b",
+      "c5f6bc92a856bf378b4142891883a700",
+      "25cc4978e4e2dccf5aaac85df7329dc1"
+    ],
+    "org_md5": "a71e59a51c125fdd6001177aaa634d94",
+    "comment": "",
+    "adddate": "2024\/12\/15"
+  },
+  {
     "md5": "aeaf1bdee032e1104edc447b7bb587bb",
     "org_level": 22,
     "title": "VEZZELiX -Xe-",
@@ -4695,6 +4967,26 @@
     "adddate": "2024\/06\/13"
   },
   {
+    "md5": "76f4c15d879032764c01ee3b53ed78f7",
+    "org_level": 24,
+    "title": "Ensa [Technophobia]",
+    "artist": "Aoi mov:出前 obj:IBARAGI_YOSHIMI",
+    "folder": "LEVEL st4",
+    "level": " st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f97bcf8f470e6e5b1d2141e188f719ad",
+      "8463ecb89952e344349c20cc1a478e81",
+      "76f4c15d879032764c01ee3b53ed78f7"
+    ],
+    "org_md5": "f97bcf8f470e6e5b1d2141e188f719ad",
+    "comment": "",
+    "adddate": "2024\/12\/16"
+  },
+  {
     "md5": "68f709ad576392f57fcbee4b0df88fe3",
     "org_level": 4,
     "title": "FAKE LIFE [Nihilism]",
@@ -4709,6 +5001,35 @@
     "org_md5": "",
     "comment": "SPAと#047にズレがありますが、ディレイ表現のために抜けたノートです",
     "adddate": "2024\/06\/13"
+  },
+  {
+    "md5": "95469902364aac0159a7a6043797106e",
+    "org_level": 24,
+    "title": "FREEZE [SUPER ULTIMATE ANOTHER]",
+    "artist": "lixound feat. 薛南 mov:Xquid \/ obj:IBARAGI_YOSHIMI",
+    "folder": "LEVEL st4",
+    "level": " st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "3cdee053bfe7a67282f14c7ff9b67264",
+      "5c8dae5589f39e0387895f7333a11775",
+      "1f0c43571eac7c56a0f788eba5659277",
+      "9fbd73fd61ca51496be9faa8d91cc1c6",
+      "642607c35eba0ab14e573fbeda35f9b3",
+      "e4d7f88faef3222a0430e500843767c3",
+      "c57fc9e2e77cebb87921a487fa186ad9",
+      "95469902364aac0159a7a6043797106e",
+      "bd3235bd255e73543131cce4eb858cca",
+      "045a404cdca7de27e39e83a5ab7f220d",
+      "79fee53be9910920a9daf5e53c57ecce",
+      "cc7d7064ba67cb0cad66e3b9dddfcd0c"
+    ],
+    "org_md5": "3cdee053bfe7a67282f14c7ff9b67264",
+    "comment": "",
+    "adddate": "2024\/12\/16"
   },
   {
     "md5": "bd3235bd255e73543131cce4eb858cca",
@@ -5271,26 +5592,6 @@
     "adddate": "2024\/06\/14"
   },
   {
-    "md5": "76f4c15d879032764c01ee3b53ed78f7",
-    "org_level": 24,
-    "title": "Ensa [Technophobia]",
-    "artist": "Aoi mov:出前 obj:IBARAGI_YOSHIMI",
-    "folder": "LEVEL st5",
-    "level": " st5",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "f97bcf8f470e6e5b1d2141e188f719ad",
-      "8463ecb89952e344349c20cc1a478e81",
-      "76f4c15d879032764c01ee3b53ed78f7"
-    ],
-    "org_md5": "f97bcf8f470e6e5b1d2141e188f719ad",
-    "comment": "",
-    "adddate": "2024\/11\/30"
-  },
-  {
     "md5": "d3f3fc0c45044c38543eb2df09832488",
     "org_level": 24,
     "title": "Exipration [Intense]",
@@ -5313,35 +5614,6 @@
     "org_md5": "257a95b59accabc2d12a20fbebde7e34",
     "comment": "",
     "adddate": "2024\/12\/07"
-  },
-  {
-    "md5": "95469902364aac0159a7a6043797106e",
-    "org_level": 24,
-    "title": "FREEZE [SUPER ULTIMATE ANOTHER]",
-    "artist": "lixound feat. 薛南 mov:Xquid \/ obj:IBARAGI_YOSHIMI",
-    "folder": "LEVEL st5",
-    "level": " st5",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "3cdee053bfe7a67282f14c7ff9b67264",
-      "5c8dae5589f39e0387895f7333a11775",
-      "1f0c43571eac7c56a0f788eba5659277",
-      "9fbd73fd61ca51496be9faa8d91cc1c6",
-      "642607c35eba0ab14e573fbeda35f9b3",
-      "e4d7f88faef3222a0430e500843767c3",
-      "c57fc9e2e77cebb87921a487fa186ad9",
-      "95469902364aac0159a7a6043797106e",
-      "bd3235bd255e73543131cce4eb858cca",
-      "045a404cdca7de27e39e83a5ab7f220d",
-      "79fee53be9910920a9daf5e53c57ecce",
-      "cc7d7064ba67cb0cad66e3b9dddfcd0c"
-    ],
-    "org_md5": "3cdee053bfe7a67282f14c7ff9b67264",
-    "comment": "",
-    "adddate": "2024\/12\/08"
   },
   {
     "md5": "de14b9ec2c71addc5067c1130658679e",
@@ -5606,6 +5878,34 @@
     "org_md5": "82e7e34a6bb57c27c6e1cbb07aab44cd",
     "comment": "",
     "adddate": "2024\/12\/10"
+  },
+  {
+    "md5": "6e707c71d420ae259922b98729754ab8",
+    "org_level": 24,
+    "title": "フロンティア↑↑エクスプローラー [GOD]",
+    "artist": "kei_iwata Illust:morph\/ BGA:qfeileadh\/ obj:potechang",
+    "folder": "LEVEL st5",
+    "level": " st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "14c8320608ce1609a8824558cdd64631",
+      "da5006b0f9e1bb66e6da88779678f438",
+      "57f34b07c061a98a7d922bfe4e064bf0",
+      "d8a2719afd4a0649028f06d8850c437d",
+      "1e62d6f6394c0be0a87a8850f1f92c1a",
+      "d6ddb4b5816cf8a140e513927fb94b95",
+      "68c58f701bf7317c934c9019299be170",
+      "629bc44e77c769ea5d2f0a30ab34bb52",
+      "1084c0ea1802f217aaf576e2eefd7ddc",
+      "d41b48acc5b074c119ccb6d8cca97d11",
+      "6e707c71d420ae259922b98729754ab8"
+    ],
+    "org_md5": "14c8320608ce1609a8824558cdd64631",
+    "comment": "",
+    "adddate": "2024\/12\/16"
   },
   {
     "md5": "b1f6eba3617d87275ff6d42c1fa3493a",
