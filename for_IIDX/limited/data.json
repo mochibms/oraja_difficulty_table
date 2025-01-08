@@ -9461,34 +9461,6 @@
     "adddate": "2024\/08\/15"
   },
   {
-    "md5": "d7465a2e1794f67037f107e6b399e7b4",
-    "org_level": 22,
-    "title": "ADONIS [a'nrakor]",
-    "artist": "Seagull BG by Aya \/ obj:Lyricia",
-    "folder": "メモ帳",
-    "level": "メモ帳",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "6e4414813b8ca9695055dbbc4a6a1f80",
-      "bb4785bddfe30775b4db299bb92d2b79",
-      "b8cc409d5a33b4718e85b91521963e56",
-      "af3243d945f6f16cd47a17e829173979",
-      "540ec8c065ed3094420f2634ee56e089",
-      "5b07e114909e52792c8dc5ab27b0d0a5",
-      "8f165bd5691b0279b6fbf8c99a57e46b",
-      "ad9418960b3a849841efca693c85bbcd",
-      "e0499afa5d894010c4043df583a7784b",
-      "fa74cab7c5e573c150789440a9fe68ba",
-      "d7465a2e1794f67037f107e6b399e7b4"
-    ],
-    "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
-    "comment": "",
-    "adddate": "2024\/12\/26"
-  },
-  {
     "md5": "43ac5f699aa7d9b798f84c4b9c63a562",
     "org_level": 25,
     "title": "afternoon",
@@ -9525,32 +9497,6 @@
     "org_md5": "f1cd577ec8b17ba976855e34d6e097b8",
     "comment": "",
     "adddate": "2025\/01\/07"
-  },
-  {
-    "md5": "1648ebc09ca2abacd782e0d1ab9c0cc1",
-    "org_level": 20,
-    "title": "hiAtus: reAlity [a'nrakor]",
-    "artist": "RB.H × 10lulu feat. Hujiko \/ mov:Keizou bms:RB.H obj:Lyricia",
-    "folder": "メモ帳",
-    "level": "メモ帳",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "0e0d1dc5ccaa14c61305148d787f23a2",
-      "9c78c6f458ad030c0674719e4c34fca8",
-      "bea9295f16bfcc814c11a3f7e9a855cc",
-      "0496843a1072ff55c18327d159195779",
-      "22d70c1fb7dec5523a63016846248bf0",
-      "e0684290aac6ced795c6e5a4abce2d90",
-      "8cd72924d02bbcc2cfbab7a78df27c1d",
-      "f70b6c6f386b34268441de0333ae4c04",
-      "1648ebc09ca2abacd782e0d1ab9c0cc1"
-    ],
-    "org_md5": "0e0d1dc5ccaa14c61305148d787f23a2",
-    "comment": "",
-    "adddate": "2024\/12\/26"
   },
   {
     "md5": "22b9dfc03e46dbd9aa083647ac8ec382",
@@ -9623,75 +9569,6 @@
     "org_md5": "5d35daf1f3e66b63260a61579bb79360",
     "comment": "",
     "adddate": "2024\/12\/26"
-  },
-  {
-    "md5": "d99cdb812df17e72ee66406a91f59af6",
-    "org_level": 23,
-    "title": "Widow's kiss [a'nrakor]",
-    "artist": "Widowmaker bga: Max \/ obj:Lyricia",
-    "folder": "メモ帳",
-    "level": "メモ帳",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "d99cdb812df17e72ee66406a91f59af6",
-      "1b569b804791c18ebb0bd2bca9aecd6a",
-      "2438acfe82b0c64e254b3e17d6809133",
-      "e67d4fdb50081abb5b43f5224d801ec9",
-      "6e80ec5ac2b2ae9d6a3cad40de705b32",
-      "a0c49cab7918b062633f5360e1d6de69",
-      "420fec77c6a5b521fdb502133fd65065"
-    ],
-    "org_md5": "d99cdb812df17e72ee66406a91f59af6",
-    "comment": "",
-    "adddate": "2024\/12\/26"
-  },
-  {
-    "md5": "1545462f19c5f13688baac431b01eb78",
-    "org_level": 22,
-    "title": "yabure [a'nrakor]",
-    "artist": "r obj:Lyricia",
-    "folder": "メモ帳",
-    "level": "メモ帳",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "931026b3533b51f59d6a85fbd3baa2da",
-      "3efa33526f46049e2aa733f836ec6553",
-      "954adca4af097d0a328aab82e9b0f6f5",
-      "1e96b37a143ff7f0711c4995d122b164",
-      "1545462f19c5f13688baac431b01eb78"
-    ],
-    "org_md5": "931026b3533b51f59d6a85fbd3baa2da",
-    "comment": "",
-    "adddate": "2025\/01\/07"
-  },
-  {
-    "md5": "2e9d9312598485720dd3b291ea1886c7",
-    "org_level": 12,
-    "title": "ε>×<з [SP FAKE ANOTHER]",
-    "artist": "曲師 obj: PPG chart team \"Scely.L as vendicatore\"",
-    "folder": "メモ帳",
-    "level": "メモ帳",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "748f80e3e0eb2910a44d5bb63b83eaf8",
-      "4c7aef7176798e0729ed023cc466c6cc",
-      "2e9d9312598485720dd3b291ea1886c7",
-      "78601c25fe47920468b33c43308bdd6f",
-      "4ca46af4ba6b5b6073ef63e8d952a9c8",
-      "1bcfc77b35192b8ba9c0f609b31df73c"
-    ],
-    "org_md5": "748f80e3e0eb2910a44d5bb63b83eaf8",
-    "comment": "",
-    "adddate": "2025\/01\/07"
   },
   {
     "md5": "9ca7011573ed102e0a520d1eb95b719b",
@@ -9863,31 +9740,6 @@
       "254ac85d9f645fe3eda98c65105c47de"
     ],
     "org_md5": "754b24509390859eb185a1df503cc0bd",
-    "comment": "",
-    "adddate": "2024\/12\/26"
-  },
-  {
-    "md5": "f2bdcff337e01e741c293a0843684a6c",
-    "org_level": 0,
-    "title": "見送る一星、無我のソラ [WHITE OUT]",
-    "artist": "Setca. & みーに feat. 初音ミク obj:potechang",
-    "folder": "メモ帳",
-    "level": "メモ帳",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "e79787825cf529e3568663a56f7182a9",
-      "f2bdcff337e01e741c293a0843684a6c",
-      "a5e166286370d8054cddaa740fe9d898",
-      "8a76df6b6ea7c82d8b69bb1678eba941",
-      "0632df6fbbf7d81742dd894fcc113829",
-      "f6d476f7feaa77138df7610f9a4ee838",
-      "6b41375fc74b84fb6347ba80b29cb335",
-      "1bb44eb8036f1833a1d28cf1d88587ad"
-    ],
-    "org_md5": "e79787825cf529e3568663a56f7182a9",
     "comment": "",
     "adddate": "2024\/12\/26"
   },
