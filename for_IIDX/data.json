@@ -6469,6 +6469,28 @@
     "adddate": "2023\/11\/11"
   },
   {
+    "md5": "fb8cf40f0970efd34fd524ece285ce80",
+    "org_level": 11,
+    "title": "ふぁんぶる！ [SP ANOTHER]",
+    "artist": "藤原ハガネ feat. 重音テトSV mov:藤原ハガネ \/ illust:残響室 \/ bms,obj:lixound",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ae6bda4deb4d86909b78cec94b05975b",
+      "fb8cf40f0970efd34fd524ece285ce80",
+      "ce2d38d2391e15745ce5bd832021cd8a",
+      "8d0115c5983e0c98f32d758dafdbc6b3",
+      "61ec0d7ae48ceb26025aa885e9314e4b"
+    ],
+    "org_md5": "ae6bda4deb4d86909b78cec94b05975b",
+    "comment": "",
+    "adddate": "2025\/01\/28"
+  },
+  {
     "md5": "8d11323531683b86d04a17ee61499540",
     "org_level": 1,
     "title": "珊瑚郷",
@@ -7779,6 +7801,27 @@
     "adddate": "2024\/10\/26"
   },
   {
+    "md5": "5345cd24b90b05533e0ed2df62dabba9",
+    "org_level": 12,
+    "title": "AIR nouveau",
+    "artist": "SHIKI remixed by litmus*",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6736aa2995600d5f9415e0d84a2d1a33",
+      "c002088d8482be625fb85e6f53ce73b5",
+      "5345cd24b90b05533e0ed2df62dabba9",
+      "a3a44140238006fd66567d83beaa0f7e"
+    ],
+    "org_md5": "6736aa2995600d5f9415e0d84a2d1a33",
+    "comment": "",
+    "adddate": "2025\/01\/28"
+  },
+  {
     "md5": "505fbc394d48ab1210370da861ddd44c",
     "org_level": 12,
     "title": "Always Feel the Same",
@@ -8742,6 +8785,26 @@
     "org_md5": "14585d027d8684807b13ac865bcc82c7",
     "comment": "",
     "adddate": "2024\/11\/19"
+  },
+  {
+    "md5": "595668d1c772f417732ca14b9a4fac35",
+    "org_level": 12,
+    "title": "-雪月桜花-[ANOTHER]",
+    "artist": "SOMON",
+    "folder": "LEVEL12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "595668d1c772f417732ca14b9a4fac35",
+      "0d1141dcd7245cb5df96ea9ed237d067",
+      "91d3fbfb247418a0cfbb92dec6fcf700"
+    ],
+    "org_md5": "595668d1c772f417732ca14b9a4fac35",
+    "comment": "",
+    "adddate": "2025\/01\/28"
   },
   {
     "md5": "10f14321a847e8a28d5ff60bb6b1ab17",
