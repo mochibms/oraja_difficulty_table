@@ -12653,22 +12653,6 @@
     "adddate": "2023\/12\/04"
   },
   {
-    "md5": "9ca663f162a70b7c8c3819cd1c18708a",
-    "org_level": 12,
-    "title": "Altale[INSANE]",
-    "artist": "削除",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": "196893",
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=150&event=96",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/qHmiLfMA8GI>★12 終盤で減速、ラス発狂前にギアチェン可能",
-    "adddate": "2023\/02\/25"
-  },
-  {
     "md5": "e6be272eea33fd2998eb1b01babf59a5",
     "org_level": 12,
     "title": "Burnt Mocha [Another]",
@@ -12713,20 +12697,25 @@
     "adddate": "2023\/02\/21"
   },
   {
-    "md5": "18a3d4f7f8b1d35277e759e5643a4757",
+    "md5": "a73bd56761ceadca5792a57b7cc75cfc",
     "org_level": 12,
-    "title": "cold planet -Blue Marble-",
-    "artist": "knot \/ obj:あーさん",
+    "title": "Crystal Shuffler [SP LEGGENDARIA]",
+    "artist": "∀S∀ \/ obj.nye Original:ZUN",
     "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
     "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": "70916",
-    "url": "http:\/\/web.archive.org\/web\/20071210121539\/http:\/\/www.geocities.jp\/panda_bms\/sengoku.html",
-    "url_diff": "http:\/\/drowsy.hannnari.com\/",
-    "name_diff": "http:\/\/drowsy.hannnari.com\/",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/q3e4qBKefYM>★12",
-    "adddate": "2023\/02\/27"
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2ac88e54513d52620be5d44d2a0768c7",
+      "86ded49e23c6e530871f0b6a0b2beb86",
+      "21e88d7906c0feae089d80682198af5b",
+      "a73bd56761ceadca5792a57b7cc75cfc"
+    ],
+    "org_md5": "2ac88e54513d52620be5d44d2a0768c7",
+    "comment": "",
+    "adddate": "2025\/02\/13"
   },
   {
     "md5": "06ddb2548a9d1eecfd11f3d2c1c03139",
@@ -13039,22 +13028,6 @@
     "org_md5": "66d5779e662f878541ff550f11de5601",
     "comment": "",
     "adddate": "2024\/11\/23"
-  },
-  {
-    "md5": "db91d03800a7a171fe8d33300fefbe2e",
-    "org_level": 12,
-    "title": "Pure Ruby [Another+]",
-    "artist": "SHIKI \/ air",
-    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
-    "level": "12.6(HARD適正CPI1750~1800)",
-    "lr2_bmsid": "646",
-    "url": "http:\/\/shiki2.sakura.ne.jp\/",
-    "url_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
-    "name_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "video<https:\/\/youtu.be\/kIMe_GhbLHY>",
-    "adddate": "2023\/02\/27"
   },
   {
     "md5": "7c619937f0448c48e4b7de0c5da8940c",
@@ -13371,6 +13344,22 @@
     "adddate": "2023\/10\/30"
   },
   {
+    "md5": "9ca663f162a70b7c8c3819cd1c18708a",
+    "org_level": 12,
+    "title": "Altale[INSANE]",
+    "artist": "削除",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": "196893",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=150&event=96",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/qHmiLfMA8GI>★12 終盤で減速、ラス発狂前にギアチェン可能",
+    "adddate": "2025\/02\/13"
+  },
+  {
     "md5": "22e7c571cdc7c7e71a68f3151036d4ee",
     "org_level": 12,
     "title": "Atohs",
@@ -13546,25 +13535,20 @@
     "adddate": "2023\/12\/06"
   },
   {
-    "md5": "a73bd56761ceadca5792a57b7cc75cfc",
+    "md5": "18a3d4f7f8b1d35277e759e5643a4757",
     "org_level": 12,
-    "title": "Crystal Shuffler [SP LEGGENDARIA]",
-    "artist": "∀S∀ \/ obj.nye Original:ZUN",
+    "title": "cold planet -Blue Marble-",
+    "artist": "knot \/ obj:あーさん",
     "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
     "level": "12.7(HARD適正CPI1800~1850)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "2ac88e54513d52620be5d44d2a0768c7",
-      "86ded49e23c6e530871f0b6a0b2beb86",
-      "21e88d7906c0feae089d80682198af5b",
-      "a73bd56761ceadca5792a57b7cc75cfc"
-    ],
-    "org_md5": "2ac88e54513d52620be5d44d2a0768c7",
-    "comment": "",
-    "adddate": "2024\/10\/04"
+    "lr2_bmsid": "70916",
+    "url": "http:\/\/web.archive.org\/web\/20071210121539\/http:\/\/www.geocities.jp\/panda_bms\/sengoku.html",
+    "url_diff": "http:\/\/drowsy.hannnari.com\/",
+    "name_diff": "http:\/\/drowsy.hannnari.com\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/q3e4qBKefYM>★12",
+    "adddate": "2025\/02\/13"
   },
   {
     "md5": "e2a6c92c79663f1cac06ec65adfbf665",
@@ -13775,6 +13759,22 @@
     "org_md5": "937a79a60110b91e04eb1a33632bcd0e",
     "comment": "video<https:\/\/youtu.be\/FiNaAhRF-BI>",
     "adddate": "2023\/07\/03"
+  },
+  {
+    "md5": "db91d03800a7a171fe8d33300fefbe2e",
+    "org_level": 12,
+    "title": "Pure Ruby [Another+]",
+    "artist": "SHIKI \/ air",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": "646",
+    "url": "http:\/\/shiki2.sakura.ne.jp\/",
+    "url_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "name_diff": "http:\/\/skydrive.live.com\/?cid=FD93B4F2CB8CD95F&id=FD93B4F2CB8CD95F%21105",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "video<https:\/\/youtu.be\/kIMe_GhbLHY>",
+    "adddate": "2025\/02\/13"
   },
   {
     "md5": "637acc81a4774e365973d0badca5fa4e",
