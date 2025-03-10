@@ -14849,6 +14849,33 @@
     "adddate": "2023\/05\/31"
   },
   {
+    "md5": "6c9cbb2b3519882a5f48ba5885ee7c2d",
+    "org_level": 12,
+    "title": "影縫 [SP LEGGENDARIA]",
+    "artist": "utzbo BGA:ShakeJ obj:nye",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "96ab3653f2febbad65570ce100a00b45",
+      "d5ef8f47938670db67900ab0cbd4cd3c",
+      "211349204ff499347f875b85c2cf2bc1",
+      "1f242dd0b156f08e5e461461a5a1ad8e",
+      "7e8c0b7b5aeda254ff1e64535beb6871",
+      "8ca94052fe01252b91461cb6e4bbd694",
+      "791057a19dc773f8d0451697836d2df7",
+      "931a52a09fc94111bc2c5dd7b7439578",
+      "9b47a85fdd5877104d56c4599cca929d",
+      "6c9cbb2b3519882a5f48ba5885ee7c2d"
+    ],
+    "org_md5": "96ab3653f2febbad65570ce100a00b45",
+    "comment": "",
+    "adddate": "2025\/03\/10"
+  },
+  {
     "md5": "71ffe425897aa9bc7c0a0e54c521f45b",
     "org_level": 12,
     "title": "邂逅(BMS Refine) [ANOTHER]",
