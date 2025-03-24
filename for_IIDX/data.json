@@ -14382,6 +14382,31 @@
     "adddate": "2023\/07\/03"
   },
   {
+    "md5": "d27291fada9043865655acb86da71ad3",
+    "org_level": 12,
+    "title": "DAYBREAK [SP LEGGENDARIA]",
+    "artist": "Lime \/ Kankitsu obj.nye",
+    "folder": "LEVEL12.9(HARD適正CPI1900~1950)",
+    "level": "12.9(HARD適正CPI1900~1950)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7cccd94b73fd7c6e1cd4f2abc94a819e",
+      "352c32fc9f349c71c4b730708544bdc9",
+      "5e462ffdc2600fba2b40405fdccf5c7e",
+      "8239b8cb03397592726475c3ef52e47e",
+      "ab13b0bb9a60699254b9c5fa54f68f58",
+      "4e83a16bf10958458c9ef371674ca34f",
+      "3d45cbd1106042e7e9a0fa8ab24d42af",
+      "d27291fada9043865655acb86da71ad3"
+    ],
+    "org_md5": "7cccd94b73fd7c6e1cd4f2abc94a819e",
+    "comment": "",
+    "adddate": "2025\/03\/24"
+  },
+  {
     "md5": "ea047bd884b9fd343b4b23426e65d41d",
     "org_level": 12,
     "title": "Dull Blade [SP INSANE]",
