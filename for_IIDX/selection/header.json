@@ -1,1 +1,31 @@
-
+{
+  "name": "ユ's Selection",
+  "symbol": "ユ",
+  "level_order": [
+    " 11",
+    " 11.5",
+    " 12.0",
+    " 12.1",
+    " 12.2",
+    " 12.3",
+    " 12.4",
+    " 12.5",
+    " 12.6",
+    " 12.7",
+    " 12.8",
+    " 12.9",
+    " 13.0",
+    " 13.1",
+    " 13.2"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "data.json",
+  "compat_prefix": "LEVEL",
+  "last_update": "2025\/03\/30",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "",
+  "output_date": "2025\/03\/30"
+}
