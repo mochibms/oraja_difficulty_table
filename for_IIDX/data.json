@@ -1799,6 +1799,26 @@
     "adddate": "2024\/11\/02"
   },
   {
+    "md5": "c2409a051d547b0510ed09074445be5f",
+    "org_level": 9,
+    "title": "Unwelcome School (∀S∀-Hi-tech Remix)",
+    "artist": "∀S∀ (original : Mitsukiyo)",
+    "folder": "LEVEL9",
+    "level": "9",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f4734442c21f5266a8ff561bbc119a3c",
+      "c2409a051d547b0510ed09074445be5f",
+      "e5c93e5a32db5286824042244b8aecfb"
+    ],
+    "org_md5": "f4734442c21f5266a8ff561bbc119a3c",
+    "comment": "",
+    "adddate": "2025\/06\/13"
+  },
+  {
     "md5": "c9dbee19bcdef63415d6d71ca13b4f47",
     "org_level": 9,
     "title": "ステラウェイ・マイハート[ANOTHER]",
@@ -1968,6 +1988,27 @@
     "adddate": "2023\/11\/02"
   },
   {
+    "md5": "01b9e8243b3a854600c8fccd8c419332",
+    "org_level": 10,
+    "title": "13\/VIS [ANOTHER]",
+    "artist": "ETIA. Movie: わっふゑ",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "01b9e8243b3a854600c8fccd8c419332",
+      "27f68b2be85e8584a45ac98a9e318eaf",
+      "d02fd4c36bd77e21909514855788d1a3",
+      "675fb1658d00deaa346f34f43365f61d"
+    ],
+    "org_md5": "01b9e8243b3a854600c8fccd8c419332",
+    "comment": "",
+    "adddate": "2025\/06\/13"
+  },
+  {
     "md5": "120df36d69b2515f6a1cfd49625ee58e",
     "org_level": 10,
     "title": "5th Drop Shooter [HYPER]",
@@ -2064,6 +2105,27 @@
     "org_md5": "6e4414813b8ca9695055dbbc4a6a1f80",
     "comment": "",
     "adddate": "2024\/11\/21"
+  },
+  {
+    "md5": "c002088d8482be625fb85e6f53ce73b5",
+    "org_level": 10,
+    "title": "AIR nouveau",
+    "artist": "SHIKI remixed by litmus*",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6736aa2995600d5f9415e0d84a2d1a33",
+      "c002088d8482be625fb85e6f53ce73b5",
+      "5345cd24b90b05533e0ed2df62dabba9",
+      "a3a44140238006fd66567d83beaa0f7e"
+    ],
+    "org_md5": "6736aa2995600d5f9415e0d84a2d1a33",
+    "comment": "",
+    "adddate": "2025\/09\/20"
   },
   {
     "md5": "0dbb35ef596874df5764f5baa50b008f",
@@ -3158,6 +3220,26 @@
     "adddate": "2024\/10\/26"
   },
   {
+    "md5": "a58138410408c3e9b15770e29dbff183",
+    "org_level": 9,
+    "title": "SCARLET NIGHT RESIDENT [SP HYPER]",
+    "artist": "lixound mov:AiLANE \/ obj:9RAN",
+    "folder": "LEVEL10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1b053c1ca6297897869ab84670a6dbc1",
+      "a58138410408c3e9b15770e29dbff183",
+      "87d19dd96a5b0ce2d9cb7948f51c7bfd"
+    ],
+    "org_md5": "1b053c1ca6297897869ab84670a6dbc1",
+    "comment": "",
+    "adddate": "2025\/09\/20"
+  },
+  {
     "md5": "87e55bebaa78bf92902a97fc724f5c9d",
     "org_level": 10,
     "title": "Shiny☆Strike!!! [SP HYPER]",
@@ -4083,6 +4165,28 @@
     "adddate": "2023\/02\/24"
   },
   {
+    "md5": "13e7cc768c22355df81a667a2c50976c",
+    "org_level": 11,
+    "title": "CAT ROTATION [HYPER]",
+    "artist": "かたぎり BGA: mst",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f92b2098a730036e72185d92b54e35e5",
+      "05c4fa756c450a551d973a16409c8785",
+      "13e7cc768c22355df81a667a2c50976c",
+      "7bb815485cc9bdabcef8e7c5b64d38db",
+      "f8cd8debe8bbf38c065cd4e635b391dc"
+    ],
+    "org_md5": "f92b2098a730036e72185d92b54e35e5",
+    "comment": "",
+    "adddate": "2025\/06\/13"
+  },
+  {
     "md5": "9ef550f1321ef8e9f5bb8a279b0a1ea0",
     "org_level": 10,
     "title": "Chameleon",
@@ -4847,6 +4951,28 @@
     "org_md5": "31da39a9735681d7028b5b5b10da61f2",
     "comment": "",
     "adddate": "2023\/06\/18"
+  },
+  {
+    "md5": "2b5ed6d56f0179716309806f4c413f69",
+    "org_level": 11,
+    "title": "ZundaVPN",
+    "artist": "litmus* ft. ずんだもん&春日部つむぎ",
+    "folder": "LEVEL11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1987e850b7f4e5a0757749ce2ce22c1c",
+      "e0e01f5a0173adbe320a1a867172504b",
+      "2b5ed6d56f0179716309806f4c413f69",
+      "431d7cd7c5f9169411468bdccfc0f322",
+      "d280499033082f9e8f237fbe01aeae79"
+    ],
+    "org_md5": "1987e850b7f4e5a0757749ce2ce22c1c",
+    "comment": "",
+    "adddate": "2025\/06\/13"
   },
   {
     "md5": "f5ab0ec3ada57f8ef4eafd6506712c90",
@@ -5628,6 +5754,27 @@
     "adddate": "2023\/02\/25"
   },
   {
+    "md5": "da1dcb55bc8e803e515c8ee4048be589",
+    "org_level": 11,
+    "title": "eter_nity [SP ANOTHER]",
+    "artist": "Pafa",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "da1dcb55bc8e803e515c8ee4048be589",
+      "5490899bf6394bb486c0a52d857d1af5",
+      "f91d3448eb438ee6e7ee5c3526172679",
+      "729eec291b4488ed1d4ff1afac34f26a"
+    ],
+    "org_md5": "da1dcb55bc8e803e515c8ee4048be589",
+    "comment": "",
+    "adddate": "2025\/09\/20"
+  },
+  {
     "md5": "7ab1a9b881f24b85eb4ed52293d85e7d",
     "org_level": 11,
     "title": "Eureka [7ANOTHER]",
@@ -6174,6 +6321,30 @@
     "org_md5": "29eac6d2820febba4097b8917817b7f0",
     "comment": "",
     "adddate": "2023\/11\/23"
+  },
+  {
+    "md5": "0efd5a54dbafe5e155e15e845d09b598",
+    "org_level": 11,
+    "title": "Seasons",
+    "artist": "あさり",
+    "folder": "LEVEL11.5",
+    "level": "11.5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "eb5a59c81c12aaec70e32b1f2f25da3a",
+      "be97e02d2c6923da05396e9b98ad8a96",
+      "080be296871401756812635979078714",
+      "d7431ad100a602eb95563170ec028870",
+      "f29106e3e49e27a904add61ba7c0052d",
+      "8b8141a2c75a11398996afbc10f2eedb",
+      "0efd5a54dbafe5e155e15e845d09b598"
+    ],
+    "org_md5": "eb5a59c81c12aaec70e32b1f2f25da3a",
+    "comment": "",
+    "adddate": "2025\/09\/20"
   },
   {
     "md5": "4a86ada3a9736757b27e25303994676e",
@@ -7448,6 +7619,30 @@
     "adddate": "2023\/11\/19"
   },
   {
+    "md5": "0efd5a54dbafe5e155e15e845d09b598",
+    "org_level": 11,
+    "title": "Seasons",
+    "artist": "あさり",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "eb5a59c81c12aaec70e32b1f2f25da3a",
+      "be97e02d2c6923da05396e9b98ad8a96",
+      "080be296871401756812635979078714",
+      "d7431ad100a602eb95563170ec028870",
+      "f29106e3e49e27a904add61ba7c0052d",
+      "8b8141a2c75a11398996afbc10f2eedb",
+      "0efd5a54dbafe5e155e15e845d09b598"
+    ],
+    "org_md5": "eb5a59c81c12aaec70e32b1f2f25da3a",
+    "comment": "",
+    "adddate": "2025\/09\/07"
+  },
+  {
     "md5": "4ba73d64ab5734e1ff19200e0be6cbd6",
     "org_level": 11,
     "title": "Stray Squall(BMS Edit)",
@@ -7529,6 +7724,26 @@
     "org_md5": "62cf987f7b09b00008caa145bfb2cbd5",
     "comment": "",
     "adddate": "2023\/11\/19"
+  },
+  {
+    "md5": "f4734442c21f5266a8ff561bbc119a3c",
+    "org_level": 12,
+    "title": "Unwelcome School (∀S∀-Hi-tech Remix)",
+    "artist": "∀S∀ (original : Mitsukiyo)",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f4734442c21f5266a8ff561bbc119a3c",
+      "c2409a051d547b0510ed09074445be5f",
+      "e5c93e5a32db5286824042244b8aecfb"
+    ],
+    "org_md5": "f4734442c21f5266a8ff561bbc119a3c",
+    "comment": "",
+    "adddate": "2025\/06\/13"
   },
   {
     "md5": "db60d5629e56b90b5bded6edd2eb1f20",
@@ -7647,6 +7862,29 @@
     "org_md5": "",
     "comment": "sl1 BOFXVII\/同梱譜面",
     "adddate": "2023\/02\/21"
+  },
+  {
+    "md5": "d1e407f0c37d5b27cc92308c2837d5ca",
+    "org_level": 12,
+    "title": "フーディー・バニーガール [ANOTHER]",
+    "artist": "ハルガスミ illust:水森なつる",
+    "folder": "LEVEL12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d1e407f0c37d5b27cc92308c2837d5ca",
+      "fee84bc821dbf37a14d990cb915855c9",
+      "a237dab286c1a41543a79c478a33f117",
+      "10fc9553f80ab3e8f32a2dfeca6c4843",
+      "420001e7bb16c2b695ba6789fd4db0bc",
+      "150c9938ee694cf72e3de14d763c95c5"
+    ],
+    "org_md5": "d1e407f0c37d5b27cc92308c2837d5ca",
+    "comment": "",
+    "adddate": "2025\/09\/20"
   },
   {
     "md5": "b9656d36814500f9ef8306df60def273",
@@ -10552,6 +10790,32 @@
     "adddate": "2023\/06\/14"
   },
   {
+    "md5": "25a13008aed5233aa51d907db086e3cd",
+    "org_level": 12,
+    "title": "Polacro -INSANE-",
+    "artist": "隣の庭は青い(庭師+Aoi) obj:INA",
+    "folder": "LEVEL12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "81e11466aad12e3596b152050ef087cf",
+      "948e08d559c9dcb81fea6216766abea4",
+      "d9aa8a74c7e202fa2b00dc5649f20274",
+      "4a8ef5e4991d64f1d28b25e025840b56",
+      "d2442cb1be9bb439fa49564a8f4548f7",
+      "25a13008aed5233aa51d907db086e3cd",
+      "d3a8762b05a8ff71ae4ea93c40d736eb",
+      "b3398e209b8b8b5acbdd6c1ae791e18c",
+      "4519b38c1521d4ae9872a379c7d5ca83"
+    ],
+    "org_md5": "81e11466aad12e3596b152050ef087cf",
+    "comment": "",
+    "adddate": "2025\/09\/20"
+  },
+  {
     "md5": "c9b36afa93691a76d9eceda640ce8ed4",
     "org_level": 12,
     "title": "Redo -Rebirth-",
@@ -11623,6 +11887,35 @@
     "adddate": "2023\/12\/05"
   },
   {
+    "md5": "e5d67212b0a5c62476a77be325fb9650",
+    "org_level": 12,
+    "title": "暴走 ~ out of control",
+    "artist": "Tatsh (Movie: MUSH.T \/ BMS: Zris)",
+    "folder": "LEVEL12.4(HARD適正CPI1650~1700)",
+    "level": "12.4(HARD適正CPI1650~1700)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "17dff568fdbd7e3c686467ff5a700d0f",
+      "660fbba1c614f25ff52468668e5ebbad",
+      "ecb777aef3248a429ae1283ef5698591",
+      "91f85681daf2fcd4e869b769ba07c5e4",
+      "74b03baddb3343da15f64e79732721af",
+      "a5db2d29951edf042ed4d8ddbef330ef",
+      "e5d67212b0a5c62476a77be325fb9650",
+      "cb3e29c5b7e5cf8c74d4aed33c6ab83a",
+      "3ea8e2777826989dfc0496a75fad7ba2",
+      "f82e87c96789802786781ebdf464c09b",
+      "11474f79422e2a73c288707cab7fe147",
+      "e6c0cbd8fcbc539bf0fdd62396c65be2"
+    ],
+    "org_md5": "17dff568fdbd7e3c686467ff5a700d0f",
+    "comment": "",
+    "adddate": "2025\/09\/20"
+  },
+  {
     "md5": "8003ae6304d047b08b3740bf09ad64e0",
     "org_level": 12,
     "title": "#DoomeyTunes [SP ANOTHER]",
@@ -11882,6 +12175,28 @@
     "adddate": "2023\/06\/21"
   },
   {
+    "md5": "f92b2098a730036e72185d92b54e35e5",
+    "org_level": 12,
+    "title": "CAT ROTATION [ANOTHER]",
+    "artist": "かたぎり BGA: mst",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f92b2098a730036e72185d92b54e35e5",
+      "05c4fa756c450a551d973a16409c8785",
+      "13e7cc768c22355df81a667a2c50976c",
+      "7bb815485cc9bdabcef8e7c5b64d38db",
+      "f8cd8debe8bbf38c065cd4e635b391dc"
+    ],
+    "org_md5": "f92b2098a730036e72185d92b54e35e5",
+    "comment": "",
+    "adddate": "2025\/09\/20"
+  },
+  {
     "md5": "319f4b239a0ae5bb283b186480010685",
     "org_level": 6,
     "title": "Catalyst [GOODNESS Again.]",
@@ -12123,6 +12438,31 @@
     "org_md5": "2dd76a387f559ac65b60d36252f77181",
     "comment": "",
     "adddate": "2023\/12\/06"
+  },
+  {
+    "md5": "86901eb663e951abdf9c70eeecfa9281",
+    "org_level": 12,
+    "title": "Lovey-Dovey-Devil [SP LEGGENDARIA]",
+    "artist": "litmus* ft. 夜想といき",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4f11036d2a7e783309d5ec40ec8c6d66",
+      "a334fad9e80aee05f31be9518dfd2579",
+      "68c5bf44bd0d631e4a3cee08f07bf5ae",
+      "a28153d566e5c8bfcc3236eef71cd53d",
+      "86901eb663e951abdf9c70eeecfa9281",
+      "f459ef2b58beea2f043ee7e15a9a8b50",
+      "a4f000f9282468de3cce9b52ce3faf64",
+      "c058711314d0c9808446f45cad7632c3"
+    ],
+    "org_md5": "4f11036d2a7e783309d5ec40ec8c6d66",
+    "comment": "",
+    "adddate": "2025\/09\/20"
   },
   {
     "md5": "ec3c7d3cb4c727d709cbc1a229178442",
@@ -12505,6 +12845,28 @@
     "org_md5": "70c0840620009182a8f1cfe89dfa01ae",
     "comment": "video<https:\/\/youtu.be\/GNJdEVmN-QM>",
     "adddate": "2023\/07\/17"
+  },
+  {
+    "md5": "469d5ddaaf6030084958ad2bf369bb7f",
+    "org_level": 12,
+    "title": "ふぁんぶる！ [お風呂の温度は1d100度]",
+    "artist": "藤原ハガネ feat. 重音テトSV mov:藤原ハガネ \/ illust:残響室 \/ bms,obj:lixound",
+    "folder": "LEVEL12.5(HARD適正CPI1700~1750)",
+    "level": "12.5(HARD適正CPI1700~1750)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "469d5ddaaf6030084958ad2bf369bb7f",
+      "fb8cf40f0970efd34fd524ece285ce80",
+      "ce2d38d2391e15745ce5bd832021cd8a",
+      "8d0115c5983e0c98f32d758dafdbc6b3",
+      "61ec0d7ae48ceb26025aa885e9314e4b"
+    ],
+    "org_md5": "469d5ddaaf6030084958ad2bf369bb7f",
+    "comment": "",
+    "adddate": "2025\/09\/20"
   },
   {
     "md5": "754b24509390859eb185a1df503cc0bd",
@@ -13087,6 +13449,26 @@
     "adddate": "2023\/11\/07"
   },
   {
+    "md5": "1b053c1ca6297897869ab84670a6dbc1",
+    "org_level": 12,
+    "title": "SCARLET NIGHT RESIDENT [SP ANOTHER]",
+    "artist": "lixound mov:AiLANE \/ obj:lixound",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1b053c1ca6297897869ab84670a6dbc1",
+      "a58138410408c3e9b15770e29dbff183",
+      "87d19dd96a5b0ce2d9cb7948f51c7bfd"
+    ],
+    "org_md5": "1b053c1ca6297897869ab84670a6dbc1",
+    "comment": "",
+    "adddate": "2025\/09\/20"
+  },
+  {
     "md5": "1393d92c00283fcbf12327537bccc785",
     "org_level": 12,
     "title": "Singulattack [SingularStrike]",
@@ -13134,6 +13516,38 @@
     "org_md5": "eecea096f2fc7bdcc21b3fce42019863",
     "comment": "video<https:\/\/youtu.be\/KMC6y6OPvYQ>",
     "adddate": "2023\/07\/20"
+  },
+  {
+    "md5": "786d0d1cfafd6b45551aaa4e75b404a7",
+    "org_level": 13,
+    "title": "Unwelcome School (MSHC-MIX) [F]",
+    "artist": "69 de 74 a.k.a. Sheena Ed Crow BGI:はしたかさん obj:Fender",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "10f31db2fff2fc61c66584aabde34b4f",
+      "70b85d931857fc000197b7ab024bd3f5",
+      "52aed53def429958720c81ba45a6213c",
+      "2670052a78ef0934f3f8e4530c1d2f54",
+      "832c4e2dccd3b3b485de2e4095a2ae92",
+      "786d0d1cfafd6b45551aaa4e75b404a7",
+      "b8535390af251106188c248ec011d366",
+      "dc5b60f0c04260c52cadff6b4814b27c",
+      "8e66574ec8ba2456c57a392233c11db3",
+      "00a8a6c8f6a4350fa205a513cb4af31f",
+      "a30e8b275bf0f820f6705e2cb84def37",
+      "94a6fe608fa9ac283a28d65903bda363",
+      "bbd3b69dff809219d7ceabf525cde148",
+      "e1f196c0978a438c6e245ca04de65744",
+      "c4684f75549bda4e02040e5413c35bc2"
+    ],
+    "org_md5": "10f31db2fff2fc61c66584aabde34b4f",
+    "comment": "",
+    "adddate": "2025\/09\/20"
   },
   {
     "md5": "6a4f405ecba42d19d535464ef6d8b8f8",
@@ -13279,6 +13693,29 @@
     "org_md5": "b2d3c385a01bf8a09fae7f68a744a156",
     "comment": "",
     "adddate": "2023\/11\/04"
+  },
+  {
+    "md5": "420001e7bb16c2b695ba6789fd4db0bc",
+    "org_level": 12,
+    "title": "フーディー・バニーガール [LEGGENDARIA]",
+    "artist": "ハルガスミ illust:水森なつる \/ obj.ユ a.k.a. sushimochi",
+    "folder": "LEVEL12.6(HARD適正CPI1750~1800)",
+    "level": "12.6(HARD適正CPI1750~1800)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d1e407f0c37d5b27cc92308c2837d5ca",
+      "fee84bc821dbf37a14d990cb915855c9",
+      "a237dab286c1a41543a79c478a33f117",
+      "10fc9553f80ab3e8f32a2dfeca6c4843",
+      "420001e7bb16c2b695ba6789fd4db0bc",
+      "150c9938ee694cf72e3de14d763c95c5"
+    ],
+    "org_md5": "d1e407f0c37d5b27cc92308c2837d5ca",
+    "comment": "",
+    "adddate": "2025\/09\/20"
   },
   {
     "md5": "49cb4664ae8b5ca5ab355ed892875ed1",
@@ -13533,6 +13970,28 @@
     "org_md5": "aa80ec11ace463abff7ae9bee8ef2a29",
     "comment": "",
     "adddate": "2023\/12\/06"
+  },
+  {
+    "md5": "f92b2098a730036e72185d92b54e35e5",
+    "org_level": 12,
+    "title": "CAT ROTATION [ANOTHER]",
+    "artist": "かたぎり BGA: mst",
+    "folder": "LEVEL12.7(HARD適正CPI1800~1850)",
+    "level": "12.7(HARD適正CPI1800~1850)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f92b2098a730036e72185d92b54e35e5",
+      "05c4fa756c450a551d973a16409c8785",
+      "13e7cc768c22355df81a667a2c50976c",
+      "7bb815485cc9bdabcef8e7c5b64d38db",
+      "f8cd8debe8bbf38c065cd4e635b391dc"
+    ],
+    "org_md5": "f92b2098a730036e72185d92b54e35e5",
+    "comment": "",
+    "adddate": "2025\/06\/13"
   },
   {
     "md5": "18a3d4f7f8b1d35277e759e5643a4757",
@@ -14970,22 +15429,6 @@
     "org_md5": "52b63ec129cf19e787a602100952a59f",
     "comment": "",
     "adddate": "2024\/08\/14"
-  },
-  {
-    "md5": "ad6d4631747d7aa03530a5db4b9120c7",
-    "org_level": 11,
-    "title": "Bloody Scarlet Nightmare [Li]",
-    "artist": "ZUN remixed by翡乃イスカ obj:LIEF",
-    "folder": "LEVEL13.0(HARD適正CPI1950~2000)",
-    "level": "13.0(HARD適正CPI1950~2000)",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=71&event=102",
-    "url_diff": "http:\/\/flowermaster.web.fc2.com\/kikaku\/sabunsakusei.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "高速",
-    "adddate": "2023\/07\/20"
   },
   {
     "md5": "71c1d1a5c09eb16dfe722414ed70f658",
