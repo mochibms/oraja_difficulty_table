@@ -1,4 +1,5 @@
-※パッと思いつくものから順に追加。特にオススメなモノに★マーク付けてます。今後増えます。
+※パッと思いつくものから順に追加。
+12.0以降はオススメ度のランク分けとして★マーク付けてます。区分は今後変わるかも知れませんが数が多いものから触って行けば間違いないです。
 
 11.8
 
@@ -11,6 +12,7 @@ MINT 150 配置難の乱打
 《PL|RAYER》 180 同時押し 終盤片手乱打
 
 CUE CUE RESCUE [L] 160 乱打 ※Pinky Crushアリーナ解禁
+
 
 12.0
 ACTØ
@@ -77,7 +79,7 @@ THE BLACK KNIGHT 配置キモめの乱打、中盤発狂
 T-REX vs Velociraptor (In the Far east euphoria) ★
 True Blue ★
 Unicorn tail ★
-Vitrum ★
+Vitrum ★ 隣接階段
 華蝶風雪
 黒髪乱れし修羅となりて 隣接階段、軸、トリル多め
 スーパー戦湯ババンバーン
@@ -85,6 +87,7 @@ Vitrum ★
 禊 ★
 ミラージュ・レジデンス ★
 ΕΛΠΙΣ
+
 
 12.2
 RUGGED ASH [L] ★ 曲が短く濃密
@@ -128,7 +131,7 @@ Double Dribble ★★
 Friction[!]Function ★★
 Megalara Garuda ★★
 Ypsilon [L] ★★
-グッバイ宣言 [L]
+グッバイ宣言 [L] ★
 ハイテックトキオ [L] ★★
 Always We Trust In You ★
 dica dica
@@ -139,11 +142,13 @@ Super Freak ★
 神のシナリオ
 KING [L] ★
 神っぽいな [L] ★
-
-Ghost Pulse ★★
+Ghost Pulse ★★ 最高の譜面
+Seven Times Four ★
+今宵、ロマンス横丁。
+終焔のClaudia ★ 隣接階段
+Bring The Fire
+Satellite Burst ★
 u gotta beat ★
-終焔のClaudia
-
 
 
 12.3
