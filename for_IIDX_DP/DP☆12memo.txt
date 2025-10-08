@@ -19,18 +19,18 @@ ACTØ
 Anisakis -somatic mutation type "Forza"-
 Battle Train -IIDX Edition- ★ 体力キツめ
 Broken ★★
-Carry Me Away ★
+Carry Me Away ★★
 CODE:2
 Eine Haube ～聖地の果てにあるもの～ 隣接階段
 encounter
 HADES
-Here We Go Now ★
+Here We Go Now ★★
 Meissa ★
 Little Star
 Persephone
 Sirius ★
 snow storm かなり前半難
-Raspberry Railgun ★
+Raspberry Railgun ★★
 Rave Cannon
 The Least 100sec
 ZZ ★ DB配置
@@ -157,7 +157,7 @@ INAZUMA 局所的に良い配置があるけど基本はギリ掲載くらいの
 華蝶風雪 [L]
 LASER CRUSTER ★ 隣接階段
 satellite020712 from "CODED ARMS" (DJT) ★★ 片手二重乱打の入門譜面
-State Of The Art (SINO) ★★ 配置難の乱打
+State Of The Art (SINO) ★★★ 配置難の乱打
 NEW GENERATION -もう、お前しか見えない- [L] ★
 Arabian Rave Night [L] ★★
 B4U(BEMANI FOR YOU MIX) [L] ★★
@@ -185,7 +185,7 @@ TIEFSEE ★★
 千年ノ理 度し難い隣接皿があるので練習目的ならオートスクラッチ推奨
 超青少年ノ為ノ超多幸ナ超古典的超舞曲 ★★ 両乱で一生味が出る譜面
 Beat Radiance [L] ★ 同時押し、体力
-GUILTY [L] ★★ 曲が短く超濃密
+GUILTY [L] ★★★ 曲が短く超濃密
 AO-1 同時押し
 Blue Spring Express 隣接階段
 Godspeed ★★ 隣接階段、連打など
@@ -228,10 +228,31 @@ Tiempo Loco ★★
 水鏡の異界 ★
 Burning Flame [L] ★★
 新宝島 [L] ★★ Flashes体験版
-
-
-
-
+Aftermath ★
+ALTERNATOR ★
+Angel's Ladder ★★
+Fegrix ★★
+LIVE DRIVING!! feat. 花たん ★★
+Push on Beats!～音ゲの国のeX-ストリーマー～ ★
+Smalt #28598F ★★
+TOMAHAWK [A] 
+Triple Cross ★
+烽火連天の刃 ★
+B.O.D.Y. ★
+BIGWAVERS ★★
+I ★
+kors k's How to make OTOGE CORE 「LONG」 ★
+No Border ★★ 4個同時押しがアツい
+Ōu Legends
+Stylus ★★★
+TECHNOPHOBIA ★★ SPAと比べて発狂が常識的
+ぞうしょく！？マイデンティティ
+恋愛＝精度×認識力 ソフラン以外がかなり良配置 177合わせでミニゲームはハナから全捨てとかでも良い
+BLAZING_LAZER ★
+frequent ★
+MAXIMUM CHEAT GIRL ★
+Out of Control ★
+Resonant ★★
 
 
 
