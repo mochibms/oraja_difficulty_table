@@ -160,7 +160,7 @@ satellite020712 from "CODED ARMS" (DJT) ★★ 片手二重乱打の入門譜面
 State Of The Art (SINO) ★★★ 配置難の乱打
 NEW GENERATION -もう、お前しか見えない- [L] ★
 Arabian Rave Night [L] ★★
-B4U(BEMANI FOR YOU MIX) [L] ★★
+B4U(BEMANI FOR YOU MIX) [L] ★★ 拷問系
 EXUSIA ★
 Dances with Snow Fairies ★
 ZETA ～素数の世界と超越者～
@@ -235,7 +235,7 @@ Fegrix ★★
 LIVE DRIVING!! feat. 花たん ★★
 Push on Beats!～音ゲの国のeX-ストリーマー～ ★
 Smalt #28598F ★★
-TOMAHAWK [A] 
+TOMAHAWK
 Triple Cross ★
 烽火連天の刃 ★
 B.O.D.Y. ★
@@ -314,7 +314,7 @@ TOXIC VIBRATION ★★ トリル 体力
 Cosmic Cat [L] ★★ 隣接階段
 IMPLANTATION [L] ★ 前作解禁ダリア
 Dynamite ★★
-M4K3 1T B0UNC3 片手二重階段を浴びれるけど終盤しか難所がないので後回しでいい
+M4K3 1T B0UNC3 片手二重階段は貴重だが、終盤しか難所がないので後回しでいい
 POSSESSION 同時ラッシュは良い感じだけど後回しでいい
 refrain ★★★
 Triple Counter ★ もっと星あげたい良い譜面だけど尋常じゃなくムズいので優先度は低め
@@ -386,3 +386,19 @@ hora de verdad ★★★ 前作解禁曲 開幕低速と連打を差し引いて
 Lightspeed ★★ 連動イベント解禁曲 現在常駐済み？ スカスカ区間がちょい長めなのがネック
 MARLIN ★★★ 前作解禁曲
 NOIXIA ★★★ 
+
+12.5
+minimalian ★★ 本家では類を見ない横特化物量だがラスト8小節が全てなのでコスパは良くない
+Logic Board ★ 微縦と厚い同時押しが特徴の物量 着地と隣接皿が終始ウザったいので練習目的やオプションを使う場合は自動皿推奨
+GENOCIDE 地獄のような配置+着地+隣接皿+無理皿 乱打区間があるから記載しているだけなので正直やらなくてもいい
+Be quiet [L] 連皿と着地、難易度も12.6スレスレなので練習目的には微妙かも
+spiral galaxy [L] ★★★ 押しにくい物量 終盤で更に一段ギアが上がる
+INAZUMA [L] ★★ 12.6寄りなので後回しにしても良い
+Little Little Princess [L] ★★★ 正規でも乱のような配置が標準実装の同時押しと局所難
+嘆きの樹 同時押しを含む片手乱打など栄養はあるものの推せるかと言われると微妙
+waxing and wanding [L] 16分の配置が単調なのが気になる所
+Blue Rain [L] ★★★ 配置難の乱打 天空前哨戦
+BITTER CHOCOLATE STRIKER [L] ★ デプストダリアに近い配置難 あちらより乱打とトリル成分強め
+ワルツ第17番 ト短調"大犬のワルツ" ★★ 階段にゴミが付く形の乱打 緑数字は開幕合わせ、中盤の350区間だけ鍵盤でギアチェン 中伝に来る可能性があるので粘着は厳禁
+reunion ★ SPAと比べてだいぶまとも 変な同時押しや片手二重階段、執拗な右手イジメなどクセは強い
+The Limbo ★★ 配置難と高速片手乱打
