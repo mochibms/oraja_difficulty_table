@@ -1,22 +1,27 @@
 随時追記予定。
 途中から傾向書くの面倒になったので許してください。大体乱打、片手乱打(片方に長く降るやつ)、隣接階段、同時押しなどで構成されています。
-エゲツない個人差要素を含むものの鍵盤も良配置ゆえ入れているものもあります(Bling-Bang-Bang-Bornとか)。
+エゲツない個人差要素を含むけど鍵盤も良配置なので入れているものもあります(Bling-Bang-Bang-Bornとか)。
 
 11.4
 passionate fate 
 Fly you to the star 片手乱打
 Moving on 乱打
 planarian 乱打、桂馬押し
+朧 [L]
 Squeeze 乱打
 Chain of pain
 The Sky of Sadness 隣接階段
+シル・ヴ・プレジデント [L]
 
 
 11.6 
 
 Programmed World 乱打
 WISE UP! [L]
+S!ck
+Inner Spirit
 麗 ～うらら～ 
+Macuilxochitl 
 怪物 [L]
 アイドル [L] 乱打、隣接階段
 Bling-Bang-Bang-Born [L]
@@ -29,6 +34,6 @@ Yellow Sunrise 乱打
 パ→ピ→プ→Yeah!
 Amazing Mirage 
 Back Spin Sweeper
-City Never Sleeps (IIDX EDITION) [A]
+City Never Sleeps (IIDX EDITION)
 Ergosphere 階段、乱打、CN
 ゲシュタルト [L] 同時押し、乱打
