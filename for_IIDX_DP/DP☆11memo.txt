@@ -2,6 +2,12 @@
 途中から傾向書くの面倒になったので許してください。大体乱打、片手乱打(片方に長く降るやつ)、隣接階段、同時押しなどで構成されています。
 エゲツない個人差要素を含むけど鍵盤も良配置なので入れているものもあります(Bling-Bang-Bang-Bornとか)。
 
+11.0
+Line 4 Ruin
+
+11.2
+Realize Maze 
+
 11.4
 NΦ CRIME [L]
 passionate fate 
@@ -9,6 +15,7 @@ SHADE
 Fly you to the star 片手乱打
 Moving on 乱打
 planarian 乱打、桂馬押し
+Time to Empress
 朧 [L]
 Squeeze 乱打
 Chain of pain
@@ -37,10 +44,12 @@ Empire State Glory
 532nm 
 Star Trail [L] 乱打、隣接階段
 Yellow Sunrise 乱打
-Take My Life [A]
+Take My Life
 パ→ピ→プ→Yeah!
 Amazing Mirage 
 Back Spin Sweeper
 City Never Sleeps (IIDX EDITION)
+龍王の霊廟(Mausoleum Of The Primal Dragon)
+POLꞰAMAИIA
 Ergosphere 階段、乱打、CN
 ゲシュタルト [L] 同時押し、乱打
