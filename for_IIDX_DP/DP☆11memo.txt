@@ -9,7 +9,7 @@ Explorer feat. ぷにぷに電機 [L]
 Line 4 Ruin
 
 11.2
-Präludium [A]
+Präludium
 Beyond The Earth
 Realize Maze 
 
@@ -31,7 +31,7 @@ The Sky of Sadness 隣接階段
 
 11.6 
 
-Programmed World 乱打
+天空脳番長危機十六連打
 WISE UP! [L]
 S!ck
 ALBA -黎明-
@@ -46,6 +46,7 @@ LADYBIRD
 Bling-Bang-Bang-Born [L]
 
 11.8
+Programmed World 乱打
 Empire State Glory
 532nm 
 Star Trail [L] 乱打、隣接階段
