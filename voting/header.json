@@ -1,19 +1,39 @@
 {
-  "name": "難易度査定\/譜面確認待ち",
-  "symbol": "voting",
+  "name": "ユ's Selection",
+  "symbol": "yu",
   "level_order": [
-    "DP全譜面",
-    "Renaissance",
-    "Stardust難易度表"
+    " ★19以下",
+    " ★20",
+    " ★★1",
+    " ★★2",
+    " ★★3",
+    " ★★4",
+    " ★★5",
+    " ★★6",
+    " ★★7",
+    " ★★8",
+    " ★★9"
   ],
-  "folder_order": [ ],
+  "folder_order": [
+    "LEVEL ★19以下",
+    "LEVEL ★20",
+    "LEVEL ★★1",
+    "LEVEL ★★2",
+    "LEVEL ★★3",
+    "LEVEL ★★4",
+    "LEVEL ★★5",
+    "LEVEL ★★6",
+    "LEVEL ★★7",
+    "LEVEL ★★8",
+    "LEVEL ★★9"
+  ],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2024\/01\/15",
+  "last_update": "2026\/07\/21",
   "editor_name": "BeMusicSeeker",
-  "editor_version": "0.3.5.6",
-  "output_date": "2024\/01\/15"
+  "editor_version": "",
+  "output_date": "2026\/07\/21"
 }
