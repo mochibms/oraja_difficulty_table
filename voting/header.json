@@ -25,7 +25,8 @@
     " ★★6",
     " ★★7",
     " ★★8",
-    " ★★9"
+    " ★★9",
+    " 候補"
   ],
   "folder_order": [
     "LEVEL☆11",
@@ -58,8 +59,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2026\/07\/27",
+  "last_update": "2026\/08\/20",
   "editor_name": "BeMusicSeeker",
-  "editor_version": "",
-  "output_date": "2026\/07\/27"
+  "editor_version": "0.1.7374.5230",
+  "output_date": "2026\/08\/20"
 }
