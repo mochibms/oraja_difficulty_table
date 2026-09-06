@@ -1,5 +1,5 @@
 {
-  "name": "ユ's Selection",
+  "name": "GENESIS",
   "symbol": "yu",
   "level_order": [
     "☆11",
@@ -70,8 +70,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2026\/09\/01",
+  "last_update": "2026\/09\/06",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.1.7374.5230",
-  "output_date": "2026\/09\/02"
+  "output_date": "2026\/09\/06"
 }
