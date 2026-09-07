@@ -1,6 +1,6 @@
 {
   "name": "GENESIS",
-  "symbol": "yu",
+  "symbol": "",
   "level_order": [
     "☆11",
     " ☆12",
@@ -16,6 +16,8 @@
     " ★10",
     " ★11",
     " ★12",
+    " ★13",
+    " ★14",
     " ★15",
     " ★16",
     " ★17",
@@ -48,6 +50,8 @@
     "LEVEL ★10",
     "LEVEL ★11",
     "LEVEL ★12",
+    "LEVEL ★13",
+    "LEVEL ★14",
     "LEVEL ★15",
     "LEVEL ★16",
     "LEVEL ★17",
@@ -70,8 +74,8 @@
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "LEVEL",
-  "last_update": "2026\/09\/06",
+  "last_update": "2026\/09\/07",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.1.7374.5230",
-  "output_date": "2026\/09\/06"
+  "output_date": "2026\/09\/07"
 }
