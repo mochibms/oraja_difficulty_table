@@ -2245,6 +2245,30 @@
     "adddate": "2026\/07\/31"
   },
   {
+    "md5": "3469a30c10ecc0d479c63d24a4aa492d",
+    "sha256": "3a2d43615e1b6d48db739cd150b07d4f7b6ae515604c3c68843e8ff980b6875a",
+    "org_level": 10,
+    "title": "Nocturne [HYPER7]",
+    "artist": "Lime \/ Kankitsu",
+    "folder": "☆10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1b44efc2580249a4eed20e35b0af3740",
+      "5402cfe7fc508aa1a0ca5aff85cf73b6",
+      "35663719d861444989329168b0711850",
+      "3469a30c10ecc0d479c63d24a4aa492d",
+      "dfd9dff454ad106792cd198e030e9824",
+      "00681730ed77cae6404aceab795e2fcc"
+    ],
+    "org_md5": "1b44efc2580249a4eed20e35b0af3740",
+    "comment": "",
+    "adddate": "2026\/09\/19"
+  },
+  {
     "md5": "ee7138a8c97135f9f635ea86748f6f7e",
     "sha256": null,
     "org_level": 10,
@@ -2721,6 +2745,31 @@
     "adddate": "2026\/07\/31"
   },
   {
+    "md5": "d90a2c2fe09644d24c7ebeff9e4b5b71",
+    "sha256": "907863beecef8dbda2911d135dfc0cdbd8257b0d1fb70d20b6055060838b5fb0",
+    "org_level": 10,
+    "title": "こくはく攻撃 [SP Another]",
+    "artist": "litmus* ft. 分散型自律ゴーレム　りむる bms : Arcadia \/ obj : litmus*",
+    "folder": "☆10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cccb9c58f99cd9c0de5b3bb17e0746a0",
+      "34da4a2a2295bbaeb5ca556cf2897c4f",
+      "57054ef3ac70067d16ed5177bfe31aa8",
+      "d90a2c2fe09644d24c7ebeff9e4b5b71",
+      "dc7f330d6f633cc79e571655db9b4664",
+      "aba4971637a26f1d39258a27eae9fe8e",
+      "3ff37a31db0f3651d09a1de6be02292a"
+    ],
+    "org_md5": "cccb9c58f99cd9c0de5b3bb17e0746a0",
+    "comment": "",
+    "adddate": "2026\/09\/19"
+  },
+  {
     "md5": "915a0db1fa5d9daf0307beba7c3a046b",
     "sha256": null,
     "org_level": 10,
@@ -2872,6 +2921,30 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2026\/07\/31"
+  },
+  {
+    "md5": "16e7518debb705fb062d18c7622c7677",
+    "sha256": "22bcc7c25fdd8140178f8f2cecbf4c35d818d93f4d996f61d756f532ae107138",
+    "org_level": 10,
+    "title": "をしへ [入法界無量廻向]",
+    "artist": "Pinktoe feat.はらもりよしな × ミドリノハサミ \/ BGA:新町たま × Nima",
+    "folder": "☆10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "98008f211269402feeff0b635acda8ef",
+      "5049b918bcb431be0307920f14a5eb22",
+      "16e7518debb705fb062d18c7622c7677",
+      "c5d9d7da116c74e64c8ee96183301293",
+      "4a74f2597341888de43faaea471cb3cf",
+      "7b905e338c666c8f7572d80b15c35df0"
+    ],
+    "org_md5": "98008f211269402feeff0b635acda8ef",
+    "comment": "",
+    "adddate": "2026\/09\/19"
   },
   {
     "md5": "7b8685c8c86f6a7819826bf30699392a",
@@ -5586,6 +5659,30 @@
     "adddate": "2026\/07\/31"
   },
   {
+    "md5": "35663719d861444989329168b0711850",
+    "sha256": "1a8749757e5f5c9da73599ddc4b0abb483fc185d03b3f19975c57a6b22adf4b5",
+    "org_level": 12,
+    "title": "Nocturne [ANOTHER7]",
+    "artist": "Lime \/ Kankitsu",
+    "folder": "☆12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1b44efc2580249a4eed20e35b0af3740",
+      "5402cfe7fc508aa1a0ca5aff85cf73b6",
+      "35663719d861444989329168b0711850",
+      "3469a30c10ecc0d479c63d24a4aa492d",
+      "dfd9dff454ad106792cd198e030e9824",
+      "00681730ed77cae6404aceab795e2fcc"
+    ],
+    "org_md5": "1b44efc2580249a4eed20e35b0af3740",
+    "comment": "",
+    "adddate": "2026\/09\/19"
+  },
+  {
     "md5": "97f026722d257378054f41ec3c4ea683",
     "sha256": null,
     "org_level": null,
@@ -5941,6 +6038,40 @@
     "org_md5": "",
     "comment": "sl1 Fix ver.",
     "adddate": "2026\/07\/31"
+  },
+  {
+    "md5": "182939df1d668089393a76a616f90edd",
+    "sha256": "4ac0a13843c53fb8f6a183a3413e44b94885537a34b0c8cc562442b37e052ac4",
+    "org_level": 12,
+    "title": "燐寸と緞帳 [SP ANOTHER]",
+    "artist": "Juka_Box feat. 綜花",
+    "folder": "☆12.0(HARD適正CPI1450~1500)",
+    "level": "12.0(HARD適正CPI1450~1500)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "06b90bd7772735f3e052760acdc57335",
+      "ba631013a25b01de06ad97e1975f46a0",
+      "67369b91642b8ad6da917c13fc304625",
+      "a1b02381dfd5eac18d87682a9ecc7ce1",
+      "182939df1d668089393a76a616f90edd",
+      "ffa28f05ef61f8f3f9cce2d5911f5623",
+      "62058ecbcf3e6001a090982b9147497e",
+      "5dc7444bbdae4e72f69f106e5ea623e3",
+      "d801157175446f2e4b39930505969a55",
+      "7dfe7427084d8fe073365b372a0d8bb7",
+      "e03e089cfe4e181192f23dbc2d243a29",
+      "0dd13c7f30201101075ea5c705503479",
+      "63dbe429dafd6f6b188796a5560476e1",
+      "6e0be0a97af160459fbc0c6063f33be6",
+      "748ab77702505f9aa8d4040ef2d013dd",
+      "6a67b63b1986013602a8a52c48e17b5a"
+    ],
+    "org_md5": "06b90bd7772735f3e052760acdc57335",
+    "comment": "",
+    "adddate": "2026\/09\/19"
   },
   {
     "md5": "fa4352651cf70bbf5f4bbb94ab7ee0a5",
@@ -6759,6 +6890,30 @@
     "adddate": "2026\/07\/31"
   },
   {
+    "md5": "98008f211269402feeff0b635acda8ef",
+    "sha256": "1f112c7715ac00dcdf02b711a61a19cc69e4af85e9978a0f0f261cd2f1284c72",
+    "org_level": 12,
+    "title": "をしへ [法雲地]",
+    "artist": "Pinktoe feat.はらもりよしな × ミドリノハサミ \/ BGA:新町たま × Nima",
+    "folder": "☆12.1(HARD適正CPI1500~1550)",
+    "level": "12.1(HARD適正CPI1500~1550)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "98008f211269402feeff0b635acda8ef",
+      "5049b918bcb431be0307920f14a5eb22",
+      "16e7518debb705fb062d18c7622c7677",
+      "c5d9d7da116c74e64c8ee96183301293",
+      "4a74f2597341888de43faaea471cb3cf",
+      "7b905e338c666c8f7572d80b15c35df0"
+    ],
+    "org_md5": "98008f211269402feeff0b635acda8ef",
+    "comment": "",
+    "adddate": "2026\/09\/19"
+  },
+  {
     "md5": "7d4fc1dcc7f2672cab64da04ca4966f7",
     "sha256": null,
     "org_level": null,
@@ -7471,6 +7626,31 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2026\/07\/31"
+  },
+  {
+    "md5": "19e82553efe38dc25ea0885d71cbec34",
+    "sha256": "4ec492550c43e1e96783aed6ee87422d90e2379e00af777cf3691ec18ea4d401",
+    "org_level": 12,
+    "title": "Voyager for the Archived Tomorrow [7keys Another]",
+    "artist": "Yosk! & ume feat.水鏡華",
+    "folder": "☆12.2(HARD適正CPI1550~1600)",
+    "level": "12.2(HARD適正CPI1550~1600)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cfc4163ac2f88bd892472348dc5adf9b",
+      "bb4236049cb6a53b3480521a727ab084",
+      "7cd45267b8597ce8789cd2ef74b7be1d",
+      "19e82553efe38dc25ea0885d71cbec34",
+      "0d373a738ce96a24638f5eeef0aa80bd",
+      "25d2d0e71a7960818ad7d4967047f2be",
+      "85d3caf41e116ca38ac5d55c93251e63"
+    ],
+    "org_md5": "cfc4163ac2f88bd892472348dc5adf9b",
+    "comment": "",
+    "adddate": "2026\/09\/19"
   },
   {
     "md5": "d30d511d9fce23c17d67759e9833d647",
@@ -8294,6 +8474,29 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2026\/07\/31"
+  },
+  {
+    "md5": "fe9651c735653df54a5e14fa10f008ab",
+    "sha256": "6ac8f1e2761313039695bee4cce162c6ee230e06ac9f74d327cf7761600eabbe",
+    "org_level": 12,
+    "title": "Transcendence [SP ANOTHER]",
+    "artist": "Abel (Mov.Siesphere Illust.suisou) Obj.Triforce",
+    "folder": "☆12.3(HARD適正CPI1600~1650)",
+    "level": "12.3(HARD適正CPI1600~1650)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "cba04a1d14dc641a272bc7e0eb4d4b2a",
+      "fe9651c735653df54a5e14fa10f008ab",
+      "db1037ddaa3992772505b2ac1c5f576a",
+      "349ee42170da28bd562ac2bbe1ac4e18",
+      "57bde8d1ef43b172b75c6d588ba51f5b"
+    ],
+    "org_md5": "cba04a1d14dc641a272bc7e0eb4d4b2a",
+    "comment": "",
+    "adddate": "2026\/09\/19"
   },
   {
     "md5": "afadaff138a89eaccefe71b4c94a6dc2",
@@ -9790,29 +9993,6 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2026\/07\/31"
-  },
-  {
-    "md5": "fe9651c735653df54a5e14fa10f008ab",
-    "sha256": "6ac8f1e2761313039695bee4cce162c6ee230e06ac9f74d327cf7761600eabbe",
-    "org_level": 12,
-    "title": "Transcendence [SP ANOTHER]",
-    "artist": "Abel (Mov.Siesphere Illust.suisou) Obj.Triforce",
-    "folder": "☆12.5(HARD適正CPI1700~1750)",
-    "level": "12.5(HARD適正CPI1700~1750)",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "cba04a1d14dc641a272bc7e0eb4d4b2a",
-      "fe9651c735653df54a5e14fa10f008ab",
-      "db1037ddaa3992772505b2ac1c5f576a",
-      "349ee42170da28bd562ac2bbe1ac4e18",
-      "57bde8d1ef43b172b75c6d588ba51f5b"
-    ],
-    "org_md5": "cba04a1d14dc641a272bc7e0eb4d4b2a",
-    "comment": "",
-    "adddate": "2026\/08\/20"
   },
   {
     "md5": "bc9af91ef329755dcdbc743f9e76e680",
@@ -12383,6 +12563,30 @@
     "org_md5": "",
     "comment": "video<https:\/\/youtu.be\/M80q1E1dKxY>",
     "adddate": "2026\/07\/31"
+  },
+  {
+    "md5": "17dca2abfda52124ea388f24b3ef0a3c",
+    "sha256": "760f9a38d085d1d1f00aef0295b23ca220c5e2fd35fe158254565d42b8a04af8",
+    "org_level": 19,
+    "title": "Now they sing, now they sob [Tyrfing]",
+    "artist": "庭師 BGA : noixy \/ obj.ユ",
+    "folder": "☆13.1(HARD適正CPI2000~2050)",
+    "level": "13.1(HARD適正CPI2000~2050)",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7558a270a585897c2f0330e5e6c4d63d",
+      "3b5a4f24bd858d5c887f29ffad8f0da0",
+      "a5d63e969f7e25e59bb889deffce1b7a",
+      "ec2c7f1afc38d2f0a3b6f1199cce3809",
+      "1a7f6e8a77230c1f49ee7f0ce53a4a24",
+      "17dca2abfda52124ea388f24b3ef0a3c"
+    ],
+    "org_md5": "7558a270a585897c2f0330e5e6c4d63d",
+    "comment": "",
+    "adddate": "2026\/09\/19"
   },
   {
     "md5": "990c60f68f2b75d56169a7121d4fab7c",
