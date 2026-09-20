@@ -6741,6 +6741,29 @@
     "adddate": "2026\/07\/21"
   },
   {
+    "md5": "347e20b9ad0005265ddbde6c23d074ed",
+    "sha256": "6093471fcf28c65961381c047eb3b93080f0c0fbe058fbd99a16a4d6d0fda8ec",
+    "org_level": 21,
+    "title": "Cataclysm [SP INSANE]",
+    "artist": "紫鮫",
+    "folder": "LEVEL ★20",
+    "level": " ★20",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d6d9bcd44d5094192e9b43c6aaa37614",
+      "a650319351da11468e841b925c04b8cd",
+      "81bab9fdb01dcc20d339a77eaeae8aaa",
+      "347e20b9ad0005265ddbde6c23d074ed",
+      "d3124f38ee82b93f3becfc258e22a82d"
+    ],
+    "org_md5": "d6d9bcd44d5094192e9b43c6aaa37614",
+    "comment": "",
+    "adddate": "2026\/09\/20"
+  },
+  {
     "md5": "1728928d4d010b0c1ba0e21130a854a3",
     "sha256": null,
     "org_level": 20,
@@ -10010,6 +10033,45 @@
     "adddate": "2026\/09\/06"
   },
   {
+    "md5": "a9028508eabc2372c58b24286dd2659c",
+    "sha256": "883f6f3fa6cd84b044a7510429cfc1fe4baa39b78bd237ac270e88a95927d8b4",
+    "org_level": 23,
+    "title": "Black Lotus[INFERNO]",
+    "artist": "wa. \/ 百舌谷 \/obj:赤い人",
+    "folder": "LEVEL ★24",
+    "level": " ★24",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2cb3735afb1881c01565d9a0270a5373",
+      "be5cb22dc1bde07fb8aa6bec08bcc8f8",
+      "b3ac65351c03998e3276790503008d46",
+      "5431b6e5290b48f21583b50ca05eda51",
+      "d522701bdac6cd27094483d59472e009",
+      "4663109750a2e9ca7a108fa534547a04",
+      "bf09f7cf6bed308bc48fbfcb8ad1c63a",
+      "996138b96c97f80e540bae1c01f0131f",
+      "785d5ea9ae31d66919ddcce288bd94a1",
+      "5ead91f732818063cd6857fd3dcde389",
+      "09a89a917caba70688dabaa5dc09190c",
+      "204febd6a2f38c3d4f0f2e3278b6a960",
+      "a9028508eabc2372c58b24286dd2659c",
+      "1fe228ccba0612aea9a9015500d7c476",
+      "352a8a1dd95dc5c9d06a49fc923caa14",
+      "aa5204f985e86c153d02bc83b330e99b",
+      "7ff299b92cc61cce055dac46b7e2eed1",
+      "d67da5b548c7c8bce1e7de50ad35d38a",
+      "a92cc970443dbabe01ef0818d63cd399",
+      "e862d41db4532275e322327fed6909cc",
+      "858de885e881cc34446afca658e4fab9"
+    ],
+    "org_md5": "2cb3735afb1881c01565d9a0270a5373",
+    "comment": "",
+    "adddate": "2026\/09\/20"
+  },
+  {
     "md5": "bd97bff3356c5d85dd3490c15d25035b",
     "sha256": null,
     "org_level": 6,
@@ -12361,6 +12423,23 @@
     "adddate": "2026\/09\/19"
   },
   {
+    "md5": "068d285479ce0d3ed9fd87a2d12ae7b9",
+    "sha256": "7e3ae036bd0e0777c8420d52ce5fcbd1b61117313bd93b6e11d0e69dd1f5448d",
+    "org_level": 10,
+    "title": "CUNNY TRIO [Immortal]",
+    "artist": "福建高速音楽研究学会（猫龍+DJ NORMAL1ZER+DJ Momo）\/ obj:potechang",
+    "folder": "LEVEL ★29",
+    "level": " ★29",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=28&event=148",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/5726",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2026\/09\/20"
+  },
+  {
     "md5": "98037a7849567288e22d4c3b7d5a2635",
     "sha256": null,
     "org_level": 25,
@@ -12661,29 +12740,6 @@
     "adddate": "2026\/09\/19"
   },
   {
-    "md5": "347e20b9ad0005265ddbde6c23d074ed",
-    "sha256": "6093471fcf28c65961381c047eb3b93080f0c0fbe058fbd99a16a4d6d0fda8ec",
-    "org_level": 21,
-    "title": "Cataclysm [SP INSANE]",
-    "artist": "紫鮫",
-    "folder": "LEVEL 候補",
-    "level": " 候補",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "d6d9bcd44d5094192e9b43c6aaa37614",
-      "a650319351da11468e841b925c04b8cd",
-      "81bab9fdb01dcc20d339a77eaeae8aaa",
-      "347e20b9ad0005265ddbde6c23d074ed",
-      "d3124f38ee82b93f3becfc258e22a82d"
-    ],
-    "org_md5": "d6d9bcd44d5094192e9b43c6aaa37614",
-    "comment": "",
-    "adddate": "2026\/09\/19"
-  },
-  {
     "md5": "49dae02d73b30e37473ed9c1094a7e33",
     "sha256": null,
     "org_level": 7,
@@ -12716,23 +12772,6 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2026\/08\/31"
-  },
-  {
-    "md5": "068d285479ce0d3ed9fd87a2d12ae7b9",
-    "sha256": "7e3ae036bd0e0777c8420d52ce5fcbd1b61117313bd93b6e11d0e69dd1f5448d",
-    "org_level": 10,
-    "title": "CUNNY TRIO [Immortal]",
-    "artist": "福建高速音楽研究学会（猫龍+DJ NORMAL1ZER+DJ Momo）\/ obj:potechang",
-    "folder": "LEVEL 候補",
-    "level": " 候補",
-    "lr2_bmsid": null,
-    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=28&event=148",
-    "url_diff": "https:\/\/stellabms.xyz\/upload\/5726",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "2026\/09\/06"
   },
   {
     "md5": "0733f41da3067898f638dd291ae7560b",
