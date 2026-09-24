@@ -8402,6 +8402,33 @@
     "adddate": "2026\/07\/26"
   },
   {
+    "md5": "6e325629b762341e12c058c008a8d878",
+    "sha256": "6eeb7a5517152f097697f25c74aa970466a210ab80021be0ef6bd13f74418c42",
+    "org_level": 23,
+    "title": "un:Kr4keN -Xe-",
+    "artist": "あんくらげ obj:LindBlum",
+    "folder": "LEVEL ★22",
+    "level": " ★22",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "229ce7cf4e4c00253cb031a924fbe3da",
+      "e1e9b15542869085b20a1513d6b652e9",
+      "9520a494ddd28b8336ed5990ad7341f6",
+      "e58a1abe5e826754bdf6bc737afe0dea",
+      "8967255023ee4dcc738b35f21621978f",
+      "bc5ae5533842ac160b97ba38101bbda6",
+      "ac0309f5dc0724e75622f607b8acd81e",
+      "b2af74e19ed73c68fcfe8a051658fc84",
+      "6e325629b762341e12c058c008a8d878"
+    ],
+    "org_md5": "229ce7cf4e4c00253cb031a924fbe3da",
+    "comment": "",
+    "adddate": "2026\/09\/24"
+  },
+  {
     "md5": "d36804be1fb7c0b0285ae2b62773878d",
     "sha256": null,
     "org_level": 2,
@@ -12624,6 +12651,29 @@
     "adddate": "2026\/08\/20"
   },
   {
+    "md5": "16cbd2fa2f555bc3ab1902e6c7e990bc",
+    "sha256": "636eadf57fedab9f4786ecefa5a92d2a6f6a319e7cb12e1ce56e1caf82084c9d",
+    "org_level": 99,
+    "title": ")-@1くvz@",
+    "artist": "QURELESS \/ obj : LindBlum",
+    "folder": "LEVEL 候補",
+    "level": " 候補",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e50ee2da76698a7a60ee7ae14d91263b",
+      "16cbd2fa2f555bc3ab1902e6c7e990bc",
+      "aabdbbd6df1ce1160fb0101a5fefd152",
+      "76e899759d5db90b00b1f5be5aec3bef",
+      "78e272dc4ec033555e30eb4d2749777e"
+    ],
+    "org_md5": "e50ee2da76698a7a60ee7ae14d91263b",
+    "comment": "",
+    "adddate": "2026\/09\/24"
+  },
+  {
     "md5": "55cd97a4b5a44885caeab4a8c3eb7c7d",
     "sha256": "b99e12ed47f65a6a879b03185a33ff418c3d4b8c3400689b39b361119f62847a",
     "org_level": 24,
@@ -13535,6 +13585,28 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2026\/08\/31"
+  },
+  {
+    "md5": "b1b1eba92b96602ec5372c6e9bf29620",
+    "sha256": "fd005f7bcc5f00c51c16ef9598f10ef0aad694e0440dff9d25ffc92ffbe63969",
+    "org_level": 20,
+    "title": "彗星譚 ~待ち焦がれた彗星の旅~ -Xe-",
+    "artist": "Juka_Box obj:LindBlum",
+    "folder": "LEVEL 候補",
+    "level": " 候補",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f7ea28b1011d035e33f55341cb4ab340",
+      "b9382b20536c3206bedc53bcfbb7cc27",
+      "737f912619e0ae8cc5c784bab7922914",
+      "b1b1eba92b96602ec5372c6e9bf29620"
+    ],
+    "org_md5": "f7ea28b1011d035e33f55341cb4ab340",
+    "comment": "",
+    "adddate": "2026\/09\/24"
   },
   {
     "md5": "3f7be5390f67be42438c7228f9aedf6d",
