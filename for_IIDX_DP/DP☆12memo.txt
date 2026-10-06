@@ -2,22 +2,19 @@
 12.0以降はオススメ度のランク分けとして★マーク付けてます。区分は今後変わるかも知れませんが数が多いものから触って行けば間違いないです。
 
 11.8
-
+メルト CPK! Remix (初音ミク ver.) ★★ ☆11
 RED ZONE [L] 165 片手乱打
-
 MINT 150 配置難の乱打 
-
 九尾狐夜行 145 隣接階段 高速トリルに注意
-
 《PL|RAYER》 180 同時押し 終盤片手乱打
-
-CUE CUE RESCUE [L] 160 乱打 ※Pinky Crushアリーナ解禁
+CUE CUE RESCUE [L] 160 乱打 ★★
 
 
 12.0
+XANADU OF TWO [L] ★★★ ☆11
 ACTØ
 Anisakis -somatic mutation type "Forza"-
-Battle Train -IIDX Edition- ★ 体力キツめ
+Battle Train -IIDX Edition- ★ 体力
 Broken ★★
 Carry Me Away ★★
 CODE:2
@@ -44,11 +41,12 @@ ZZ ★ DB配置
 #CMFLG
 
 12.1
+TECHNO RUMBLE ★★★ ☆11
 Arca 隣接階段
 BabeL ～Grand Story～ ★
 Be OK ★★
 BIGソムタム ★
-BRAVE OUT [L] ★ 前作アリーナ解禁
+BRAVE OUT [L] ★ 
 Close the World feat.a☆ru
 Dahlia ★
 Dawn Saga ★
@@ -61,21 +59,21 @@ GOLDEN CROSS
 Gravigazer 
 Infinite cave ★
 JUSTICE/GUILTY feat. Nana Takahashi & 709sec. ★
-KAMAITACHI
+KAMAITACHI ★
 Mid-Corner (Magic Maker) ★ 前作解禁曲
-Night! Night! Night! 隣接階段が非常に多く両乱向け
+Night! Night! Night! 隣接階段 
 ONE AND ONLY ★
 One for All 
 OTOKOZAKA ★
 Papilio ulysses ★ 
-Punch Love♡仮面 [L] ★ 前作アリーナ解禁 多分詐称
+Punch Love♡仮面 [L] ★ 多分詐称
 POODLE [L]
 rainbow guitar weeps ★
 Rave Patroller ★
 Rave*it!! Rave*it!! SPAに比べればマトモな譜面
-Summerlights(IIDX Edition) 前半難で大サビは12.3クラスの物量。その後ずっと回復
-SISYPHUS 前作解禁曲 良い譜面だけどソフランがキモい
-THE BLACK KNIGHT 配置キモめの乱打、中盤発狂
+Summerlights(IIDX Edition) 中盤だけ12.3クラス 終盤は回復
+SISYPHUS 前作解禁曲 ソフラン
+THE BLACK KNIGHT 配置難乱打 中盤発狂
 T-REX vs Velociraptor (In the Far east euphoria) ★
 True Blue ★
 Unicorn tail ★
@@ -90,39 +88,39 @@ Vitrum ★ 隣接階段
 
 
 12.2
-RUGGED ASH [L] ★ 曲が短く濃密
-one or eight [L] 配置良いけど皿がキモい
-Love Is Eternity スカスカ地帯と難所の差が激しい 左手の配置終わってるので左ミラーなど推奨
-No.13 終わってる配置が少々 ラスト回復なので詐称気味
-gigadelic SPerが持つギガデリの印象に比べればかなりマトモな譜面 ラス殺しと着地ちょいキツなのがキズ
-Scripted Connection⇒ H mix [L] 着地がちょっとキツい
-tripping contact (teranoid&MC Natsack Remix) 局所難+配置難すぎて正直載せるか迷うレベルだけど栄養にはなる
+RUGGED ASH [L] ★★ 曲が短い
+one or eight [L] 着地
+Love Is Eternity 局所難 左手の配置終わってるので左ミラーなど推奨
+No.13 配置難 ラスト回復なので詐称気味
+gigadelic SPAに比べれば普通寄り
+Scripted Connection⇒ H mix [L] 着地
+tripping contact (teranoid&MC Natsack Remix) 局所難+配置難すぎて正直ギリ掲載ライン
 Ganymede [L] 同時押しがメイン 螺旋始まってからは微妙
-Sense 2007 穴クエの幼体と見做せなくもない箇所がいくつかある トリコンと同じく配置がヒドいのでオプション推奨
+Sense 2007 トリコンと同じく配置がヒドいのでオプション推奨
 the trigger of innocence [L] ★
-Wanna Party? [L] ★★
-Colorful Cookie ★
-Kung-fu Empire [L]
+Wanna Party? [L] ★★★
+Colorful Cookie ★★
+Kung-fu Empire [L] ★
 NNRT
 WONDER WALKER ★
-A MINSTREL ～ ver. short-scape ～ [L] ★★ 前作アリーナ解禁
-Hollywood Galaxy ちょっと詐称気味な気がする
-SYNC-ANTHEM ★
+A MINSTREL ～ ver. short-scape ～ [L] ★★ 
+Hollywood Galaxy 
+SYNC-ANTHEM ★★
 Adularia ★
-PUNISHER ★
+PUNISHER ★★
 轟け！恋のビーンボール！！
 BLUE DRAGON(雷龍Remix IIDX) [L] 
-Feel The Beat [L] ★ キツい着地を差し引いてもオススメ
+Feel The Beat [L] ★ 着地
 cinder ★
 Shooting Fireball ★
-Sounds Of Summer ★ 簡単な区間が長いのでアップがてらやるとコスパが良いかも
+Sounds Of Summer ★ 簡単な区間が長いのでアップ向き
 SpaceLand☆TOYBOX ★★
 鬼天 
 Devil's Gear ★
 Nightmare before oversleep
-Super Rush ★
-〆 ★ 前半難気味
-刃図羅 ★
+Super Rush ★★
+〆 ★★ 前半難
+刃図羅 ★★
 Umbral [L] ★★
 Xperanza
 GIGA THRASH ★
@@ -137,82 +135,82 @@ Always We Trust In You ★
 dica dica
 glacia ★
 Hat Surprise(Season 2) ★★
-Peaktime Booster クリアの可否を決めるのは連皿だが……
+Peaktime Booster 連皿
 Super Freak ★
 神のシナリオ
 KING [L] ★
 神っぽいな [L] ★
-Ghost Pulse ★★★ 最高の譜面
+Ghost Pulse ★★★ 
 Seven Times Four ★
 今宵、ロマンス横丁。
 終焔のClaudia ★ 隣接階段
 Bring The Fire
 Satellite Burst ★
 u gotta beat ★
-
+Time to Empress [L] ★★★
 
 12.3
-AA ★★ 
-INAZUMA 局所的に良い配置があるけど基本はギリ掲載くらいの譜面
+AA ★★★
+INAZUMA 配置難
 華蝶風雪 [L]
-LASER CRUSTER ★ 隣接階段
-satellite020712 from "CODED ARMS" (DJT) ★★ 片手二重乱打の入門譜面
-State Of The Art (SINO) ★★★ 配置難の乱打
+LASER CRUSTER ★★ 隣接階段
+satellite020712 from "CODED ARMS" (DJT) ★★★ 片手二重乱打入門
+State Of The Art (SINO) ★★★ 配置難
 NEW GENERATION -もう、お前しか見えない- [L] ★
 Arabian Rave Night [L] ★★
-B4U(BEMANI FOR YOU MIX) [L] ★★ 拷問系
+B4U(BEMANI FOR YOU MIX) [L] ★★ 体力
 EXUSIA ★
 Dances with Snow Fairies ★
 ZETA ～素数の世界と超越者～
-F
+F ★
 HAERETICUS ★
-GAIA 螺旋地帯がキツい
-Sol Cosine Job 2 BSS捨てて皿チョンが板
-シュレーディンガーの猫 超配置難 詐称気味
+GAIA ★ 螺旋階段
+Sol Cosine Job 2 ソフランはBSS片方捨てて皿チョン
+シュレーディンガーの猫 ★ 超配置難 詐称
 たまゆら ★
 仮想空間の旅人たち [L] ★★ 隣接階段
-龍と少女とデコヒーレンス [L] ★★
+龍と少女とデコヒーレンス [L] ★★★
 Ancient Scapes
 Last Dance ★★
 バンブーソード・ガール 隣接階段
 海神 ★
 Broken Sword ★
 Despair of ELFERIA 体力
-Night sky ★
-TIEFSEE ★★
+Night sky ★★
+TIEFSEE ★★★
 それは花火のような恋 隣接階段
 リリーゼと炎龍レーヴァテイン ★
-千年ノ理 度し難い隣接皿があるので練習目的ならオートスクラッチ推奨
-超青少年ノ為ノ超多幸ナ超古典的超舞曲 ★★ 両乱で一生味が出る譜面
-Beat Radiance [L] ★ 同時押し、体力
-GUILTY [L] ★★★ 曲が短く超濃密
+千年ノ理 練習目的ならオートスクラッチ推奨
+超青少年ノ為ノ超多幸ナ超古典的超舞曲 ★★★ 両乱ノック推奨
+Beat Radiance [L] ★ 同時押し 体力
+GUILTY [L] ★★★ 曲が短い
 AO-1 同時押し
 Blue Spring Express 隣接階段
 Godspeed ★★ 隣接階段、連打など
-DORNWALD ～Junge～ ★★
+DORNWALD ～Junge～ ★★★ 難しめ
 Quakes 隣接階段
 RAIN ★
 Snakey Kung-fu
 Amazing Mirage [L] ★★
 AA -rebuild- ★★
 ANCHOR ★★
-DEADHEAT ★ SPAには存在しない連皿地帯に注意
+DEADHEAT ★ SPAに存在しない連皿あり
 Illusionary Waterlily ★★
 NITROUS CANNON 
-Rampage ★★
+Rampage ★★★
 Slipstream ★
 神謳 -RESONANCE- ★★
 Catch Our Fire! ★★
-GO OVER WITH GLARE -ROOTAGE 26- ★★ SPAとはまるで別人
+GO OVER WITH GLARE -ROOTAGE 26- ★★ SPAと比べて良心的
 HARD BRAIN ★★
 KILL EACH OTHER ★
 Lethal Weapon ★★
 ruin of opals ★ 360合わせでOK
 THE DAY OF JUBILATIONS ★★
-Visterhv ★★
+Visterhv ★★★
 抱きしめてモナムール 隣接階段
 金野火織の金色提言 ★ 速い
-Dans la nuit de l'éternité 隣接階段 発狂どこ行った
+Dans la nuit de l'éternité 隣接階段
 LASER CRUSTER (IGNITE REMIX) ★ 隣接階段
 LIGHTNING STRIKES ★★
 Matt Silver ★★
@@ -220,10 +218,10 @@ TECHNO Style Essentials ★
 Vinculum stellarum ★★★
 華麗なる大犬円舞曲 隣接階段
 ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)
-Empire of Fury ★ ラスト回復で詐称気味
+Empire of Fury ★ 終盤回復 詐称気味
 innocent revolver ★
 SOLID STATE SQUAD -RISEN RELIC REMIX- ★
-Tiempo Loco ★★
+Tiempo Loco ★★★
 世界の果てに約束の凱歌を -ReUnion- ★
 水鏡の異界 ★
 Burning Flame [L] ★★
@@ -235,19 +233,19 @@ Fegrix ★★
 LIVE DRIVING!! feat. 花たん ★★
 Push on Beats!～音ゲの国のeX-ストリーマー～ ★
 Smalt #28598F ★★
-TOMAHAWK
+TOMAHAWK 連皿
 Triple Cross ★
 烽火連天の刃 ★
 B.O.D.Y. ★
-BIGWAVERS ★★
+BIGWAVERS ★★★
 I ★
 kors k's How to make OTOGE CORE 「LONG」 ★
-No Border ★★ 4個同時押しがアツい
+No Border ★★ 4個同時押し
 Ōu Legends
 Stylus ★★★
 TECHNOPHOBIA ★★ SPAと比べて発狂が常識的
-ぞうしょく！？マイデンティティ 着地がヒドいのでやらなくていいかも
-恋愛＝精度×認識力 ソフラン以外がかなり良配置 177合わせでミニゲームはハナから全捨てとかでも良い
+ぞうしょく！？マイデンティティ 着地 やらなくても良い
+恋愛＝精度×認識力 ★ 全体的に良配置 練習目的なら177合わせでソフランは全捨てで良い
 BLAZING_LAZER ★
 frequent ★
 MAXIMUM CHEAT GIRL ★
@@ -256,198 +254,198 @@ Resonant ★★
 Stereo Beasts ★★
 Vermilion Carol ★★★
 Xb10r ★★
-未完成ノ蒸氣驅動乙女 ★
+未完成ノ蒸氣驅動乙女 ★ 階段
 電腦都市 ★★
 フォニイ [L] ★★★
-1116 ★ 前作解禁曲 局所的に着地難
-Aqvion ★★ 前作解禁曲
+1116 ★ 局所的な着地
+Aqvion ★★ 
 COSMIC V3LOCITY ★ 連動イベント解禁曲(終了)
-DIVINE JUDGEMENT ★ 前作解禁曲
-EX-MASSIVE FIGHTER ★★★ 前作解禁曲
+DIVINE JUDGEMENT ★ 
+EX-MASSIVE FIGHTER ★★★ 
 EYE OF THE HEAVEN ★★ 連動イベント解禁曲(終了)
-Roar of Chronos ★★ 前作解禁曲
+Roar of Chronos ★★★
 
 12.4
-A 同時押しと片手乱打はいい感じだけど正直後回しで良い
-Karma 隣接皿と着地以外は割とまとも
+A 
+Karma 隣接皿と着地
 moon_child ★ 超配置難
-One More Lovely 後回しで良い
-CaptivAte～浄化～ [L] ★★★ 前作解禁ダリア 神譜面
-garden [L] ★ 前作解禁ダリア 複雑な同時押し
-rage against usual [L] ★ 挑戦段階だとまず発狂で空になるゲームだが、他の配置はマトモなので一応触る価値はある
+One More Lovely
+CaptivAte～浄化～ [L] ★★★ 
+garden [L] ★ 同時押し
+rage against usual [L] ★ 発狂以外はマトモなので一応触る価値はある
 Scripted Connection⇒ A mix [L] 隣接階段
-カゴノトリ ～弐式～ 片手物量
-Candy Galy [L] ★★
-four pieces of heaven 着地がキモいので別にやらなくてもいい
+カゴノトリ ～弐式～ 片手発狂
+Candy Galy [L] ★★★
+four pieces of heaven 着地
 THE DEEP STRIKER [L] ★★ 横に広い配置難
 Übertreffen [L] ★★★
 華爛漫 -Flowers- [L] ★★
 Secrets [L] ★★ 配置難
-thunder HOUSE NATION Remix [L] ★★★ 穴クエの幼体 鏡、R乱、FLIPを駆使して経験値を搾り取るべし
-Raison d'être～交差する宿命～ ★★★ 開幕の低速だけ注意
+thunder HOUSE NATION Remix [L] ★★★ 両乱ノック
+Raison d'être～交差する宿命～ ★★★ 開幕に低速
 SOLID STATE SQUAD ★
-quaver♪ 刑務作業 体力向上に
-The Sampling Paradise ★★
+quaver♪ 刑務作業
+The Sampling Paradise ★★ 着地ラス殺し
 Todestrieb ★★★
 YAKSHA ★★
-聖人の塔 高速+体力の練習になるけど低速がネック
-恋する☆宇宙戦争っ！！ [L] ★★ かなり体力
+聖人の塔 ソフラン
+恋する☆宇宙戦争っ！！ [L] ★★ 体力
 neu ★
 Proof of the existence ★★
 Valanga ★★
-Zirkfied ★ クリアはラスゲーだけど譜面自体は割と良い
-キャトられ♥恋はモ～モク 詐称気味 やらなくてもいい
+Zirkfied ★ クリアはラスゲー 他は良配置
+キャトられ♥恋はモ～モク 詐称気味
 ΕΛΠΙΣ [L] ★★
 Idola ★★
-Verflucht ★ 隣接階段 いずれは両乱の選択肢にも
+Verflucht ★ 隣接階段 両乱ノック
 旋律のドグマ ～Misérables～ ★★
-疾風迅雷 正直やらなくてもいい
-ALBA -黎明- [L]	 ★ 前作解禁曲 エグいCN以外は良い譜面
-Close the World feat.a☆ru [L] ★
-海神 [L] ★★★ 隣接階段に同時押しが混ざる感じが天空チックで良い
-EBONY & IVORY ★★ 音取りがゴミだけど配置が良いので推さざるを得ない
+疾風迅雷
+ALBA -黎明- [L]	★ 前作解禁曲 CN
+Close the World feat.a☆ru [L] ★★
+海神 [L] ★★★ 
+EBONY & IVORY ★★ 音取りがゴミ
 entelecheia ★★★
 fallen leaves -IIDX edition- ★★ 局所難
 FANTASTIC THREE 隣接階段
-Say YEEEAHH ★ 隣接皿のマイナス点を考慮しても触っておきたい横広物量
+Say YEEEAHH ★ 横広物量 隣接皿
 TOXIC VIBRATION ★★ トリル 体力
-Cosmic Cat [L] ★★ 隣接階段
-IMPLANTATION [L] ★ 前作解禁ダリア
+Cosmic Cat [L] ★★ CN 隣接階段
+IMPLANTATION [L] ★ 
 Dynamite ★★
-M4K3 1T B0UNC3 片手二重階段は貴重だが、終盤しか難所がないので後回しでいい
-POSSESSION 同時ラッシュは良い感じだけど後回しでいい
+M4K3 1T B0UNC3 後半ゲー
+POSSESSION ソフラン 同時押し
 refrain ★★★
-Triple Counter ★ もっと星あげたい良い譜面だけど尋常じゃなくムズいので優先度は低め
-めいさいアイドル☆あいむちゃん♪ ★★
+Triple Counter ★★ 詐称気味
+めいさいアイドル☆あいむちゃん♪ ★★★ 
 STARLIGHT DANCEHALL [L] ★★★
-ZEPHYRANTHES [L] ★★
-Apocalypse ★★ トリル、隣接階段
+ZEPHYRANTHES [L] ★★★
+Apocalypse ★★★ トリル、隣接階段
 OTENAMI Hurricane ★★
 Sky High ★★★
-イザナミノナゲキ ★ 良い譜面だがラス殺し+難所に着地が絡む
-津軽雪 ★★ 星3つあげたいけどめっちゃムズい 12.4上位
-Boomy and The Boost ★★ 良い部分が終盤に寄っているのがちょいキズ
+イザナミノナゲキ ★ 着地 ラス殺し
+津軽雪 ★★★ 詐称気味
+Boomy and The Boost ★★ 後半難
 DEATH†ZIGOQ〜怒りの高速爆走野郎〜 ★
 DropZ-Line- 隣接階段
 Life Is A Game ft.DD"ナカタ"Metal ラス殺し
-シムルグの目醒め 隣接階段、トリル 十段課題曲になったので癖に注意
+シムルグの目醒め 隣接階段、トリル 
 東京神話 ★
-ChaserXX [L] ★★★ 前作アリーナ解禁
-O/D*20 [L] ★★★ 栄養価高いけどほぼ12.5
+ChaserXX [L] ★★★ 
+O/D*20 [L] ★★★ 詐称気味
 dAuntl3ss ★★★
-LOST TECHNOLOGIE ★★
+LOST TECHNOLOGIE ★★★
 Painful Fate ★★ 隣接階段、配置難
-Unbelief ★★★ 低速で重厚な譜面と高速運指力要求が目まぐるしく入れ替わる クリアの可否を決めるのが高速トリルなのがちょっとキズ
-Xlø ★★★ 連皿以外の全てが美味しい
-お菓子の王国 ★ 隣接階段、局所難 何故か降格したけどかなりムズいと思う
-最小三倍完全数 ★ Karmaなどにも言える事だが、良譜面だけど仮想敵に乏しい気がする
-龍王の霊廟(Mausoleum Of The Primal Dragon) [L] ★★ 異常に難しいCN地帯だけネック
-Artist ★★★ ビックリ局所難以外に非の打ち所がない
-BEAT PRISONER ★★ 可食部が増えたM4K3 1T B0UNC3って感じの譜面
-Level 2 ★★ 連皿譜面だが乱打の区間はもれなく良譜面で、特に大サビ始まってから8小節には是非取り込んでおきたいエッセンスがある
-ORCA ★★ クリアの可否が高速螺旋で決まるのだけ勿体ない
-THE BRAVE MUST DIE 前半は12.6級 挑戦段階で身になる譜面かと言われると微妙
-がっつり陰キャ!?怪盗いいんちょの億劫^^; ★★ ガチムチ筋肉譜面すぎる
-Bow shock!! [L] ★★ 前作解禁ダリア 隣接皿がキモい以外は言う事無し
+Unbelief ★★★ 横広物量+高速運指
+Xlø ★★★ 連皿
+お菓子の王国 ★ 隣接階段 局所難
+最小三倍完全数 ★ Karmaなどにも言える事だが、SPと比べると具体的な仮想敵に乏しい
+龍王の霊廟(Mausoleum Of The Primal Dragon) [L] ★★ CN
+Artist ★★★
+BEAT PRISONER ★★ CN同時 片手二重階段
+Level 2 ★★ 連皿 終盤物量
+ORCA ★★
+THE BRAVE MUST DIE 前半難
+がっつり陰キャ!?怪盗いいんちょの億劫^^; ★★ 体力
+Bow shock!! [L] ★★ 隣接皿
 BLACK or WHITE? ★★
 DUAL STRIKER ★★★
 Ignis†Iræ 隣接階段、トリル
-Level 3 鍵盤メインの所は全部良いんだけど皿がキツすぎるかも
-LOCUS OF THE TRAVEL 乱打もあるけどCNと皿がムズい
-THE PEERLESS UNDER HEAVEN ★★ クリアは連皿ゲーだが乱打部分の質で盛り返してる感じ
-Viridian ★★★ 重厚な乱打譜面
-2 Beasts Unchained ★ 良乱打譜面だけどラストが連皿＋着地なので……
-ABSOLUTE EVIL ★ 200bpmで56絡み階段アリ
-Flying Castle ★★ 中盤の着地が唯一の汚点
+Level 3 連皿
+LOCUS OF THE TRAVEL 連皿 CN
+THE PEERLESS UNDER HEAVEN ★★ 連皿
+Viridian ★★★
+2 Beasts Unchained ★ 連皿着地ラス殺し
+ABSOLUTE EVIL ★
+Flying Castle ★★ 着地
 GRAVITON ★★
-PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec. しつこすぎる着地で片時も心が休まらない拷問譜面
-Silver Bullet ★★★ 配置に富んだ階段メインの乱打 BPM揺れに注意
-天邪鬼 ★★ 乱打だが隣接階段も多め 入門レベル？
+PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec. 着地 体力
+Silver Bullet ★★★ ソフラン
+天邪鬼 ★★ 
 逆月 ★★★
-[ ]DENTITY ★ 同時押し地帯は良い感じ
+[ ]DENTITY ★
 Chaotoxin ★★
-Level 4 乱打部分は良いけど皿が……
-LOUDER ROLLING THUNDER ★ 中盤が着地＋隣接螺旋＋連打でしんどめ
-RINИE ★ 隣接階段 着地がしつこい
-The Clown of 24stairs ★★ 曲名通りの階段ラッシュ 終盤超高速階段 12.5寄り
-VOLAQUAS ★ 速い
+Level 4 連皿
+LOUDER ROLLING THUNDER ★ 連皿 着地 螺旋階段
+RINИE ★ 隣接階段 着地
+The Clown of 24stairs ★ 詐称気味
+VOLAQUAS
 儚キ戀ノ幻想譚 ★
-≡+≡ [L] 今作デフォ解禁ダリア 刑務作業
-Caldwell 99 [L] ★ 前作解禁ダリア 配置は良いけど皿地帯が長い＋CNが難しい
+≡+≡ [L] 刑務作業
+Caldwell 99 [L] ★ CN 連皿
 Million Dollar ★★
-SOLAR ECLIPSE 難しさのベクトルが縦すぎる
+SOLAR ECLIPSE ★ 連皿 トリル
 The Last Apocalypse ★ 隣接階段
-摩天楼
-destination ★★★ 最高の12.4入門譜面
-Drop Syndicate ★ テク要素強め
-Flämingo ★★ 前作解禁曲
-FlyAway ★★ 前作解禁曲 1.25重乱打が魅力的 右5+6の練習にも
-hora de verdad ★★★ 前作解禁曲 開幕低速と連打を差し引いてもやる価値しかない
-Lightspeed ★★ 連動イベント解禁曲 現在常駐済み？ スカスカ区間がちょい長めなのがネック
-MARLIN ★★★ 前作解禁曲
-NOIXIA ★★★ 
+摩天楼 CN
+destination ★★★
+Drop Syndicate ★
+Flämingo ★★
+FlyAway ★★★ 
+hora de verdad ★★★ 開幕低速
+Lightspeed ★★ 
+MARLIN ★★★
+NOIXIA ★★★ CN
 
 12.5
-minimalian ★★ 本家では類を見ない横特化物量だがラスト8小節が全てなのでコスパは良くない
-Logic Board ★ 微縦と厚い同時押しが特徴の物量 着地と隣接皿が終始ウザったいので練習目的やオプションを使う場合は自動皿推奨
-GENOCIDE 地獄のような配置+着地+隣接皿+無理皿 乱打区間があるから記載しているだけなので正直やらなくてもいい
-Be quiet [L] 連皿と着地、難易度も12.6スレスレなので練習目的には微妙かも
-spiral galaxy [L] ★★★ 押しにくい物量 終盤で更に一段ギアが上がる
-INAZUMA [L] ★★ 12.6寄りなので後回しにしても良い
-Little Little Princess [L] ★★★ 正規でも乱のような配置が標準実装の同時押しと局所難
-嘆きの樹 同時押しを含む片手乱打など栄養はあるものの推せるかと言われると微妙
-waxing and wanding [L] 16分の配置が単調なのが気になる所
-Blue Rain [L] ★★★ 配置難の乱打 天空前哨戦
-BITTER CHOCOLATE STRIKER [L] ★ デプストダリアに近い配置難 あちらより乱打とトリル成分強め
-ワルツ第17番 ト短調"大犬のワルツ" ★★ 階段にゴミが付く形の乱打と縦連 緑数字は開幕合わせ、中盤の350区間だけ鍵盤でギアチェン 中伝に来る可能性があるので粘着は厳禁
-reunion ★ SPAと比べてだいぶまともだが、変な同時押しや片手二重階段、執拗な右手イジメなどクセは強い
-The Limbo ★★ 配置難と高速片手乱打
-君のハートにロックオン クセ強
-QUANTUM TELEPORTATION [L] ★★ 古参からは不評なナーフバージョン 着地がウザい以外は良い譜面
-TITANS RETURN [L] 低速しんどすぎるのでやらなくてもいい
-蛇神 [L] 前作解禁ダリア 難所が全部トリルなので……
-STULTI 同上
-お米の美味しい炊き方、そしてお米を食べることによるその効果。 [L] ★ 乱打の割合はそれなりだがトリルがしんどすぎる
-煉獄のエルフェリア ★★ 終盤ずっと回復でこの位置なのでBPは出るだろうけどやる価値はある
-Ancient Scapes [L] ★ 超体力譜面 上げ提案出るほど難しいので後回しでも
-HYENA [L] ★ 前作解禁ダリア 開幕以外は割と普通 CN拘束+隣接階段に注意
-Flashes ★★ 放っといてもつい選んでしまうカリスマ性を考慮して★2つ 物量は一朝一夕ではリザルトには現れないので短期間での粘着は厳禁、癖に注意
-Reflux ★ 譜面自体は悪くないが可食部が少ない
+minimalian ★★ ラスト8小節が全てなのでコスパ悪
+Logic Board ★ 隣接皿 微縦
+GENOCIDE 配置難 無理皿
+Be quiet [L] 連皿 着地
+spiral galaxy [L] ★★★ 配置難
+INAZUMA [L] ★★ 詐称気味
+Little Little Princess [L] ★★★ 配置難 局所難
+嘆きの樹
+waxing and wanding [L] ★
+Blue Rain [L] ★★★ 配置難
+BITTER CHOCOLATE STRIKER [L] ★★ 配置難
+ワルツ第17番 ト短調"大犬のワルツ" ★★ 開幕合わせ 中盤は鍵盤でギアチェン
+reunion ★
+The Limbo ★★ 配置難
+君のハートにロックオン ★
+QUANTUM TELEPORTATION [L] ★★ 古参からは不評なナーフバージョン 着地以外は良い譜面
+TITANS RETURN [L] ソフラン CN
+蛇神 [L] トリル
+STULTI トリル
+お米の美味しい炊き方、そしてお米を食べることによるその効果。 [L] ★ トリル
+煉獄のエルフェリア ★★ 中盤難
+Ancient Scapes [L] ★ 体力 詐称気味
+HYENA [L] ★ 
+Flashes ★★★
+Reflux ★ CN
 少年は空を辿る ★★★
-表裏一体！？怪盗いいんちょの悩み♥ [L] ★★★ 激重体力譜面
-Grand Chariot ★ 着地がキツすぎ
-NZM ★ 案外鍵盤がちゃんとしてる
-X ★★★ Flashes、∀と並ぶ☆12上位への登竜門 隣接階段が多いので癖に注意
-Violet Pulse [L] ★★★ 拷問系乱打 やや配置のクセ強め
-Welcome [L] 良い意味で配置の偏りがヒドい 人差し指をいじめ抜く譜面
-紫陽花 -AZISAI- [L] 高速隣接階段 MSSと連皿の区間が長い
-ECHIDNA ★ 良い物量だけどラストがquell体験版なのが……
-GuNGNiR 速くてしんどい
-焔極OVERKILL ★★ 連皿がしんどいのとラス殺しが強烈
-REVOLVER [L] ★★ 乱打 CN側がちょいしんどいかも
+表裏一体！？怪盗いいんちょの悩み♥ [L] ★★★ 体力
+Grand Chariot ★ 着地
+NZM ★ CN
+X ★★★ 隣接階段
+Violet Pulse [L] ★★★
+Welcome [L] ★ 配置難
+紫陽花 -AZISAI- [L] ★ MSS 乱皿
+ECHIDNA ★★ ラス殺し
+GuNGNiR
+焔極OVERKILL ★★ 連皿
+REVOLVER [L] ★★ CN
 Dr.Chemical & Killing Machine ★★★
-Necroxis Girl ★ 終盤まで茶番かつ最後の最後に超発狂なのでコスパは悪めかも
-The Rebellion of Sequencer ★★★ ひたすら意地悪な配置
-Everlasting Message 高速階段やトリルなど
-Smashing Wedge ★★ 速くてしんどい
+Necroxis Girl ★ ラストだけの譜面
+The Rebellion of Sequencer ★★★ 配置難
+Everlasting Message 着地
+Smashing Wedge ★★
 THE F∀UST ★★★
 -65℃ 隣接階段
-∀ ★★★ Flashes、Xと並ぶ☆12上位への登竜門 中伝ボスの可能性があるので癖に注意
-MEGAERA 爆撃地帯は他に類を見ないが練習用に推せる譜面かと言われると……
-伐折羅-vajra- ★★★ 三闘神への架け橋となる譜面
-閠槞彁の願い ★★★
+∀ ★★★
+MEGAERA
+伐折羅-vajra- ★★★
+閠槞彁の願い ★★
 Arkadia ★★
 hard-wired ★★
-Bad Encryption ★ 局所難気味
-suspicions ★★★ 全体通して良譜面だが1.5重トリル→縦連→白鍵螺旋のラス殺しが強烈
-栄冠のカンパネラ 刑務作業 疲れたい時に
+Bad Encryption ★ 局所難
+suspicions ★★★ ラス殺し
+栄冠のカンパネラ 刑務作業
 Ambivalent Vermilia ★★
-CADENZA ★★★ 2354ノーツの超体力譜面
+CADENZA ★★★ 体力
 Demon March ★★
-Vulnerability ★★ 後半CN+皿譜面になっちゃうのが勿体ない
-Cross Fire ★★ 前作解禁曲
-God Mind ★★★ 前作解禁曲
-Without Heaven ★★★ 前作解禁曲 同時押しを含む乱打
-アラビアン ハイパー ナイト ★★ 前作解禁曲
-スキッテイエェエエェ!!!! ★★ 前作解禁曲 高速運指力勝負
-天使のカンタータ -Cantata of Angels- ★★ 前作解禁曲
+Vulnerability ★★ CN 連皿
+Cross Fire ★★
+God Mind ★★★
+Without Heaven ★★
+アラビアン ハイパー ナイト ★★
+スキッテイエェエエェ!!!! ★★
+天使のカンタータ -Cantata of Angels- ★★
