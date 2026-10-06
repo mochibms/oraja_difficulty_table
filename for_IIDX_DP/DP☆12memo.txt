@@ -1,90 +1,95 @@
-※パッと思いつくものから順に追加。
-12.0以降はオススメ度のランク分けとして★マーク付けてます。区分は今後変わるかも知れませんが数が多いものから触って行けば間違いないです。
+オススメ度のランク分けとして★マークを付けてます。数が多いものから触って行けば間違いないです。コメントは特記事項や減点要素
+など。
 
 11.8
 メルト CPK! Remix (初音ミク ver.) ★★ ☆11
-RED ZONE [L] 165 片手乱打
-MINT 150 配置難の乱打 
-九尾狐夜行 145 隣接階段 高速トリルに注意
-《PL|RAYER》 180 同時押し 終盤片手乱打
-CUE CUE RESCUE [L] 160 乱打 ★★
+RED ZONE [L] ★★
+MINT ★★ 配置難
+九尾狐夜行 ★ 隣接階段 高速トリルに注意
+《PL|RAYER》
+CUE CUE RESCUE [L] ★★
 
 
 12.0
 XANADU OF TWO [L] ★★★ ☆11
-ACTØ
-Anisakis -somatic mutation type "Forza"-
-Battle Train -IIDX Edition- ★ 体力
+snow storm ★ 前半難
+Anisakis -somatic mutation type "Forza"- ★★
+ミッドナイト堕天使 (SINO) ★★★
+凛として咲く花の如く [L] ★
 Broken ★★
-Carry Me Away ★★
-CODE:2
+yellow head joe ★
+Little Star
+トリカゴノ鳳凰
+The Least 100sec ★★ 隣接階段 中盤難 着地
+ZZ ★
+Battle Train -IIDX Edition- ★ 体力
+HADES
+Rave Cannon
+童話回廊 ★ 隣接階段
 Eine Haube ～聖地の果てにあるもの～ 隣接階段
 encounter
-HADES
-Here We Go Now ★★
-Meissa ★
-Little Star
 Persephone
-Sirius ★
-snow storm かなり前半難
 Raspberry Railgun ★★
-Rave Cannon
-The Least 100sec
-ZZ ★ DB配置
-残像ニ繋ガレタ追憶ノHIDEAWAY ★★
+Carry Me Away ★★
 深淵に捧ぐレクイエム ★
-スパークリング☆彡ハイパーチューン！！ ★
-電光
-童話回廊 ★ 隣接階段
-ミッドナイト堕天使 (SINO) ★★
-凛として咲く花の如く [L]
 #CMFLG
+ACTØ ★
+CODE:2
+Sirius ★
+残像ニ繋ガレタ追憶ノHIDEAWAY ★★
+電光
+Here We Go Now ★★
+スパークリング☆彡ハイパーチューン！！ ★
+RALLY '25 ★★
+かわいいだけじゃだめですか？ [L] ★★ 同時押し
+
 
 12.1
 TECHNO RUMBLE ★★★ ☆11
+POODLE [L]
+華蝶風雪
+KAMAITACHI ★
+Be OK ★★
+ミラージュ・レジデンス ★
+Punch Love♡仮面 [L] ★ 多分詐称
+GOLDEN CROSS ★★
+THE BLACK KNIGHT 配置難乱打 中盤発狂
+fffff ★★
+Infinite cave ★★
+FLOWER ★★
+True Blue ★
+ΕΛΠΙΣ
 Arca 隣接階段
 BabeL ～Grand Story～ ★
-Be OK ★★
 BIGソムタム ★
 BRAVE OUT [L] ★ 
 Close the World feat.a☆ru
 Dahlia ★
 Dawn Saga ★
 Drastic Dramatic ★
-fffff
-FLOWER ★★
 FUZIN RIZIN
 GENE ★
-GOLDEN CROSS
-Gravigazer 
-Infinite cave ★
+Gravigazer ★
 JUSTICE/GUILTY feat. Nana Takahashi & 709sec. ★
-KAMAITACHI ★
 Mid-Corner (Magic Maker) ★ 前作解禁曲
 Night! Night! Night! 隣接階段 
 ONE AND ONLY ★
 One for All 
 OTOKOZAKA ★
 Papilio ulysses ★ 
-Punch Love♡仮面 [L] ★ 多分詐称
-POODLE [L]
 rainbow guitar weeps ★
 Rave Patroller ★
-Rave*it!! Rave*it!! SPAに比べればマトモな譜面
+Rave*it!! Rave*it!! ★ SPAと比べてマトモな譜面
 Summerlights(IIDX Edition) 中盤だけ12.3クラス 終盤は回復
 SISYPHUS 前作解禁曲 ソフラン
-THE BLACK KNIGHT 配置難乱打 中盤発狂
 T-REX vs Velociraptor (In the Far east euphoria) ★
-True Blue ★
 Unicorn tail ★
 Vitrum ★ 隣接階段
-華蝶風雪
 黒髪乱れし修羅となりて 隣接階段、軸、トリル多め
 スーパー戦湯ババンバーン
 旅人リラン
 禊 ★
-ミラージュ・レジデンス ★
-ΕΛΠΙΣ
+Meissa ★
 
 
 12.2
@@ -152,7 +157,7 @@ Time to Empress [L] ★★★
 12.3
 AA ★★★
 INAZUMA 配置難
-華蝶風雪 [L]
+華蝶風雪 [L] ★★
 LASER CRUSTER ★★ 隣接階段
 satellite020712 from "CODED ARMS" (DJT) ★★★ 片手二重乱打入門
 State Of The Art (SINO) ★★★ 配置難
