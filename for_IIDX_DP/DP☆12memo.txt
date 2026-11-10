@@ -83,7 +83,7 @@ OTOKOZAKA ★
 Vitrum ★ 隣接階段
 スーパー戦湯ババンバーン
 One for All 
-禊 ★
+禊 ★★
 Meissa ★
 ONE AND ONLY ★
 Dahlia ★
@@ -113,10 +113,11 @@ Wanna Party? [L] ★★★
 Colorful Cookie ★★
 Kung-fu Empire [L] ★
 NNRT
-WONDER WALKER ★
+WONDER WALKER ★★
 A MINSTREL ～ ver. short-scape ～ [L] ★★ 
 Hollywood Galaxy 
 SYNC-ANTHEM ★★
+Time to Empress [L] ★★★
 Adularia ★
 PUNISHER ★★
 轟け！恋のビーンボール！！
@@ -131,8 +132,8 @@ Devil's Gear ★
 Nightmare before oversleep
 Super Rush ★★
 〆 ★★ 前半難
-刃図羅 ★★
-Umbral [L] ★★
+刃図羅 ★★★
+Umbral [L] ★★★ CN
 Xperanza
 GIGA THRASH ★
 Trill auf G ★
@@ -144,27 +145,32 @@ Ypsilon [L] ★★
 ハイテックトキオ [L] ★★
 Always We Trust In You ★
 dica dica
-glacia ★
-Hat Surprise(Season 2) ★★
+glacia ★★★
+Hat Surprise(Season 2) ★★★
 Peaktime Booster 連皿
-Super Freak ★
+Super Freak ★★
 神のシナリオ
-KING [L] ★
+KING [L] ★★★
 神っぽいな [L] ★
 Ghost Pulse ★★★ 
 Seven Times Four ★
 今宵、ロマンス横丁。
 終焔のClaudia ★ 隣接階段
 Bring The Fire
-Satellite Burst ★
-u gotta beat ★
-Time to Empress [L] ★★★
+Satellite Burst ★★
+u gotta beat ★★
+Plazma [L] ★★★★
+Disco Killer Music Lover ★★
+King of Tribe ★★ 同時押し
+THUNDERSTRIKE ★
+gigadelic (WILD STYLE) 連皿 着地
+
 
 12.3
 AA ★★★
 INAZUMA 配置難
 華蝶風雪 [L] ★★
-LASER CRUSTER ★★ 隣接階段
+LASER CRUSTER ★★★ 隣接階段
 satellite020712 from "CODED ARMS" (DJT) ★★★ 片手二重乱打入門
 State Of The Art (SINO) ★★★ 配置難
 NEW GENERATION -もう、お前しか見えない- [L] ★
