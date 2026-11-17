@@ -29,14 +29,14 @@
     "13.5",
     "13.6"
   ],
-  "folder_order": [ ],
+  "folder_order": [],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data.json",
   "compat_prefix": "☆",
-  "last_update": "2026\/09\/19",
+  "last_update": "2026-11-17T09:25:32.3431138",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.1.7374.5230",
-  "output_date": "2026\/09\/19"
+  "output_date": "2026-11-17"
 }
