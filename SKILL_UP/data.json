@@ -3095,6 +3095,37 @@
     "adddate": "2023-10-30T00:00:00.0000000"
   },
   {
+    "md5": "055fc60216469dd91ab1b40097b8022f",
+    "sha256": "c59ccba7c4f649063e734c5a2fc39d38195e178ced173db7e5ccbc3fa707b19c",
+    "org_level": 13.0,
+    "title": "RE_EXECUTiON [F]",
+    "artist": "VXΛ mov:140/fth / obj:Fender",
+    "folder": "LEVELsl12",
+    "level": "sl12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "bbc964df2e4f4498e0a6bf337efe179d",
+      "0d7d4ad4e5a22a3f36dee546a4901e5a",
+      "7388146cde4cba201eb443d1a6f2505a",
+      "341c362717ec372130a395fe9453dc60",
+      "f05af9ceefbf4d11bcaff6d574df37cd",
+      "dd87ff4df065a5af14b00700fc2b0d83",
+      "2bb795c6460ff9c9bed58af0bc92bfbf",
+      "055fc60216469dd91ab1b40097b8022f",
+      "638d6cd8b8de04ee30bd87c94c344b27",
+      "0ba4a6056cd67176eb95de2273fe789e",
+      "5fcac84044e99d975fd3231a0d60222a",
+      "05e658c132da3f9fd14a2b58066c2fbe",
+      "a5d536629e44c9154d9bd970fe018ecf"
+    ],
+    "org_md5": "bbc964df2e4f4498e0a6bf337efe179d",
+    "comment": "",
+    "adddate": "2026-11-21T09:48:32.0816408"
+  },
+  {
     "md5": "73af3cd6c1d05c6cdecae31b8ab0b100",
     "sha256": null,
     "org_level": 12.0,
@@ -3874,6 +3905,34 @@
     "org_md5": "",
     "comment": "差分 右クリックで保存赤い人難易度表 http://akred.web.fc2.com/ak-red.htmlGENOSIDE段位認定 発狂九段 1曲目",
     "adddate": "2023-10-30T00:00:00.0000000"
+  },
+  {
+    "md5": "35dae1c44db9825b85a1bead8eb731b5",
+    "sha256": "6664e8c1c1f525fa6aa1dd3afe8d774b6b898d779eea7c4b086b9556314d2882",
+    "org_level": 19.0,
+    "title": "RACE [DEADHEAT]",
+    "artist": "Notorious(Nota & TRIAL) BGA:ShakeJ /obj:BAECON",
+    "folder": "LEVELst0",
+    "level": "st0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "16466fb17c8a7c30df5f37575aa18cad",
+      "14ebcf99b7bb12f40c2a4c5da180fbbd",
+      "9d12a98c59c34965f86072a6f5d12eb8",
+      "89a795dc2491a7283d61f37d4bbb9a1c",
+      "9f6b52ff06b2fa88e525a4a2a545dc02",
+      "f99dacc3a26e31a91c3f57ac2a7a785c",
+      "4f8f93579e7fe1e915e66cd37ae46232",
+      "35dae1c44db9825b85a1bead8eb731b5",
+      "a6e46621e370314b5400c4145b144cbe",
+      "e3831fec939e0bb1bd7351063493e2b5"
+    ],
+    "org_md5": "16466fb17c8a7c30df5f37575aa18cad",
+    "comment": "",
+    "adddate": "2026-11-21T09:48:14.7616804"
   },
   {
     "md5": "8ee7fc1c67826e7437e07b5e1f92d601",
@@ -7162,6 +7221,59 @@
     "adddate": "2023-10-30T00:00:00.0000000"
   },
   {
+    "md5": "89fede27ece4c87110903090f705c9e9",
+    "sha256": "df3d610bcf1e315685f0404cb5f8ecd29ab8070cae5b3523c9d3d68632487c7e",
+    "org_level": 24.0,
+    "title": "cryona [crystalline]",
+    "artist": "42SoL mov. rime / obj:Criyajuh",
+    "folder": "LEVELst4",
+    "level": "st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5f341bca0e69561308394ac6cac28f05",
+      "d3d1fcf2f287a9eec954d8937162c551",
+      "291eed2129ec11fbb41007d6c0714b6a",
+      "d2bc909b7f8239775dc2c471bbeeb124",
+      "89fede27ece4c87110903090f705c9e9"
+    ],
+    "org_md5": "5f341bca0e69561308394ac6cac28f05",
+    "comment": "",
+    "adddate": "2026-11-21T09:49:37.6370731"
+  },
+  {
+    "md5": "dee951e530b738c24c893b335d4bae98",
+    "sha256": "06a08308f83578684a51a17c10b2468d225c9290249896122d85547334293690",
+    "org_level": 23.0,
+    "title": "Debate Paradigm [Ain't too proud to rely on!]",
+    "artist": "utzbo VS ルゼ BGA:Nao_AnD & Chiru obj:IBARAGI_YOSHIMI",
+    "folder": "LEVELst4",
+    "level": "st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "76f588cd349e759c89cf28a4adc35b2b",
+      "1462255863fea6d2803df89092cc525e",
+      "7bf5864a60973c4315843b004d9c58f5",
+      "c63732044049ce31d2d072a8c6339c18",
+      "6bc988a597e7aeeff16c2a1645f1a1a0",
+      "d9a922ac73737db56ebdd9e6b5eab87b",
+      "6776cda98a82c269417851e74528bf35",
+      "8741523c4d3496e75a7ea82988860bc1",
+      "0c8c63eb3356ee40e31fe7325219273c",
+      "bb7c5f69d048ad44bf9c4463169c198b",
+      "ea6966b76ba740cc505caeb5a68d9331",
+      "dee951e530b738c24c893b335d4bae98"
+    ],
+    "org_md5": "76f588cd349e759c89cf28a4adc35b2b",
+    "comment": "",
+    "adddate": "2026-11-21T11:32:56.0884289"
+  },
+  {
     "md5": "8b312d3e85bbae454ba7c5bd76cbe706",
     "sha256": null,
     "org_level": 23.0,
@@ -7463,6 +7575,31 @@
     "adddate": "2023-10-30T00:00:00.0000000"
   },
   {
+    "md5": "bf349bda6cd6ed437320dbb0564d7fa2",
+    "sha256": "77f204a21ec2ff38e7e59f4a893eb76d756831ac6388b5a529c3e747ba04cdbc",
+    "org_level": 24.0,
+    "title": "GEN-χ feat. 重音テト [Take-Me-Higher]",
+    "artist": "∀S∀ obj:ugd",
+    "folder": "LEVELst4",
+    "level": "st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1051e68e328fbb43d9192a15cd4b8e67",
+      "2429cc2e803d1541a3393bbea545c7d4",
+      "3bfa4b2b22b8770b9be15e8add147a5e",
+      "f70370d1f625480b376a5083bc4c1768",
+      "2fb2550b500c44ac6fc64f982c7f48ae",
+      "0585369c155b160b52d80c88c7e2a4c6",
+      "bf349bda6cd6ed437320dbb0564d7fa2"
+    ],
+    "org_md5": "1051e68e328fbb43d9192a15cd4b8e67",
+    "comment": "",
+    "adddate": "2026-11-21T09:46:47.1638730"
+  },
+  {
     "md5": "48efadb5f5b683eb542045ac2fc43558",
     "sha256": null,
     "org_level": 4.0,
@@ -7720,6 +7857,36 @@
     "org_md5": "",
     "comment": "BMSバトル漫画第56話 Lidelle 対 黒皇帝",
     "adddate": "2023-10-30T00:00:00.0000000"
+  },
+  {
+    "md5": "0ab49d54ac3307fa8e66ed35c38ecd6d",
+    "sha256": "ff66ea1bb5da6269ac4f2adcb41a952424e2e0e66b5a1c3af626a595644094c1",
+    "org_level": 24.0,
+    "title": "Planet Rave [PotatonE]",
+    "artist": "litmus* obj:E vs potechang",
+    "folder": "LEVELst4",
+    "level": "st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d4f095f597737c35ac3ac79f8a036016",
+      "0d8416db390f9846cd2b59e648246981",
+      "e21228ae7b1ca4a3625cfd906ecec212",
+      "cbdd1c3e2408ce49c3c8f7cb65891238",
+      "5a2830f4a1fb28abed016d6c4a4ce2f2",
+      "4de4faccd353d958bb369c1abb8da955",
+      "712de0ef8ee9e3f08a2b9bb7247fa69b",
+      "26cbfe86cfce8511585e97c600cc1ee9",
+      "259bf2988ea55c9448501d8cab77aa89",
+      "2a85424994ffe74c0b3eaa110a18c8f9",
+      "192196e9dc5fe6d9ee0a9d78e1f4a745",
+      "0ab49d54ac3307fa8e66ed35c38ecd6d"
+    ],
+    "org_md5": "d4f095f597737c35ac3ac79f8a036016",
+    "comment": "",
+    "adddate": "2026-11-21T09:47:38.2651244"
   },
   {
     "md5": "18a8109ae8f65222ab57570abcfae1b2",
@@ -8235,6 +8402,28 @@
     "org_md5": "b53b5ff5e6f289d83c582f9cc514ce3a",
     "comment": "",
     "adddate": "2026-11-17T09:00:48.6214594"
+  },
+  {
+    "md5": "9cd8388e43cf33314fb48e005ab267f7",
+    "sha256": "e029e8829118f879c87a31f30e607e95560ea7e5c0b76068357ae61350f37060",
+    "org_level": 24.0,
+    "title": "逃げるな！マスター -これは「乱打」です。-",
+    "artist": "litmus* ft. 初音ミク&重音テト&可不 obj:IBARAGI_YOSHIMI",
+    "folder": "LEVELst4",
+    "level": "st4",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1ea153c4cbcd44a16b637c78abb7dd80",
+      "0d7c2f74d8856463b19493d2c282c124",
+      "b3a0d329d7f52f5e96d4972bf6b92242",
+      "9cd8388e43cf33314fb48e005ab267f7"
+    ],
+    "org_md5": "1ea153c4cbcd44a16b637c78abb7dd80",
+    "comment": "",
+    "adddate": "2026-11-21T11:33:05.3465178"
   },
   {
     "md5": "77b284df71745b66f94e71db50961b3b",
@@ -9062,6 +9251,28 @@
     "adddate": "2023-10-30T00:00:00.0000000"
   },
   {
+    "md5": "205499b7687552afcc58541d017ade2b",
+    "sha256": "6b757eae04488acad4855f538e1c76d5b018a11d81104b3bcec057ceac835cad",
+    "org_level": 25.0,
+    "title": "MINUS-INFINITY [EARTH POWER]",
+    "artist": "P4koo obj:IBARAGI_YOSHIMI",
+    "folder": "LEVELst5",
+    "level": "st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "205499b7687552afcc58541d017ade2b",
+      "cee6929f32ad59b634aa54dc9daa61ac",
+      "45dead9120a96e9b2d64e49723f3836a",
+      "5cc95d9f02088af7c5695633fb10b211"
+    ],
+    "org_md5": "205499b7687552afcc58541d017ade2b",
+    "comment": "",
+    "adddate": "2026-11-21T11:33:37.3778290"
+  },
+  {
     "md5": "4190b95871d7affad2f11a3b0ce957d6",
     "sha256": null,
     "org_level": 24.0,
@@ -9452,6 +9663,30 @@
     "org_md5": "",
     "comment": "st5 ちょっとラス殺しがあります",
     "adddate": "2023-10-30T00:00:00.0000000"
+  },
+  {
+    "md5": "9cae51d9c122235520849f1237914bf2",
+    "sha256": "1329f22c89c2f1003261e5b87c059a50b71574dbe9774f16dc383c80e6f26c09",
+    "org_level": 0.0,
+    "title": "Top Gear [バトルチャリオット]",
+    "artist": "DOANOB / obj:リック",
+    "folder": "LEVELst5",
+    "level": "st5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ad8f4115bd9b8901e4d20819a16c24ef",
+      "f4bf595af9c9bbe9475f259d78ec6b4a",
+      "79534397dd22081112b8fbdfc1f44fce",
+      "2dabba43a20cd1fc529aea9cbdb4e90c",
+      "f4f27c351a0199bc71fcccdabbf28ac9",
+      "9cae51d9c122235520849f1237914bf2"
+    ],
+    "org_md5": "ad8f4115bd9b8901e4d20819a16c24ef",
+    "comment": "",
+    "adddate": "2026-11-21T09:56:28.4513155"
   },
   {
     "md5": "daf577f25dbc5e27d52e8f134ae3ed4d",
@@ -10530,6 +10765,30 @@
     "adddate": "2026-11-17T08:54:41.3568850"
   },
   {
+    "md5": "f0613e90824cdc93cac2d8cfb61c7061",
+    "sha256": "0e37e2bd9d54af95f021235a72d8e76d43fcc042a0a32553fa3905b5b4b75a6d",
+    "org_level": 0.0,
+    "title": "Venefica [POISONFUL]",
+    "artist": "oven-cat / obj:Criyajuh",
+    "folder": "LEVELst6",
+    "level": "st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "bc0e8e450514d6bf9897d679811c4c0a",
+      "9ef72f8ceac82471ccc8a0c286486934",
+      "4240667d2356ded9bd245c94f86f636e",
+      "5e243ab72fd59aa29c436784340417c1",
+      "2a0d22ffcc39255f47d3cccef431e64f",
+      "f0613e90824cdc93cac2d8cfb61c7061"
+    ],
+    "org_md5": "bc0e8e450514d6bf9897d679811c4c0a",
+    "comment": "",
+    "adddate": "2026-11-21T09:56:38.4598858"
+  },
+  {
     "md5": "558d8ae0380a67ee1c7b8f13770983b8",
     "sha256": null,
     "org_level": 6.0,
@@ -10722,6 +10981,30 @@
     "adddate": "2023-10-30T00:00:00.0000000"
   },
   {
+    "md5": "2e90b002adb42088b01ea5a29baf26ee",
+    "sha256": "5790a7ddeafecdcdf537e841b91818c1616e42e9860b32808206717a468d3d15",
+    "org_level": 24.0,
+    "title": "マジックスペル [Lovely]",
+    "artist": "きこにゃん feat.芽羽みなせ BGA:らりる obj:potechang",
+    "folder": "LEVELst6",
+    "level": "st6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4761e5bdde82fdeb539bcdc37f8638c4",
+      "b99a7dcd111c84a5ab6f989da81e3fa6",
+      "a7b7f62afcba08214a4d592b15a1e29c",
+      "439370301ac77307290b6d8afded2e93",
+      "e74ed7ae730038748cef0cdbe419a0bc",
+      "2e90b002adb42088b01ea5a29baf26ee"
+    ],
+    "org_md5": "4761e5bdde82fdeb539bcdc37f8638c4",
+    "comment": "",
+    "adddate": "2026-11-21T09:57:00.9891424"
+  },
+  {
     "md5": "05e493cef2ff307aba146c8cb3be8ddd",
     "sha256": null,
     "org_level": 6.0,
@@ -10848,6 +11131,32 @@
     "org_md5": "",
     "comment": "ディレイ",
     "adddate": "2023-10-30T00:00:00.0000000"
+  },
+  {
+    "md5": "d8289b9cb83ebea2c5fc6227d9169e3e",
+    "sha256": "08d9e364bd95644b37d4a532c0ed55a77fb364d5c10bac0f6952909b8a5f15b8",
+    "org_level": 25.0,
+    "title": "Aeropolis [Training]",
+    "artist": "ビタミンc obj:IBARAGI_YOSHIMI",
+    "folder": "LEVELst7",
+    "level": "st7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a6ca5be5a8800c04997a9a3def57d384",
+      "e962f7cb447ec3a902fe4e27dbab65f5",
+      "0a8f712b93d329cc784c54480a1de985",
+      "7fd85f9b75a28613cdfd6dea9831832a",
+      "105b8393d287bb4941ade0826e7a2f73",
+      "c2c7e195aadbc3e30f93805ea40a1c98",
+      "6d291bef4351010407e3e469ca8f7646",
+      "d8289b9cb83ebea2c5fc6227d9169e3e"
+    ],
+    "org_md5": "a6ca5be5a8800c04997a9a3def57d384",
+    "comment": "",
+    "adddate": "2026-11-21T11:34:58.0868794"
   },
   {
     "md5": "5a5cb7566f6415c9a8aeaa496df03f00",
@@ -11138,6 +11447,30 @@
     "adddate": "2023-10-30T00:00:00.0000000"
   },
   {
+    "md5": "18c58a17968b1c9fe1986f89ee3a0112",
+    "sha256": "4a1755f71763ff0441fb25cbaef4e3dc36d8ba20e5b06db298390a89c013da45",
+    "org_level": 25.0,
+    "title": "ReLieX [Another Dimensions]",
+    "artist": "Aureus obj&arr:IBARAGI_YOSHIMI",
+    "folder": "LEVELst7",
+    "level": "st7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "092e6ac6af55a15468dfe005d3af0686",
+      "7f3cd4f9c0377fae3e22a9a965396e0f",
+      "6be5d7b79d1d5367012211c139234946",
+      "18c58a17968b1c9fe1986f89ee3a0112",
+      "c9b2404137e0e7ed661da1df98d45d05",
+      "7d09ba9e93c355260655267ca0127e3c"
+    ],
+    "org_md5": "092e6ac6af55a15468dfe005d3af0686",
+    "comment": "",
+    "adddate": "2026-11-21T11:33:12.4916183"
+  },
+  {
     "md5": "45681e84e18abc0b7056db209a694309",
     "sha256": null,
     "org_level": 7.0,
@@ -11239,6 +11572,30 @@
     "org_md5": "",
     "comment": "物量　ディレイ発狂",
     "adddate": "2023-10-30T00:00:00.0000000"
+  },
+  {
+    "md5": "8395ee58d22ffbbf76ffb9abf5d513eb",
+    "sha256": "1b7af46d223b179fe3438c6283dada5ddcebeeb92d40f16af425be6d79755343",
+    "org_level": 25.0,
+    "title": "vermin flavor [Intense]",
+    "artist": "かたぎり BGA: 2_i obj:potechang",
+    "folder": "LEVELst7",
+    "level": "st7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "771d0a669df2527020c80f823f5fd12f",
+      "af676f2a885aaf77dd9f0dc423079180",
+      "b53596a609a254391d927f4c1f91ad12",
+      "04ee4de3ab53a30cdb3cbde6afa453b9",
+      "8395ee58d22ffbbf76ffb9abf5d513eb",
+      "9ecbba6628c3d7c74f087dff541bbecb"
+    ],
+    "org_md5": "771d0a669df2527020c80f823f5fd12f",
+    "comment": "",
+    "adddate": "2026-11-21T09:54:36.2930269"
   },
   {
     "md5": "5387b0479ac825cd34be52fec90e3b31",
@@ -11367,6 +11724,30 @@
     "adddate": "2023-10-30T00:00:00.0000000"
   },
   {
+    "md5": "7bd75750270f2f492ebba085912580a2",
+    "sha256": "7e7e222fd2d015a748436e41963d5a06def8cb4999ac1d1f8dce97577e8adc37",
+    "org_level": 25.0,
+    "title": "玲瓏スペクトラ [双影]",
+    "artist": "Shugo Sekine feat.ゆきまめ BGA:KeiuO Illust:あの子 obj:kurekoduki vs potechang",
+    "folder": "LEVELst7",
+    "level": "st7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "27ba3690ed1e5c41d0e7ba54eafa1904",
+      "dc602118da090b021c9cfbe6eb0ac32b",
+      "1b82c717e7fdc8a1ca77384fd0dd7e7e",
+      "fff964758a4f11857f64601315851d41",
+      "95bf9d65a3aceab6a440436478c1e35b",
+      "7bd75750270f2f492ebba085912580a2"
+    ],
+    "org_md5": "27ba3690ed1e5c41d0e7ba54eafa1904",
+    "comment": "",
+    "adddate": "2026-11-21T09:55:17.6951366"
+  },
+  {
     "md5": "43ab136a3f93b4a43aa3f49a8fee0188",
     "sha256": null,
     "org_level": 8.0,
@@ -11399,6 +11780,31 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023-10-30T00:00:00.0000000"
+  },
+  {
+    "md5": "4801de9e93dccbb0667424e3f4ecbaa1",
+    "sha256": "c2047c66551257206f0bcf69f570c9dcd59688e798291b08566605e87f3434aa",
+    "org_level": 25.0,
+    "title": "BipoluX [Ain't too proud to rely on!]",
+    "artist": "NanaSaku vs Saku Nanase obj:IBARAGI_YOSHIMI",
+    "folder": "LEVELst8",
+    "level": "st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "1e01309e9c53929bd1d6ae2bfd2e6eca",
+      "0e6c2439eaf04939304be6df0e329ab0",
+      "17223f3856f3d914d7a27f6ac1a1fd99",
+      "ab56b2ee03466d7c2e32ffa4388fc46b",
+      "44102da5899bdf2b4a324ee1c3060a9f",
+      "89055b8e36e9ca7aaf987692530a2341",
+      "4801de9e93dccbb0667424e3f4ecbaa1"
+    ],
+    "org_md5": "1e01309e9c53929bd1d6ae2bfd2e6eca",
+    "comment": "",
+    "adddate": "2026-11-21T09:49:12.7862831"
   },
   {
     "md5": "c65d0badebb7738e350022a59a1f0637",
@@ -11620,6 +12026,37 @@
     "adddate": "2026-11-17T09:24:16.0551507"
   },
   {
+    "md5": "1b9121205f13b5f58da0608fd74d3404",
+    "sha256": "e4a52b8fbcfb2dca3af564702c80facd259ad12c7a9cad7112dc033f9875a296",
+    "org_level": 25.0,
+    "title": "SYNC [ANTHEM]",
+    "artist": "Kaede Hiyama BGA: 愛風×Lalot. / obj: IBARAGI_YOSHIMI",
+    "folder": "LEVELst8",
+    "level": "st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "7fddc3f6781ea3f8092c92ba39ab0fc7",
+      "6d97b7600e47d124e70a9c81d79b6944",
+      "474f1008487415ebdbdb441fd811dd9e",
+      "361094789ef5ad2c93b4d2c28fde696c",
+      "37d787204784756f71f47216db3b13b4",
+      "e0be055bef93620ce99a9d6fb1435894",
+      "074df796bbab992af28c4c2b220be98f",
+      "a58891f55d99c458273ddc1485eef533",
+      "e9c33468207b0ef192a4c91f758a516f",
+      "9dec33a6e1754331ba6d435d270f8c5d",
+      "24f19e2de28733a177aa5e6dc8e8fdda",
+      "1b9121205f13b5f58da0608fd74d3404",
+      "d034e9a25aa37c68bc18feb5435a0dcd"
+    ],
+    "org_md5": "7fddc3f6781ea3f8092c92ba39ab0fc7",
+    "comment": "",
+    "adddate": "2026-11-21T09:56:16.3055237"
+  },
+  {
     "md5": "655052be72cdca0efda4c89041c056e3",
     "sha256": null,
     "org_level": 8.0,
@@ -11635,6 +12072,33 @@
     "org_md5": "",
     "comment": "",
     "adddate": "2023-10-30T00:00:00.0000000"
+  },
+  {
+    "md5": "ec8a20d24c76b387aa6a3f34ad14e512",
+    "sha256": "e8ac88d9745df4545eb4bf7fdb20737646c9bc7e7a2651cc3096834efe36f308",
+    "org_level": 25.0,
+    "title": "Ultravelers!!! [Iridescent Memories]",
+    "artist": "otoshi.b & kooridori BGA:ShakeJ obj:BAECON",
+    "folder": "LEVELst8",
+    "level": "st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4aee1908e3e83c2ecc29bd97641870bc",
+      "3119a6c440e6f26625f9cb16c22dbcec",
+      "ec8a20d24c76b387aa6a3f34ad14e512",
+      "7a5bcf636dd5233a9e12f6d87b171856",
+      "5324bd6133c250cd780355ebd096fd9d",
+      "6e62817324d1069d3f950c91c45fb8ca",
+      "0386080bec4cea1b0f011c84281670bd",
+      "837da531b438653189c9d049dfeb06d3",
+      "e3e8aa27f28fdb17dafb6209f4766ce2"
+    ],
+    "org_md5": "4aee1908e3e83c2ecc29bd97641870bc",
+    "comment": "",
+    "adddate": "2026-11-21T09:46:01.6378038"
   },
   {
     "md5": "5c1f65b660225957466d4b435065e5f4",
@@ -11733,6 +12197,29 @@
     "org_md5": "06b90bd7772735f3e052760acdc57335",
     "comment": "",
     "adddate": "2026-11-17T08:53:13.9929568"
+  },
+  {
+    "md5": "995e999f21130ea4919cd9a4933f5dc0",
+    "sha256": "9d82f93f6bfabbbe99cd606576dcd4bb9ceecc651dada13389b97bb7efe9f3ff",
+    "org_level": 25.0,
+    "title": "βMatriX [Ain't too proud to rely on!]",
+    "artist": "Nuekawa obj:IBARAGI_YOSHIMI",
+    "folder": "LEVELst8",
+    "level": "st8",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ac21ff8d3684aafe51fa217d85f0521e",
+      "216a3dd08f06dd5e3f02a1898246055b",
+      "289ef67e71aa039cba4c2244e1ab12ca",
+      "995e999f21130ea4919cd9a4933f5dc0",
+      "e7b298306bb53466f810534ecf3c00c5"
+    ],
+    "org_md5": "ac21ff8d3684aafe51fa217d85f0521e",
+    "comment": "",
+    "adddate": "2026-11-21T09:54:59.9238584"
   },
   {
     "md5": "c4d544a3a580efe20778ebd5386e5514",
